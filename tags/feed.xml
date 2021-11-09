@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on La vista cansada</title><link>https://blog.carlesbellver.net/tags/</link><description>La vista cansada (Tags)</description><generator>Hugo -- gohugo.io</generator><language>ca-es</language><lastBuildDate>Tue, 09 Nov 2021 18:48:13 +0100</lastBuildDate><atom:link href="https://blog.carlesbellver.net/tags/feed.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on La vista cansada</title>
+    <link>https://blog.carlesbellver.net/tags/</link>
+    <description>La vista cansada (Tags)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-es</language>
+    <lastBuildDate>Tue, 09 Nov 2021 18:48:13 +0100</lastBuildDate>
+    
+    <atom:link href="https://blog.carlesbellver.net/tags/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
