@@ -47,7 +47,7 @@
 Archive:  2021-11-04-unicorns.png
 inflating: unicorns.txt
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP al final del PNG o JPEG i obtenir una mena de fitxer 2×1.&lt;/p&gt;
+&lt;p&gt;Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.&lt;/p&gt;
 &lt;p&gt;Més detalls tècnics ací 👉 &lt;a href=&#34;https://github.com/DavidBuchanan314/tweetable-polyglot-png&#34;&gt;tweetable-polyglot-png&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
