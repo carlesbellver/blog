@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
+				
+				"content_html": "<p>Castelló. Pont del <a href=\"/2019/08/18/it-was-hell.html\">segle XXI</a>.</p>\n<img alt=\"Cables d'acer del pont del Segle XXI, Castelló de la Plana\" src=\"/uploads/2021/2021-11-10-pont-segle-xxi.jpg\">",
+				"date_published": "2021-11-10T17:31:36+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/",
 				
 				"content_html": "<p>📎 <a href=\"https://moforgeries.org/?mc_cid=cf06f5ec38&amp;mc_eid=ba93faa1c4\">&ldquo;Possibly Real Copy Of &lsquo;Fairies&rsquo; by Andy Warhol&rdquo; BY MSCHF, 2021</a></p>\n<p>Museum of Forgeries: el museu de les falsificacions oferia la possibilitat d&rsquo;adquirir un original de Warhol per només 250 $, amb una probabilitat 1/1000. Una extrapolació de la loteria que, segurament, hauria complagut l&rsquo;artista.</p>\n<blockquote>\n<p><strong>1000 MSCHF ARTWORKS FOR SALE:</strong><br>\n<span style=\"border-bottom: 1px solid #990000;\">One original</span> Andy Warhol (worth $20K) mixed at random into a stack of 999 exact MSCHF <span style=\"border-bottom: 1px solid #990000;\">forgeries</span>.</p>\n</blockquote>\n<img src=\"https://moforgeries.org/images/fairies-sold.png\" />",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Gàrgola sufocada. Santa Maria de Morella. 35,9 ºC.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-08-15-31156.jpg\">\n",
 				"date_published": "2021-08-15T13:35:53+00:00",
 				"url": "https://blog.carlesbellver.net/2021/08/15/31193/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/08/11/caffeine/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up\">The invisible addiction: is it time to give up caffeine?</a></p>\n<blockquote>\n<p>Els psicòlegs cognitius parlen de vegades en termes de dos tipus de consciència diferents: la consciència de focus, que il·lumina un únic punt focal d’atenció, cosa que la fa molt bona per al raonament, i la consciència de llanterna, en què l’atenció està menys enfocada, però il·lumina un camp d’atenció més ampli. Els nens petits tendeixen a mostrar consciència de llanterna; també ho fan moltes persones mitjançant drogues psicodèliques. Aquesta forma d’atenció més difusa es presta a la ment errant, a la lliure associació i a la creació de noves connexions, que poden alimentar la creativitat. En comparació, la gran contribució de la cafeïna al progrés humà ha estat intensificar la consciència de focus: el processament cognitiu centrat, lineal, abstracte i eficient més relacionat amb el treball mental que el joc. Això, més que res, és el que va fer de la cafeïna la droga perfecta no només per l’època de la raó i la Il·lustració, sinó també per a l’auge del capitalisme.</p>\n</blockquote>\n",
-				"date_published": "2021-08-11T18:17:03+02:00",
-				"url": "https://blog.carlesbellver.net/2021/08/11/caffeine/"
 			}
 	]
 }

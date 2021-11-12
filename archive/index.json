@@ -6,6 +6,15 @@
 	"feed_url": "https://blog.carlesbellver.net/archive/index.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
+				"title": "",
+				"date_published": "2021-11-10T17:31:36+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
+				"tags": "fotos",
+				"photos": "/uploads/2021/2021-11-10-pont-segle-xxi.jpg",
+				"content_text": "Castelló. Pont del segle XXI.\n"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/",
 				"title": "",
 				"date_published": "2021-11-09T18:48:13+01:00",
