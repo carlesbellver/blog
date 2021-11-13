@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/13/confinament/",
+				
+				"content_html": "<p>Confinament estricte.</p>\n<img alt=\"Portes d'una botiga i d'una casa a mig paredar.\" src=\"/uploads/2021/2021-11-13-confinament.jpg\">\n",
+				"date_published": "2021-11-13T17:32:42+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/13/confinament/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
 				
 				"content_html": "<p>Castelló. Pont del <a href=\"/2019/08/18/it-was-hell.html\">segle XXI</a>.</p>\n<img alt=\"Cables d'acer del pont del Segle XXI, Castelló de la Plana\" src=\"/uploads/2021/2021-11-10-pont-segle-xxi.jpg\">",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Moltes vegades que entre a Twitter acabe pensant que més gent hauria de llegir <a href=\"https://futurecrunch.com/\">Future Crunch</a>, &ldquo;bones notícies d&rsquo;arreu del món&rdquo;, recollides i redactades des d&rsquo;un punt de vista científic i tècnic &ldquo;en un esforç per contrarestar el bombardeig continuat de mort i destrucció les 24 hores des de mitjans tradicionals i xarxes socials&rdquo;.</p>\n",
 				"date_published": "2021-08-20T10:56:40+02:00",
 				"url": "https://blog.carlesbellver.net/2021/08/20/futurecrunch/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/08/15/31193/",
-				
-				"content_html": "<p>Gàrgola sufocada. Santa Maria de Morella. 35,9 ºC.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-08-15-31156.jpg\">\n",
-				"date_published": "2021-08-15T13:35:53+00:00",
-				"url": "https://blog.carlesbellver.net/2021/08/15/31193/"
 			}
 	]
 }

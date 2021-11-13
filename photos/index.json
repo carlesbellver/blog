@@ -6,6 +6,14 @@
 	"feed_url": "https://blog.carlesbellver.net/photos/index.json",
 	"items": [
   			{
+	  			"id": "https://blog.carlesbellver.net/2021/11/13/confinament/",
+		  		"title": "",
+			  	"date_published": "2021-11-13T17:32:42+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/11/13/confinament/",
+				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-11-13-confinament.jpg",
+				  "content_text": "Confinament estricte.\n"
+        },
+  			{
 	  			"id": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
 		  		"title": "",
 			  	"date_published": "2021-11-10T17:31:36+01:00",

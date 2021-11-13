@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Castelló on La vista cansada</title>
+    <link>https://blog.carlesbellver.net/tags/castell%C3%B3/</link>
+    <description>La vista cansada (Castelló)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-es</language>
+    <lastBuildDate>Sat, 13 Nov 2021 17:32:42 +0100</lastBuildDate>
+    
+    <atom:link href="https://blog.carlesbellver.net/tags/castell%C3%B3/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/11/13/confinament/</link>
+      <pubDate>Sat, 13 Nov 2021 17:32:42 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/11/13/confinament/</guid>
+      <description>&lt;p&gt;Confinament estricte.&lt;/p&gt;
+&lt;img alt=&#34;Portes d&#39;una botiga i d&#39;una casa a mig paredar.&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-13-confinament.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/</link>
+      <pubDate>Wed, 10 Nov 2021 17:31:36 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/</guid>
+      <description>&lt;p&gt;Castelló. Pont del &lt;a href=&#34;https://blog.carlesbellver.net/2019/08/18/it-was-hell.html&#34;&gt;segle XXI&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt=&#34;Cables d&#39;acer del pont del Segle XXI, Castelló de la Plana&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-10-pont-segle-xxi.jpg&#34;&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
