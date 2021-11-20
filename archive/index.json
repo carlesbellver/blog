@@ -6,6 +6,24 @@
 	"feed_url": "https://blog.carlesbellver.net/archive/index.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/20/dogphone/",
+				"title": "",
+				"date_published": "2021-11-20T12:34:01+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/20/dogphone/",
+				"tags": "retalls",
+				"photos": "",
+				"content_text": "📎 DogPhone Lets Pets Ring Their Owners\nUna investigació candidata a l'Ig Nobel?\n ”El gos em va telefonar, però no feia cas de la trucada, estava més interessat en les coses que tenia al jaç.”\n "
+			},
+			{
+				"id": "https://blog.carlesbellver.net/2021/11/20/bon-dia/",
+				"title": "",
+				"date_published": "2021-11-20T08:30:25+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/20/bon-dia/",
+				"tags": "fotos, Castelló",
+				"photos": "/uploads/2021/2021-11-20-bon-dia.jpg",
+				"content_text": "Bon dia.\n"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/13/confinament/",
 				"title": "",
 				"date_published": "2021-11-13T17:32:42+01:00",
@@ -4593,7 +4611,7 @@
 				"url": "https://blog.carlesbellver.net/2018/11/22/an-artist-bought.html",
 				"tags": "retalls",
 				"photos": "",
-				"content_text": "📎 An artist bought a Banksy piece just so he could destroy it\nRon English va comprar Slave Labor. Aerosol sobre formigó, emmarcat en fusta corrent: una imatge d’un nen inclinat sobre una màquina de cosir, manufacturant banderes britàniques. El seu pla és cobrir-lo amb una capa blanca a fi de protestar pel robatori i la mercantilització de l\u0026rsquo;art de carrer. Però pensa revendre\u0026rsquo;l: \u0026ldquo;Per descomptat, vendré la pintura emblanquinada per un milió de dòlars. Estic boig, però no sóc estúpid ”.\n"
+				"content_text": "📎 An artist bought a Banksy piece just so he could destroy it\nRon English va comprar Slave Labor. Aerosol sobre formigó, emmarcat en fusta corrent: una imatge d’un nen inclinat sobre una màquina de cosir, manufacturant banderes britàniques. El seu pla és cobrir-lo amb una capa blanca a fi de protestar pel robatori i la mercantilització de l\u0026rsquo;art de carrer. Però pensa revendre\u0026rsquo;l.\n Per descomptat, vendré la pintura emblanquinada per un milió de dòlars. Estic boig, però no sóc estúpid.\n "
 			},
 			{
 				"id": "https://blog.carlesbellver.net/2018/11/21/la-presncia-del.html",

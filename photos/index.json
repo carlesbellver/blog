@@ -6,6 +6,14 @@
 	"feed_url": "https://blog.carlesbellver.net/photos/index.json",
 	"items": [
   			{
+	  			"id": "https://blog.carlesbellver.net/2021/11/20/bon-dia/",
+		  		"title": "",
+			  	"date_published": "2021-11-20T08:30:25+01:00",
+				  "url": "https://blog.carlesbellver.net/2021/11/20/bon-dia/",
+				  "image": "https://blog.carlesbellver.net/uploads/2021/2021-11-20-bon-dia.jpg",
+				  "content_text": "Bon dia.\n"
+        },
+  			{
 	  			"id": "https://blog.carlesbellver.net/2021/11/13/confinament/",
 		  		"title": "",
 			  	"date_published": "2021-11-13T17:32:42+01:00",
