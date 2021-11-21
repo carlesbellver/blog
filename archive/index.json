@@ -6,6 +6,15 @@
 	"feed_url": "https://blog.carlesbellver.net/archive/index.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/21/social-studies-computing/",
+				"title": "Recull bibliogràfic d'aquesta setmana",
+				"date_published": "2021-11-21T16:49:59+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/21/social-studies-computing/",
+				"tags": "",
+				"photos": "",
+				"content_text": " “L’eficàcia ontològica dels models de dades: de quines maneres la informàtica pot crear realitats” “El concepte de product ownership com a estratègia de socialització del sofriment en la governança TI” “El cicle de vida dels sistemes d’informació. Complexitat (quasi) infinita i el tesseracte com a metàfora.” “Tractar els usuaris com a clients: CRM i avantatges pràctics d’aquest enfocament sadomasoquista des de la psicoanàlisi interpersonal” “Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans” “De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”  Selecció de comunicacions presentades en el Segon Congrés d\u0026rsquo;Estudis Socials de la Computació (2021). Títols traduïts per mi.\n"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/20/dogphone/",
 				"title": "",
 				"date_published": "2021-11-20T12:34:01+01:00",
