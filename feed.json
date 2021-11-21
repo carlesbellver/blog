@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/21/evolution-intelligent-life/",
+				
+				"content_html": "<p>📎 <a href=\"https://singularityhub.com/2021/11/21/evolution-tells-us-we-might-be-the-only-intelligent-life-in-the-universe/\">Evolution Tells Us We Might Be the Only Intelligent Life in the Universe</a></p>\n<blockquote>\n<p>Diferents <a href=\"https://ca.wikipedia.org/wiki/Eumetazous\">eumetazous</a> van desenvolupar solucions evolutives semblants davant de problemes semblants, però el disseny corporal complex que les fa possibles és únic. Els animals complexos van evolucionar una vegada en la història de la vida, la qual cosa suggereix que són improbables. Sorprenentment, molts esdeveniments crítics en la nostra història evolutiva són únics i, probablement, improbables.</p>\n</blockquote>\n",
+				"date_published": "2021-11-21T19:32:38+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/21/evolution-intelligent-life/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/21/social-studies-computing/",
 				"title": "Recull bibliogràfic d’aquesta setmana",
 				"content_html": "<ol>\n<li>“L’eficàcia ontològica dels models de dades: de quines maneres la informàtica pot crear realitats”</li>\n<li>“El concepte de <em>product ownership</em> com a estratègia de socialització del sofriment en la governança TI”</li>\n<li>“El cicle de vida dels sistemes d’informació. Complexitat (quasi) infinita i el tesseracte com a metàfora.”</li>\n<li>“Tractar els usuaris com a clients: CRM i avantatges pràctics d’aquest enfocament sadomasoquista des de la psicoanàlisi interpersonal”</li>\n<li>“Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans”</li>\n<li>“De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”</li>\n</ol>\n<p>Selecció de comunicacions presentades en el Segon Congrés d&rsquo;Estudis Socials de la Computació (2021). Títols traduïts per mi.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Fan campanyes de foment de la lectura perquè volen <em>vendre</em> llibres. Però els molesta que la gent vulga escriure i sempre se n&rsquo;estan queixant, perquè això els dona feina —i els la complica. Estranys companys de viatge, els editors!</p>\n<blockquote>\n<p>Hi ha una pau meravellosa en no publicar.</p>\n</blockquote>\n<p>—<a href=\"/2018/04/17/the-new-york.html\">J. D. Salinger, 1974</a>.</p>\n",
 				"date_published": "2021-08-24T12:53:14+02:00",
 				"url": "https://blog.carlesbellver.net/2021/08/24/companys-de-viatge/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/08/23/wikipedia-gender-bias/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.cbc.ca/news/science/wikipedia-bias-1.6129073\">Canadian Nobel scientist&rsquo;s deletion from Wikipedia points to wider bias, study finds</a></p>\n<blockquote>\n<p>Un estudi de la sociòloga nord-americana Francesca Tripodi mostra que els editors voluntaris de la Wikipedia proposen l&rsquo;eliminació de pàgines referents a dones en una proporció superior a les pàgines sobre homes. Ha comprovat que les dones només representen el 19% de totes les pàgines, però sumen una quarta part de les recomanacions de supressió de pàgines.</p>\n<p>Un exemple ben conegut és el que va passar amb la científica canadenca Donna Strickland, que no apareixia a la Wikipedia immediatament després de guanyar el premi Nobel de física el 2018.</p>\n</blockquote>\n<p>El cas és que Strickland sí que havia tingut una pàgina a la Wikipedia, però havia estat esborrada. L&rsquo;explicació habitual en aquests casos és que els editors de la Wikipedia exigeixen que el tema sigui rellevant i que les dades es puguin verificar en publicacions independents i fiables: llibres i articles de premsa, per exemple. El problema, diuen, és que es troben menys publicacions sobre dones. El peix que es mossega la cua, doncs. Resulta, però, difícil de creure que algú no la considerés rellevant i que no hi haguessin prou referències disponibles, atès el currículum previ de <a href=\"https://en.wikipedia.org/wiki/Donna_Strickland\">Donna Strickland</a>.</p>\n<p>Potser el problema és que la gran majoria d&rsquo;editors de la Wikipedia són homes? Fins al 90% del total de col·laboradors, segons un informe de 2018. I segurament hi ha altres biaixos. Al cap i la fi, estem parlant de comunitats d&rsquo;editors, configurades de manera contingent i amb les típiques dinàmiques de grup i de <a href=\"https://en.wikipedia.org/wiki/Groupthink\">pensament de grup</a>.</p>\n",
-				"date_published": "2021-08-23T22:41:03+02:00",
-				"url": "https://blog.carlesbellver.net/2021/08/23/wikipedia-gender-bias/"
 			}
 	]
 }
