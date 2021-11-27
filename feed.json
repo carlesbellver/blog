@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/27/paella/",
+				"title": "En el futur res serà paella",
+				"content_html": "<p>🥘 Per tal de preservar la puresa de la gastronomia valenciana, i previndre possibles desviacions, per minúscules que siguen o difícils de detectar, propose que no es puga considerar paella cap plat cuinat en cap local de restauració, domicili particular, a l’aire lliure, o enlloc.</p>\n",
+				"date_published": "2021-11-27T09:25:25+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/27/paella/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/25/53487/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators\">Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators</a></p>\n<blockquote>\n<p>El consum energètic de la mineria de Bitcoin a Suècia equival a hores d&rsquo;ara al de 200.000 llars… En una carta oberta, els directors dels principals reguladors financers i mediambientals suecs van demanar que es prohibís a tota l&rsquo;UE la mineria de criptomonedes basada en prova de treball, que Suècia impedís noves operacions de mineria criptogràfica i que les empreses que comercialitzen i inverteixen en actius criptogràfics no puguin descriure les seves activitats empresarials com a ambientalment sostenibles.</p>\n</blockquote>\n<p>📎 <a href=\"https://hardware.slashdot.org/story/21/11/19/210228/texas-plans-to-become-the-bitcoin-capital-vulnerable-power-grid-and-all\">Texas Plans To Become the Bitcoin Capital, Vulnerable Power Grid and All</a></p>\n<blockquote>\n<p>Texas, que ja alberga la xarxa elèctrica més vulnerable dels Estats Units, està a punt de patir un augment de la demanda d&rsquo;electricitat que seria el doble de la d&rsquo;Austin. Es preveu que un exèrcit de miners de criptomoneda, atrets per l&rsquo;energia barata i la regulació <em>laissez-faire</em>  d&rsquo;aquest estat, augmenti la demanda fins a 5.000 megawatts durant els propers dos anys.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Àsia comença a l&rsquo;avinguda d&rsquo;Alcora.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-09-15-asia.jpg\">\n",
 				"date_published": "2021-09-15T19:14:39+02:00",
 				"url": "https://blog.carlesbellver.net/2021/09/15/asia/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/08/28/vacances/",
-				
-				"content_html": "<p>Les vacances.</p>\n<img alt=\"Passeig de l'Albereda. Morella\" src=\"/uploads/2021/2021-08-28-vacances.jpg\">\n",
-				"date_published": "2021-08-28T15:03:39+02:00",
-				"url": "https://blog.carlesbellver.net/2021/08/28/vacances/"
 			}
 	]
 }
