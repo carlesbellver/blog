@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/11/29/97227/",
+				
+				"content_html": "<p>En companyia d&rsquo;ànecs.</p>\n",
+				"date_published": "2021-11-29T15:47:08+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/29/97227/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/11/27/paella/",
 				"title": "En el futur res serà paella 🥘",
 				"content_html": "<p>Per tal de preservar la puresa de la gastronomia valenciana, i previndre possibles desviacions, per minúscules que siguen o difícils de detectar, propose que no es puga considerar paella cap plat cuinat en cap local de restauració, domicili particular, a l’aire lliure, o enlloc.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81\">S&rsquo;ha mort Clive Sinclair</a>, inventor del ZX Spectrum amb què vaig aprendre a programar i amb què vaig guanyar els meus primers dinerets com a programador (ampliació del BASIC de l&rsquo;Spectrum, <em>Microhobby especial</em> núm. 4, octubre de 1986). I de l&rsquo;anterior ZX81 —MacGuffin i trava dels meus contes d'<a href=\"https://carlesbellver.net/contes/unicorns\">Unicorns</a>— entre més invents. DEP 😢</p>\n<img alt=\"\" src=\"/uploads/2021/2021-09-17-basic.jpg\">\n",
 				"date_published": "2021-09-17T09:30:00+02:00",
 				"url": "https://blog.carlesbellver.net/2021/09/17/clive-sinclair/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/09/15/asia/",
-				
-				"content_html": "<p>Àsia comença a l&rsquo;avinguda d&rsquo;Alcora.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-09-15-asia.jpg\">\n",
-				"date_published": "2021-09-15T19:14:39+02:00",
-				"url": "https://blog.carlesbellver.net/2021/09/15/asia/"
 			}
 	]
 }

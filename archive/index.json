@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/archive/index.json",
 	"items": [
 			{
+				"title": "",
+				"date_published": "2021-11-29T15:47:08+01:00",
+				"url": "https://blog.carlesbellver.net/2021/11/29/97227/",
+				"tags": "fotos",
+				"content_text": "En companyia d\u0026rsquo;ànecs.\n"
+			},
+			{
 				"title": "En el futur res serà paella 🥘",
 				"date_published": "2021-11-27T09:25:25+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/27/paella/",
