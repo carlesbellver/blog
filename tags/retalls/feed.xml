@@ -6,10 +6,24 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 05 Dec 2021 17:55:03 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Dec 2021 19:00:44 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/07/peritext/</link>
+      <pubDate>Tue, 07 Dec 2021 19:00:44 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/07/peritext/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.inkandswitch.com/peritext/&#34;&gt;Peritext: A CRDT for Rich-Text Collaboration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un algorisme per a l&amp;rsquo;edició col·laborativa &lt;em&gt;asíncrona&lt;/em&gt; de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&amp;rsquo;edició síncrona). &lt;a href=&#34;https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type&#34;&gt;CRDT&lt;/a&gt; = Conflict-free Replicated Data Type.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&amp;rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&amp;rsquo;ús.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       

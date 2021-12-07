@@ -7,6 +7,13 @@
 	"items": [
 			{
 				"title": "",
+				"date_published": "2021-12-07T19:00:44+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/07/peritext/",
+				"tags": "retalls",
+				"content_text": "📎 Peritext: A CRDT for Rich-Text Collaboration\nUn algorisme per a l\u0026rsquo;edició col·laborativa asíncrona de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l\u0026rsquo;edició síncrona). CRDT = Conflict-free Replicated Data Type.\n Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d\u0026rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d\u0026rsquo;ús.\n "
+			},
+			{
+				"title": "",
 				"date_published": "2021-12-05T17:55:03+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/05/web3/",
 				"tags": "retalls",
