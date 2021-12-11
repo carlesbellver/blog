@@ -6,14 +6,6 @@
 	"feed_url": "https://blog.carlesbellver.net/photos/index.json",
 	"items": [
   			{
-	  			"id": "https://blog.carlesbellver.net/2021/12/05/web3/",
-		  		"title": "",
-			  	"date_published": "2021-12-05T17:55:03+01:00",
-				  "url": "https://blog.carlesbellver.net/2021/12/05/web3/",
-				  ,
-				  "content_text": "📎 Keep the Web Free, Say No to Web3\nUna nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?\n"
-        },
-  			{
 	  			"id": "https://blog.carlesbellver.net/2021/11/29/97227/",
 		  		"title": "",
 			  	"date_published": "2021-11-29T15:47:08+01:00",
@@ -556,6 +548,14 @@
 				  "url": "https://blog.carlesbellver.net/2018/12/15/142024.html",
 				  "image": "https://blog.carlesbellver.net/wp-content/uploads/2018/12/33b0978138ba46d095c204f2d09766c3.jpg",
 				  "content_text": "Cap a l’hivern\n"
+        },
+  			{
+	  			"id": "https://blog.carlesbellver.net/2018/12/13/080231.html",
+		  		"title": "",
+			  	"date_published": "2018-12-13T07:02:31+00:00",
+				  "url": "https://blog.carlesbellver.net/2018/12/13/080231.html",
+				  "image": "https://blog.carlesbellver.net/wp-content/uploads/2018/12/0dc1a867717d40cbbfc41101bc695e05.jpg",
+				  "content_text": "Cinquanta-un\n"
         },
   			{
 	  			"id": "https://blog.carlesbellver.net/2018/11/28/184618.html",

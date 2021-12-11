@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/12/11/merkel/",
+				
+				"content_html": "<p>L&rsquo;austeritat que venia d&rsquo;Alemanya. Angela Merkel, 25.000 €/mes com a cancellera. A partir d&rsquo;ara, pensió de 15.000 €/mes, despatx al Bundestag amb nou persones al seu servei i cotxe oficial.</p>\n<p>📎 <a href=\"https://www.lavanguardia.com/internacional/20211210/7918906/que-hara-merkel.html\">¿Qué hará Merkel ahora?</a></p>\n",
+				"date_published": "2021-12-11T10:02:22+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/11/merkel/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/12/07/peritext/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.inkandswitch.com/peritext/\">Peritext: A CRDT for Rich-Text Collaboration</a></p>\n<p>Un algorisme per a l&rsquo;edició col·laborativa <em>asíncrona</em> de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&rsquo;edició síncrona). <a href=\"https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type\">CRDT</a> = Conflict-free Replicated Data Type.</p>\n<blockquote>\n<p>Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&rsquo;ús.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Imitació de la vida.</p>\n<img alt=\"Planta artificial\" src=\"/uploads/2021/2021-10-13-imitation-life.jpg\">\n",
 				"date_published": "2021-10-13T18:20:27+02:00",
 				"url": "https://blog.carlesbellver.net/2021/10/13/imitation-life/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/10/nobel-borges/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.eldiario.es/cultura/nobel-literatura-no-mejor-escritor-mundo_1_8374262.html\">¿Por qué (casi) nunca conocemos al Nobel de Literatura?</a></p>\n<blockquote>\n<p>…según reveló en 2018 el periódico sueco Svenska Dagbladet al desclasificar un informe de Academia realizado en la etapa en la que Borges fue nominado varias veces, el presidente del Comité del premio, Anders Osterling, rechazó a Borges porque resultaba &ldquo;demasiado exclusivo o artificial en su ingenioso arte en miniatura&rdquo;.</p>\n</blockquote>\n",
-				"date_published": "2021-10-10T10:41:31+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/10/nobel-borges/"
 			}
 	]
 }
