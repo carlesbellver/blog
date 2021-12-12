@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/12/12/93196/",
+				"title": "\u003eTITLE",
+				"content_html": "<p>L&rsquo;última ressaca 🎵</p>\n<img alt=\"\" src=\"/uploads/2021/2021-12-12-93196.jpg\">\n",
+				"date_published": "2021-12-12T08:13:17+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/12/93196/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/12/11/merkel/",
 				
 				"content_html": "<p>L&rsquo;austeritat que venia d&rsquo;Alemanya. Angela Merkel, 25.000 €/mes com a cancellera. A partir d&rsquo;ara, pensió de 15.000 €/mes, despatx al Bundestag amb nou persones al seu servei i cotxe oficial.</p>\n<p>📎 <a href=\"https://www.lavanguardia.com/internacional/20211210/7918906/que-hara-merkel.html\">¿Qué hará Merkel ahora?</a></p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Eixida #UJI</p>\n<img alt=\"Eixida ampliació Biblioteca UJI nivell 0\" src=\"/uploads/2021/2021-10-20-eixida.jpg\">\n",
 				"date_published": "2021-10-20T20:38:10+02:00",
 				"url": "https://blog.carlesbellver.net/2021/10/20/eixida/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/13/imitation-life/",
-				
-				"content_html": "<p>Imitació de la vida.</p>\n<img alt=\"Planta artificial\" src=\"/uploads/2021/2021-10-13-imitation-life.jpg\">\n",
-				"date_published": "2021-10-13T18:20:27+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/13/imitation-life/"
 			}
 	]
 }
