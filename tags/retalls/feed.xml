@@ -6,10 +6,39 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sat, 11 Dec 2021 10:02:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Dec 2021 19:28:53 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/19/oreilly-web3/</link>
+      <pubDate>Sun, 19 Dec 2021 19:28:53 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/19/oreilly-web3/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/&#34;&gt;Why it&amp;rsquo;s too early to get excited about Web3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tim O’Reilly, que va &lt;a href=&#34;https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html&#34;&gt;definir la Web 2.0&lt;/a&gt; fa setze anys, reflexiona una mica a contracor sobre aquest futur possible. S&amp;rsquo;assembla més a la bombolla de les punt com o a la bombolla financera? Quins punts de contacte té amb el món real o amb necessitats reals, si és que en té? Quina utilitat? Quan explotarà? Què en quedarà?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Els desenvolupadors de la cadena de blocs creuen que aquesta vegada han trobat una resposta estructural a la recentralització, però jo tendeixo a dubtar-ho. Una pregunta interessant que hom pot fer és quin podria ser el pròxim punt de centralització i control. La ràpida consolidació de la mineria de bitcoin en un nombre reduït de mans mitjançant la baixada dels costos energètics de la computació indica un tipus de recentralització. N&amp;rsquo;hi haurà d&amp;rsquo;altres.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/</link>
+      <pubDate>Sun, 19 Dec 2021 19:13:43 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.inkl.com/news/report-ubisoft-s-own-developers-are-concerned-about-its-nft-push&#34;&gt;Report: Ubisoft’s Own Developers Are Concerned About Its NFT Push&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comentaris filtrats dels programadors de l&amp;rsquo;empresa:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Encara no entenc quin és el ‘problema’ que estem resolent. Val la pena la publicitat (extremadament) negativa que açò provocarà?”&lt;/p&gt;
+&lt;p&gt;“Com podeu mirar la propietat privada, l&amp;rsquo;especulació, l&amp;rsquo;escassetat artificial i l&amp;rsquo;egoisme, i dir «sí, això és bo, ho volem, introduïm-ho en l&amp;rsquo;art»?”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       
@@ -3143,7 +3172,7 @@ No és sorprenent que el pas a l’educació en línia, facilitat per programes 
 &lt;blockquote&gt;
 &lt;p&gt;Començarem a interactuar amb aquestes coses com ho faríem amb un ésser humà, com si no passés res estrany. Perquè hi ha quelcom inherent a la ment humana que fa que desesperadament vulguem personificar-ho tot. Potser ja ho heu fet. A la meva família ho fem… I cadascú ho fem d&amp;rsquo;una manera diferent.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;La mare, ens diu l&amp;rsquo;autor, tracta els dispositius amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l&amp;rsquo;altra”. I la filla petita, bé, Alexa encara no l&amp;rsquo;entén.&lt;/p&gt;
+&lt;p&gt;La mare, ens diu l&amp;rsquo;autor, tracta els altaveus intel·ligents amb educació. El fill, com a esclaus. I ell, “a mitges entre una cosa i l&amp;rsquo;altra”. I la filla petita, bé, Alexa encara no l&amp;rsquo;entén.&lt;/p&gt;
 </description>
     </item>
     
