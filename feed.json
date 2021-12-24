@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2021/12/24/automatic-muse/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.roughtype.com/?p=9100\">The automatic muse</a></p>\n<p>Nicholas Carr defensa el potencial creatiu dels algoritmes de generació automàtica de text i els compara amb les sessions d&rsquo;espiritisme i escriptura automàtica de W. B. Yeats i Georgie Hyde Lees.</p>\n<blockquote>\n<p>Una manera de pensar les eines de generació de text basades en IA com el GPT-3 d&rsquo;OpenAI és com a clarividents. Són mèdiums que porten les paraules del passat al present en una nova disposició. Al cap i a la fi, GPT-3 no crea text del no-res. Es basa en un vast corpus d&rsquo;expressió humana i, a través d&rsquo;un procediment estadístic quasi místic (ningú pot explicar exactament què està fent), sintetitza totes aquelles paraules antigues en quelcom nou, quelcom intel·ligible per al seu interlocutor i que requereix interpretació. Quan parlem amb GPT-3, en certa manera entrem en comunió amb els morts.</p>\n</blockquote>\n",
+				"date_published": "2021-12-24T13:10:48+01:00",
+				"url": "https://blog.carlesbellver.net/2021/12/24/automatic-muse/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/12/23/92175/",
 				
 				"content_html": "<p>Abans “els sabuts” eren els de la Societat Castellonenca de Cultura. Ara tothom és molt sabut. El progrés de la humanitat és imparable.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Tots Sants.</p>\n<img alt=\"Plaça de Santa Clara a Castelló\" src=\"/uploads/2021/2021-11-01-tots-sants.jpg\">\n",
 				"date_published": "2021-11-01T19:37:18+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/01/tots-sants/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/10/30/carr-fix-social-media/",
-				
-				"content_html": "<p>📎 Nicholas Carr: <a href=\"https://www.thenewatlantis.com/publications/how-to-fix-social-media\">How to Fix Social Media</a></p>\n<blockquote>\n<p>Desenredar el discurs personal del discurs públic és clarificador. Revela el doble paper que juguen les empreses de xarxes socials. Transmeten missatges personals en nom d&rsquo;individus i emeten una varietat de continguts al públic en general. Els dos negocis tenen característiques molt diferents, com hem vist, i exigeixen diferents tipus de supervisió.</p>\n</blockquote>\n",
-				"date_published": "2021-10-30T09:56:55+02:00",
-				"url": "https://blog.carlesbellver.net/2021/10/30/carr-fix-social-media/"
 			}
 	]
 }

@@ -6,10 +6,24 @@
     <description>La vista cansada (retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Wed, 22 Dec 2021 15:28:23 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Dec 2021 13:10:48 +0100</lastBuildDate>
     
     <atom:link href="https://blog.carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://blog.carlesbellver.net/2021/12/24/automatic-muse/</link>
+      <pubDate>Fri, 24 Dec 2021 13:10:48 +0100</pubDate>
+      
+      <guid>https://blog.carlesbellver.net/2021/12/24/automatic-muse/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.roughtype.com/?p=9100&#34;&gt;The automatic muse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nicholas Carr defensa el potencial creatiu dels algoritmes de generació automàtica de text i els compara amb les sessions d&amp;rsquo;espiritisme i escriptura automàtica de W. B. Yeats i Georgie Hyde Lees.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Una manera de pensar les eines de generació de text basades en IA com el GPT-3 d&amp;rsquo;OpenAI és com a clarividents. Són mèdiums que porten les paraules del passat al present en una nova disposició. Al cap i a la fi, GPT-3 no crea text del no-res. Es basa en un vast corpus d&amp;rsquo;expressió humana i, a través d&amp;rsquo;un procediment estadístic quasi místic (ningú pot explicar exactament què està fent), sintetitza totes aquelles paraules antigues en quelcom nou, quelcom intel·ligible per al seu interlocutor i que requereix interpretació. Quan parlem amb GPT-3, en certa manera entrem en comunió amb els morts.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       
