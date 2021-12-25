@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Fri, 24 Dec 2021 13:10:48 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Dec 2021 09:30:10 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2021/12/25/venus-willendorf/</link>
+      <pubDate>Sat, 25 Dec 2021 09:30:10 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2021/12/25/venus-willendorf/</guid>
+      <description>&lt;p&gt;I remember you well in the Natural History Museum in Vienna.&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-12-25-venus-willendorf.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -288,16 +298,6 @@ inflating: unicorns.txt
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.&lt;/p&gt;
 &lt;p&gt;Més detalls tècnics ací 👉 &lt;a href=&#34;https://github.com/DavidBuchanan314/tweetable-polyglot-png&#34;&gt;tweetable-polyglot-png&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/11/01/tots-sants/</link>
-      <pubDate>Mon, 01 Nov 2021 19:37:18 +0100</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/11/01/tots-sants/</guid>
-      <description>&lt;p&gt;Tots Sants.&lt;/p&gt;
-&lt;img alt=&#34;Plaça de Santa Clara a Castelló&#34; src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-01-tots-sants.jpg&#34;&gt;
 </description>
     </item>
     
