@@ -7,6 +7,13 @@
 	"items": [
 			{
 				"title": "",
+				"date_published": "2022-01-01T20:13:27+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/01/64407/",
+				"tags": "",
+				"content_text": "📎 X-Clacks-Overhead\n Amb la intenció de preservar la memòria de Sir Terry Pratchett, els usuaris del SubReddit de la sèrie Discmon van tenir la idea de la capçalera HTTP X-Clacks-Overhead. Permet als desenvolupadors web commemorar algú en silenci mitjançant l\u0026rsquo;ús d\u0026rsquo;una capçalera no invasiva que es pot transmetre de servidor a servidor o de servidor a client sense causar interferències operatives.\n "
+			},
+			{
+				"title": "",
 				"date_published": "2022-01-01T16:07:55+00:00",
 				"url": "https://blog.carlesbellver.net/2022/01/01/49675/",
 				"tags": "",
