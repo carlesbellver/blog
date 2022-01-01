@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/01/01/49675/",
+				
+				"content_html": "<p>🔗 <a href=\"https://arstechnica.com/information-technology/2021/12/end-of-the-line-finally-coming-for-blackberry-devices/\">End of the line finally coming for BlackBerry devices</a></p>\n<blockquote>\n<p>Pot resultar difícil d&rsquo;imaginar si no fèieu servir mòbils en aquell moment, però BlackBerry dominava el mercat dels telèfons intel·ligents… Un senyal de la seva importància és que les primeres versions internes d&rsquo;Android pareixien una imitació barata de BlackBerry, en lloc de la imitació barata de l&rsquo;iPhone que es va llançar finalment.</p>\n</blockquote>\n",
+				"date_published": "2022-01-01T16:07:55+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/01/49675/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2021/12/25/venus-willendorf/",
 				
 				"content_html": "<p>I remember you well in the Natural History Museum in Vienna.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-12-25-venus-willendorf.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Arqueologia de l&rsquo;aigua.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-11-06-arqueologia-aigua.jpg\">\n",
 				"date_published": "2021-11-06T14:02:05+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/06/arqueologia-aigua/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/04/n-est-pas-un-livre/",
-				
-				"content_html": "<p>Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d&rsquo;aquesta imatge.</p>\n<img alt=\"Una imatge en format PNG que conté un fitxer de text\" src=\"/uploads/2021/2021-11-04-unicorns.png\">\n<pre><code>$ unzip 2021-11-04-unicorns.png\nArchive:  2021-11-04-unicorns.png\ninflating: unicorns.txt\n</code></pre>\n<p>Com pot ser una imatge al mateix temps un arxiu ZIP? El truc és que el codi que indica que un fitxer és un PNG o JPEG es troba al començament, mentre que el codi que indica que és un ZIP es troba al final. Així que podem incrustar el ZIP a continuació del PNG o JPEG i obtenir una mena de fitxer de doble cara o 2×1.</p>\n<p>Més detalls tècnics ací 👉 <a href=\"https://github.com/DavidBuchanan314/tweetable-polyglot-png\">tweetable-polyglot-png</a></p>\n",
-				"date_published": "2021-11-04T18:30:00+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/04/n-est-pas-un-livre/"
 			}
 	]
 }
