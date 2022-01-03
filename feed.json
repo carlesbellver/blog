@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/01/03/ull-soluble/",
+				
+				"content_html": "<p>Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreteria-cafeteria i va triomfar durant anys com a bar musical.</p>\n<img alt=\"\" src=\"/uploads/2022/2022-01-03-ull-soluble.jpg\">\n",
+				"date_published": "2022-01-03T19:06:02+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/03/ull-soluble/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/01/01/64407/",
 				
 				"content_html": "<p>📎 <a href=\"https://xclacksoverhead.org/home/about\">X-Clacks-Overhead</a></p>\n<blockquote>\n<p>Amb la intenció de preservar la memòria de Sir Terry Pratchett, els usuaris del <a href=\"https://www.reddit.com/r/discworld/\">SubReddit de la sèrie Discmon</a> van tenir la <a href=\"https://www.reddit.com/r/discworld/comments/2yt9j6/gnu_terry_pratchett/\">idea de la capçalera HTTP X-Clacks-Overhead</a>. Permet als desenvolupadors web commemorar algú en silenci mitjançant l&rsquo;ús d&rsquo;una capçalera no invasiva que es pot transmetre de servidor a servidor o de servidor a client sense causar interferències operatives.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://moforgeries.org/?mc_cid=cf06f5ec38&amp;mc_eid=ba93faa1c4\">&ldquo;Possibly Real Copy Of &lsquo;Fairies&rsquo; by Andy Warhol&rdquo; BY MSCHF, 2021</a></p>\n<p>Museum of Forgeries: el museu de les falsificacions oferia la possibilitat d&rsquo;adquirir un original de Warhol per només 250 $, amb una probabilitat 1/1000. Una extrapolació de la loteria que, segurament, hauria complagut l&rsquo;artista.</p>\n<blockquote>\n<p><strong>1000 MSCHF ARTWORKS FOR SALE:</strong><br>\n<span style=\"border-bottom: 1px solid #990000;\">One original</span> Andy Warhol (worth $20K) mixed at random into a stack of 999 exact MSCHF <span style=\"border-bottom: 1px solid #990000;\">forgeries</span>.</p>\n</blockquote>\n<img src=\"https://moforgeries.org/images/fairies-sold.png\" />",
 				"date_published": "2021-11-09T18:48:13+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/07/antonin-artaud/",
-				
-				"content_html": "<blockquote>\n<p>A través de las hendiduras de una realidad que ya no es viable, habla un mundo voluntariamente sibilino.</p>\n</blockquote>\n<img alt=\"Coberta del llibre “Carta a los poderes”, d'Antonin Artaud. 40a Fira del Llibre Antic i d'Ocasió a Castelló de la Plana.\" src=\"/uploads/2021/2021-11-07-antonin-artaud.jpg\">\n",
-				"date_published": "2021-11-07T12:25:28+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/07/antonin-artaud/"
 			}
 	]
 }
