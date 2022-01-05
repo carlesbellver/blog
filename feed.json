@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/01/05/22332/",
+				
+				"content_html": "<p>Veig que els antivacunes insisteixen en la necessitat de ser crítics, però els seus arguments, si et prens la molèstia de llegir-los, més aviat pareixen <a href=\"https://ca.wikipedia.org/wiki/M%C3%A8tode_paranoic-cr%C3%ADtic\">paranoico-crítics</a>, a la manera de Dalí.</p>\n",
+				"date_published": "2022-01-05T23:38:52+00:00",
+				"url": "https://blog.carlesbellver.net/2022/01/05/22332/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/01/03/ull-soluble/",
 				
 				"content_html": "<p>Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.</p>\n<img alt=\"Rètol de l'Ull Soluble\" src=\"/uploads/2022/2022-01-03-ull-soluble.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Castelló. Pont del <a href=\"/2019/08/18/it-was-hell.html\">segle XXI</a>.</p>\n<img alt=\"Cables d'acer del pont del Segle XXI, Castelló de la Plana\" src=\"/uploads/2021/2021-11-10-pont-segle-xxi.jpg\">",
 				"date_published": "2021-11-10T17:31:36+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/",
-				
-				"content_html": "<p>📎 <a href=\"https://moforgeries.org/?mc_cid=cf06f5ec38&amp;mc_eid=ba93faa1c4\">&ldquo;Possibly Real Copy Of &lsquo;Fairies&rsquo; by Andy Warhol&rdquo; BY MSCHF, 2021</a></p>\n<p>Museum of Forgeries: el museu de les falsificacions oferia la possibilitat d&rsquo;adquirir un original de Warhol per només 250 $, amb una probabilitat 1/1000. Una extrapolació de la loteria que, segurament, hauria complagut l&rsquo;artista.</p>\n<blockquote>\n<p><strong>1000 MSCHF ARTWORKS FOR SALE:</strong><br>\n<span style=\"border-bottom: 1px solid #990000;\">One original</span> Andy Warhol (worth $20K) mixed at random into a stack of 999 exact MSCHF <span style=\"border-bottom: 1px solid #990000;\">forgeries</span>.</p>\n</blockquote>\n<img src=\"https://moforgeries.org/images/fairies-sold.png\" />",
-				"date_published": "2021-11-09T18:48:13+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/09/museum-forgeries-andy-warhol/"
 			}
 	]
 }
