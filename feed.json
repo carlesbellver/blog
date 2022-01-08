@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/01/08/dedans/",
+				
+				"content_html": "<blockquote>\n<p>Coextensiu amb el seu exterior, hi ha un interior de les coses.</p>\n<p><em>Coextensif à leur Dehors, il y a un Dedans des Choses.</em></p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin\">Pierre Teilhard de Chardin</a>, <em>Le phénomène humain</em>.</p>\n<img alt=\"Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.\" src=\"/uploads/2022/2022-01-08-dedans.jpg\">\n<p>Foto: el rellotge del <a href=\"https://mucc.castello.es/seus/el-fadri/\">Fadrí</a>, des de dins.</p>\n",
+				"date_published": "2022-01-08T12:45:02+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/08/dedans/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/01/05/22332/",
 				
 				"content_html": "<p>Els antivacunes insisteixen en la importància de ser crítics, però els seus arguments, si et prens la molèstia de llegir-los, més aviat pareixen <a href=\"https://ca.wikipedia.org/wiki/M%C3%A8tode_paranoic-cr%C3%ADtic\">paranoico-crítics</a>, a la manera de Dalí.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Confinament estricte.</p>\n<img alt=\"Portes d'una botiga i d'una casa a mig paredar.\" src=\"/uploads/2021/2021-11-13-confinament.jpg\">\n",
 				"date_published": "2021-11-13T17:32:42+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/13/confinament/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/",
-				
-				"content_html": "<p>Castelló. Pont del <a href=\"/2019/08/18/it-was-hell.html\">segle XXI</a>.</p>\n<img alt=\"Cables d'acer del pont del Segle XXI, Castelló de la Plana\" src=\"/uploads/2021/2021-11-10-pont-segle-xxi.jpg\">",
-				"date_published": "2021-11-10T17:31:36+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/10/pont-segle-xxi/"
 			}
 	]
 }
