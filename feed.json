@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/01/10/first-impressions-web3/",
+				
+				"content_html": "<p>📎 <a href=\"https://moxie.org/2022/01/07/web3-first-impressions.html\">Moxie Marlinspike &raquo; My first impressions of web3</a></p>\n<blockquote>\n<p>Per fer utilitzables aquestes tecnologies, l&rsquo;espai s&rsquo;està consolidant al voltant de… plataformes. Una altra vegada. Gent que mantindrà servidors per tu i controlarà les iteracions de les noves funcionalitats que emergeixin. Infura, OpenSea, Coinbase, Etherscan.</p>\n</blockquote>\n<p>El web3 és un web de servidors. La cadena de blocs és una xarxa d&rsquo;iguals, però només entre servidors. Malgrat la promesa de descentralització i de confiança fermament assentada en la criptografia, clients d&rsquo;usuari com MetaMask només poden interactuar amb la cadena de blocs d&rsquo;Ethereum mitjançant plataformes com etherscan, Infura o OpenSea, i ho fan sense cap mena d&rsquo;autenticació o signatura criptogràfica. És a dir, donant per descomptat que cal confiar en aquests intermediaris.</p>\n",
+				"date_published": "2022-01-10T17:31:26+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/10/first-impressions-web3/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/01/08/dedans/",
 				
 				"content_html": "<blockquote>\n<p>Coextensiu amb el seu exterior, hi ha un interior de les coses.</p>\n<p><em>Coextensif à leur Dehors, il y a un Dedans des Choses.</em></p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin\">Pierre Teilhard de Chardin</a>, <em>Le phénomène humain</em>.</p>\n<img alt=\"Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.\" src=\"/uploads/2022/2022-01-08-dedans.jpg\">\n<p>Foto: el rellotge del <a href=\"https://mucc.castello.es/seus/el-fadri/\">Fadrí</a>, des de dins.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Bon dia.</p>\n<img alt=\"Grafit en un contenidor del fem: bon dia\" src=\"/uploads/2021/2021-11-20-bon-dia.jpg\">\n",
 				"date_published": "2021-11-20T08:30:25+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/20/bon-dia/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/13/confinament/",
-				
-				"content_html": "<p>Confinament estricte.</p>\n<img alt=\"Portes d'una botiga i d'una casa a mig paredar.\" src=\"/uploads/2021/2021-11-13-confinament.jpg\">\n",
-				"date_published": "2021-11-13T17:32:42+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/13/confinament/"
 			}
 	]
 }
