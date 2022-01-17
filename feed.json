@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/01/17/pastures-uji/",
+				
+				"content_html": "<p>Les pastures de l'#UJI. Descansar en prats deliciosos.</p>\n<img alt=\"Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d'un cavall entres els arbres.\" src=\"/uploads/2022/2022-01-17-pastures-uji.jpg\">\n",
+				"date_published": "2022-01-17T16:51:33+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/17/pastures-uji/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/01/11/38235/",
 				
 				"content_html": "<p>Ell lamentava la cita, però la va fer igualment. Enguany <a href=\"https://www.vilaweb.cat/noticies/com-un-eslogan-dunamuno-ha-acabat-marcant-lany-joan-fuster/\">s’han repetit la cita i les lamentacions</a>, però per separat. Jo hauria preferit: “Vindrà l’hora de veure dins els versos”. O: “Heus ací un home que moria allarat en clars abismes”. Cadascú té les seues preferències i les diu.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<ol>\n<li>“L’eficàcia ontològica dels models de dades: de quines maneres la informàtica pot crear realitats”</li>\n<li>“El concepte de <em>product ownership</em> com a estratègia de socialització del sofriment en la governança TI”</li>\n<li>“El cicle de vida dels sistemes d’informació. Complexitat (quasi) infinita i el tesseracte com a metàfora.”</li>\n<li>“Tractar els usuaris com a clients: CRM i avantatges pràctics d’aquest enfocament sadomasoquista des de la psicoanàlisi interpersonal”</li>\n<li>“Aplicacions i reptes del test Voight-Kampff en la gestió de recursos humans”</li>\n<li>“De Blavatsky a Nakamoto i més enllà: el ‘llibre major’ com a representació holística de l’univers”</li>\n</ol>\n<p>Selecció de comunicacions presentades en el Segon Congrés d&rsquo;Estudis Socials de la Computació (2021). Títols traduïts per mi.</p>\n",
 				"date_published": "2021-11-21T16:49:59+01:00",
 				"url": "https://blog.carlesbellver.net/2021/11/21/social-studies-computing/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/11/20/dogphone/",
-				
-				"content_html": "<p>📎 <a href=\"https://slashdot.org/story/392961\">DogPhone Lets Pets Ring Their Owners</a></p>\n<p>Una investigació candidata a l'<a href=\"http://ignobel.org\">Ig Nobel</a>?</p>\n<blockquote>\n<p>”El gos em va telefonar, però no feia cas de la trucada, estava més interessat en les coses que tenia al jaç.”</p>\n</blockquote>\n",
-				"date_published": "2021-11-20T12:34:01+01:00",
-				"url": "https://blog.carlesbellver.net/2021/11/20/dogphone/"
 			}
 	]
 }
