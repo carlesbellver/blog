@@ -6,6 +6,14 @@
   "feed_url": "https://blog.carlesbellver.net/photos/index.json",
   "items": [
       {
+        "id": "https://blog.carlesbellver.net/2022/01/20/ia/",
+        "title": "",
+        "date_published": "2022-01-20T08:48:11+01:00",
+        "url": "https://blog.carlesbellver.net/2022/01/20/ia/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-01-20-ia.jpg",
+        "content_text": "Facultat de Ciències Humanes i SociAls #UJI #IA.\n"
+      },
+      {
         "id": "https://blog.carlesbellver.net/2022/01/17/pastures-uji/",
         "title": "",
         "date_published": "2022-01-17T16:51:33+01:00",
