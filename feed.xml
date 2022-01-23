@@ -6,8 +6,29 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Thu, 20 Jan 2022 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jan 2022 17:20:08 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>Un reenfocament (o un rodeig) low-tech dels NFT</title>
+      <link>https://blog.carlesbellver.net/2022/01/23/notnft/</link>
+      <pubDate>Sun, 23 Jan 2022 17:20:08 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2022/01/23/notnft/</guid>
+      <description>&lt;img alt=&#34;&#34; src=&#34;https://blog.carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg&#34;&gt;
+&lt;p&gt;A hores d&amp;rsquo;ara ja s&amp;rsquo;ha parlat prou i massa dels NFT o &lt;a href=&#34;https://en.wikipedia.org/wiki/Non-fungible_token&#34;&gt;Non-fungible tokens&lt;/a&gt;. Quasi tothom deu saber que són una mena de certificats d&amp;rsquo;autenticitat i de propietat d&amp;rsquo;objectes digitals: imatges, elements de videojocs, etc. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Diríem, doncs, que es tracta d&amp;rsquo;un artifici tecnològic que apel·la a l&amp;rsquo;afecció pel col·leccionisme i que busca traure&amp;rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.&lt;/p&gt;
+&lt;p&gt;Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m&amp;rsquo;he entretingut fent-ne una implementació molt ràpida que podeu provar amb el codi &lt;code&gt;NOTNFT00&lt;/code&gt;: &lt;a href=&#34;https://notnft.carlesbellver.net/&#34;&gt;NFT gratuïts i il·limitats de les portades dels meus llibres&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Modestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l&amp;rsquo;anterior i resulta excessivament complicada per a la majoria d&amp;rsquo;usuaris. Em pareix molt més senzill identificar-se amb l&amp;rsquo;adreça de correu electrònic.&lt;/li&gt;
+&lt;li&gt;La distinció (i la confusió) entre l&amp;rsquo;NFT i l&amp;rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;escassesa. De debò no s&amp;rsquo;havia adonat ningú que es poden fer infinites còpies d&amp;rsquo;un fitxer?&lt;/li&gt;
+&lt;li&gt;El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d&amp;rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l&amp;rsquo;adreça electrònica d&amp;rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -272,22 +293,6 @@
       <pubDate>Sat, 27 Nov 2021 09:25:25 +0100</pubDate>
       <guid>https://blog.carlesbellver.net/2021/11/27/paella/</guid>
       <description>&lt;p&gt;Per tal de preservar la puresa de la gastronomia valenciana, i previndre possibles desviacions, per minúscules que siguen o difícils de detectar, propose que no es puga considerar paella cap plat cuinat en cap local de restauració, domicili particular, a l’aire lliure, o enlloc.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.carlesbellver.net/2021/11/25/53487/</link>
-      <pubDate>Thu, 25 Nov 2021 16:18:07 +0100</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/11/25/53487/</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators&#34;&gt;Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;El consum energètic de la mineria de Bitcoin a Suècia equival a hores d&amp;rsquo;ara al de 200.000 llars… En una carta oberta, els directors dels principals reguladors financers i mediambientals suecs van demanar que es prohibís a tota l&amp;rsquo;UE la mineria de criptomonedes basada en prova de treball, que Suècia impedís noves operacions de mineria criptogràfica i que les empreses que comercialitzen i inverteixen en actius criptogràfics no puguin descriure les seves activitats empresarials com a ambientalment sostenibles.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;📎 &lt;a href=&#34;https://hardware.slashdot.org/story/21/11/19/210228/texas-plans-to-become-the-bitcoin-capital-vulnerable-power-grid-and-all&#34;&gt;Texas Plans To Become the Bitcoin Capital, Vulnerable Power Grid and All&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Texas, que ja alberga la xarxa elèctrica més vulnerable dels Estats Units, està a punt de patir un augment de la demanda d&amp;rsquo;electricitat que seria el doble de la d&amp;rsquo;Austin. Es preveu que un exèrcit de miners de criptomoneda, atrets per l&amp;rsquo;energia barata i la regulació &lt;em&gt;laissez-faire&lt;/em&gt;  d&amp;rsquo;aquest estat, augmenti la demanda fins a 5.000 megawatts durant els propers dos anys.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
