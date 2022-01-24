@@ -6,8 +6,20 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 23 Jan 2022 17:20:08 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jan 2022 09:27:35 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://blog.carlesbellver.net/2022/01/24/yaml-json/</link>
+      <pubDate>Mon, 24 Jan 2022 09:27:35 +0100</pubDate>
+      <guid>https://blog.carlesbellver.net/2022/01/24/yaml-json/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json&#34;&gt;I accidentally used YAML.parse instead of JSON.parse, and it… worked?&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;That, dear reader, is the story of how I learnt that &lt;a href=&#34;http://yaml.org/spec/1.2-old/spec.html#id2759572&#34;&gt;YAML is a superset of JSON&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Un reenfocament (o un rodeig) low-tech dels NFT</title>
@@ -286,15 +298,6 @@
       <guid>https://blog.carlesbellver.net/2021/11/29/97227/</guid>
       <description>&lt;p&gt;En companyia d&amp;rsquo;ànecs.&lt;/p&gt;
 &lt;img src=&#34;https://blog.carlesbellver.net/uploads/2021/2021-11-29-97227.jpg&#34; /&gt;</description>
-    </item>
-    
-    <item>
-      <title>En el futur res serà paella 🥘</title>
-      <link>https://blog.carlesbellver.net/2021/11/27/paella/</link>
-      <pubDate>Sat, 27 Nov 2021 09:25:25 +0100</pubDate>
-      <guid>https://blog.carlesbellver.net/2021/11/27/paella/</guid>
-      <description>&lt;p&gt;Per tal de preservar la puresa de la gastronomia valenciana, i previndre possibles desviacions, per minúscules que siguen o difícils de detectar, propose que no es puga considerar paella cap plat cuinat en cap local de restauració, domicili particular, a l’aire lliure, o enlloc.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

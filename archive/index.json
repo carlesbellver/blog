@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/archive/index.json",
 	"items": [
 			{
+				"title": "",
+				"date_published": "2022-01-24T09:27:35+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/24/yaml-json/",
+				"tags": "retalls",
+				"content_text": "📎 I accidentally used YAML.parse instead of JSON.parse, and it… worked?\n That, dear reader, is the story of how I learnt that YAML is a superset of JSON.\n "
+			},
+			{
 				"title": "Un reenfocament (o un rodeig) low-tech dels NFT",
 				"date_published": "2022-01-23T17:20:08+01:00",
 				"url": "https://blog.carlesbellver.net/2022/01/23/notnft/",
