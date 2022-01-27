@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/01/27/revenants/",
+				
+				"content_html": "<p>Quan fan servir l’americanisme <em>egressat</em>, no puc evitar que em sone a <em>regressar</em>, com si en lloc d’haver obtingut el títol d’un grau —o postgrau— hagueren retornat del més enllà. <em>Les Revenants</em>.</p>\n",
+				"date_published": "2022-01-27T18:18:56+01:00",
+				"url": "https://blog.carlesbellver.net/2022/01/27/revenants/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/01/24/porsche/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.sciencedirect.com/science/article/pii/S2214140520300359\">Estimated car cost as a predictor of driver yielding behaviors for pedestrians</a></p>\n<blockquote>\n<p>Com més car és el cotxe, menys probable és que el conductor s&rsquo;ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d&rsquo;increment en el preu del cotxe.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://yesterweb.org/no-to-web3/\">Keep the Web Free, Say No to Web3</a></p>\n<p>Una nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?</p>\n",
 				"date_published": "2021-12-05T17:55:03+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/05/web3/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/04/37220/",
-				
-				"content_html": "<p>Veient la freqüència amb què s&rsquo;associen les vacunes al gènere oví (concretament a l&rsquo;espècie <em>Ovis aries</em>) m&rsquo;adone que Nietzsche tampoc hauria aprovat les campanyes d&rsquo;immunització. Resulta sorprenent amb quina facilitat certes persones es creuen <em>übermenschen</em>, tot i que de lluny no diries que ho semblen.</p>\n<p><a href=\"https://unsplash.com/photos/AJa7S1fjy-I\" title=\"Photo by Judith Prins on Unsplash\"><img alt=\"Quatre ovelles mirant la càmera\" src=\"/uploads/2021/2021-12-04-37220.jpg\"></a></p>\n",
-				"date_published": "2021-12-04T19:35:00+01:00",
-				"url": "https://blog.carlesbellver.net/2021/12/04/37220/"
 			}
 	]
 }
