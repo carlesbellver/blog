@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/02/04/arameu/",
+				
+				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Belshazzar%27s_feast\">Escrit a la paret</a> i no en arameu.</p>\n<img alt=\"Adhesiu: “Somos la puta ruina”\" src=\"/uploads/2022/2022-02-04-arameu.jpg\">\n",
+				"date_published": "2022-02-04T18:24:45+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/04/arameu/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/01/27/revenants/",
 				
 				"content_html": "<p>Quan fan servir l’americanisme <em>egressat</em>, no puc evitar que em sone a <em>regressar</em>, com si en lloc d’haver obtingut el títol d’un grau —o postgrau— hagueren retornat del més enllà. <em>Les Revenants</em>.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.inkandswitch.com/peritext/\">Peritext: A CRDT for Rich-Text Collaboration</a></p>\n<p>Un algorisme per a l&rsquo;edició col·laborativa <em>asíncrona</em> de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&rsquo;edició síncrona). <a href=\"https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type\">CRDT</a> = Conflict-free Replicated Data Type.</p>\n<blockquote>\n<p>Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&rsquo;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&rsquo;ús.</p>\n</blockquote>\n",
 				"date_published": "2021-12-07T19:00:44+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/07/peritext/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/05/web3/",
-				
-				"content_html": "<p>📎 <a href=\"https://yesterweb.org/no-to-web3/\">Keep the Web Free, Say No to Web3</a></p>\n<p>Una nova iteració del Web, basada en la cadena de blocs? Descentralització o especulació amb criptomonedes?</p>\n",
-				"date_published": "2021-12-05T17:55:03+01:00",
-				"url": "https://blog.carlesbellver.net/2021/12/05/web3/"
 			}
 	]
 }

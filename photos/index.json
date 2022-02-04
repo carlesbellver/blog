@@ -6,6 +6,14 @@
   "feed_url": "https://blog.carlesbellver.net/photos/index.json",
   "items": [
       {
+        "id": "https://blog.carlesbellver.net/2022/02/04/arameu/",
+        "title": "",
+        "date_published": "2022-02-04T18:24:45+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/04/arameu/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-04-arameu.jpg",
+        "content_text": "Escrit a la paret i no en arameu.\n"
+      },
+      {
         "id": "https://blog.carlesbellver.net/2022/01/23/notnft/",
         "title": "Un reenfocament (o un rodeig) low-tech dels NFT",
         "date_published": "2022-01-23T17:20:08+01:00",
