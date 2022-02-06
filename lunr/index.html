@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>La vista cansada :: Cercar</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1644170691" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #191919;
+
+--link-color:#599ada;
+--link-state-color:#ff5858;
+--link-state-border-color: rgba(238, 54, 54, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1644170691" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="Cercar"/>
+<meta property="og:description" content="          Read More »    " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.carlesbellver.net/lunr/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Cercar"/>
+<meta name="twitter:description" content="          Read More »    "/>
+
+
+
+
+<meta name="page-source-path" content="lunr.md">
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <div class="container">
+        <header class="common-header"> 
+            
+                <h1 class="site-title">
+  <img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"><br>
+  <a href="https://blog.carlesbellver.net/">La vista cansada</a>
+</h1>
+
+    <nav>
+        
+        
+        <a class="" href="https://blog.carlesbellver.net/feed.xml" title="">RSS</a>
+        
+        <a class="" href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+        
+        <a class="" href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+        
+        <a class="" href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+        
+    </nav>
+
+
+            
+        </header>
+        <main id="main" tabindex="-1"> 
+            
+    
+    
+    <article class="post special h-entry">
+        <header class="post-header">
+            <h1 class="post-title p-name">Cercar</h1>
+        </header>
+        <div class="content e-content">
+                    
+          
+          
+            
+          
+          <link type="text/css" rel="stylesheet" href="https://blog.carlesbellver.net/scripts/search_lunr.css" />
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="https://blog.carlesbellver.net/scripts/lunr.stemmer.support.js"></script>
+<script src="https://blog.carlesbellver.net/scripts/lunr.ca.js"></script>
+<script src="https://blog.carlesbellver.net/scripts/search_lunr.js"></script>
+<form id="search" class="search" role="search">
+  <label for="search-input">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon search-icon"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+  </label>
+  <input type="search" id="search-input" class="search-input">
+</form>
+<div id="list_results">
+</div>
+<template id="search-result" hidden>
+  <article class="content post">
+    <h2 class="post-title"><a class="summary-title-link"></a></h2>
+    <summary class="summary"></summary>
+    <div class="read-more-container">
+      <a class="read-more-link">Read More »</a>
+    </div>
+  </article>
+</template>
+
+
+          
+        </div>
+        
+
+
+<div class="post-info">
+    
+</div>
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+        </div> 
+
+        
+
+    
+
+
+
+    <button class="theme-switcher">
+        Tema fosc
+    </button>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+   
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>
