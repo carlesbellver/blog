@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.carlesbellver.net/2022/02/08/adventures-dillon-helbig/</loc>
+    <lastmod>2022-02-08T17:18:22+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/</loc>
+    <lastmod>2022-02-08T17:18:22+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/posts/</loc>
+    <lastmod>2022-02-08T17:18:22+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/retalls/</loc>
+    <lastmod>2022-02-08T17:18:22+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.carlesbellver.net/tags/</loc>
+    <lastmod>2022-02-08T17:18:22+01:00</lastmod>
+  </url><url>
     <loc>https://blog.carlesbellver.net/2022/02/05/correus/</loc>
     <lastmod>2022-02-05T20:30:13+01:00</lastmod>
   </url><url>
@@ -9,15 +24,6 @@
     <lastmod>2022-02-05T20:30:13+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/tags/fotos/</loc>
-    <lastmod>2022-02-05T20:30:13+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/</loc>
-    <lastmod>2022-02-05T20:30:13+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/posts/</loc>
-    <lastmod>2022-02-05T20:30:13+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/tags/</loc>
     <lastmod>2022-02-05T20:30:13+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2022/02/04/arameu/</loc>
@@ -30,9 +36,6 @@
     <lastmod>2022-01-27T18:18:56+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2022/01/24/porsche/</loc>
-    <lastmod>2022-01-24T17:04:22+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.carlesbellver.net/tags/retalls/</loc>
     <lastmod>2022-01-24T17:04:22+01:00</lastmod>
   </url><url>
     <loc>https://blog.carlesbellver.net/2022/01/24/yaml-json/</loc>

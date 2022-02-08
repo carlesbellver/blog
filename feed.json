@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/02/08/adventures-dillon-helbig/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.lavanguardia.com/cribeo/estilo-de-vida/20220208/8041733/nino-8-anos-esconde-propio-libro-escrito-mano-biblioteca-convierte-exito.html\">Un niño de 8 años esconde su libro manuscrito en la biblioteca y se convierte en todo un éxito</a></p>\n<blockquote>\n<p>Tras cuatro intensos días dedicándose únicamente a su creación, Dillon decidió esconder su obra en la Biblioteca Comunitaria de Ada para que todo el mundo pudiera disfrutar de la novela que cuenta la historia de su propio viaje al pasado provocado por una explosión de una de las bolas de su árbol de Navidad.</p>\n</blockquote>\n<img src=\"https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2022/02/08/6202425b57391.png\" />",
+				"date_published": "2022-02-08T17:18:22+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/08/adventures-dillon-helbig/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/02/05/correus/",
 				
 				"content_html": "<p>L&rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.</p>\n<img alt=\"Bústies clausurades a l'edifici de Correus de Castelló\" src=\"/uploads/2022/2022-02-05-correus.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>L&rsquo;última ressaca 🎵</p>\n<img alt=\"\" src=\"/uploads/2021/2021-12-12-93196.jpg\">\n",
 				"date_published": "2021-12-12T08:13:17+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/12/93196/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/11/merkel/",
-				
-				"content_html": "<p>L&rsquo;austeritat que venia d&rsquo;Alemanya. Angela Merkel, 25.000 €/mes com a cancellera. A partir d&rsquo;ara, pensió de 15.000 €/mes, despatx al Bundestag amb nou persones al seu servei i cotxe oficial.</p>\n<p>📎 <a href=\"https://www.lavanguardia.com/internacional/20211210/7918906/que-hara-merkel.html\">¿Qué hará Merkel ahora?</a></p>\n",
-				"date_published": "2021-12-11T10:02:22+01:00",
-				"url": "https://blog.carlesbellver.net/2021/12/11/merkel/"
 			}
 	]
 }
