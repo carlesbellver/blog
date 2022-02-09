@@ -6,6 +6,14 @@
   "feed_url": "https://blog.carlesbellver.net/photos/index.json",
   "items": [
       {
+        "id": "https://blog.carlesbellver.net/2022/02/09/solsida/",
+        "title": "",
+        "date_published": "2022-02-09T20:30:12+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/09/solsida/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-09-solsida.jpg",
+        "content_text": "La solsida. Der Untergang.\n"
+      },
+      {
         "id": "https://blog.carlesbellver.net/2022/02/05/correus/",
         "title": "",
         "date_published": "2022-02-05T20:30:13+01:00",
