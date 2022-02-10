@@ -2894,7 +2894,7 @@
 				"date_published": "2019-02-12T15:39:00+00:00",
 				"url": "https://blog.carlesbellver.net/2019/02/12/how-i-ditched.html",
 				"tags": "retalls",
-				"content_text": "📎 How I ditched WordPress and set up my custom domain HTTPS site for (almost) free\nUn lloc web en Wordpress.com costa 4€/mes si vols eliminar la publicitat i utilitzar un nom de domini propi. El preu puja a 8€/mes si vols personalitzar el disseny editant el CSS. Ací s\u0026rsquo;explica com registrar un nom de domini molt econòmic, crear el teu web amb un generador estàtic (Hugo) amb el teu ordinador personal i allotjar-lo en GitHub gratis.\n"
+				"content_text": "📎 How I ditched WordPress and set up my custom domain HTTPS site for (almost) free\nUn lloc web en Wordpress.com costa 4€/mes si vols eliminar la publicitat i utilitzar un nom de domini propi. El preu puja a 8€/mes si vols personalitzar el disseny editant el CSS. Ací s\u0026rsquo;explica com registrar un nom de domini molt econòmic, crear el teu web amb un generador estàtic (Hugo) en el teu ordinador personal i allotjar-lo en GitHub gratis.\n"
 			},
 			{
 				"title": "",
@@ -8892,7 +8892,7 @@
 				"title": "El tigre escapat a Castelló era napolità",
 				"date_published": "2013-02-12T23:00:00+00:00",
 				"url": "https://blog.carlesbellver.net/2013/02/12/el-tigre-escapat.html",
-				"tags": "",
+				"tags": "Castelló",
 				"content_text": "Fa uns dies va córrer el rumor que s’havia escapat un tigre del circ que hi ha o hi havia a Castelló. Fins i tot es va difondre aquesta foto tan dubtosa que deien que era de la plaça Cardona Vives. Vg. elmundo.es: Un bulo en las redes sociales obliga a la Policía de Castellón a recontar las fieras de un circo.\nEn realitat era molt fàcil esbrinar, mitjançant la cerca d’imatges de Google, que la foto pertanyia a una notícia de Nàpols de fa cinc anys: Una tigre scappa dal circo, le foto di un carabiniere (la Repubblica.it).\nCuriosament, en les altres fotos que es poden veure en la Reppublica es comprèn molt millor que sí que era un tigre.\n  \n"
 			},
 			{
