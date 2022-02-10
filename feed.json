@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/02/10/mon-sencer/",
+				
+				"content_html": "<p>El món sencer a la porta de casa. Carrer Sant Blai #Castelló.</p>\n<img alt=\"Globus terraqüi. Grafit a la porta d'una casa.\" src=\"/uploads/2022/2022-02-10-mon-sencer.jpg\">\n",
+				"date_published": "2022-02-10T19:30:12+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/10/mon-sencer/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/02/09/solsida/",
 				
 				"content_html": "<p>La solsida. <em>Der Untergang</em>.</p>\n<img alt=\"\" src=\"/uploads/2022/2022-02-09-solsida.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.inkl.com/news/report-ubisoft-s-own-developers-are-concerned-about-its-nft-push\">Report: Ubisoft’s Own Developers Are Concerned About Its NFT Push</a></p>\n<p>Comentaris filtrats dels programadors de l&rsquo;empresa:</p>\n<blockquote>\n<p>“Encara no entenc quin és el ‘problema’ que estem resolent. Val la pena la publicitat (extremadament) negativa que açò provocarà?”</p>\n<p>“Com podeu mirar la propietat privada, l&rsquo;especulació, l&rsquo;escassetat artificial i l&rsquo;egoisme, i dir «sí, això és bo, ho volem, introduïm-ho en l&rsquo;art»?”</p>\n</blockquote>\n",
 				"date_published": "2021-12-19T19:13:43+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/13/20209/",
-				
-				"content_html": "<p>2021-1967 = 54</p>\n<img alt=\"\" src=\"/uploads/2021/2021-12-13-20209.jpg\">\n",
-				"date_published": "2021-12-13T19:30:11+01:00",
-				"url": "https://blog.carlesbellver.net/2021/12/13/20209/"
 			}
 	]
 }

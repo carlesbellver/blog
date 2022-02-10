@@ -6,6 +6,14 @@
   "feed_url": "https://blog.carlesbellver.net/photos/index.json",
   "items": [
       {
+        "id": "https://blog.carlesbellver.net/2022/02/10/mon-sencer/",
+        "title": "",
+        "date_published": "2022-02-10T19:30:12+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/10/mon-sencer/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-10-mon-sencer.jpg",
+        "content_text": "El món sencer a la porta de casa. Carrer Sant Blai #Castelló.\n"
+      },
+      {
         "id": "https://blog.carlesbellver.net/2022/02/09/solsida/",
         "title": "",
         "date_published": "2022-02-09T20:30:12+01:00",
