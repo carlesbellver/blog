@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/02/12/madrid-fascista/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.eldiario.es/sociedad/desconocido-entramado-usaron-fascistas-refugiarse-madrid_1_8727803.html\">El desconocido entramado que usaron los fascistas para refugiarse en Madrid</a></p>\n<p>Otto Skorzeny, Leon Degrelle, un gelater italià i un agent doble alemany, Oswald Mosley… El festival internacional del feixisme al Madrid franquista.</p>\n",
+				"date_published": "2022-02-12T09:05:40+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/12/madrid-fascista/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/02/10/mon-sencer/",
 				
 				"content_html": "<p>El món sencer a la porta de casa. Carrer Sant Blai #Castelló.</p>\n<img alt=\"Globus terraqüi. Grafit a la porta d'una casa.\" src=\"/uploads/2022/2022-02-10-mon-sencer.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/\">Why it&rsquo;s too early to get excited about Web3</a></p>\n<p>Tim O’Reilly, que va <a href=\"https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html\">definir la Web 2.0</a> fa setze anys, reflexiona una mica a contracor sobre aquest futur possible. S&rsquo;assembla més a la bombolla de les punt com o a la bombolla financera? Quins punts de contacte té amb el món real o amb necessitats reals, si és que en té? Quina utilitat? Quan explotarà? Què en quedarà?</p>\n<blockquote>\n<p>Els desenvolupadors de la cadena de blocs creuen que aquesta vegada han trobat una resposta estructural a la recentralització, però jo tendeixo a dubtar-ho. Una pregunta interessant que hom pot fer és quin podria ser el pròxim punt de centralització i control. La ràpida consolidació de la mineria de bitcoin en un nombre reduït de mans mitjançant la baixada dels costos energètics de la computació indica un tipus de recentralització. N&rsquo;hi haurà d&rsquo;altres.</p>\n</blockquote>\n",
 				"date_published": "2021-12-19T19:28:53+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/19/oreilly-web3/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.inkl.com/news/report-ubisoft-s-own-developers-are-concerned-about-its-nft-push\">Report: Ubisoft’s Own Developers Are Concerned About Its NFT Push</a></p>\n<p>Comentaris filtrats dels programadors de l&rsquo;empresa:</p>\n<blockquote>\n<p>“Encara no entenc quin és el ‘problema’ que estem resolent. Val la pena la publicitat (extremadament) negativa que açò provocarà?”</p>\n<p>“Com podeu mirar la propietat privada, l&rsquo;especulació, l&rsquo;escassetat artificial i l&rsquo;egoisme, i dir «sí, això és bo, ho volem, introduïm-ho en l&rsquo;art»?”</p>\n</blockquote>\n",
-				"date_published": "2021-12-19T19:13:43+01:00",
-				"url": "https://blog.carlesbellver.net/2021/12/19/ubisoft-nft/"
 			}
 	]
 }
