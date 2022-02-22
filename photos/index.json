@@ -6,6 +6,14 @@
   "feed_url": "https://blog.carlesbellver.net/photos/index.json",
   "items": [
       {
+        "id": "https://blog.carlesbellver.net/2022/02/22/afterfest/",
+        "title": "",
+        "date_published": "2022-02-22T19:30:14+01:00",
+        "url": "https://blog.carlesbellver.net/2022/02/22/afterfest/",
+          "image": "https://blog.carlesbellver.net/uploads/2022/2022-02-22-afterfest.jpg",
+        "content_text": "Afterfest #UJI\n"
+      },
+      {
         "id": "https://blog.carlesbellver.net/2022/02/10/mon-sencer/",
         "title": "",
         "date_published": "2022-02-10T19:30:12+01:00",
