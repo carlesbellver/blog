@@ -6,6 +6,13 @@
 	"feed_url": "https://blog.carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://blog.carlesbellver.net/2022/02/23/challenging-neoliberalism/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/\">Leading Academic Institutions Will Receive More Than 0 Million To Create Centers Challenging Neoliberalism</a></p>\n<blockquote>\n<p>Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l&rsquo;economia i la societat actuals:</p>\n<blockquote>\n<p>Aquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.</p>\n</blockquote>\n</blockquote>\n",
+				"date_published": "2022-02-23T09:08:04+01:00",
+				"url": "https://blog.carlesbellver.net/2022/02/23/challenging-neoliberalism/"
+			},
+			{
 				"id": "https://blog.carlesbellver.net/2022/02/22/afterfest/",
 				
 				"content_html": "<p>Afterfest #UJI</p>\n<img alt=\"Flyer\" src=\"/uploads/2022/2022-02-22-afterfest.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.roughtype.com/?p=9100\">The automatic muse</a></p>\n<p>Nicholas Carr defensa el potencial creatiu dels algoritmes de generació automàtica de text i els compara amb les sessions d&rsquo;espiritisme i escriptura automàtica de W. B. Yeats i Georgie Hyde Lees.</p>\n<blockquote>\n<p>Una manera de pensar les eines de generació de text basades en IA com el GPT-3 d&rsquo;OpenAI és com a clarividents. Són mèdiums que porten les paraules del passat al present en una nova disposició. Al cap i a la fi, GPT-3 no crea text del no-res. Es basa en un vast corpus d&rsquo;expressió humana i, a través d&rsquo;un procediment estadístic quasi místic (ningú pot explicar exactament què està fent), sintetitza totes aquelles paraules antigues en quelcom nou, quelcom intel·ligible per al seu interlocutor i que requereix interpretació. Quan parlem amb GPT-3, en certa manera entrem en comunió amb els morts.</p>\n</blockquote>\n",
 				"date_published": "2021-12-24T13:10:48+01:00",
 				"url": "https://blog.carlesbellver.net/2021/12/24/automatic-muse/"
-			},
-			{
-				"id": "https://blog.carlesbellver.net/2021/12/23/92175/",
-				
-				"content_html": "<p>Abans “els sabuts” eren els de la Societat Castellonenca de Cultura. Ara tothom és molt sabut. El progrés de la humanitat és imparable.</p>\n",
-				"date_published": "2021-12-23T21:42:55+00:00",
-				"url": "https://blog.carlesbellver.net/2021/12/23/92175/"
 			}
 	]
 }
