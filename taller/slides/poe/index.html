@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>La vista cansada :: Dos-cents anys d’Edgar Allan Poe</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646397122" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color:#599ada;
+--link-state-color:#ff5858;
+--link-state-border-color: rgba(238, 54, 54, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646397122" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="Dos-cents anys d’Edgar Allan Poe"/>
+<meta property="og:description" content="Imatges de la presentació i notes per a l’acte d’homenatge de la SCCFF a Edgar Allan Poe. Castelló de la Plana, Llotja del Cànem, 19 de gener de 2009." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.carlesbellver.net/taller/slides/poe/" /><meta property="og:image" content="https://blog.carlesbellver.net/Poe-01.jpg" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://blog.carlesbellver.net/Poe-01.jpg"/>
+
+<meta name="twitter:title" content="Dos-cents anys d’Edgar Allan Poe"/>
+<meta name="twitter:description" content="Imatges de la presentació i notes per a l’acte d’homenatge de la SCCFF a Edgar Allan Poe. Castelló de la Plana, Llotja del Cànem, 19 de gener de 2009."/>
+
+
+
+
+<meta name="page-source-path" content="taller/slides/poe/index.md">
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a><button class="theme-switcher">
+        Tema fosc
+    </button></a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    
+    <article class="post h-entry">
+      <header class="post-header">
+        <h1 class="post-title">Dos-cents anys d’Edgar Allan Poe</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+          <p>Imatges de la presentació i notes per a l’acte d’<a href="http://essaefa.blogspot.com/2009/01/homenatge-de-la-sccff-poe.html">homenatge de la SCCFF a Edgar Allan Poe</a>. Castelló de la Plana, Llotja del Cànem, 19 de gener de 2009.</p>
+<h2 id="1">(1)</h2>
+<p><a href="Poe-01.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-01.jpg" /></a></p>
+<ul>
+<li>No sé si cal justificar l’homenatge a Poe…</li>
+<li>Potser ell pensaria que sí, perquè dos-cents anys els té qualsevol. Però només Edgar Allan Poe és Edgar Allan Poe.</li>
+<li>Sigui com vulgui, el fet que ens recordem avui d’ell i que siguem ací aquest grup de gent, dos-cents anys després, crec que és prou justificació.</li>
+</ul>
+<h2 id="2">(2)</h2>
+<p><a href="Poe-02.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-02.jpg" /></a></p>
+<ul>
+<li>Per a començar, atès que ens convoca la <a href="http://www.sccff.cat/">SCCFF</a>, recordem Poe com un dels precursors de la ciència-ficció.</li>
+<li>Viatges en globus per l’espai i en el temps: “<em>The Unparalleled Adventure of One Hans Pfaall</em>” o “<em>Mellonta Tauta</em>”.</li>
+<li>Inspiració per a Verne: <em>Cinc setmanes en globus</em>.</li>
+<li>La imatge: una litografia d’<a href="https://en.wikipedia.org/wiki/Odilon_Redon">Odilon Redon</a>, d’una sèrie que va dedicar a Poe (1882).</li>
+<li>També: <a href="https://en.wikipedia.org/wiki/The_Balloon-Hoax">“The Balloon-Hoax”</a>.</li>
+<li>Habilitat per a les mistificacions, per a conferir credibilitat als seus escrits. Ficcions presentades com a cròniques o reportatges.</li>
+</ul>
+<h2 id="3">(3)</h2>
+<p><a href="Poe-03.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-03.jpg" /></a><br><span style="font-family: sans-serif; font-size:small;"><a href="http://www.flickr.com/photos/the-o/2338737377/">flickr.com/photos/the-o/2338737377</a></span></p>
+<ul>
+<li>Poe, doncs, no és sols terror. No és sols aquell conjunt de relats macabres pels quals és sovint conegut: “Berenice”, “El gat negre”, “La caiguda de la casa Usher”, “El cas del senyor Valdemar”, etc., etc.</li>
+<li>(Que no són, d’altra banda, els meus preferits.)</li>
+<li>Poe té moltes cares. Relats de terror molt més subtils, més psicològics, com “El pou i el pèndol”, o “El cor delator”.</li>
+</ul>
+<h2 id="4">(4)</h2>
+<p><a href="Poe-04.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-04.jpg" /></a></p>
+<ul>
+<li>El primer relat detectivesc modern: <a href="https://en.wikipedia.org/wiki/The_Murders_in_the_Rue_Morgue">“Els crims de la Rue Morgue”</a> (1841).</li>
+<li>El primer detectiu literari: <a href="https://en.wikipedia.org/wiki/C._Auguste_Dupin">C. Auguste Dupin</a>.</li>
+<li>Dupin també actua en “El misteri de Marie Rogêt” o en “La carta robada”.</li>
+<li>Un model imitat: capacitat de deducció brillant, imaginació creativa, resolució sorprenent que s’explica pas a pas a continuació, narrador amic del protagonista…</li>
+</ul>
+<h2 id="5">(5)</h2>
+<p><a href="Poe-05.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-05.jpg" /></a><br><span style="font-family: sans-serif; font-size:small;"><a href="http://commons.wikimedia.org/wiki/File:Sherlock_Holmes_statue_at_Meiringen2.jpg">Statue of Sherlock Holmes at Meiringen, Switzerland</a></span></p>
+<ul>
+<li>Dupin és el pare de Sherlock Holmes.</li>
+</ul>
+<h2 id="67">(6/7)</h2>
+<p><a href="Poe-06.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-06.jpg" /></a></p>
+<p><a href="Poe-07.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-07.jpg" /></a></p>
+<ul>
+<li>Un altre conte cèlebre: <a href="https://en.wikipedia.org/wiki/The_Gold-Bug">“L’escarabat d’or”</a>.</li>
+<li>Un altre element característic, brillant: la criptografia. La cerca del tresor i el missatge per desxifrar.</li>
+</ul>
+<h2 id="8">(8)</h2>
+<p><a href="Poe-08.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-08.jpg" /></a></p>
+<ul>
+<li>Poe és el fundador de la novel·lística detectivesca, com va reconèixer el mateix Conan Doyle.</li>
+<li>Així ho reconeixen els <a href="https://en.wikipedia.org/wiki/Edgar_Award">Edgar Awards</a>.</li>
+</ul>
+<h2 id="9">(9)</h2>
+<p><a href="Poe-09.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-09.jpg" /></a><br><span style="font-family: sans-serif; font-size:small;">Fotograma de la pel·lícula <a href="https://en.wikipedia.org/wiki/The_Student_of_Prague_(1913_film)"><em>L’estudiant de Praga</em></a>, adaptació lliure de “William Wilson”</span></p>
+<ul>
+<li>I encara n’hi ha més. Té relats, podríem dir-ne, indefinibles.</li>
+<li><a href="https://en.wikipedia.org/wiki/William_Wilson_(short_story)">“William Wilson”</a>: el tema del doble (<em>doppelgänger</em>).</li>
+</ul>
+<h2 id="10">(10)</h2>
+<p><a href="Poe-10.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-10.jpg" /></a><br><span style="font-family: sans-serif; font-size:small;"><a href="http://commons.wikimedia.org/wiki/File:Walfang_zwischen_1856_und_1907.jpg">Pesca de la balena</a></span></p>
+<ul>
+<li>El seu primer conte: <a href="https://en.wikipedia.org/wiki/MS._Found_in_a_Bottle">“El manuscrit trobat en una botella”</a>.</li>
+<li>Premiat: va marcar el seu pas a la narrativa.</li>
+<li>L’ambient marítim.</li>
+</ul>
+<h2 id="11">(11)</h2>
+<p><a href="Poe-11.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-11.jpg" /></a><br><span style="font-family: sans-serif; font-size:small;"><a href="http://commons.wikimedia.org/wiki/File:Una%27s.Tits.Dec2004.jpeg">http://commons.wikimedia.org/wiki/File:Una%27s.Tits.Dec2004.jpeg</a></span></p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket"><em>La narració d’Arthur Gordon Pym of Nantucket</em></a></li>
+<li>Novel·la publicada per entregues com a narració verídica (una altra falsificació!).</li>
+<li>Inspiració per a Verne: <em>L’esfinx dels gels</em>.</li>
+<li>També per a Lovecraft: <em>A les muntanyes de la follia</em>.</li>
+</ul>
+<h2 id="12">(12)</h2>
+<p><a href="Poe-12.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-12.jpg" /></a></p>
+<ul>
+<li>Seixanta i tants contes. Només una novel·la.</li>
+<li>Avui és considerat un dels precursors del relat breu modern.</li>
+<li>Això ara, perquè en el seu moment…</li>
+</ul>
+<h2 id="13">(13)</h2>
+<p><a href="Poe-13.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-13.jpg" /></a><br><span style="font-family: sans-serif; font-size:small;"><a href="http://flickr.com/photos/neubie/2273635564/">flickr.com/photos/neubie/2273635564/</a></span></p>
+<ul>
+<li>Va ser un dels primers autors moderns que va intentar viure del seu treball com a escriptor. I no ho va aconseguir.</li>
+<li>Nosaltres ja no ho hem intentat.</li>
+</ul>
+<h2 id="14">(14)</h2>
+<p><a href="Poe-14.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-14.jpg" /></a></p>
+<ul>
+<li>Reconegut abans a França que a casa seva: però això sol ser bon senyal.</li>
+<li>Baudelaire el tradueix. Mallarmé.</li>
+<li>Influència en la poesia simbolista, en els poemes en prosa… tant els seus temes com la seva poètica.</li>
+</ul>
+<h2 id="15">(15)</h2>
+<p><a href="Poe-15.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-15.jpg" /></a></p>
+<ul>
+<li>Més conegut en algun moment com a crític.</li>
+<li><a href="https://en.wikipedia.org/wiki/The_Philosophy_of_Composition"><em>The Philosophy of Composition</em></a>: aplicable a la poesia i a la prosa breu</li>
+<li>Utilitza com a exemple el seu poema &ldquo;El corb&rdquo;.</li>
+<li>&ldquo;The limit of one sitting&rdquo;: la resposta emocional o efecte que es pretén causar en el lector, s’aconsegueix millor en obres que es poden llegir seguides.</li>
+<li>La unitat d’efecte.</li>
+</ul>
+<h2 id="16">(16)</h2>
+<p><a href="Poe-16.jpg"><img style="border: 1px solid #ccc;" class="slide u-max-full-width" src="Poe-16.jpg" /></a></p>
+<ul>
+<li>Gràcies, doncs, a Poe per haver escrit tant i tan creativament. Poemes i relats que es llegeixen tan bé i que van ser alhora tan innovadors, que van obrir nous camins.</li>
+<li>Un equilibri molt difícil!</li>
+<li>Agraïts com a lectors i com a escriptors per haver perseverat contra vent i marea.</li>
+<li>Per sort tenim accessible la seva obra:
+<ul>
+<li>En català: traducció de Joan Solé, Columna, 2002.</li>
+<li>En castellà: la traducció de Julio Cortázar dels contes complets, en Alianza Editorial.</li>
+</ul>
+</li>
+<li>I lliure de drets! Si us animeu a llegir-lo en anglès, podeu aprofitar que tota la seva obra fonamental està disponible gratis en Internet.</li>
+</ul>
+
+
+        
+      </div>
+        
+      
+
+
+<div class="post-info">
+    
+    
+
+
+
+</div>
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+    
+    
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>
