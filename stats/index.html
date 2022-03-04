@@ -13,10 +13,10 @@
 <title>La vista cansada :: Estadístiques</title>
 <meta name="description" content="">
 
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398967" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402297" />
 <style>
 
     [data-theme="dark"] {   
@@ -53,7 +53,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398967" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402297" />
 
 
 
@@ -68,7 +68,7 @@
 <meta name="og:title" content="Estadístiques"/>
 <meta property="og:description" content="  Nombre d&#39;apunts 1436   Paraules en total 98155 (2 novel·les)   Mitjana de paraules per apunt 68   Apunt més antic  Cinc minuts en hongarès 2002-02-17    Apunts amb títol 208   Apunts sense títol 1228   Apunts per any  Any Nombre d&#39;apunts   2022 24   2021 85   2020 103   2019 249   2018 505   2017 175   2016 26   2015 41   2014 37   2013 37   2012 108   2011 4   2010 1   2009 2   2008 1   2007 3   2006 10   2005 4   2004 6   2003 8   2002 7   Apunts per etiqueta  Etiqueta Nombre d&#39;apunts   retalls 730   fotos 179   contes 157   citacions 113   ressenyes 48   uji 41   castelló 22   morella 15   drogues 13   educació 10   intl 4   llocs 3   special 3   copyright 1   " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.carlesbellver.net/stats/" />
+<meta property="og:url" content="https://carlesbellver.net/stats/" />
 
 <meta name="twitter:title" content="Estadístiques"/>
 <meta name="twitter:description" content="  Nombre d&#39;apunts 1436   Paraules en total 98155 (2 novel·les)   Mitjana de paraules per apunt 68   Apunt més antic  Cinc minuts en hongarès 2002-02-17    Apunts amb títol 208   Apunts sense títol 1228   Apunts per any  Any Nombre d&#39;apunts   2022 24   2021 85   2020 103   2019 249   2018 505   2017 175   2016 26   2015 41   2014 37   2013 37   2012 108   2011 4   2010 1   2009 2   2008 1   2007 3   2006 10   2005 4   2004 6   2003 8   2002 7   Apunts per etiqueta  Etiqueta Nombre d&#39;apunts   retalls 730   fotos 179   contes 157   citacions 113   ressenyes 48   uji 41   castelló 22   morella 15   drogues 13   educació 10   intl 4   llocs 3   special 3   copyright 1   "/>
@@ -86,95 +86,22 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -3097,7 +3024,7 @@
 		<td>Apunt més antic</td>
 		<td>
             
-                <a href="https://blog.carlesbellver.net/2002/02/17/cinc-minuts/">Cinc minuts en hongarès</a> 2002-02-17
+                <a href="https://carlesbellver.net/2002/02/17/cinc-minuts/">Cinc minuts en hongarès</a> 2002-02-17
 				
             
 		</td>
@@ -3236,72 +3163,72 @@
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/retalls">retalls</a></td>
+        <td><a href="https://carlesbellver.net/tags/retalls">retalls</a></td>
         <td>730</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/fotos">fotos</a></td>
+        <td><a href="https://carlesbellver.net/tags/fotos">fotos</a></td>
         <td>179</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/contes">contes</a></td>
+        <td><a href="https://carlesbellver.net/tags/contes">contes</a></td>
         <td>157</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/citacions">citacions</a></td>
+        <td><a href="https://carlesbellver.net/tags/citacions">citacions</a></td>
         <td>113</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/ressenyes">ressenyes</a></td>
+        <td><a href="https://carlesbellver.net/tags/ressenyes">ressenyes</a></td>
         <td>48</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/uji">uji</a></td>
+        <td><a href="https://carlesbellver.net/tags/uji">uji</a></td>
         <td>41</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/castell%C3%B3">castelló</a></td>
+        <td><a href="https://carlesbellver.net/tags/castell%C3%B3">castelló</a></td>
         <td>22</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/morella">morella</a></td>
+        <td><a href="https://carlesbellver.net/tags/morella">morella</a></td>
         <td>15</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/drogues">drogues</a></td>
+        <td><a href="https://carlesbellver.net/tags/drogues">drogues</a></td>
         <td>13</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/educaci%C3%B3">educació</a></td>
+        <td><a href="https://carlesbellver.net/tags/educaci%C3%B3">educació</a></td>
         <td>10</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/intl">intl</a></td>
+        <td><a href="https://carlesbellver.net/tags/intl">intl</a></td>
         <td>4</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/llocs">llocs</a></td>
+        <td><a href="https://carlesbellver.net/tags/llocs">llocs</a></td>
         <td>3</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/special">special</a></td>
+        <td><a href="https://carlesbellver.net/tags/special">special</a></td>
         <td>3</td>
     </tr>
     
     <tr>
-        <td><a href="https://blog.carlesbellver.net/tags/copyright">copyright</a></td>
+        <td><a href="https://carlesbellver.net/tags/copyright">copyright</a></td>
         <td>1</td>
     </tr>
     
@@ -3337,7 +3264,7 @@
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

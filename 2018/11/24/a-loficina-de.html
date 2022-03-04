@@ -13,10 +13,10 @@
 <title>La vista cansada :: A l’oficina de correus</title>
 <meta name="description" content="">
 
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402297" />
 <style>
 
     [data-theme="dark"] {   
@@ -53,7 +53,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402297" />
 
 
 
@@ -69,7 +69,7 @@
 <meta property="og:description" content="S’apropava l’hora de tancar i la cua avançava amb una lentitud exasperant, però no podia deixar l’enviament per l’endemà perquè no estava segur que les còpies arribessin a temps i llavors em podien retirar la beca. Era una d’aquestes ocasions en què sents que la burocràcia i l’univers conspiren contra tu. No es tracta, és clar, de cap mena de pensament racional.
 Els funcionaris, de fet, pareixien més encantats que mai, menys diligents, i vés que són, de costum, parsimoniosos. Tenien una visita, un home assegut en una cadira al darrere, i s’entretenien xerrant-hi. Algú d’aspecte poc saludable, amb la cara demacrada i una llangor que feien sospitar la convalescència d’una greu malaltia." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.carlesbellver.net/2018/11/24/a-loficina-de.html" /><meta property="article:published_time" content="2018-11-24T18:30:00+00:00" />
+<meta property="og:url" content="https://carlesbellver.net/2018/11/24/a-loficina-de.html" /><meta property="article:published_time" content="2018-11-24T18:30:00+00:00" />
 <meta property="article:modified_time" content="2018-11-24T18:30:00+00:00" />
 
 <meta name="twitter:title" content="A l’oficina de correus"/>
@@ -89,95 +89,22 @@ Els funcionaris, de fet, pareixien més encantats que mai, menys diligents, i v�
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -214,7 +141,7 @@ Els funcionaris, de fet, pareixien més encantats que mai, menys diligents, i v�
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/11/24/a-loficina-de.html"><div class="post-date dt-published">2018-11-24</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/contes">#contes</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/11/24/a-loficina-de.html"><div class="post-date dt-published">2018-11-24</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/contes">#contes</a></li> </ul>
     
     
 
@@ -237,7 +164,7 @@ Els funcionaris, de fet, pareixien més encantats que mai, menys diligents, i v�
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

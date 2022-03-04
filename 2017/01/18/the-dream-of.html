@@ -13,10 +13,10 @@
 <title>La vista cansada :: 2017-01-18 09:00</title>
 <meta name="description" content="">
 
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402297" />
 <style>
 
     [data-theme="dark"] {   
@@ -53,7 +53,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402297" />
 
 
 
@@ -72,7 +72,7 @@ Micos (o ossos) marins dins del teu telèfon. Projecte cancel·lat.
 Micos (o ossos) marins dins del teu telèfon. Projecte cancel·lat.
  Imagineu quins mòduls se&rsquo;ls podien acudir als desenvolupadors. Hi havia les idees òbvies, com ara càmeres especialitzades i altaveus de gamma alta. Però també podien resultar més estranys i salvatges. Una idea per a un mòdul, en particular, desbaratava sovint reunions dins les parets de l&rsquo;ATAP [Motorola’s Advanced Technology and Projects group], a mesura que els líders de l&rsquo;estudi s&rsquo;esforçaven a imaginar una febre de l&rsquo;or dels mòduls semblant a l&rsquo;App Store d&rsquo;Apple." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.carlesbellver.net/2017/01/18/the-dream-of.html" /><meta property="article:published_time" content="2017-01-18T23:00:00+00:00" />
+<meta property="og:url" content="https://carlesbellver.net/2017/01/18/the-dream-of.html" /><meta property="article:published_time" content="2017-01-18T23:00:00+00:00" />
 <meta property="article:modified_time" content="2017-01-18T23:00:00+00:00" />
 
 <meta name="twitter:title" content="📎 The dream of Ara: Inside the rise and fall of the world&rsquo;s most revolutionary phone
@@ -95,95 +95,22 @@ Micos (o ossos) marins dins del teu telèfon. Projecte cancel·lat.
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -210,7 +137,7 @@ Micos (o ossos) marins dins del teu telèfon. Projecte cancel·lat.
 <p>Imagineu quins mòduls se&rsquo;ls podien acudir als desenvolupadors. Hi havia les idees òbvies, com ara càmeres especialitzades i altaveus de gamma alta. Però també podien resultar més estranys i salvatges. Una idea per a un mòdul, en particular, desbaratava sovint reunions dins les parets de l&rsquo;ATAP [Motorola’s Advanced Technology and Projects group], a mesura que els líders de l&rsquo;estudi s&rsquo;esforçaven a imaginar una febre de l&rsquo;or dels mòduls semblant a l&rsquo;App Store d&rsquo;Apple.</p>
 <p>“Un dels mòduls en que treballàvem era, bàsicament, com un petit aquari per al telèfon”, va dir la font. “Era un petit bioma minúscul que aniria a l&rsquo;interior d&rsquo;un mòdul i que tindria un microscopi a la part inferior, i contindria algues i <a href="https://ca.wikipedia.org/wiki/Tard%C3%ADgrads">tardígrads</a> vius. Hi ha qui en diu petits ossos d&rsquo;aigua. Són els organismes vius més petits. Teníem aquesta idea de construir un mòdul de tardígrads i l&rsquo;hauríem creat amb un microscopi. De manera que tindríeu aquesta aplicació al vostre telèfon i, bàsicament, podríeu mirar els tardígrads de prop i veure’ls flotant.” L’agència d’art, disseny i tecnologia Midnight Commercial, de Brooklyn, va concebre la idea i va rebre l’encàrrec de Google per portar-la a terme, amb la intenció de demostrar fins on podien arribar els desenvolupadors.</p>
 </blockquote>
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/bigdogyvr/4098048477" title="Sea-Monkeys"><img src="https://blog.carlesbellver.net/uploads/2019/460eadb255.jpg" width="900" height="693" alt="Sea-Monkeys"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/bigdogyvr/4098048477" title="Sea-Monkeys"><img src="https://carlesbellver.net/uploads/2019/460eadb255.jpg" width="900" height="693" alt="Sea-Monkeys"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 
         
@@ -221,7 +148,7 @@ Micos (o ossos) marins dins del teu telèfon. Projecte cancel·lat.
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2017/01/18/the-dream-of.html"><div class="post-date dt-published">2017-01-18</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2017/01/18/the-dream-of.html"><div class="post-date dt-published">2017-01-18</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -244,7 +171,7 @@ Micos (o ossos) marins dins del teu telèfon. Projecte cancel·lat.
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

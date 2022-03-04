@@ -14,11 +14,11 @@
 <title>La vista cansada</title>
 <meta name="description" content="">
 
-<link rel="alternate" type="application/rss+xml" href="https://blog.carlesbellver.net/feed.xml" title="La vista cansada" />
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="alternate" type="application/rss+xml" href="https://carlesbellver.net/feed.xml" title="La vista cansada" />
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402298" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,7 +55,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402298" />
 
 
 
@@ -70,7 +70,7 @@
 <meta name="og:title" content="La vista cansada"/>
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://blog.carlesbellver.net/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
+<meta property="og:url" content="https://carlesbellver.net/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
 
 <meta name="twitter:title" content="La vista cansada"/>
 <meta name="twitter:description" content=""/>
@@ -88,95 +88,22 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -214,7 +141,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/05/10/cloudready.html"><div class="post-date dt-published">2020-05-10</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/05/10/cloudready.html"><div class="post-date dt-published">2020-05-10</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -245,7 +172,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/05/10/even-before-i.html"><div class="post-date dt-published">2020-05-10</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/05/10/even-before-i.html"><div class="post-date dt-published">2020-05-10</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -279,7 +206,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/05/08/the-framed-picture.html"><div class="post-date dt-published">2020-05-08</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/05/08/the-framed-picture.html"><div class="post-date dt-published">2020-05-08</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -297,7 +224,7 @@
           
             
           
-          <p>L’any passat vaig fer tant de calaix a Barcelona amb la meva <a href="https://blog.carlesbellver.net/2019/04/23/he-vingut-a.html">paradeta d’ebooks</a> que enguany no m’hauria calgut tornar-hi. Però va ser divertit i m’hauria agradat repetir-ho. Fins al juliol, doncs.</p>
+          <p>L’any passat vaig fer tant de calaix a Barcelona amb la meva <a href="https://carlesbellver.net/2019/04/23/he-vingut-a.html">paradeta d’ebooks</a> que enguany no m’hauria calgut tornar-hi. Però va ser divertit i m’hauria agradat repetir-ho. Fins al juliol, doncs.</p>
 
 
       </div>
@@ -309,7 +236,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/04/23/lany-passat-vaig.html"><div class="post-date dt-published">2020-04-23</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/04/23/lany-passat-vaig.html"><div class="post-date dt-published">2020-04-23</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -342,7 +269,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/04/12/as-discute-habermas.html"><div class="post-date dt-published">2020-04-12</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/04/12/as-discute-habermas.html"><div class="post-date dt-published">2020-04-12</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -360,7 +287,7 @@
           
             
           
-          <p>Si algun dia torne a escriure, o parlar, sobre processadors de textos i escriptura, ja sé quin títol utilitzaré: <a href="https://blog.carlesbellver.net/2013/11/19/el-paio-pirat.html">“El paio pirat del Word”</a>.</p>
+          <p>Si algun dia torne a escriure, o parlar, sobre processadors de textos i escriptura, ja sé quin títol utilitzaré: <a href="https://carlesbellver.net/2013/11/19/el-paio-pirat.html">“El paio pirat del Word”</a>.</p>
 
 
       </div>
@@ -372,7 +299,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/04/11/si-algun-dia.html"><div class="post-date dt-published">2020-04-11</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/04/11/si-algun-dia.html"><div class="post-date dt-published">2020-04-11</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -405,7 +332,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/04/09/estats-dexcepci-lletres.html"><div class="post-date dt-published">2020-04-09</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/04/09/estats-dexcepci-lletres.html"><div class="post-date dt-published">2020-04-09</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -426,7 +353,7 @@
           <p>Estic fascinat. Creen webs falses que simulen fòrums, on fan veure que algú pregunta per un llibre teu (que realment no interessa pas a ningú), només per difondre enllaços a alguna d’aquelles pàgines de descàrrega rares i fraudulentes.</p>
 <p>L’únic enllaç que funciona és el de la pàgina de descàrrega. Tots els altres —el de la pàgina d&rsquo;inici del fòrum, els dels perfils dels usuaris, etc.— van a la mateixa pàgina on estàs.</p>
 <p>Quina inventiva!</p>
-<img src="https://blog.carlesbellver.net/uploads/2020/63e4acbe80.png" width="600" height="586" alt="" />
+<img src="https://carlesbellver.net/uploads/2020/63e4acbe80.png" width="600" height="586" alt="" />
 
 
       </div>
@@ -438,7 +365,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/04/04/estic-fascinat-creen.html"><div class="post-date dt-published">2020-04-04</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/04/04/estic-fascinat-creen.html"><div class="post-date dt-published">2020-04-04</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -471,7 +398,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/04/02/laprenentatge-en-lnia.html"><div class="post-date dt-published">2020-04-02</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> <li><a href="https://blog.carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/04/02/laprenentatge-en-lnia.html"><div class="post-date dt-published">2020-04-02</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> <li><a href="https://carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
     
     
 
@@ -502,7 +429,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2020/03/25/el-projecte-va.html"><div class="post-date dt-published">2020-03-25</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2020/03/25/el-projecte-va.html"><div class="post-date dt-published">2020-03-25</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -518,12 +445,12 @@
     <div class="pagination">
         <div class="left pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/page/17/">posteriors</a>
+                <a href="https://carlesbellver.net/page/17/">posteriors</a>
             
         </div>
         <div class="right pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/page/19/">anteriors</a>
+                <a href="https://carlesbellver.net/page/19/">anteriors</a>
             
         </div>
     </div>
@@ -540,7 +467,7 @@
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

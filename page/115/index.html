@@ -14,11 +14,11 @@
 <title>La vista cansada</title>
 <meta name="description" content="">
 
-<link rel="alternate" type="application/rss+xml" href="https://blog.carlesbellver.net/feed.xml" title="La vista cansada" />
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="alternate" type="application/rss+xml" href="https://carlesbellver.net/feed.xml" title="La vista cansada" />
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398969" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402298" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,7 +55,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398969" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402298" />
 
 
 
@@ -70,7 +70,7 @@
 <meta name="og:title" content="La vista cansada"/>
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://blog.carlesbellver.net/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
+<meta property="og:url" content="https://carlesbellver.net/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
 
 <meta name="twitter:title" content="La vista cansada"/>
 <meta name="twitter:description" content=""/>
@@ -88,95 +88,22 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -217,7 +144,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2017/01/06/john-berger-lesperana.html"><div class="post-date dt-published">2017-01-06</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2017/01/06/john-berger-lesperana.html"><div class="post-date dt-published">2017-01-06</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
     
     
 
@@ -230,11 +157,11 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2016/12/24/un-dimoni-en.html">Un dimoni en pràctiques</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2016/12/24/un-dimoni-en.html">Un dimoni en pràctiques</a></h1>
       </header>
       <div class="content post-summary">
         
-          <p><a href="https://commons.wikimedia.org/wiki/File%3ACopulating_flies.jpg" title="By Tomascastelazo (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons"><img src="https://blog.carlesbellver.net/uploads/2019/7870cde18e.jpg" alt="Copulating flies" /></a><br>
+          <p><a href="https://commons.wikimedia.org/wiki/File%3ACopulating_flies.jpg" title="By Tomascastelazo (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons"><img src="https://carlesbellver.net/uploads/2019/7870cde18e.jpg" alt="Copulating flies" /></a><br>
 <span style="font-size: 80%;">Photo by Tomascastelazo CC BY-SA 3.0 via <a href="https://commons.wikimedia.org/wiki/File%3ACopulating_flies.jpg" title="Copulating flies">Wikimedia Commons</a></span></p>
 <p>D’aquest fals <em>fabliau</em>, se’n coneixen diverses variants, separades unes d’altres per decennis, per fronteres d’antics regnes medievals i pels idiomes en què es contaven o van ser escrites.</p>
 <p>Un dimoni de poca categoria ha de fer mèrits per ascendir en l’escalafó. Li direm Anaphalantus. Tan baix era el seu rang que no li solien donar nom els rondallaires. Rebia instruccions d’un superior i era despatxat, just a trenc d’alba, cap als afores d’un petit poble de la Picardia, la Toscana, o el Maestrat. Havia de superar tres proves, tres reptes, cometre tres maldats: escampar un ramat, contaminar un riu —altres vegades era una bassa de reg, o una sèquia— i induir un sant baró a fornicar. Les dues primeres resultaven senzilles. Embrutava l’aigua amb el fem de les vaques i les espantava amb un foc que encenia fent petar els dits. La tercera se li havia de resistir. Triava malament la víctima, o la tàctica; o ambdues. S’aixecava les faldetes i el pobre pagès que s’acabava de llevar, un bon cristià que s’havia trobat el corral buit, es demanava per què li ensenyava les vergonyes aquesta noieta idèntica en tot a la verge Maria. Per que a ell, mare de Déu santíssima, si no ho féu ni amb Sant Josep, que era el seu marit?</p>
@@ -253,7 +180,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/12/24/un-dimoni-en.html"><div class="post-date dt-published">2016-12-24</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/12/24/un-dimoni-en.html"><div class="post-date dt-published">2016-12-24</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -266,7 +193,7 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2016/12/13/les-llegendes-de.html">Les llegendes de Jacques Bergier</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2016/12/13/les-llegendes-de.html">Les llegendes de Jacques Bergier</a></h1>
       </header>
       <div class="content post-summary">
         
@@ -300,7 +227,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/12/13/les-llegendes-de.html"><div class="post-date dt-published">2016-12-13</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/12/13/les-llegendes-de.html"><div class="post-date dt-published">2016-12-13</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -313,13 +240,13 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2016/11/13/un-altre-conte.html">Un altre conte xinès</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2016/11/13/un-altre-conte.html">Un altre conte xinès</a></h1>
       </header>
       <div class="content post-summary fotos">
         
           <p>He somniat que contractava uns xinesos per baixar l’UJI del núvol. Ho feien un dia de festa, quan el rector i el gerent estaven despistats. Deixaven la base de dades a la consergeria de serveis centrals, en un USB amb logo personalitzat, i les aplicacions en GitCafé. Aturaven les instàncies d’EC2, etc. I a mi em regalaven un cupó de descompte d’AliExpress.</p>
 <p>Tot això respectant escrupolosament la legalitat. Ens assessorava un advocat andorrà.</p>
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/carlesbellver/30652528920/in/dateposted-public/" title="Distorsió"><img src="https://blog.carlesbellver.net/uploads/2019/f2c49a5821.jpg" width="500" height="500" alt="Distorsió" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/carlesbellver/30652528920/in/dateposted-public/" title="Distorsió"><img src="https://carlesbellver.net/uploads/2019/f2c49a5821.jpg" width="500" height="500" alt="Distorsió" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
         
       </div>      
@@ -331,7 +258,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/11/13/un-altre-conte.html"><div class="post-date dt-published">2016-11-13</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/11/13/un-altre-conte.html"><div class="post-date dt-published">2016-11-13</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
     
     
 
@@ -361,7 +288,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/10/12/230000.html"><div class="post-date dt-published">2016-10-12</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/10/12/230000.html"><div class="post-date dt-published">2016-10-12</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -374,7 +301,7 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2016/09/24/sexe-i-gnere.html">Sexe i gènere en el llenguatge</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2016/09/24/sexe-i-gnere.html">Sexe i gènere en el llenguatge</a></h1>
       </header>
       <div class="content post-summary retalls">
         
@@ -394,7 +321,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/09/24/sexe-i-gnere.html"><div class="post-date dt-published">2016-09-24</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/09/24/sexe-i-gnere.html"><div class="post-date dt-published">2016-09-24</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -439,7 +366,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/08/22/the-cia-puts.html"><div class="post-date dt-published">2016-08-22</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/08/22/the-cia-puts.html"><div class="post-date dt-published">2016-08-22</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -452,7 +379,7 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2016/08/19/era-la-colometa.html">Era la Colometa una beneita?</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2016/08/19/era-la-colometa.html">Era la Colometa una beneita?</a></h1>
       </header>
       <div class="content post-summary citacions">
         
@@ -471,7 +398,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/08/19/era-la-colometa.html"><div class="post-date dt-published">2016-08-19</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/08/19/era-la-colometa.html"><div class="post-date dt-published">2016-08-19</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
     
     
 
@@ -484,7 +411,7 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2016/08/19/your-next-seafood.html">Your next seafood dinner might come with a QR code</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2016/08/19/your-next-seafood.html">Your next seafood dinner might come with a QR code</a></h1>
       </header>
       <div class="content post-summary Morella">
         
@@ -504,7 +431,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/08/19/your-next-seafood.html"><div class="post-date dt-published">2016-08-19</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/morella">#Morella</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/08/19/your-next-seafood.html"><div class="post-date dt-published">2016-08-19</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/morella">#Morella</a></li> </ul>
     
     
 
@@ -517,11 +444,11 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2016/06/23/the-peanut-underground.html">The Peanut Underground</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2016/06/23/the-peanut-underground.html">The Peanut Underground</a></h1>
       </header>
       <div class="content post-summary fotos">
         
-          <img alt="The Peanut Underground, by Bill Cawley &amp; Stephen Altobello" src="https://blog.carlesbellver.net/uploads/2019/ee82cfa0da.jpg">
+          <img alt="The Peanut Underground, by Bill Cawley &amp; Stephen Altobello" src="https://carlesbellver.net/uploads/2019/ee82cfa0da.jpg">
 <p>By Bill Cawley &amp; Stephen Altobello. Scan from <em>Les Inrockuptibles</em> #24, 1990.</p>
 
         
@@ -534,7 +461,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2016/06/23/the-peanut-underground.html"><div class="post-date dt-published">2016-06-23</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2016/06/23/the-peanut-underground.html"><div class="post-date dt-published">2016-06-23</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
     
     
 
@@ -550,12 +477,12 @@
     <div class="pagination">
         <div class="left pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/page/114/">posteriors</a>
+                <a href="https://carlesbellver.net/page/114/">posteriors</a>
             
         </div>
         <div class="right pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/page/116/">anteriors</a>
+                <a href="https://carlesbellver.net/page/116/">anteriors</a>
             
         </div>
     </div>
@@ -572,7 +499,7 @@
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

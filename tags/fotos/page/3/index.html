@@ -13,11 +13,11 @@
 <title>La vista cansada :: fotos</title>
 <meta name="description" content="">
 
-<link rel="alternate" type="application/rss+xml" href="https://blog.carlesbellver.net/tags/fotos/feed.xml" title="La vista cansada" />
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="alternate" type="application/rss+xml" href="https://carlesbellver.net/tags/fotos/feed.xml" title="La vista cansada" />
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402298" />
 <style>
 
     [data-theme="dark"] {   
@@ -54,7 +54,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402298" />
 
 
 
@@ -69,7 +69,7 @@
 <meta name="og:title" content="fotos"/>
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://blog.carlesbellver.net/tags/fotos/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
+<meta property="og:url" content="https://carlesbellver.net/tags/fotos/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
 
 <meta name="twitter:title" content="fotos"/>
 <meta name="twitter:description" content=""/>
@@ -87,95 +87,22 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -197,7 +124,7 @@
             
           
           <p>Un llibre pot prendre mil formes i es pot distribuir de moltes maneres. Per exemple, dins d&rsquo;aquesta imatge.</p>
-<img alt="Una imatge en format PNG que conté un fitxer de text" src="https://blog.carlesbellver.net/uploads/2021/2021-11-04-unicorns.png">
+<img alt="Una imatge en format PNG que conté un fitxer de text" src="https://carlesbellver.net/uploads/2021/2021-11-04-unicorns.png">
 <pre><code>$ unzip 2021-11-04-unicorns.png
 Archive:  2021-11-04-unicorns.png
 inflating: unicorns.txt
@@ -215,7 +142,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/11/04/n-est-pas-un-livre/"><div class="post-date dt-published">2021-11-04</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/11/04/n-est-pas-un-livre/"><div class="post-date dt-published">2021-11-04</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
     
     
 
@@ -234,7 +161,7 @@ inflating: unicorns.txt
             
           
           <p>Tots Sants.</p>
-<img alt="Plaça de Santa Clara a Castelló" src="https://blog.carlesbellver.net/uploads/2021/2021-11-01-tots-sants.jpg">
+<img alt="Plaça de Santa Clara a Castelló" src="https://carlesbellver.net/uploads/2021/2021-11-01-tots-sants.jpg">
 
 
       </div>
@@ -246,7 +173,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/11/01/tots-sants/"><div class="post-date dt-published">2021-11-01</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/11/01/tots-sants/"><div class="post-date dt-published">2021-11-01</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
     
     
 
@@ -264,8 +191,8 @@ inflating: unicorns.txt
           
             
           
-          <p>Premi Sambori <a href="https://blog.carlesbellver.net/tags/uji/">#UJI</a></p>
-<img alt="Premi Sambori 2004. Menció d'honor Universitat Jaume I." src="https://blog.carlesbellver.net/uploads/2021/2021-10-24-premi-sambori-uji.jpg">
+          <p>Premi Sambori <a href="https://carlesbellver.net/tags/uji/">#UJI</a></p>
+<img alt="Premi Sambori 2004. Menció d'honor Universitat Jaume I." src="https://carlesbellver.net/uploads/2021/2021-10-24-premi-sambori-uji.jpg">
 
 
       </div>
@@ -277,7 +204,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/10/24/premi-sambori-uji/"><div class="post-date dt-published">2021-10-24</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://blog.carlesbellver.net/tags/uji">#UJI</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/10/24/premi-sambori-uji/"><div class="post-date dt-published">2021-10-24</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://carlesbellver.net/tags/uji">#UJI</a></li> </ul>
     
     
 
@@ -295,8 +222,8 @@ inflating: unicorns.txt
           
             
           
-          <p>Eixida <a href="https://blog.carlesbellver.net/tags/uji/">#UJI</a></p>
-<img alt="Eixida ampliació Biblioteca UJI nivell 0" src="https://blog.carlesbellver.net/uploads/2021/2021-10-20-eixida.jpg">
+          <p>Eixida <a href="https://carlesbellver.net/tags/uji/">#UJI</a></p>
+<img alt="Eixida ampliació Biblioteca UJI nivell 0" src="https://carlesbellver.net/uploads/2021/2021-10-20-eixida.jpg">
 
 
       </div>
@@ -308,7 +235,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/10/20/eixida/"><div class="post-date dt-published">2021-10-20</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://blog.carlesbellver.net/tags/uji">#UJI</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/10/20/eixida/"><div class="post-date dt-published">2021-10-20</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://carlesbellver.net/tags/uji">#UJI</a></li> </ul>
     
     
 
@@ -327,7 +254,7 @@ inflating: unicorns.txt
             
           
           <p>Imitació de la vida.</p>
-<img alt="Planta artificial" src="https://blog.carlesbellver.net/uploads/2021/2021-10-13-imitation-life.jpg">
+<img alt="Planta artificial" src="https://carlesbellver.net/uploads/2021/2021-10-13-imitation-life.jpg">
 
 
       </div>
@@ -339,7 +266,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/10/13/imitation-life/"><div class="post-date dt-published">2021-10-13</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/10/13/imitation-life/"><div class="post-date dt-published">2021-10-13</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
     
     
 
@@ -357,8 +284,8 @@ inflating: unicorns.txt
           
             
           
-          <p>La cavalleria de l&rsquo;<a href="https://blog.carlesbellver.net/tags/uji/">#UJI</a>.</p>
-<img alt="Escultura d'un cavall al Jardí dels Sentits de l'UJI" src="https://blog.carlesbellver.net/uploads/2021/2021-10-07-cavall.jpg">
+          <p>La cavalleria de l&rsquo;<a href="https://carlesbellver.net/tags/uji/">#UJI</a>.</p>
+<img alt="Escultura d'un cavall al Jardí dels Sentits de l'UJI" src="https://carlesbellver.net/uploads/2021/2021-10-07-cavall.jpg">
 
 
       </div>
@@ -370,7 +297,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/10/07/cavall/"><div class="post-date dt-published">2021-10-07</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://blog.carlesbellver.net/tags/uji">#UJI</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/10/07/cavall/"><div class="post-date dt-published">2021-10-07</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://carlesbellver.net/tags/uji">#UJI</a></li> </ul>
     
     
 
@@ -389,7 +316,7 @@ inflating: unicorns.txt
             
           
           <p>Àsia comença a l&rsquo;avinguda d&rsquo;Alcora.</p>
-<img alt="" src="https://blog.carlesbellver.net/uploads/2021/2021-09-15-asia.jpg">
+<img alt="" src="https://carlesbellver.net/uploads/2021/2021-09-15-asia.jpg">
 
 
       </div>
@@ -401,7 +328,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/09/15/asia/"><div class="post-date dt-published">2021-09-15</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/09/15/asia/"><div class="post-date dt-published">2021-09-15</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> </ul>
     
     
 
@@ -420,7 +347,7 @@ inflating: unicorns.txt
             
           
           <p>Les vacances.</p>
-<img alt="Passeig de l'Albereda. Morella" src="https://blog.carlesbellver.net/uploads/2021/2021-08-28-vacances.jpg">
+<img alt="Passeig de l'Albereda. Morella" src="https://carlesbellver.net/uploads/2021/2021-08-28-vacances.jpg">
 
 
       </div>
@@ -432,7 +359,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/08/28/vacances/"><div class="post-date dt-published">2021-08-28</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://blog.carlesbellver.net/tags/morella">#Morella</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/08/28/vacances/"><div class="post-date dt-published">2021-08-28</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://carlesbellver.net/tags/morella">#Morella</a></li> </ul>
     
     
 
@@ -451,7 +378,7 @@ inflating: unicorns.txt
             
           
           <p>Gàrgola sufocada. Santa Maria de Morella. 35,9 ºC.</p>
-<img alt="" src="https://blog.carlesbellver.net/uploads/2021/2021-08-15-31156.jpg">
+<img alt="" src="https://carlesbellver.net/uploads/2021/2021-08-15-31156.jpg">
 
 
       </div>
@@ -463,7 +390,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/08/15/31193/"><div class="post-date dt-published">2021-08-15</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://blog.carlesbellver.net/tags/morella">#Morella</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/08/15/31193/"><div class="post-date dt-published">2021-08-15</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://carlesbellver.net/tags/morella">#Morella</a></li> </ul>
     
     
 
@@ -482,7 +409,7 @@ inflating: unicorns.txt
             
           
           <p>Sant Vicent Ferrer, Benet XIII i Ferran I d&rsquo;Aragó. <a href="https://es.wikipedia.org/wiki/Cisma_de_Occidente#Las_negociaciones_de_Morella">Selfi a Morella, 1414</a>.</p>
-<img alt="" src="https://blog.carlesbellver.net/uploads/2021/2021-08-06-selfi-morella-1414.jpg">
+<img alt="" src="https://carlesbellver.net/uploads/2021/2021-08-06-selfi-morella-1414.jpg">
 
 
       </div>
@@ -494,7 +421,7 @@ inflating: unicorns.txt
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2021/08/06/selfi-morella-1414/"><div class="post-date dt-published">2021-08-06</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://blog.carlesbellver.net/tags/morella">#morella</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2021/08/06/selfi-morella-1414/"><div class="post-date dt-published">2021-08-06</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/fotos">#fotos</a></li> <li><a href="https://carlesbellver.net/tags/morella">#morella</a></li> </ul>
     
     
 
@@ -510,12 +437,12 @@ inflating: unicorns.txt
     <div class="pagination">
         <div class="left pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/tags/fotos/page/2/">posteriors</a>
+                <a href="https://carlesbellver.net/tags/fotos/page/2/">posteriors</a>
             
         </div>
         <div class="right pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/tags/fotos/page/4/">anteriors</a>
+                <a href="https://carlesbellver.net/tags/fotos/page/4/">anteriors</a>
             
         </div>
     </div>
@@ -532,7 +459,7 @@ inflating: unicorns.txt
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

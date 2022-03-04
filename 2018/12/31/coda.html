@@ -13,10 +13,10 @@
 <title>La vista cansada :: Coda</title>
 <meta name="description" content="">
 
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402297" />
 <style>
 
     [data-theme="dark"] {   
@@ -53,7 +53,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402297" />
 
 
 
@@ -69,7 +69,7 @@
 <meta property="og:description" content="No crec que ningú es molesti a comptar els caràcters de cadascuna —o de cap— d’aquestes proses: si és que algú es molestava a llegir-les. Fóra en va, per tant, precisar que la memòria lliure d’un ZX81 era a penes d’uns centenars de bytes; o que el codi ASCII ni tan sols era compatible amb les vocals accentuades del català; i que els codis més moderns, com l’UTF-8, dediquen més d’un byte a cadascun d&rsquo;aquests caràcters estranys.
 Fóra en va, també, perquè aquest joc amb els nombres i els mots, que convertia l&rsquo;escriptura en una mena de puzzle o mecano, només m’interessava a mi mentre escrivia." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.carlesbellver.net/2018/12/31/coda.html" /><meta property="article:published_time" content="2018-12-31T18:30:00+00:00" />
+<meta property="og:url" content="https://carlesbellver.net/2018/12/31/coda.html" /><meta property="article:published_time" content="2018-12-31T18:30:00+00:00" />
 <meta property="article:modified_time" content="2018-12-31T18:30:00+00:00" />
 
 <meta name="twitter:title" content="Coda"/>
@@ -89,95 +89,22 @@ Fóra en va, també, perquè aquest joc amb els nombres i els mots, que converti
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -213,7 +140,7 @@ Fóra en va, també, perquè aquest joc amb els nombres i els mots, que converti
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/12/31/coda.html"><div class="post-date dt-published">2018-12-31</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/contes">#contes</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/12/31/coda.html"><div class="post-date dt-published">2018-12-31</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/contes">#contes</a></li> </ul>
     
     
 
@@ -236,7 +163,7 @@ Fóra en va, també, perquè aquest joc amb els nombres i els mots, que converti
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

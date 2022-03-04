@@ -14,11 +14,11 @@
 <title>La vista cansada</title>
 <meta name="description" content="">
 
-<link rel="alternate" type="application/rss+xml" href="https://blog.carlesbellver.net/feed.xml" title="La vista cansada" />
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="alternate" type="application/rss+xml" href="https://carlesbellver.net/feed.xml" title="La vista cansada" />
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398969" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402298" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,7 +55,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398969" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402298" />
 
 
 
@@ -70,7 +70,7 @@
 <meta name="og:title" content="La vista cansada"/>
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://blog.carlesbellver.net/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
+<meta property="og:url" content="https://carlesbellver.net/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
 
 <meta name="twitter:title" content="La vista cansada"/>
 <meta name="twitter:description" content=""/>
@@ -88,95 +88,22 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -196,7 +123,7 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2013/01/28/our-isolation-is.html">L&#39;aïllament no és permanent</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2013/01/28/our-isolation-is.html">L&#39;aïllament no és permanent</a></h1>
       </header>
       <div class="content post-summary retalls citacions">
         
@@ -215,7 +142,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2013/01/28/our-isolation-is.html"><div class="post-date dt-published">2013-01-28</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> <li><a href="https://blog.carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2013/01/28/our-isolation-is.html"><div class="post-date dt-published">2013-01-28</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> <li><a href="https://carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
     
     
 
@@ -248,7 +175,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2013/01/15/use-regional-dialect.html"><div class="post-date dt-published">2013-01-15</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2013/01/15/use-regional-dialect.html"><div class="post-date dt-published">2013-01-15</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
     
     
 
@@ -278,7 +205,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2012/12/21/063334.html"><div class="post-date dt-published">2012-12-21</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2012/12/21/063334.html"><div class="post-date dt-published">2012-12-21</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -311,7 +238,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2012/12/20/the-perfect-storm.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2012/12/20/the-perfect-storm.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -341,7 +268,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2012/12/20/205806.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/contes">#contes</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2012/12/20/205806.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/contes">#contes</a></li> </ul>
     
     
 
@@ -371,7 +298,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2012/12/20/191633.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/contes">#contes</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2012/12/20/191633.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/contes">#contes</a></li> </ul>
     
     
 
@@ -401,7 +328,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2012/12/20/160256.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/contes">#contes</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2012/12/20/160256.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/contes">#contes</a></li> </ul>
     
     
 
@@ -431,7 +358,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2012/12/20/150820.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/contes">#contes</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2012/12/20/150820.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/contes">#contes</a></li> </ul>
     
     
 
@@ -461,7 +388,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2012/12/20/070122.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/contes">#contes</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2012/12/20/070122.html"><div class="post-date dt-published">2012-12-20</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/contes">#contes</a></li> </ul>
     
     
 
@@ -474,7 +401,7 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2012/12/19/el-futur-s.html">El present és imprevisible</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2012/12/19/el-futur-s.html">El present és imprevisible</a></h1>
       </header>
       <div class="content post-summary citacions">
         
@@ -493,7 +420,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2012/12/19/el-futur-s.html"><div class="post-date dt-published">2012-12-19</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2012/12/19/el-futur-s.html"><div class="post-date dt-published">2012-12-19</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/citacions">#citacions</a></li> </ul>
     
     
 
@@ -509,12 +436,12 @@
     <div class="pagination">
         <div class="left pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/page/128/">posteriors</a>
+                <a href="https://carlesbellver.net/page/128/">posteriors</a>
             
         </div>
         <div class="right pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/page/130/">anteriors</a>
+                <a href="https://carlesbellver.net/page/130/">anteriors</a>
             
         </div>
     </div>
@@ -531,7 +458,7 @@
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

@@ -13,10 +13,10 @@
 <title>La vista cansada :: 100% Charles Beauvoir</title>
 <meta name="description" content="">
 
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402298" />
 <style>
 
     [data-theme="dark"] {   
@@ -53,7 +53,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398968" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402298" />
 
 
 
@@ -69,7 +69,7 @@
 <meta property="og:description" content="Charles Beauvoir és un personatge proteïforme que apareix recurrentment en els meus llibres. L’any 2009 ja vaig utilitzar Twitter per publicar un dels seus relats, narrat en primera persona i en temps real al llarg d’un llarg dia: 24 hores Ch. B.. Aquesta vegada, en canvi, l’experiència ha consistit a fer-li escriure històries autocontingudes, empaquetades cadascuna en els cent quaranta -o menys- caràcters d’un tuit. Van ser en total cent tuits, cent microcontes, més un extra de regal, difosos entre l’1 i el 21 de desembre de 2012. La inspiració em va venir de l’enigmàtic i fascinant @AuthenticWmGibs.
 En aquest recull, alliberat de tan estrictes limitacions d’espai, he desfet algunes de les abreviatures més molestes, he arreglat la puntuació i he afegit uns quants enllaços, per qui vulgui saber més, o distreure’s una estona, però sense adulterar mai la concissió original." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.carlesbellver.net/taller/100x100chb/" />
+<meta property="og:url" content="https://carlesbellver.net/taller/100x100chb/" />
 
 <meta name="twitter:title" content="100% Charles Beauvoir"/>
 <meta name="twitter:description" content="Charles Beauvoir és un personatge proteïforme que apareix recurrentment en els meus llibres. L’any 2009 ja vaig utilitzar Twitter per publicar un dels seus relats, narrat en primera persona i en temps real al llarg d’un llarg dia: 24 hores Ch. B.. Aquesta vegada, en canvi, l’experiència ha consistit a fer-li escriure històries autocontingudes, empaquetades cadascuna en els cent quaranta -o menys- caràcters d’un tuit. Van ser en total cent tuits, cent microcontes, més un extra de regal, difosos entre l’1 i el 21 de desembre de 2012. La inspiració em va venir de l’enigmàtic i fascinant @AuthenticWmGibs.
@@ -88,95 +88,22 @@ En aquest recull, alliberat de tan estrictes limitacions d’espai, he desfet al
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -199,7 +126,7 @@ En aquest recull, alliberat de tan estrictes limitacions d’espai, he desfet al
           
             
           
-          <p>Charles Beauvoir és un personatge proteïforme que apareix recurrentment en els meus llibres. L’any 2009 ja vaig utilitzar Twitter per publicar un dels seus relats, narrat en primera persona i en temps real al llarg d’un llarg dia: <a href="https://blog.carlesbellver.net/taller/24horesChB/">24 hores Ch. B.</a>. Aquesta vegada, en canvi, l’experiència ha consistit a fer-li escriure històries autocontingudes, empaquetades cadascuna en els cent quaranta -o menys- caràcters d’un tuit. Van ser en total cent tuits, cent microcontes, més un extra de regal, difosos entre l’1 i el 21 de desembre de 2012. La inspiració em va venir de l’enigmàtic i fascinant <a href="https://twitter.com/AuthenticWmGibs">@AuthenticWmGibs</a>.</p>
+          <p>Charles Beauvoir és un personatge proteïforme que apareix recurrentment en els meus llibres. L’any 2009 ja vaig utilitzar Twitter per publicar un dels seus relats, narrat en primera persona i en temps real al llarg d’un llarg dia: <a href="https://carlesbellver.net/taller/24horesChB/">24 hores Ch. B.</a>. Aquesta vegada, en canvi, l’experiència ha consistit a fer-li escriure històries autocontingudes, empaquetades cadascuna en els cent quaranta -o menys- caràcters d’un tuit. Van ser en total cent tuits, cent microcontes, més un extra de regal, difosos entre l’1 i el 21 de desembre de 2012. La inspiració em va venir de l’enigmàtic i fascinant <a href="https://twitter.com/AuthenticWmGibs">@AuthenticWmGibs</a>.</p>
 <p>En aquest recull, alliberat de tan estrictes limitacions d’espai, he desfet algunes de les abreviatures més molestes, he arreglat la puntuació i he afegit uns quants enllaços, per qui vulgui saber més, o distreure’s una estona, però sense adulterar mai la concissió original.</p>
 <p>També disponible en format ebook:</p>
 <p><img src="pictures/100x100-200x120.jpg" style="width:30px;height:50px;border:1px solid #666;margin:0;padding: 1px;" /> <a href="100x100ChB.epub">EPUB</a> <a href="100x100ChB.mobi">Kindle</a></p>
@@ -541,7 +468,7 @@ Desembre de 2012 - febrer de 2013</p>
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>

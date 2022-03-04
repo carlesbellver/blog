@@ -14,11 +14,11 @@
 <title>La vista cansada</title>
 <meta name="description" content="">
 
-<link rel="alternate" type="application/rss+xml" href="https://blog.carlesbellver.net/feed.xml" title="La vista cansada" />
-<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
+<link rel="alternate" type="application/rss+xml" href="https://carlesbellver.net/feed.xml" title="La vista cansada" />
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646398969" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646402298" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,7 +55,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646398969" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646402298" />
 
 
 
@@ -70,7 +70,7 @@
 <meta name="og:title" content="La vista cansada"/>
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://blog.carlesbellver.net/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
+<meta property="og:url" content="https://carlesbellver.net/" /><meta property="og:updated_time" content="2022-02-23T21:30:14+01:00" />
 
 <meta name="twitter:title" content="La vista cansada"/>
 <meta name="twitter:description" content=""/>
@@ -88,95 +88,22 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://blog.carlesbellver.net/about"><img class="avatar" src="https://blog.carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://blog.carlesbellver.net/about">Carles Bellver Torlà</a>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
   
     
     
-      <a href="https://blog.carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
     
-      <a href="https://blog.carlesbellver.net/" title="">Blog</a>
+      <a href="https://carlesbellver.net/" title="">Blog</a>
     
-      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
     
   
-  
-
-    
-
-
-
-    <a><button class="theme-switcher">
-        Tema fosc
-    </button></a>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "light"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-
 </nav>
 
       
@@ -214,7 +141,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/14/201350.html"><div class="post-date dt-published">2018-04-14</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/14/201350.html"><div class="post-date dt-published">2018-04-14</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -245,7 +172,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/13/detotnim-un-recurs.html"><div class="post-date dt-published">2018-04-13</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/13/detotnim-un-recurs.html"><div class="post-date dt-published">2018-04-13</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -278,7 +205,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/13/los-silencios-de.html"><div class="post-date dt-published">2018-04-13</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/13/los-silencios-de.html"><div class="post-date dt-published">2018-04-13</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -311,7 +238,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/12/nerea-barjola-alcsser.html"><div class="post-date dt-published">2018-04-12</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/12/nerea-barjola-alcsser.html"><div class="post-date dt-published">2018-04-12</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -344,7 +271,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/12/inside-the-jordan.html"><div class="post-date dt-published">2018-04-12</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/12/inside-the-jordan.html"><div class="post-date dt-published">2018-04-12</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -377,7 +304,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/11/in-blockchain-we.html"><div class="post-date dt-published">2018-04-11</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/11/in-blockchain-we.html"><div class="post-date dt-published">2018-04-11</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -408,7 +335,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/11/why-zuckerbergs-year.html"><div class="post-date dt-published">2018-04-11</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/11/why-zuckerbergs-year.html"><div class="post-date dt-published">2018-04-11</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -421,11 +348,11 @@
         <article class="post-list">
     
       <header class="post-header">
-        <h1 class="post-title"><a href="https://blog.carlesbellver.net/2018/04/10/cada-minut-naix.html">Cada minut naix un infeliç</a></h1>
+        <h1 class="post-title"><a href="https://carlesbellver.net/2018/04/10/cada-minut-naix.html">Cada minut naix un infeliç</a></h1>
       </header>
       <div class="content post-summary">
         
-          <p><a href="https://en.wikipedia.org/wiki/Cardiff_Giant"><img src="https://blog.carlesbellver.net/uploads/2019/73b506a143.jpg" alt="The Cardiff Giant being exhumed during October 1869" height="354" width="512"></a></p>
+          <p><a href="https://en.wikipedia.org/wiki/Cardiff_Giant"><img src="https://carlesbellver.net/uploads/2019/73b506a143.jpg" alt="The Cardiff Giant being exhumed during October 1869" height="354" width="512"></a></p>
 <p>Que el beneficiari electoral de la crisi pugui ser el partit que vol aprofundir-la ens podria sorprendre, si no sabéssim que, segons les estadístiques més rigoroses, <a href="https://en.wikipedia.org/wiki/There's_a_sucker_born_every_minute">cada minut naix un infeliç</a>: i un rapinyaire, al seu torn, es frega les mans.</p>
 <p>Moltes vegades s&rsquo;ha dit que ningú no es quedarà la còpia si pot triar l&rsquo;original. Però aquest teorema falla quan tots dos exemplars resulten més falsos que un amic de Facebook. En aquest cas, com il·lustra la història del <a href="https://en.wikipedia.org/wiki/Cardiff_Giant">gegant de Cardiff</a>, cadascú agafa aquell que més prop li cau o més bona cara li fa. Conten les cròniques que l&rsquo;any 1868, a Cardiff, Nova York, un tal George Hull, sens dubte un bromista, va manar tallar a un escultor un fals gegant prehistòric de tres metres d’alçada, imaginàriament petrificat. Després el va fer enterrar en una finca d’un cosí seu, William Newell, perquè fos descobert durant la construcció d’un pou. Es diu que un dels pouaters, en ensopegar amb la fingida relíquia, va exclamar: <em>“I declare, some old Indian has been buried here!”</em></p>
 <p>Llavors, Newell va instal·lar un envelat i va començar cobrant vint-i-cinc cèntims per veure el gegant. Dos dies més tard, davant de la concurrència de públic, va duplicar el preu de l’entrada. Finalment, va vendre el tresor per vint-i-tres mil dòlars a un grup d’empresaris, encapçalats per un tal David Hannum, que el van exhibir a Syracuse amb èxit continuat. El famós <a href="https://en.wikipedia.org/wiki/P._T._Barnum">P. T. Barnum</a> —el del circ Barnum, “el major espectacle del món”— els hi va oferir cinquanta-mil dòlars i van rebutjar l’oferta. Però Barnum no s’hi va conformar: si no podia tenir aquest gegant, n’encarregaria un d’igual. Això va fer i el va exhibir a Nova York. La seva publicitat assegurava que aquest era el bo i l’altre era de mentida.</p>
@@ -441,7 +368,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/10/cada-minut-naix.html"><div class="post-date dt-published">2018-04-10</div></a> <ul class="post-tags"></ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/10/cada-minut-naix.html"><div class="post-date dt-published">2018-04-10</div></a> <ul class="post-tags"></ul>
     
     
 
@@ -472,7 +399,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/08/new-theory-suggests.html"><div class="post-date dt-published">2018-04-08</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/08/new-theory-suggests.html"><div class="post-date dt-published">2018-04-08</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -503,7 +430,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://blog.carlesbellver.net/2018/04/07/194653.html"><div class="post-date dt-published">2018-04-07</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
+        <a class="u-url" href="https://carlesbellver.net/2018/04/07/194653.html"><div class="post-date dt-published">2018-04-07</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/retalls">#retalls</a></li> </ul>
     
     
 
@@ -519,12 +446,12 @@
     <div class="pagination">
         <div class="left pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/page/78/">posteriors</a>
+                <a href="https://carlesbellver.net/page/78/">posteriors</a>
             
         </div>
         <div class="right pagination-item ">
             
-                <a href="https://blog.carlesbellver.net/page/80/">anteriors</a>
+                <a href="https://carlesbellver.net/page/80/">anteriors</a>
             
         </div>
     </div>
@@ -541,7 +468,7 @@
     <div class="common-footer-bottom">
         
         <div class="copyright">
-            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
+            <p><a href="https://carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
     </div>
