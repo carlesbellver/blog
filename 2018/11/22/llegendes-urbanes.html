@@ -13,19 +13,16 @@
 <title>La vista cansada :: Llegendes urbanes</title>
 <meta name="description" content="">
 
-<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
-<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+<link rel="icon" type="image/x-icon" href="https://blog.carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://blog.carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1646485198" />
+<link rel="stylesheet" href="https://blog.carlesbellver.net/css/light.css?rnd=1646385095" />
 <style>
 
     [data-theme="dark"] {   
         --font-color: #eee;
 --bg-color: #111;
 --content-bg-color: #111; /* #191919; */
-
---menu-color: #eee;
---menu-bg-color: #212121;
 
 --link-color:#599ada;
 --link-state-color:#ff5858;
@@ -53,7 +50,7 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1646485198" />
+<link rel="stylesheet" href="https://blog.carlesbellver.net/css/style.css?rnd=1646385095" />
 
 
 
@@ -68,7 +65,7 @@
 <meta name="og:title" content="Llegendes urbanes"/>
 <meta property="og:description" content="Hi havia dubtes, o més aviat versions diferents, sobre l’origen de la contaminació: podia ser un fragment del meteorit que va caure prop d’Arkham l’any 1882 —el que va desaparèixer del Museu de Ciències Naturals mentre la universitat romangué tancada, durant la caça de bruixes—, o el tros de motlura d’una balustrada que Walter Gilman, estudiant de matemàtiques, va trobar al seu llit —després d’un somni en què s’havia sentit transportat a un altre món— i que ningú més no havia vist mai. Fos el que fos, algú va enviar-ho per correu a un professor de Miskatonic i aquest va morir de manera fulminant en obrir el paquet." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://carlesbellver.net/2018/11/22/llegendes-urbanes.html" /><meta property="article:published_time" content="2018-11-22T18:30:00+00:00" />
+<meta property="og:url" content="https://blog.carlesbellver.net/2018/11/22/llegendes-urbanes.html" /><meta property="article:published_time" content="2018-11-22T18:30:00+00:00" />
 <meta property="article:modified_time" content="2018-11-22T18:30:00+00:00" />
 
 <meta name="twitter:title" content="Llegendes urbanes"/>
@@ -87,20 +84,16 @@
     <header class="common-header"> 
       
         <nav>
-  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
-  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
+  
+  <a href="https://blog.carlesbellver.net/">La vista cansada</a>
   
     
     
-      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      <a href="https://blog.carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
     
-      <a href="https://carlesbellver.net/" title="">Blog</a>
+      <a href="https://blog.carlesbellver.net/photos/" title="">Fotos</a>
     
-      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
-    
-      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
-    
-      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+      <a href="https://blog.carlesbellver.net/search/" title="">Cercar</a>
     
   
 </nav>
@@ -112,11 +105,6 @@
             
     
     
-    
-      
-    
-    
-
     <article class="post contes h-entry">
       <header class="post-header">
         <h1 class="post-title">Llegendes urbanes</h1>
@@ -142,7 +130,7 @@
 
 <div class="post-info">
     
-        <a class="u-url" href="https://carlesbellver.net/2018/11/22/llegendes-urbanes.html"><div class="post-date dt-published">2018-11-22</div></a> <ul class="post-tags"><li><a href="https://carlesbellver.net/tags/contes">#contes</a></li> </ul>
+        <a class="u-url" href="https://blog.carlesbellver.net/2018/11/22/llegendes-urbanes.html"><div class="post-date dt-published">2018-11-22</div></a> <ul class="post-tags"><li><a href="https://blog.carlesbellver.net/tags/contes">#contes</a></li> </ul>
     
     
 
@@ -159,16 +147,88 @@
         </main>
         
             <footer class="common-footer">
+    
+    
 
     <div class="common-footer-bottom">
         
         <div class="copyright">
-          <p>
-            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
-            2002 - 2022
-          </p>  
+            <p><a href="https://blog.carlesbellver.net/about/">La vista cansada // Carles Bellver Torlà</a> //  <a href="https://blog.carlesbellver.net/about/">contacte</a></p>  
         </div> 
 
+        
+
+    
+
+
+
+    <button class="theme-switcher">
+        Tema fosc
+    </button>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+   
     </div>
 </footer>
 
