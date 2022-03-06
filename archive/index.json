@@ -667,8 +667,8 @@
 				"title": "",
 				"date_published": "2021-03-08T19:21:12+00:00",
 				"url": "https://carlesbellver.net/2021/03/08/27672/",
-				"tags": "fotos",
-				"content_text": " Jo vull tornar a viure on l\u0026amp;rsquo;herba\nno és com aquí pur ornament, joia dels ulls\nque dura l\u0026amp;rsquo;any sencer.\n — Attilio Bertolucci, Porta’m amb tu / Portami con te. Primer títol —una delícia— de Salze, projecte editorial de Marta Vilardaga i Josep Porcar.\n"
+				"tags": "fotos, citacions",
+				"content_text": " Jo vull tornar a viure on l\u0026amp;rsquo;herba\nno és com aquí pur ornament, joia dels ulls\nque dura l\u0026amp;rsquo;any sencer.\n —Attilio Bertolucci, Porta’m amb tu / Portami con te\nPrimer títol —una delícia— de Salze, projecte editorial de Marta Vilardaga i Josep Porcar.\n"
 			},
 			{
 				"title": "",
@@ -6114,7 +6114,7 @@
 				"date_published": "2018-03-08T11:41:00+00:00",
 				"url": "https://carlesbellver.net/2018/03/08/124153.html",
 				"tags": "retalls",
-				"content_text": "📎 Con el delantal por delante max-elblog.blogspot.com.es/2018/03/trampantojo…\n\n"
+				"content_text": "📎 Max: Trampantojo #175 \nCon el delantal por delante.\n\n"
 			},
 			{
 				"title": "Salvador Espriu i la Sinera de Lovecraft",
@@ -8084,11 +8084,11 @@
 				"content_text": "El rector ens acaba d’anomenar “personal de serveis burocràtics” en una circular. M’ha arribat a l’ànima i he pensat uns segons en Max Weber.\n"
 			},
 			{
-				"title": "Anna, Betty i Clara",
+				"title": "",
 				"date_published": "2017-03-08T23:00:00+00:00",
 				"url": "https://carlesbellver.net/2017/03/08/anna-betty-i.html",
 				"tags": "citacions",
-				"content_text": " Les càpsules espacials no eren el sistema més elegant de transport dissenyat per l’home, però resultaven del tot imprescindibles en les tasques de construcció i manteniment en el buit. Normalment les batejaven amb noms de dona, potser perquè les seves personalitats de vegades eren lleugerament impredictibles. El trio de la Discovery eren Anna, Betty i Clara.\n — Arthur C. Clarke, 2001, una odissea de l’espai (1968).\nAçò també ho va encertar Clarke: l’any 2001, i el 2017, continuem sent molt masclistes.\n"
+				"content_text": " Les càpsules espacials no eren el sistema més elegant de transport dissenyat per l’home, però resultaven del tot imprescindibles en les tasques de construcció i manteniment en el buit. Normalment les batejaven amb noms de dona, potser perquè les seves personalitats de vegades eren lleugerament impredictibles. El trio de la Discovery eren Anna, Betty i Clara.\n —Arthur C. Clarke, 2001, una odissea de l’espai (1968).\nAçò també ho va encertar Clarke: l’any 2001, i el 2017, continuem sent molt masclistes.\n"
 			},
 			{
 				"title": "Wittgenstein: la visió moderna del món",
@@ -8269,7 +8269,7 @@
 				"title": "",
 				"date_published": "2016-03-08T23:00:00+00:00",
 				"url": "https://carlesbellver.net/2016/03/08/000000.html",
-				"tags": "",
+				"tags": "citacions",
 				"content_text": " Perden el temps els qui creuen que canviant la llengua canvien el món.\n Llavors, ha estat un caprici neoliberal apoderar-se del llenguatge?\n"
 			},
 			{
@@ -8597,16 +8597,16 @@
 			{
 				"title": "",
 				"date_published": "2015-03-08T23:00:00+00:00",
-				"url": "https://carlesbellver.net/2015/03/08/the-greatest-program.html",
-				"tags": "retalls",
-				"content_text": "📎 The greatest program ever written\n1K chess on the ZX81. Those furious, exciting 8-bit days, when the limitations defined the experience of programming.\n"
-			},
-			{
-				"title": "El héroe de las mujeres (y el de las películas)",
-				"date_published": "2015-03-08T23:00:00+00:00",
 				"url": "https://carlesbellver.net/2015/03/08/el-hroe-de.html",
 				"tags": "citacions",
-				"content_text": " —¿Con quién se fue la estrella? —preguntó Laura.\n—¿Con quién se va a ir? —replicó don Nicolás—. Con el héroe.\n—El héroe de las mujeres —observó Laura— no siempre es el héroe de los hombres.\nLartigue contestó:\n—Una gran verdad; pero no olvide, señora, que en las películas el héroe es uno solo.\n Adolfo Bioy Casares, “El héroe de las mujeres”.\n"
+				"content_text": " —¿Con quién se fue la estrella? —preguntó Laura.\n—¿Con quién se va a ir? —replicó don Nicolás—. Con el héroe.\n—El héroe de las mujeres —observó Laura— no siempre es el héroe de los hombres.\nLartigue contestó:\n—Una gran verdad; pero no olvide, señora, que en las películas el héroe es uno solo.\n —Adolfo Bioy Casares, “El héroe de las mujeres”.\n"
+			},
+			{
+				"title": "",
+				"date_published": "2015-03-08T23:00:00+00:00",
+				"url": "https://carlesbellver.net/2015/03/08/the-greatest-program.html",
+				"tags": "retalls",
+				"content_text": "📎 The greatest program ever written\nEscacs en el Sinclair ZX81. En 1 KB de RAM! Els dies furiosos i excitants dels vuit bits, quan les limitacions del maquinari definien l\u0026amp;rsquo;experiència de la programació.\n"
 			},
 			{
 				"title": "",
@@ -10229,7 +10229,7 @@
 				"title": "Nebaud amb Lovecraft",
 				"date_published": "2003-03-08T21:00:00+00:00",
 				"url": "https://carlesbellver.net/2003/03/08/nebaud-lovecraft/",
-				"tags": "",
+				"tags": "contes",
 				"content_text": "En la seva biografia d\u0026amp;rsquo;H. P. Lovecraft, l\u0026amp;rsquo;erudit S. T. Joshi nega tres vegades que Jacques Bergier hagués conegut realment el solitari de Providence. No cal que ens estranyem, doncs, que ni tan sols esmente l\u0026amp;rsquo;ubic i elusiu B. J. Nebaud.\nNebaud va conèixer Lovecraft en el seu primer —i darrer— viatge a Amèrica, l\u0026amp;rsquo;any 1924. Farnsworth Wright, l\u0026amp;rsquo;editor de la cèlebre revista d\u0026amp;rsquo;històries de por Weird Tales, va facilitar la trobada. Nebaud hi fa referència en l\u0026amp;rsquo;anotació següent del seu diari:\n M\u0026amp;rsquo;ha vingut a veure a l\u0026amp;rsquo;hotel en Howard Lovecraft. F. W. em va deixar llegir ahir un parell de contes seus: \u0026amp;ldquo;Dagon\u0026amp;rdquo; i \u0026amp;ldquo;La declaració de Randolph Carter\u0026amp;rdquo;. El senyor Lovecraft juga amb monstres, dimonis, civilitzacions desaparegudes i realitats velades. M\u0026amp;rsquo;ha ensenyat un llibre antic, l\u0026amp;rsquo;anomenat Necronomicon. El tacte de la coberta de pell (humana?) era repugnant. Ell m\u0026amp;rsquo;indicava una pàgina, assenyalava un …"
 			},
 			{
