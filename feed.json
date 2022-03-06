@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/03/06/88436/",
+				
+				"content_html": "<p>Diuen que ningú llegeix —o escriu— ja blogs, però jo avui he endreçat el meu.</p>\n",
+				"date_published": "2022-03-06T18:40:37+01:00",
+				"url": "https://carlesbellver.net/2022/03/06/88436/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/02/23/busties-secretes/",
 				
 				"content_html": "<p>Les organitzacions clandestines utilitzaven sovint bústies secretes per a comunicar-se.</p>\n<img alt=\"Bústia\" src=\"/uploads/2022/2022-02-23-busties-secretes.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://arstechnica.com/information-technology/2021/12/end-of-the-line-finally-coming-for-blackberry-devices/\">End of the line finally coming for BlackBerry devices</a></p>\n<blockquote>\n<p>Pot resultar difícil d&rsquo;imaginar si no fèieu servir mòbils en aquell moment, però BlackBerry dominava el mercat dels telèfons intel·ligents… Un senyal de la seva importància és que les primeres versions internes d&rsquo;Android pareixien una imitació barata de BlackBerry, en lloc de la imitació barata de l&rsquo;iPhone que es va llançar finalment.</p>\n</blockquote>\n",
 				"date_published": "2022-01-01T16:07:55+00:00",
 				"url": "https://carlesbellver.net/2022/01/01/49675/"
-			},
-			{
-				"id": "https://carlesbellver.net/2021/12/25/venus-willendorf/",
-				
-				"content_html": "<p>I remember you well in the Natural History Museum in Vienna.</p>\n<img alt=\"\" src=\"/uploads/2021/2021-12-25-venus-willendorf.jpg\">\n",
-				"date_published": "2021-12-25T09:30:10+01:00",
-				"url": "https://carlesbellver.net/2021/12/25/venus-willendorf/"
 			}
 	]
 }
