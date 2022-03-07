@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/03/07/jovexsempre/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.nomepierdoniuna.net/blu-boi-emac-2022-vivimos-en-un-mundo-tan-cambiante-y-agresivo-que-es-imposible-dejar-atras-la-juventud/\">Blu Boi (Emac 2022): “Vivimos en un mundo tan cambiante y agresivo que es imposible dejar atrás la juventud”</a></p>\n<blockquote>\n<p>El título no se plantea como una oda a la juventud sino como una descripción del momento en el que me encuentro en el que las cosas no avanzan. Puede que cuando tenga treinta y cinco años siga en un punto similar de emociones vinculadas a la precariedad y ansiedad, y eso es lo que yo entiendo por juventud. Se supone que debe ser un proceso de aprendizaje vinculado con la inexperiencia, el miedo y el descubrimiento, aunque vivimos en un mundo tan cambiante y agresivo que me parece imposible haber dejado atrás esa situación en los próximos cuatro años. Llamar <em>Jove x sempre</em> al disco es mi manera de cagarme en todo y quedarme a gusto.</p>\n</blockquote>\n",
+				"date_published": "2022-03-07T16:26:43+01:00",
+				"url": "https://carlesbellver.net/2022/03/07/jovexsempre/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/03/06/88436/",
 				
 				"content_html": "<p>Diuen que ningú llegeix —o escriu— ja blogs, però jo avui he endreçat el meu.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://xclacksoverhead.org/home/about\">X-Clacks-Overhead</a></p>\n<blockquote>\n<p>Amb la intenció de preservar la memòria de Sir Terry Pratchett, els usuaris del <a href=\"https://www.reddit.com/r/discworld/\">SubReddit de la sèrie Discmon</a> van tenir la <a href=\"https://www.reddit.com/r/discworld/comments/2yt9j6/gnu_terry_pratchett/\">idea de la capçalera HTTP X-Clacks-Overhead</a>. Permet als desenvolupadors web commemorar algú en silenci mitjançant l&rsquo;ús d&rsquo;una capçalera no invasiva que es pot transmetre de servidor a servidor o de servidor a client sense causar interferències operatives.</p>\n</blockquote>\n",
 				"date_published": "2022-01-01T20:13:27+00:00",
 				"url": "https://carlesbellver.net/2022/01/01/64407/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/01/49675/",
-				
-				"content_html": "<p>📎 <a href=\"https://arstechnica.com/information-technology/2021/12/end-of-the-line-finally-coming-for-blackberry-devices/\">End of the line finally coming for BlackBerry devices</a></p>\n<blockquote>\n<p>Pot resultar difícil d&rsquo;imaginar si no fèieu servir mòbils en aquell moment, però BlackBerry dominava el mercat dels telèfons intel·ligents… Un senyal de la seva importància és que les primeres versions internes d&rsquo;Android pareixien una imitació barata de BlackBerry, en lloc de la imitació barata de l&rsquo;iPhone que es va llançar finalment.</p>\n</blockquote>\n",
-				"date_published": "2022-01-01T16:07:55+00:00",
-				"url": "https://carlesbellver.net/2022/01/01/49675/"
 			}
 	]
 }
