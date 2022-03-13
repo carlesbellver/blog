@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/03/13/gemutlichkeit/",
+				
+				"content_html": "<blockquote>\n<p><em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>OANS ZWOA DREI! G’SUFFA!</em></p>\n</blockquote>\n<p>Col·legi Universitari de Castelló. Cap a 1990? <a href=\"https://ca.wikipedia.org/wiki/Vicent_Mart%C3%ADnez_Guzm%C3%A1n\">Vicent Martínez Guzmán</a> ens il·lustrava sobre les dificultats per a <a href=\"https://publicacions.iec.cat/repository/pdf/00000082/00000067.pdf\">traduir amb precisió el mot alemany <em>Gemüt</em></a>, en el context de la filosofia de Husserl, i <a href=\"http://eticaydemocracia.uji.es/cvs/salvador/cv.pdf\">Salvador Cabedo Manuel</a> ens va sorprendre —ens va desconcertar— entonant aquesta cançoneta popular alemanya. Típica de les cerveseries, ens va explicar tot seguit. Trenta anys després, la trobe transcrita en una novel·la de Jonathan Coe i recorde l’anècdota. Un brindis, un brindis per aixecar l&rsquo;ànim! <em>Der Gemütlichkeit!</em> La vida i la filosofia.</p>\n<p><a href=\"https://www.flickr.com/photos/usnationalarchives/4726903479\" title=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"><img src=\"/uploads/2022/2022-03-13-gemutlichkeit.jpg\" alt=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"></a></p>\n",
+				"date_published": "2022-03-13T10:48:55+01:00",
+				"url": "https://carlesbellver.net/2022/03/13/gemutlichkeit/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/03/07/jovexsempre/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.nomepierdoniuna.net/blu-boi-emac-2022-vivimos-en-un-mundo-tan-cambiante-y-agresivo-que-es-imposible-dejar-atras-la-juventud/\">Blu Boi (Emac 2022): “Vivimos en un mundo tan cambiante y agresivo que es imposible dejar atrás la juventud”</a></p>\n<blockquote>\n<p>El título no se plantea como una oda a la juventud sino como una descripción del momento en el que me encuentro en el que las cosas no avanzan. Puede que cuando tenga treinta y cinco años siga en un punto similar de emociones vinculadas a la precariedad y ansiedad, y eso es lo que yo entiendo por juventud. Se supone que debe ser un proceso de aprendizaje vinculado con la inexperiencia, el miedo y el descubrimiento, aunque vivimos en un mundo tan cambiante y agresivo que me parece imposible haber dejado atrás esa situación en los próximos cuatro años. Llamar <em>Jove x sempre</em> al disco es mi manera de cagarme en todo y quedarme a gusto.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.</p>\n<img alt=\"Rètol de l'Ull Soluble\" src=\"/uploads/2022/2022-01-03-ull-soluble.jpg\">\n",
 				"date_published": "2022-01-03T19:06:02+01:00",
 				"url": "https://carlesbellver.net/2022/01/03/ull-soluble/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/01/64407/",
-				
-				"content_html": "<p>📎 <a href=\"https://xclacksoverhead.org/home/about\">X-Clacks-Overhead</a></p>\n<blockquote>\n<p>Amb la intenció de preservar la memòria de Sir Terry Pratchett, els usuaris del <a href=\"https://www.reddit.com/r/discworld/\">SubReddit de la sèrie Discmon</a> van tenir la <a href=\"https://www.reddit.com/r/discworld/comments/2yt9j6/gnu_terry_pratchett/\">idea de la capçalera HTTP X-Clacks-Overhead</a>. Permet als desenvolupadors web commemorar algú en silenci mitjançant l&rsquo;ús d&rsquo;una capçalera no invasiva que es pot transmetre de servidor a servidor o de servidor a client sense causar interferències operatives.</p>\n</blockquote>\n",
-				"date_published": "2022-01-01T20:13:27+00:00",
-				"url": "https://carlesbellver.net/2022/01/01/64407/"
 			}
 	]
 }
