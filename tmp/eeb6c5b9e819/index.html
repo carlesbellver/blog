@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Pop art</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1647264125" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1647264125" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="Pop art"/>
+<meta property="og:description" content="Ell era un col·leccionista, en més d’un aspecte. L’interès d’ella era estrictament acadèmic, centrat en la tesi doctoral que preparava sobre determinats aspectes de la recepció de l’art pop a València. Als seus ulls, pareixien com l’oli i l’aigua. Ningú hauria pogut preveure que passaria res entre ells…" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/tmp/eeb6c5b9e819/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/><meta property="article:published_time" content="2021-10-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-10-01T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+<meta name="twitter:title" content="Pop art"/>
+<meta name="twitter:description" content="Ell era un col·leccionista, en més d’un aspecte. L’interès d’ella era estrictament acadèmic, centrat en la tesi doctoral que preparava sobre determinats aspectes de la recepció de l’art pop a València. Als seus ulls, pareixien com l’oli i l’aigua. Ningú hauria pogut preveure que passaria res entre ells…"/>
+
+
+
+
+<meta name="page-source-path" content="tmp/eeb6c5b9e819.md">
+
+
+
+
+<style type="text/css">
+  h1.post-title { font-style: italic; }
+</style>
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a><button class="theme-switcher">
+        Tema fosc
+    </button></a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    
+    
+      <nav class="post-navigation">
+        
+          
+          <span class="readingtime">🕐 23 minuts</span>
+        
+      </nav>
+    
+    
+
+    <article class="post h-entry">
+      <header class="post-header">
+        <h1 class="post-title">Pop art</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Ell era un col·leccionista, en més d’un aspecte. L’interès d’ella era estrictament acadèmic, centrat en la tesi doctoral que preparava sobre determinats aspectes de la recepció de l’art pop a València. Als seus ulls, pareixien com l’oli i l’aigua. Ningú hauria pogut preveure que passaria res entre ells. Paco Bernad va canviar el disc —una altra versió d’<em>I’ll be your mirror</em>, ara en directe?— i va continuar parlant amb delit dels cartells que atresorava al seu estudi. Dalt en tenia molts més, va insistir, després pujarien a veure’ls. Van tornar a riure i va omplir els gots una altra vegada. No, gràcies, va refusar Marzà amb un somriure cansat, tapant el seu amb la mà.</p>
+<p>L’atracció mútua, per bé que inesperada, resultava evident, i aparentment irresistible. Qui ho havia de dir, que trobaria cap atractiu en aquella estudiant formaleta, tan poc cridanera, un cosset exigu que a penes omplia la seva roba gastada i mancada de personalitat: texans, vambes i samarreta. Per no parlar dels cabells curts mal tallats i les arracades de perles falses, que li degué regalar alguna tia seua per la primera comunió. Es va adonar, amb un íntim escàndol, que si els deixava sols acabarien al llit abans que els darrers raigs del sol travessaren el finestró des de Penyagolosa. I això li plantejava un dilema: intentaria protegir la integritat moral —i emocional— de la seua exalumna, o permetria que la roda de la vida seguira el seu curs? Com si poguera evitar-ho. La roda, és clar, giraria més prompte que tard, tant si hi intervenia com si no.</p>
+<p>Quan es va alçar per acomiadar-se, per tant, es va sorprendre que ella diguera que també marxava, i que ell no fera res per retindre-la. Durant el trajecte fins a Castelló, en el Renault 5 de Marzà, Neus es va mostrar en tot moment eufòrica, amb unes ganes rabioses de xarrar sobre els seus projectes i les descobertes que estava fent.</p>
+<p>Tingueren, és clar, un tòrrid afer, que no exclogué les tumultuoses ruptures ni les mitges reconciliacions. Però es podria dir que, al capdavall, la relació fou mútuament beneficiosa. Ella va créixer i es va enfortir. Va acabar la tesi i va fer carrera a la Universitat de València, on arribà a catedràtica. Ell es va deixondir i, després d’anys mirant-se el melic, es va obrir a noves perspectives i tendències. Decidí esmerçar una part dels seus diners i del seu temps a tirar endavant una sala d’exposicions i diversos negocis culturals. Al llarg dels anys, els seus camins s’encreuarien en múltiples ocasions —en l’organització d’una mostra de videoart, en l’homenatge a Aguilera Cerni, davant dels <em>Tresors</em> de Damien Hirst a la biennal de Venècia— i s’acostumaren a pensar que els finals, entre ells, no tenien per què ser mai definitius.</p>
+<p>De vegades, Marzà es recordava d’aquesta història amb un punt d’amargor.</p>
+<h2 id="tentatur-homo-interius-à-diabolo-verbigratia-in-ocio-in-tentatione-in-malitia--in-vanagloria">Tentatur homo interius à Diabolo: verbigratia, in ocio, in tentatione, in malitia, &amp; in vanagloria.</h2>
+<p>—Jo era orfe.</p>
+<p>Ara volia jugar la carta sentimental? —es va preguntar Neus—. I amb quin propòsit? Jeien cap per amunt en un llit no molt ample —abans feien els llits més estrets, fins i tot els de matrimoni—, però se sentien estranyament còmodes tan prop un de l’altre, la pell suada amb la pell suada. Almenys ella se’n sentia, i aparentment ell també. Paco acabava d’encendre una cigarreta. Li havia demanat permís.</p>
+<p>—Els meus pares havien mort uns anys abans en un accident de trànsit, tornant d’una boda per la carretera general. Els va arreplegar un camió de cara a les costes d’Orpesa. El meu oncle, que era fadrí, administrava la meva herència i m’ho tolerava tot. Fins que vaig obligar-lo, a contracor, a exercir d’afermamossos…</p>
+<p>Afermamossos: antic funcionari municipal encarregat de recollir els vagabunds i ocupar-los en feines de profit.</p>
+<p>—Per a celebrar el meu aniversari, vam entrar a la vil·la dels pares d’un amic, aprofitant que ells no hi eren, ens vam beure el seu whisky, li vam agafar prestat el Mercedes i ens vam passejar tota la nit per les discoteques de la costa. Li’l vam tornar de bon matí, només molt lleugerament abonyegat, però algú ja l’havia advertit i la policia ens esperava. Vam passar el dia al calabós, fins que se’n va assabentar el meu oncle, que era secretari del president de la Diputació i va començar a moure fils. La manera d’arreglar-ho es podria considerar enginyosa. Va aconseguir fer alterar l’hora de l’atestat, de manera que jo no tinguera encara responsabilitat penal, tot just per uns minuts.</p>
+<p>—No te’n deus sentir orgullós, espere.</p>
+<p>—Les coses van ser com van ser i ja no es poden canviar. Els favors i la corrupció eren generalitzats, molt més que ara, diguen el que diguen. A més a més, volies saber com vaig anar a parar a aquell poblet i per això t’explique aquesta història.</p>
+<p>—Tens raó. Continua.</p>
+<p>Només s’havia saltat un parell de detalls. Aquell matí d’estiu, just abans de retornar el cotxe, havien atropellat un veí que eixia del seu xalet i ni tan sols es van aturar a auxiliar-lo. I a un dels seus companys de gresca nocturna, que no tenia tan bons padrins com ell, o com els altres, li va tocar pagar pels pecats de tots i es va tirar quasi un any tancat a la presó.</p>
+<p>—El meu oncle, amb molt bon criteri, va decidir que em convenia canviar d’aires i tindre alguna obligació que m’omplira el temps i m’apartara del pecat. Un dels seus amics, un diputat provincial, era justament l’alcalde d’un poblet que tu ja coneixes, no molt lluny de la capital, però una mica deixat de la mà de Déu. Un paratge amb molta història i poc present on la Diputació havia acceptat finançar un projecte esbojarrat i destrellatat: crear un museu d’art modern, ni més ni menys. Havia estat una idea casual d’un crític d’art de València, que en una visita fortuïta es va quedar fascinat per un vell palau gòtic, mig enrunat com moltes altres cases de la part alta, que van patir bombardeigs durant la Guerra Civil. Tota el casc antic estava molt deteriorat i la gent havia començat a abandonar-lo. Es podien comprar algunes cases, quatre parets, per uns milers de pessetes i rehabilitar-les amb esforç i paciència, arreglar teulades, instal·lar l’aigua corrent… i això havia començat a fer un grupet de pintors. Quan vaig arribar-hi jo, aquells carrers costeruts eren ja un formiguer d’art, artistes i la seua cort.</p>
+<p>—Quina cort?</p>
+<p>—Crítics, professors, escriptors, diletants…</p>
+<p>—M’ho imagine. I la presència femenina també devia ser fascinant, si m’he fet bé la idea de com funciona i funcionava aquest món. Així que ja puc suposar per què vas decidir quedar-t’hi.</p>
+<p>—<em>Sex and drugs and rock ‘n’ roll</em>. <em>Guateques</em> i orgies. Això estàs pensant, no? Doncs t’equivoques. De drogues sí que sabia alguna cosa, però el que vaig descobrir ací va ser l’art i punt. De sexe, res. Encara devia tardar un parell d’anys a estrenar-me. No vaig ser tan precoç com creus, ni de bon tros.</p>
+<p>Segur que en arribar el moment ho vas compensar amb escreix, va pensar ella, però no li ho va dir.</p>
+<p>—Sabies que la frase original parlava de vi, dones i cançons, i que s’atribueix a Luter?</p>
+<p>—És a dir, el dimoni.</p>
+<p>La referència a Julio Cortázar els va fer esclafir a riure a tots dos. Un altre punt d’unió, un altre miracle intergeneracional.</p>
+<p>—A més a més, estem parlant de mil nou-cents setanta i pocs. A Madrid, o a Barcelona, no ho sé, però en aquestes contrades l’ambient era molt auster. No hi havia arribat, l’amor lliure. I la meua situació no deixava de ser de llibertat condicional, per dir-ho així, o almenys sota vigilància. A través de l’alcalde, el meu oncle havia fet que m’allotjara un matrimoni en una cambra de la seva casa, just davant de l’edifici del museu, on m’havien enviat a treballar.</p>
+<p>—La casa on vius ara?</p>
+<p>—Exacte. La vaig comprar als hereus, anys després, quan van morir els propietaris.</p>
+<p>—I quina feina feies al museu?</p>
+<p>—Res important, qualsevol cosa que em volgueren manar. Carregava caixes, ajudava a penjar quadres, agranava… O passava escrits a màquina i despatxava la correspondència. Aquesta mena de coses. I alguna altra més peculiar, de tant en tant, com gravar psicofonies en un soterrani i enviar les cintes a Alemanya perquè les analitzaren.</p>
+<p>Neus va fer cara d’astorament, o d’incredulitat.</p>
+<p>—Això és el que intentava contar-te. Va ser una iniciativa d’un individu excèntric, un tipus molt curiós. Ja t’he mencionat la fauna que pul·lulava al voltant del museu i dels artistes. Es deia Alejandro i formava part d’un grup de tres o quatre persones que van vindre un dia en cotxe amb Paco Puig, un pintor de Castelló. Ell i Manolo, l’alguatzil del poble i porter del Museu, els van fer una visita guiada per tot l’edifici, i jo m’hi vaig afegir. No feia més que un parell de setmanes que havia començat el meu desterrament i sentia curiositat per tot. L’Alejandro aquell era alt, ben plantat, amb barba i cabells llargs estil <em>Jesus Christ Superstar</em>. Aparentava uns trenta i tants o quaranta anys. Parlava amb accent sudamericà, crec que algú va mencionar que era argentí, o xilè, però vivia a París. Se suposava que era actor i director de cinema d’<em>avant-garde</em>, a més d’escriptor, filòsof i no sé quantes coses més. Es va comportar molt educadament durant el <em>tour</em>, però sense parlar massa, com si no volguera destacar. No va pronunciar més que uns pocs monosíl·labs, o frases molts breus d’apreciació dels quadres i escultures que anàvem veient, quan un o altre li demanaven opinió. A mi em pareixia que res li causava una gran impressió, ni favorable ni desfavorable. Fins que vam baixar a les cambres subterrànies, on hi havia l’antic celler i el molí d’oli. Jo no hi havia estat mai. Aquelles sales encara no les havia tocat ningú i em va fer l’efecte que ens ficàvem de cap a l’edat mitjana, des d’un dubtós segle XX, i per a més inri sense eixida possible, tancats entre quatre parets de blocs de pedra roja tallats al mateix infern. Un atzucac existencial. Espera, no te’n rigues. Aleshores, l’alguatzil va tenir la pensada d’explicar als il·lustres forasters una llegenda local. Se suposava que en aquell palau havia viscut al segle XVII una dona de gran virtut —“una santa”, va dir literalment—, muller del batle reial, que proveïa d’oli les persones necessitades amb unes gerres que guardava allí baix, les quals no s’esgotaven mai. Les gerres encara hi eren, per cert. El cas és que el poble li atribuïa tota mena de portents en la millor tradició del catolicisme gòtic i contrarreformista: a més d’obres de caritat miraculoses, també penitències extremes, o enfrontaments heroics amb el dimoni. I amb això arribem a l’element esotèric. L’alguatzil va assegurar que, segons nombrosos testimonis, encara se sentien allí on érem uns xiuxiueigs, ni més ni menys que els precs i oracions de <em>la santa</em>.</p>
+<p>—<em>¿Podrían, por favor, guardar silencio durante un minuto? Y apagar la luz.</em></p>
+<p>Va estrafer un to de veu cerimoniós i un accent vagament sud-americà. No ho feia molt bé. Neus es va riure.</p>
+<p>—Reconec que estava acollonit. En aquell enfony no hi havia encara instal·lació elèctrica. Manolo va apagar la llanterna que portava i a mi el minut, si és que va ser un minut, se’m va fer etern, tot i que no vam sentir absolutament res. En eixir vam anar directament al carrer, delerant l&rsquo;aire lliure i la llum, o almenys així ho vaig viure jo. Alehores, aquell tipus que pareixia un profeta va dir: “<em>Haremos una cosa</em>”. La cosa era el pla que acabava d’idear sobre la marxa. Cada nit, al llarg d’una setmana, gravaríem una cinta de llarga durada al soterrani i l’enviaríem a una adreça que ens donaria ell: un laboratori alemany especialitzat, ens va dir, on analitzarien les gravacions amb un freqüencímetre, o algun nom d’artefacte per l’estil.</p>
+<p>—I ho vau fer?</p>
+<p>—Ho vam fer, després de cerciorar-nos que ell sufragaria les despeses. Al cap i a la fi seria un projecte seu i anàvem molt justs de pressupost. Al més prompte possible, ens va prometre, ens faria arribar un gir postal que ho cobriria tot, la gravadora, les cintes, el correu… Va complir el compromís. L’endemà o l’endemà passat teníem els diners. De gravadora, no va caler buscar-ne cap, perquè al museu ja en teníem una, però sí que havíem de comprar les cintes de dos-cents quaranta minuts. Les vam encarregar per telèfon i vaig anar jo a buscar-les a l’autobús. Evidentment, em van manar a mi que baixés cada nit a engegar la gravació.</p>
+<p>—Evidentment.</p>
+<p>—Era un xaval, se’m notava la por i els agradava prendre’m el pel. L’hora òptima, havia dit, era passada la mitjanit. Així que baixava les escales corrents amb la llanterna encesa, no sé com no em vaig pegar alguna pinya, i pujava rabent. I cada matí hi tornava, una mica més serè, però només una mica, per recollir la cinta, ensobrar-la i enviar-la adreçada a Hamburg. Al cap d’una setmana va telefonar l’Alejandro.</p>
+<p>—Què va dir?</p>
+<p>—Que els resultats eren prometedors. Va preguntar si necessitàvem que ens tornés a girar diners i va demanar que continuàrem igual deu o quinze dies més. Que ja ens diria quan tenia prou dades.</p>
+<p>—Dades?</p>
+<p>—Ja veuràs. Al cap de dues setmanes va tornar a parlar amb el director del Museu. Li va dir que no necessitava més cintes i que aviat ens faria arribar el resultat de la investigació. Per a sorpresa nostra, almenys meva, el resultat era un quadre. Un llenç de dos per un metres, amb un bastidor molt senzill, que va arribar embalat dins d’una furgoneta fins a la porta del Museu. Sobre fons blanc, un eixam de nombres i mots estampats utilitzant tipografies modernistes, estil Bauhaus, en mides diverses i amb una gamma limitada de colors: roig, blau, verd, morat, taronja… Alguns en angles rectes i altres formant corbes. Una mena de cal·ligrama abstracte, sense sentit figuratiu aparent. Venia acompanyat d’una carta de l’artista. Breument, explicava que el laboratori d’Hamburg havia anat seleccionant les sèries de freqüències que es repetien més sovint en les gravacions. És a dir, no amplificaven el so per a escoltar cap veu, sinó que traduïen el so a valors numèrics i aquests nombres eren els que apareixien al quadre.</p>
+<p>—I els mots?</p>
+<p>—També explicava que havien aplicat no sé quin codi als nombres, Morse, o ASCII, o jo que sé, sóc completament llec en informàtica. I que hi havien emergit algunes paraules. Però crec que ell s’havia pres alguna llicència poètica. Alguns dels mots no eren literals, sinó allò que a ell li suggerien o li inspiraven.</p>
+<p>—Per exemple?</p>
+<p>—Han passat anys i no me’n recorde exactament, però eren conceptes simples, elementals. Naixement i mort, coses així. Dualitats: ment, cos, dia, nit. O altres com pedra, arbre, niu… En castellà, la majoria, i alguns en francès i en algun altre idioma que jo no entenia. Un parell de vegades m’hi vaig quedar dret al davant un bon quart d’hora, escrutant la imatge, a veure si en treia l’entrellat. Buscava connexions entre els nombres, relacions aritmètiques, qualsevol cosa. Amb els ulls mig aclucats, fins i tot vaig creure que hi captava una certa composició, potser dues figures humanes entrellaçades, però això era una ximplesa, com veure figures als núvols.</p>
+<p>—Molt hippy, no? Una combinació de psicodèlia <em>new age</em> amb <em>art numérique avant la lettre</em>. Tenia títol?</p>
+<p>—<em>Voix d’un village espagnol</em>, em pense.</p>
+<p>—Sobri i descriptiu.</p>
+<p>—La part més interessant ve a continuació. El quadre arribava com a donació permanent, cosa que se li va agrair per carta amb tota mena de compliments. Jo crec que no sabien ben bé on posar-lo, o què fer-ne. El seu valor artístic era, diguem-ne, dubtós, i la relació amb el museu, o amb el poble, excessivament etèria. Mentre s&rsquo;ho pensaven, va estar exposat al voltant d’un mes en una de les sales de dalt, amb les peces d’abstracció geomètrica. Fins que un dia, a primera hora del matí, es presenten a la porta un policia nacional i dos senyors amb trage fosc i corbata, alts i quadrats, dos armaris. I el policia li planta a l’alguatzil davant dels nassos una autorització judicial per a requisar l’obra.</p>
+<p>—Amb quin motiu?</p>
+<p>—No ho va saber ningú, o almenys jo no me’n vaig assabentar. Però Manolo es va posar molt nerviós amb la presència del policia i la paperassa legal. A més a més, els tres tipus van tirar amunt sense demanar indicacions. Sabien on era el quadre, així que ja hi havien estat, o algú els havia informat amb tots els detalls, perquè el museu, ja ho saps, és un laberint de cambres, escales i pisos en nivells desiguals. Aleshores, ell se’n va anar corrents a buscar el director, o l’alcalde, perquè aquell dia crec que el director no hi era, i em va dir: “Vigila que no s’emporten res!” Jo vaig pujar darrere d’ells i quan vaig fer cap a la sala ja l’estaven despenjant. No sé què els vaig dir, que s’esperaren, o que això no podien fer-ho. El policia em va mirar de dalt a baix amb una cara de menyspreu que era més que suficient per a parar-me els peus i que els deixara fer via, però és que a més a més va posar la mà com qui no vol damunt la funda de la pistola que portava al cinyell. Els altres dos, mentrestant, havien recolzat el quadre contra la paret i un d’ells va fer un gest, descaradament, per a palesar l’embalum davall de l’aixella. L’altre li va tocar suaument el muscle, com si fora per tranquil·litzar-lo. En fi, a mi les cames em feien figa quan van fotre el camp, i l’alguatzil i l’alcalde em van trobar encara allí dalt, davant d’un bonic buit a la paret. No podien haver trigat ni cinc minuts, perquè l’ajuntament és a la vora, i no els havien vist ni marxar. S’havien fet fonedissos en un tres i no res.</p>
+<p>—Pobret meu.</p>
+<p>Li havia dit “pobret meu”? Es van fer cossinogues l’un a l’altre.</p>
+<p>—Un darrer detall important. El que havia fet de poli bo es va dirigir a mi. Jo no havia estudiat anglès, però vaig copsar un parell de paraules: “<em>Don’t be silly, kid</em>”.</p>
+<p>—Eren americans!</p>
+<p>—De la CIA, molt probablement.</p>
+<p>—És a dir, que aquella obra…</p>
+<p>—Ocultava algun missatge, això és segur.</p>
+<p>—Però quina mena de missatge? Alguna consigna política?</p>
+<p>—Jo què sé. La data exacta de l’apocalipsi. No t&rsquo;ho creuràs, però…</p>
+<p>—Què?</p>
+<p>—Cap al mig del quadre, hi havia tres nombres seguits que a mi em pareixien una data.</p>
+<p>—Quins nombres? Quina data?</p>
+<p>—Vint, dotze, setanta-tres.</p>
+<p>—I bé?</p>
+<p>—Vint de desembre del setanta-tres, el dia que va morir Carrero Blanco. L&rsquo;alfa i omega de la transició espanyola.</p>
+<p>—M&rsquo;he perdut. Això que m&rsquo;estàs contant, va passar abans o després de l&rsquo;atemptat?</p>
+<p>—L&rsquo;obra va arribar uns mesos abans, i se la van emportar just després. Algú més es degué esverar per la coincidència, a part de mi, i degué reportar-ho als serveis d&rsquo;informació del règim. Supose que van voler esbrinar quins altres secrets podia revelar la santa a través d&rsquo;aquell galimaties.</p>
+<p>—La fórmula de la Coca-Cola?</p>
+<p>—Les instruccions per a descongelar Walt Disney.</p>
+<p>—L&rsquo;amagatall del segon volum de la <em>Poètica</em> d&rsquo;Aristòtil a les latrines d&rsquo;una abadia als Alps.</p>
+<p>—O en un banc suís.</p>
+<p>—La clau per a interpretar l&rsquo;acròstic de <em>L’educació de la dona cristiana</em> de Lluís Vives.</p>
+<p>—Per cert, no sé si és molt de dona cristiana…</p>
+<p>—El què?</p>
+<p>I per una estona tot van ser una altra vegada rialles i pantaixos.</p>
+<p>—Escolta, al final no m’has explicat per què et vas quedar ací.</p>
+<p>—És que no m’has deixat acabar la història. Resulta que abans d’enviar una d’aquelles cintes la vaig escoltar.</p>
+<p>—De veres?</p>
+<p>—En ple dia i a l’aire lliure, que conste. Sota el cel límpid al pati del museu. Si no, no hauria gosat. Però em picava molt la curiositat.</p>
+<p>—I què vas sentir?</p>
+<p>—Soroll blanc. Corrents de vent i un brunzit a penes audible. Fins que… una veu eixint del no-res em va despertar.</p>
+<p>—Com que et va despertar? Que t’havies adormit?</p>
+<p>—Bé, em vaig endormiscar, supose.</p>
+<p>—I què deia la veu?</p>
+<p>—Un nom.</p>
+<p>—Quin nom?</p>
+<p>—El teu. Així que t’he estat esperant d’aleshores ençà, tots aquests anys, fins la setmana passada.</p>
+<p>Neus va restar callada i seriosa uns segons, guaitant-lo, com si no sabés què fer-ne.</p>
+<p>—Llàstima. M’estava encantant la història, però amb aquest final encaramel·lat l’has pifiada. A veure si la pròxima vegada t’espaviles més.</p>
+<p>—Ho intentaré.</p>
+<p>—Per cert, tampoc no m’he empassat que us visitara Alejandro Jodorowsky en persona i et comissionara la gravació de fenòmens paranormals.</p>
+<p>—Qui dius?</p>
+<p>Quasi tot el que li havia contat era veritat, però no tot era exacte, ni era tota la veritat. Sempre està justificat embellir les anècdotes, pensava ell, i guardar-se’n alguna part, potser deixar-la per a més endavant. Al cap i a la fi, ella també es devia guardar coses, no? Va contemplar amb delit com es vestia d’esquenes a ell, contra la mitja claror que es filtrava per la finestra del dormitori dels seus pares. La persiana s&rsquo;havia bloquejat i a penes havia pogut alçar-la mig pam. Tenia totalment abandonada la casa del carrer d’Enmig de Castelló, on es va criar fins a l’accident. S’hauria de decidir a reformar-la, si més no fer les reparacions necessàries i renovar el mobiliari i l&rsquo;equipament. O potser llogar un pis més modern, si aquestes visites s’havien de repetir. I ell sí que voldria que es repetiren.</p>
+<p>La mirava i pensava que se la podria haver creuat pel carrer, o fins i tot podrien haver coincidit en algun acte social, alguna conferència o presentació, per exemple, i no hi hauria parat esment. Havia calgut que algú —justament la persona més insospitada per a aquest menester— la fera seure davant d’ell i que ella començara a parlar amb una veu intel·ligent i timbrada, gairebé musical —era cursi pensar això?—, que va fer que es fixara millor en els seus llavis, en els ulls gris verd i en aquelles mans primes que no paraven quietes. No era, sens dubte, el tipus de dona que ningú —ni ell mateix— esperaria veure al seu costat, però el fet és que des d’aquella primera vegada havia desitjat tenir-la al seu costat —i a sota, i a sobre— i amb ella se sentia feliç. Però no era només el desig sexual, que l’acompanyava des de l&rsquo;adolescència i havia satisfet amb escreix. Cap dona l’havia enlluernat fins ara com Neus, vestida o nua, callada o parlant. Era això, l’<em>amor</em> de què parlava la gent? Si l’era, ara sabia que no l’havia conegut mai i li resultava ben estrany. Exigent i ineludible, desficiós. Poc raonable.</p>
+<p>—Ens tornem a veure ací la setmana que ve?</p>
+<p>—Si t’esperes quinze dies aniré jo a veure’t. M’estic traient el carnet de conduir.</p>
+<p>Això no ho havia previst. Hauria de resoldre algunes qüestions, fer alguns ajusts privats abans de rebre-la.</p>
+<p>—Quinze dies! No sé si podré esperar tant. Segur que no vols que vinga jo la setmana que ve a desitjar-te sort per a l’examen?</p>
+<p>Es va girar de cara a ell, amb els texans i els sostenidors posats, i li va dedicar aquell somriure, cautelós i encisador, que se li faria tan familiar, com si li estigués recordant constantment que li feia gràcia el que deia, però no se n’acabava de refiar.</p>
+<p>En realitat, el murmuri que havia escoltat vint-i-cinc anys enrere va ser una llatinada que ell, el pijor alumne de llengües clàssiques de tot l’institut de batxillerat provincial, no podia estar segur d’haver entès. Va creure copsar una al·lusió al dimoni i una sèrie de mots que, a posteriori, podria haver considerat com a lema o <em>motto</em> de la seva vida. Al pati del museu, va aturar la cinta i la va rebobinar, cinc o sis vegades, fins que va desistir, perquè no hi hagué manera de tornar a trobar el punt en què se sentia aquella veu aspra i pregona, com si li parlara des del fons d’una tomba o d’un somni, o des de la nit dels temps.</p>
+<h2 id="elegia">Elegia</h2>
+<p>Va faltar a Castelló, diumenge passat, Francesc Bernad Huguet, després d’una vida d’hedonisme i excessos que se li va fer massa curta. Serà recordat per la seua tasca de mecenatge i de difusió i projecció del fet artístic, que va acomplir amb generositat, convicció i perícia al llarg de les darreres dècades. Ningú negarà ara, ni tan sols els pocs o molts enemics que va anar acumulant, el deute material i espiritual de les nostres comarques envers ell. És innegable que sense ell continuaríem a la cua, per no dir al marge, de tots els circuits culturals importants. De tot allò que és sublim i perfecte i fa que valga la pena viure.</p>
+<p>D’acord amb el testament, la seva extensa col·lecció d’obres de tan diversos gèneres, mitjans i formats es dividirà entre la Fundació d’Art Modern que ell mateix va crear fa un temps i el MACVAC, Museu d’Art Contemporani Vicent Aguilera Cerni, amb què va col·laborar des de ben jove. La partició es realitzarà segons criteris meticulosament estipulats en un annex tècnic, sota la supervisió dels seus amics i marmessors, els pintors Luis Prades i Amat Bellés.</p>
+<p>Els seus diners —els que no va aconseguir gastar-se— aniran íntegrament a una organització benèfica contra el càncer.</p>
+<p>L’acte cívic de comiat, molt concorregut, es va celebrar al pati de l’antiga Casa del Batle, seu del MACVAC, separats de l’església de l’Assumpció només pels merlets medievals i la porta de ferro de Nàssio Bayarri. Allí, entre les escultures de Féraud o Eguíbar, el brocal del pou, la llimera, els testos amb gladiols col·locats per a l’ocasió —la seva flor preferida: només en açò va demostrar mal gust— i al peu de l’antiga torre de vigilància d’aquest palau gòtic, sàviament restaurat i convertit en museu de les meravelles, tothom s’ho va passar bé recordant Paco, malgrat alguna llàgrimeta inevitable, i la hipocresia va escassejar bastant. Es van servir vins i pastes del poble, com era costum tradicionalment als vetlatoris, i el macabeu i el malvasia ajudaren a elevar el pensament, els sentiments i especialment els discursos d’uns pocs testimonis selectes (polítics i oportunistes havien estat exclosos). Exercia com a mestra de cerimònies la signant d’aquesta breu crònica, companya intermitent de Paco des de feia vint anys i, ara, la seua viuda legal, atès que es va casar amb ell una setmana abans <em>in articulo mortis</em>. Les seues altres amants i viudes de fet —només una va refusar de participar “en aquest aquelarre”, improperi no massa original que ens va parèixer d’allò més còmic— ocupaven, en perfecta harmonia, la primera fila de cadires. En acabar la festa, totes elles van compartir impressions, entre altres temes íntims referents al finat, sobre la longitud comparada del seu penis i el seu ego. Un excel·lent amant i, com a amic, un estimable desastre.</p>
+<p>Ja no tornarem a discutir sobre Banksy.</p>
+<p>N. T. R.</p>
+<h2 id="epíleg">Epíleg</h2>
+<p>A més de casar-se amb ella —ocurrència final a què Neus va accedir perquè sempre li havia costat negar-li res quan ell insistia com sabia insistir, i encara més en aquestes circumstàncies—, Paco li va demanar també que redactara la seva necrològica per al diari local. Després d’acomiadar-se de tothom, es va tancar al despatx d’ell, amb el seu ordinador tronat i l’única botella de vi que havia quedat per encetar. Ella, que no solia beure —al contrari que ell, que assecava les fonts— va arribar a la darrera frase en un <em>crescendo</em> d’inspiració alcohòlica. L’endemà, quan va lliurar el text al periòdic sense revisar-lo, no recordava ni una paraula del que havia escrit, i de fet s’estimava més que fora així. En trametre el document tancava una etapa i moltes coses restaven enrere. Recordava, però, haver plorat a llàgrima viva, per primera vegada des que van saber el diagnòstic, en adonar-se que ara ella tenia exactament l’edat que tenia ell quan es van conèixer, una lluminosa vesprada del final de l’estiu a Vilafamés.</p>
+<hr>
+<h2 id="notes">Notes</h2>
+<ol>
+<li>L’encapçalament en llatí de la segona part —la frase que se suposa que Paco va escoltar a la cinta— és una citació que el frare franciscà Gabriel Juan va fer servir com a fil conductor de l’oració fúnebre en les exèquies de Victòria Gavaldà i Sorita (1653-1697), muller de Baltasar Mas i Gil, batle de Vilafamés, celebrades a l’església de l’Assumpció el 15 de setembre de 1697. Vegeu-ne la transcripció de Xavier Allepuz en <em>Victòria Gavaldà Zorita i Orfanell. La Santa del Batle</em> (Parròquia de l’Assumpció de la Mare de Déu, amb la col·laboració de l’Ajuntament de Vilafamés, 2003).</li>
+<li>Un exemplar de la primera edició en castellà (l&rsquo;original era en llatí) de <em>L&rsquo;educació de la dona cristiana</em>, de 1528, es va trobar l&rsquo;any 2019 entre el fons documental de l’antic Palau del Batle de Vilafamés, seu del MACVAC. Que aquest llibre continga un acròstic és invenció meua.</li>
+</ol>
+
+
+        
+      </div>
+        
+      
+
+
+<div class="post-info">
+    
+        <a class="u-url" href="https://carlesbellver.net/tmp/eeb6c5b9e819/"><div class="post-date dt-published">2021-10-01</div></a>
+        <ul class="post-tags"></ul>
+        <span class="readingtime">🕐 23 minuts</span>
+    
+    
+
+
+
+</div>
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>
