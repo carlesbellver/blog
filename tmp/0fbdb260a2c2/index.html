@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: La pèrdua de la gràcia</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1647334628" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1647334628" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="La pèrdua de la gràcia"/>
+<meta property="og:description" content="La cadena de blocs, la Universitat Singular i Global, els telèfons mòbils, els registres akàixics… i un viatge amb les despeses pagades a les repúbliques corporatives de la Vall del Silici." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/tmp/0fbdb260a2c2/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/><meta property="article:published_time" content="2019-08-05T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-08-05T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+<meta name="twitter:title" content="La pèrdua de la gràcia"/>
+<meta name="twitter:description" content="La cadena de blocs, la Universitat Singular i Global, els telèfons mòbils, els registres akàixics… i un viatge amb les despeses pagades a les repúbliques corporatives de la Vall del Silici."/>
+
+
+
+
+<meta name="page-source-path" content="tmp/0fbdb260a2c2.md">
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a><button class="theme-switcher">
+        Tema fosc
+    </button></a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+        
+      <ul class="post-navigation">
+        
+          <li>🗂
+          
+            Esborrany privat
+          
+          </li>
+        
+        <li><span class="readingtime">🕐 30 minuts</span></ul>
+      </ul>
+    
+
+
+    <article class="post h-entry">
+      <header class="post-header">
+        <h1 class="post-title">La pèrdua de la gràcia</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Agustí tenia el son lleuger. Acostumava a silenciar el comunicador durant la nit per evitar que el despertessin les notificacions d’estudiants amb hàbits de treball nocturns. O que visquessin en zones horàries distants, però això passava molt menys sovint. Treballava principalment com a tutor de la USiG, la Universitat Singular i Global. Havia registrat a la cadena de blocs totes les seves competències, convenientment acreditades, i d’aquesta manera el motor d’intel·ligència artificial li podia assignar les sol·licituds que li esqueien millor. La que va llegir aquest matí no era de les més comunes. Algú demanava una citació sobre l’infern —d’algun filòsof, preferentment modern, millor alemany o francés, màxim tres-cents caràcters— per encapçalar una dissertació sobre una certa pel·lícula. No oferia com a recompensa més que mig cèntim de <em>freecoin</em>, i ni aquesta misèria estava garantida, perquè hom competia amb la resta de candidats que hi volguessin respondre. Però Agustí no es pogué estar de posar a discórrer el cervell. Va descartar Sartre de seguida per obvi i gastat: qui no havia escoltat dotzenes de vegades —o encara pitjor: havia proclamat— que “l’infern són els altres”, signifiqui el que signifiqui aquesta sentència. Sobre aquest tema, evidentment, ningú superava el famós bisbe d’Hipona, el seu homònim, de qui tan devota va ser sa mare (fins al final, ja en els anys del desastre, va continuar encenent-li una espelma tots els vespres en la vella església del carrer Major). Però no demanaven un teòleg arnat, això ho havien deixat ben clar. En aquest moment només se li va acudir una d’aquelles frases llargues i enrevessades de Schopenhauer, el qual, potser, tampoc els pareixeria prou modern. Ja hi tornaria a pensar més tard i segur que en trobaria alguna més escaient de Cioran, o fins i tot de Foucault.</p>
+<blockquote>
+<p>Bramen contra el tarannà melancòlic i desconsolador de la meva filosofia, però això és degut al fet que jo, en lloc de fabular un infern futur com a correlat dels seus pecats, he sabut mostrar que allà on hi ha pecat, en aquest món, hi és també present quelcom semblant al mateix infern.</p>
+</blockquote>
+<p>Els encàrrecs més habituals, en realitat, eren els dubtes relatius a la preparació d’un examen o d’un treball, i es podien resoldre, com aquest, per correu electrònic. O, cobrant un plus, per videoconferència. Els més malfeiners podien encomanar la redacció del treball complet, inclòs el de final de grau o de màster, i això suposava una bona picossada. En conjunt, però, es tractava d’un mercat, per força, exigu: els pocs estudiants d’humanitats que quedaven eren vocacionals i no solien buscar ajudes il·lícites. Tampoc no n’hi havia molts, fora de la República Associada de la Catalunya Estricta, que escriguessin en català —l’altra àrea en què ell tenia una capacitació suficient— i que necessitessin una revisió. Encara sort, si més no, que alguns graus de lletres conservaven assignatures de llengua i literatura vernacles, relíquies de temps passats que li proporcionaven un degoteig d’ingressos, a base d’esmenar barbarismes, flexions verbals espúries i combinacions atzaroses de pronoms febles.</p>
+<hr>
+<p>Una feina poc lucrativa, doncs, que li hauria anat bé complementar amb altres fonts de finançament. És clar que hom podia registrar a la cadena de blocs qualsevol altra habilitat o coneixement amb què concebiblement es pogués comerciar, lluny d’allò que abans s’entenia com a currículum acadèmic o professional. Molta gent hi incloïa, per exemple, els seus permisos de conduir, després del fiasco dels vehicles autònoms, però Agustí no havia tornat a tenir cotxe. O la destresa amb la raqueta o el baló, o el domini de la retolació cal·ligrafia. Tot s’hi valia, però ell no practicava activitats físiques, ni tenia aficions en general, més que l’estudi dels clàssics. L’única possibilitat que va considerar en algun moment va ser fer-se donant de semen. El test d’ADN era gratuït en la sanitat pública, però la quantitat —i la freqüència— d’exàmens mèdics necessaris, extraccions de sang incloses, el va desencoratjar. Havia d’agrair, doncs, que tot allò —incloses, també, les tutories— no fossin sinó extres que s’afegien al salari de subsistència universal —el qual només es perdia per sanció— i perfilaven l’estatus socioeconòmic de cadascú.</p>
+<hr>
+<p>Al vespre, quan estava a punt d’eixir de casa, es va adonar que encara no havia enviat aquella citació sobre l’infern. No hi havia tornat a pensar, de fet, i per tant no n’havia recercat cap altra. Sense tenir cap horari ni cap obligació, el temps, sovint, li passava volant i no sempre sabia dir ben bé en què l’havia emprat. Des del llindar estant, amb la porta oberta, va teclejar de memòria els mots de Schopenhauer, tal com els recordava, i va pitjar el botó de tramesa. Al cap i a la fi no era més que mig cèntim. I la participació de loteria corresponent: la mítica loteria de la cadena de blocs.</p>
+<p>Però ara era hora d’anar a cobrar el lloguer, uns diners comptants, en metàl·lic, que no contribuïen doncs a la seva reputació social —el paper moneda tenia ja una circulació i un ús molt restringits— però també venien bé. Havia heretat el pis d’una tia seva feia dos anys, inesperadament. Un quart sense ascensor, en un carreró del centre. El va oferir en línia i no va tardar a trobar possibles inquilins. Entre un collidor nord-africà i la seva dona i fills, una dependenta cubana d’un súper i Patrici, es va decidir per aquest. Li va merèixer més confiança. Havia suposat que era romanès, com la majoria d’immigrants blancs de la darrera tongada, però un temps després es va assabentar que era rus. Havia estat mecànic en l’exèrcit del seu país, després va venir un parell d’estius com a bomber i finalment s’hi va establir. Treballava fent tota mena d’instal·lacions i reparacions: llum, canonades, pintura, portes i finestres, aire condicionat… qualsevol cosa. També feia hores en una empresa de manteniment d’ascensors. Últimament donava voltes a la manera de muntar alguna mena d’elevador en aquell edifici del carrer Cassola, en l’espai estretíssim de l’escala o fins i tot per fora de la façana. Era un manetes i un enginyer sense titulació: el millor de tots, afirmava d’ell mateix. Pel lloguer, pagava a Agustí un import raonable en euros i posava a la seva disposició mà d’obra gratis en qualsevol arranjament que necessités.</p>
+<p>Va trucar al timbre. Es va esperar i va tornar a trucar. Va mirar el rellotge. Sabia on anar a buscar-lo. Si havia acabat una mica més prompte del normal, segurament ja s’havia dutxat i havia marxat corrents a l’Ovella Elèctrica. Utilitzava el pis com a dormitori i la furgoneta com a magatzem, però tenia l’oficina i la sala d’estar en aquell bar del Raval, un negoci supervivent d’una altra època, on es reunien una clientela marginal i, de tant en tant, els típics moderns de pas, atrets per l’anacronisme i la mera decadència. Per a Agustí, era també un dels pocs llocs, juntament amb les fruiteries pakistaneses, on es podia gastar els euros, ni que fos en cerveses.</p>
+<hr>
+<p>—Vés amb compte —li va etzibar Patrici amb un posat massa seriós—. Aquesta no et convé.</p>
+<p>Es devia pensar que ell no n’havia vist mai cap, d’aquestes joves amb els polsos rapats, cresta de cabells iridiscents, el llavi inferior perforat i un tatuatge a l’espatla. De fet, Agustí s’estava preguntant què devia voler dir aquella seqüència de caràcters alfanumèrics i símbols variats que li baixava pel braç. Però sobretot li havia cridat l’atenció el comunicador de polsera, un model recent i molt car que ignorava que ja s’estigués distribuint a Europa. Estols de mosses d’aquest tipus —i els seus acompanyants, aquells fatxendes que lluïen jaquetes de pell i barbes ungides amb olis perfumats— deambulaven pels carrerons deprimits del centre alguns dissabtes, entrant i eixint de bars que havien reviscolat recentment. Tanmateix, d’alguna manera, ara aquelles altres li pareixien còpies defectuoses i aquesta més propera —molt més propera— al model que aspiraven a imitar. En arribar-hi, se l’havia trobada darrere de la barra i s’havia produït una petita confusió en demanar-li una cervesa, tot i que hauria d’haver pensat que allí no hi havia hagut mai una cambrera, encara menys amb aquest aspecte.</p>
+<p>—És una <em>hacker</em> —li va aclarir Patrici—. Viu amb una patuleia, tots tallats pel mateix patró, en un mas del Baix Maestrat. Com si fossin una comuna hippie, però sé de bona font que treballen per a multinacionals ianquis i per a la CIA. Fa dues o tres setmanes que apareix per ací alguns vespres, sobretot en cap de setmana.</p>
+<p>Tota la parròquia s’estava congregant al voltant d’ella, com uns borinots, delerosos de contestar les seves preguntes. Bavejaven contemplant-la. Assenyalava un CD de la col·lecció i li deien qui era el cantant, en quin moment i en quin estil s’enquadrava, etc. Tot la sorprenia i de tot se’n reia, amb naturalitat i sense cap mena de malícia. Havia posat un disc vell de R.E.M. I després un d’Antònia Font, una mica menys passat de moda. Va fer uns ulls com unes taronges en escoltar les lletres surrealistes i difícilment intel·ligibles per la dicció mallorquina. Després va demanar si coneixien algun altre grup en la mateixa ona i, quan algú es va afanyar a dir Manel, Agustí va sentir que bullia d’indignació i va marxar sense ni acabar-se el terç. Ja en tenia prou. Creu i ratlla. Com era possible —i com es podia suportar— tanta ignorància.</p>
+<p>—Açò per a ella —l’havia continuat alliçonant Patrici— és turisme de classe. Els diverteix veure’ns tan antiquats i tan despenjats del futur.</p>
+<hr>
+<p>L’endemà de matí havia d’anar al campus a renovar la <em>venia docendi</em>, la llicència oficial d’ensenyant. Pareixia mentida que tràmits burocràtics com aquest encara s’haguessin de realitzar presencialment. Agustí estava segur que això només s’explicava per una combinació de dues raons: justificar el sou dels pocs funcionaris que quedaven per jubilar i, de passada, augmentar el nombre de visitants. Des que es va fer palès que la profecia —<a href="http://blog.carlesbellver.net/2014/05/25/a-future-with.html">“Només subsistiran deu universitats a tot el món”</a>— anava de bo i que el desmantellament podia accelerar-se, els organismes acadèmics amenaçats d’extinció van començar a arrendar els seus actius immobiliaris —tan excessius— per a tota mena de negocis i activitats. En aquesta universitat, on temps enrere Agustí va cursar filosofia, els pocs estudis subsistents s’havien reagrupat en una sola de les antigues facultats, sense que per això els manqués espai. Mentrestant, l’antiga Escola de Ciències havia esdevingut un centre comercial, el paranimf i el jardí allotjaven festivals musicals, espectacles d’autoajuda o gires circenses, i la resta d’edificis exhibien grans cartells a les façanes per oferir-se al millor postor. Així intentava el rectorat equilibrar la balança comptable, amb més o menys èxit, i per a aconseguir-ho resultava primordial l’afluència continuada de gent.</p>
+<hr>
+<p>Al vespre va tornar a l’Ovella, però ella no hi era. Es va haver d’esperar tota la setmana per a posar en pràctica el pla que havia maquinat. El divendres següent, quan la noia va entrar-hi i la va rodejar la seva cort d’aduladors, Agustí va acaronar la pantalla tàctil del seu comunicador de butxaca. Contra això restaven indefensos. Cap d’ells no tenia ni la menor idea de tecnologia, eren analfabets digitals complets. Li va venir d’allò més bé que Patrici s’hagués trobat amb una compatriota i haguessin marxat d’hora. Així no li faria nosa. Va començar a sonar música retro i tothom volia dir la seva, però ell va romandre silent al seu racó. Va habilitar el bluetooth i va obrir una app que amb prou feines havia pogut fet servir fins aleshores. En el seu entorn social més pròxim hauria estat inútil provar-la, i en altres ambients on s’havia aventurat no hi havia reeixit. Només va detectar una usuària: <em>Pelàgia</em>. Un nom estrany, amb ecos marins i clàssics. No hi havia dubte que era ella. Agustí, per la seva part, no tenia prou imaginació per a posar-se un àlies tan sofisticat com aquest. Ni un avatar del nivell estètic d’aquell arc de Sant Martí, digne d’una vidriera. Va pitjar la imatge i quasi simultàniament es va sentir un xiulet a l’altra banda de la barra. Havia obtingut un índex de coincidència molt baix, d’un vint i tants per cent, però no va tenir temps de sentir-se temorós o decebut, perquè ella va acceptar la connexió en un tres i no res. Es va mirar el braçalet i va alçar el cap. Guaitava l’estança a tort i a dret. Agustí, amb el terminal a la mà, va forçar un somriure. Intentava no parèixer massa ximple ni massa agosarat. Ella va rodejar la barra amb la botella de cervesa a la mà i es va asseure davant d’ell. Es va adonar que es fixava en el seu Apple Einstein 9s. Els altres els miraven, però van perdre interès de seguida i es van dispersar. Se’ls havia acabat la festa.</p>
+<p>—T’agradaria fer de <em>beta tester</em> d’una <em>app</em> nova?</p>
+<p>Li va explicar que treballava com a programadora en una <em>startup</em> i que estaven desenvolupant un servei d’un nou tipus. L’únic que hauria de fer ell era instal·lar-se el programari en el seu dispositiu i iniciar-lo unes quantes vegades al llarg del dia: fer una foto o un vídeo i aturar-se a descriure amb paraules —en llenguatge natural— la situació, l’activitat que estigues realitzant i el que estigués veient al seu voltant. L’aplicació penjava aquesta informació en la cadena de blocs, junt amb metadades d’allò més exhaustives. Es requeria permís d’accés a la ubicació, a la càmera, al micròfon i als contactes. A canvi, cobraria una quantitat fixa de <em>freecoins</em> per cada transacció. Una quantitat fraccionària, molt baixa, però podia repetir l’acció tantes vegades com volgués. De fet, hom encoratjava els usuaris a utilitzar l’<em>app</em> el major nombre possible de vegades, en qualsevol moment i circumstància. No calia que fos res interessant o especial, ans al contrari. El que necessitaven era un gran volum de dades de la vida quotidiana de moltes persones, quantes més millor i d’arreu del planeta. N’estaven recollint des de feia mesos per tal d’entrenar un algorisme d’aprenentatge automàtic —<em>machine learning</em>, en va dir ella, en anglès— que interpolava els buits en l’espai i el temps i amb el qual havien estat capaços de reconstruir segments breus d’esdeveniments passats, a partir dels pocs o molts fets que es coneguessin. Els límits s’estaven ampliant, i ja havien reeixit a invertir la fletxa del temps i inferir esdeveniments futurs —d’un futur relativament pròxim— amb un grau d’encert espaterrant. Tenien a la seva disposició més dades i ordinadors més potents que mai, i les dinàmiques tecnològiques i econòmiques garantien que ambdues variables continuarien en augment. Quantes més dades tinguessin, i més potents fossin els ordinadors, més i més milions d’inferències per segon es podrien executar. Amb dades de tot i pertot, una potència informàtica que tendia a l’infinit, i uns algorismes que es perfeccionaven contínuament, aviat seria —i no veia per què no hauria d’arribar a ser així— com si poguessin saber-ho <em>tot</em>. Assolirien el coneixement absolut.</p>
+<p>O això, almenys, és el que Agustí va entendre. Li va parèixer una idea escandalosament revolucionària. Una especulació imaginativa, va reflexionar per a ell mateix, fecunda en termes no sols empresarials. La part que jugaven els usuaris —“turcs mecànics”, els havia anomenat Pelàgia—, enllaçant els sensors dels dispositius personals amb els servidors del núvol, era important però ontològicament menor: petits engranatges al si d’un mecanisme colossal. Si estàvem disposats a abandonar les nostres idees caduques sobre la intimitat i la privadesa —el pudor ancestral judeocristià: la fulla de parra d’Adam i Eva, expulsats de l’edèn—, l’immens cabal de coneixements resultant impulsaria el pas —un salt quàntic— a una nova fase en la història de la humanitat.</p>
+<p>Mentre xerraven, a través dels bafles ressonava la veu vellutada de Lou Reed. Era un enregistrament en directe. <em>Berlin</em>: “It was very nice, candlelight and Dubonnet on ice…” I al cap d’uns minuts <em>Perfect Day</em>. Van demanar una altra ronda. Certament pareixia una nit perfecta, sense dubte una de les millors de la seva vida. La música, una nova i feliç coneixença, una rara absència d’ansietat. La samarreta asimètrica li deixava descobert el muscle esquerre, on tenia inscrit aquell galimaties. Es va decidir a preguntar-li què significava i es va avergonyir de no haver-ho entès abans.</p>
+<p>—És la meva clau pública.</p>
+<hr>
+<p>La setmana següent va fer les mateixes coses que hauria fet qualsevol altra setmana. És a dir, des d’un punt de vista objectiu, res digne d’ésser ressenyat. Però, per primera vegada, era com si les banalitats i rutines de sempre guanyessin sentit; com si, en realitat, tinguessin per fi algun sentit.</p>
+<p>Divendres, la valoració de l’<em>app</em> el situava en l’u per cent d’usuaris més actius: els que més havien aportat a la base de dades col·lectiva en la cadena de blocs. Hi havia enregistrat repetidament l’ambient del seu carrer, des del balcó, a diverses hores del dia, incloent-hi l’eixida del sol dilluns i totes les postes de sol cada vespre; la companyonia i les discussions aspres al bar de la cantonada; l’exhibició d’aliments al mercat i el brogit i els xafardejos de les parades; les fites d’una passejada a peu fins al barri de la universitat; un trajecte complet en transport urbà, anada i tornada, fins al districte marítim; el vol rasant de les gavines; la velocitat dels vehicles a les rondes de circumvalació; la bullícia dels infants a la plaça, en eixir de l’escola; la parsimònia dels ancians; els reflexos de la llum en una font; els excrements dels gossos dispositats a les voreres, i l’acte de ser-hi dipositats; la immundícia, també, dels coloms; el deteriorament del mobiliari urbà; la detenció d’un venedor ambulant; l’enrabiada i els crits d’un veí contra un altre, a l’escala, per algun motiu o sense cap motiu; la disposició interna del seu modest habitatge, després d’endreçar-lo una mica; la seva estimadíssima biblioteca, d’Aristòtil a Wittgenstein; la seva taula d’estudi; un seguit de composicions canviants amb gots, tasses, botelles, plats… i alguna imatge més, acompanyada d’una reflexió potser massa íntima que ja no podia esborrar.</p>
+<p>Cap d’aquests moments no tenia <em>per se</em> cap valor, i tots plegats, sumats amb altres conjunts heterogenis però essencialment iguals, suposaven gairebé, potencialment, una revelació.</p>
+<p>La icona de l’aplicació amb què els capturava era un ull sense parpella.</p>
+<hr>
+<p>1710.— <em>Esse est percipi</em>, ser és ser percebut. En el <em>Tractat sobre el coneixement humà</em>, el bisbe Berkeley rebutja la realitat de la matèria i abraça l’idealisme: les coses només existeixen com a percepcions d’alguna ment. Si cau un arbre en un bosc solitari, sense cap testimoni, no és que no faci cap soroll, sinó que ni tan sols podríem mantenir que aquest arbre existeix… si no fos que Déu sempre hi és per prendre nota i alçar acta de cada cosa quan nosaltres no hi som. La seva ment infinita és l’inventari complet del món.</p>
+<p>1875.— Fundació de la Societat Teosòfica a Nova York. En els seus llibres, Helena Blavatsky, Charles Webster Leadbeater o Rudolf Steiner elucubren sobre uns “registres akàixics”, anomenats així per <em>ākāśa</em>, mot sànscrit equivalent a l’èter dels grecs o de la física del segle XIX: el cinquè element que hom creia que emplenava l’univers. En aquest medi subtil restaria l’empremta de totes les situacions i experiències humanes pels segles dels segles. Des l’enfonsament de l’Atlàntida fins a la teva ressaca d’aquest matí: res no es perdria, però només els iniciats podrien tenir-hi accés.</p>
+<p>1972.— <em>La Domenica del Corriere</em> publica unes declaracions de <a href="https://es.wikipedia.org/wiki/Marcello_Pellegrino_Ernetti">Pellegrino Ernetti</a>, frare benedictí, exorcista de la diòcesi de Venècia i afeccionat a la física i a l’electrònica. Sota els auspicis del Vaticà, hauria col·laborat amb un grup de científics selectes —Enrico Fermi i Wernher von Braun entre d’altres— en la invenció del <em>cronovisore</em>, una màquina capaç de recrear qualsevol esdeveniment del passat a partir de la traça energètica que van deixar les seves ones visuals i sonores. A fi de corroborar aquestes insòlites informacions, aporta una fotografia de la cara de Jesucrist en la creu.</p>
+<p>1998.— Sergey Brin i Larry Page anuncien que la missió de Google és organitzar <em>tota</em> la informació del món.</p>
+<p>2007.— Steve Jobs presenta un nou model d’ordinador de butxaca i comença a persuadir les masses que és bona idea portar damunt aquest petit comunicador, que registra mitjançant un munt de sensors tota mena de dades referents a l’entorn, i a nosaltres mateixos, i les retransmet a la xarxa. Res no s’escaparà al conjunt de càmeres minituaritzades, micròfon, baròmetre, giroscopi, GPS&hellip; Els fabricants orientals copien de seguida el disseny, amb gran èxit comercial.</p>
+<p>2008.— Un grup de <em>hackers</em> d’ideologia anarquista dissenyen una moneda electrònica, el <em>freecoin</em>, i la tecnologia de la cadena de blocs que la fa possible: un llibre comptable o registre de transaccions inalterable, del qual existirien a cada moment múltiples còpies en una xarxa distribuïda, sense cap autoritat central. El funcionament de <em>freecoin</em> inspira plans per a utilitzar la tecnologia de la cadena de blocs en altres camps, amb la intenció d’anotar tota mena de transaccions, no sols monetàries.</p>
+<p>2013.— Un adolescent russo-canadenc idea <em>Ethereum</em>: una altra vegada l’èter, o <em>ākāśa</em>. Aquesta plataforma de computació distribuïda es basa en una cadena de blocs similar a la de <em>freecoin</em>, però molt més potent, capaç no sols d’agregar dades sinó també d’executar aplicacions sense servidors centrals.</p>
+<p>2018.— Es filtra un <a href="https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy">vídeo intern de Google</a> que mostra un registre de transaccions on s’acumulen, durant anys, les dades personals dels milions d’usuaris d’Internet. Es demostra que amb unes dotzenes de dades ben triades, i una mica d’intel·ligència artificial, es pot deduir què pensarà o què farà un individu en certes condicions estandarditzades. Amb dades a l’engròs, es podria —es pot— conèixer una persona millor que ella mateixa.</p>
+<p>2020.— S’aboleix, per una millor causa, el Reglament General de Protecció de Dades de la Unió Europea. La cadena de blocs fumeja amb les dotzenes d’exabytes que s’hi aboquen diàriament. Un nou motor, basat en el darrer paradigma d’aprenentatge automàtic, és finalment capaç de reconstruir <em>tot</em> el que s’ha esdevingut i predir <em>tot</em> el que s’esdevindrà. Actua —sense que ningú, potser, ho hagi pretès— com a sustentació tecnològica i metafísica de la realitat. Com en aquell <a href="http://www.roma1.infn.it/~anzel/answer.html">acudit</a> de Fredric Brown, el sistema podria contestar que sí, que <em>ara</em> el Déu de Berkeley —l’inventari del món, la totalitat dels fets— existeix, encarnat en una aplicació d’intel·ligència artificial que s’autoexecuta en una màquina virtual distribuïda.</p>
+<hr>
+<p>Pelàgia pareixia perplexa. Somreia amb un punt d’incomoditat. Potser també amb condescendència.</p>
+<p>—Però a nosaltres —va dir—, ens interessen més aviat els moviments de la gent, les entrades i sortides, allò que tingui conseqüències pràctiques. I pràctiques vol dir, sobretot, econòmiques. On van, amb qui fan tractes, què es compra i es ven, per quines coses es paga i per quines no… La resta —va vacil·lar tímidament abans de dir-ho— són especulacions filosòfiques, si més no per als inversors.</p>
+<p>A posteriori, Agustí diria que va ser llavors quan va començar a perdre per a ell la gràcia que fins aleshores l’embolcallava, aquella aurèola de sensual santedat. Era possible que no reconegués les profundíssimes implicacions del projecte en què treballava? No ho entenia? Preferia ignorar-ho? Un minut abans havia pensat que podia ser que es besessin. Altres possibilitats no haurien estat inconcebibles. Es va adonar que —inconscientment, empès per la intensitat del moment— havia avançat la mà dreta damunt de la taula fins a tocar la mà esquerra d’ella.</p>
+<p>—Sóc lesbiana —el va advertir.</p>
+<p>Jo també, va estar a punt de replicar ell, però per sort no ho va fer. El que va dir en lloc d’això, potser no era tan absurd, ni va sonar tan exquisidament cortès com va creure ell.</p>
+<p>—No m’importa.</p>
+<hr>
+<p>Després que s’hagués begut un parell més de whiskys, Patrici l’havia acompanyat fins a un taxi i havia escrit una adreça i un nom en un tros de paper. Al cap d’uns minuts es va trobar en el vestíbul d’un pis quasi tan tronat com el seu. La noia era rossa, més baixeta que alta, tirant a grassoneta. Portava –només— un biquini blanc i els llavis pintats de roig.</p>
+<p>—En tinc de tots colors —li va explicar—. Un altre dia, si m’avises abans, em puc posar el que tu vulguis.</p>
+<p>Agustí no va entendre si es referia al biquini o al pintallavis. Tenia una veu agradable i la va trobar bonica, atractiva. Es va recordar del nom que havia apuntat Patrici: Flora Emília. Tan fals, probablement, com el de la <em>hacker</em>, però en aquest moment li sonava més natural i sobretot menys pretensiós.</p>
+<p>—Deus estar assedegat.</p>
+<p>Va vessar un gel blau dins d’un got d’aigua. Quan l’efervescència del combinat es va apaivagar, el va convidar a empassar-se’l d’un glop. Sabia a medecina. Mentre hi pensava, va observar, atònit, com ella pujava per la paret, caminava pel sostre cap per avall i baixava per l’altre costat. A continuació es va agenollar davant d’ell i li va abaixar els pantalons. Tot això sense deixar ni un segon de somriure i mirant-lo sempre als ulls.</p>
+<p>En algun altre moment, per més inversemblant que resultés, cardaven com a bojos dins i fora d’una piscina, enfront de la balustrada d’una luxosa vil·la romana, a una distància perillosament curta de l’erupció d’un volcà (el Vesubi?). I també en una platja tropical, davant de la línia de palmeres des d’on els aguaitaven els caníbals. I damunt de la neu, al pic més alt de la Terra, sota constel·lacions resplendents i estranyament properes en el cel blavíssim del vespre. Però, al mateix temps, Agustí mantenia la consciència d’haver-se ficat amb ella en un llit normal i corrent, com a molt amb matalàs d’aigua.</p>
+<p>Sigui com sigui, no es va poder estar d’embolicar-se en la continuació del seu monòleg filosòfic, malgrat la situació i les complicadíssimes i incòmodes postures que per alguna raó s’entestava a adoptar. Quan va insistir a barrejar la teologia amb la tecnologia, la noia, que havia complert amb escreix la seva part del tracte i ja s’estava atipant d’ell i de la seva xerrameca, el va advertir que no tornés a esmentar Déu en va, que aquest era el seu únic límit i que no ho podia tolerar més. Agustí, però, no l’escoltava, així que es va escaure que va baixar l’escala accidentadament i va acabar assegut, mig despullat, a la vorera d’un carrer desconegut, amb la galta marcada i diverses parts del cos endolorides. Tenia el cap tèrbol. No sabia de quina casa havia eixit, ni com havia arribat a entrar-hi, però encara li rondava pel cap el nom de la noia.</p>
+<hr>
+<p>Va rebre la notificació aquella mateixa nit, però no la va llegir fins l’endemà al matí. Havia estat agraciat amb el premi mensual de la cèlebre loteria de la cadena de blocs: l’anhelat viatge a les repúbliques corporatives de la Vall del Silici, amb totes les despeses pagades.</p>
+<hr>
+<p>De primer no la va reconèixer. Va ser ella qui li va parlar i va fer que s’aturés, quan estaven a punt d’encreuar-se. S’havia tallat els cabells, molt curts i igualats, i ja no els portava tintats, sinó del seu color natural castany clar. Feia una altra cara. La va trobar molt canviada.</p>
+<p>—Tens temps de prendre alguna cosa? —va proposar ella.</p>
+<p>Allí mateix, davant d’on s’havien trobat, hi havia una cafeteria. Es van asseure en una taula d’un racó. Darrere dels vidres, amb el guàrdia de seguretat a la porta, estarien més segurs que a fora. Malauradament, la prosperitat atreu curiosos, oportunistes, facinerosos de tota mena. La decoració del local, amb plantes de fulles amples i quadres imitació de Gauguin, i la música <em>new age</em> a volum baix, tenien un efecte relaxant. La carta constava d’una àmplia varietat de còctels i infusions. Ella va demanar melissa amb gingebre i llima, i ell un poliol amb whiskey. Va resultar que ambdós venien justament a aquell mateix edifici. Ell treballava allí des de feia unes setmanes. Ella tenia una cita amb la ginecòloga.</p>
+<p>—L’estic gestant per a uns amics —va dir, passant-se la mà per la panxa—. M’agrada el nom que han escollit: Adeodatus. És molt inspirador.</p>
+<p>Va tardar uns segons a entendre de què li parlava, mentre ella continuava donant-li’n detalls. De manera que estava embarassada d’uns pocs mesos. Devia prendre-li el pèl —va pensar— quan va assegurar que era lesbiana. Ara recordava que Patrici havia insinuat que era l’amant del seu cap, el propietari de l’empresa de desenvolupament de programari, però llavors ell no li va fer cas i no s’hi va parar a pensar.</p>
+<p>—Com et va anar el viatge a Amèrica? Segur que tens moltes coses per contar.</p>
+<hr>
+<p>Tampoc no és que l’exhibissin com un mico dins d’una gàbia. El primer dia tenien preparat per a ell un <em>tour</em> per San Francisco: el Golden Gate, el port i l’aquari, l’antiga presó d’Alcatraz, el museu del tramvia i el d’art asiàtic, etc. El segon dia, al matí, va visitar els laboratoris d’intel·ligència artificial i de robòtica de la Universitat de Stanford, i a la vesprada el van portar a Googleplex i a les seus d’altres companyies tecnològiques “on cada matí es construeix una nova versió del futur”. Guies jovials i expansius li ensenyaven les instal·lacions i li adreçaven explicacions en un anglès massa sincopat que s’esforçava a seguir. Els itineraris eren ràpids, no s’aturaven enlloc més d’un parell de minuts. Pareixia que no volguessin que es perdés res. El tercer dia estava convidat a participar en alguna mena d’acte públic. L’auditori era formidable, immens. En una recepció molt concorreguda, va tenir l’oportunitat d’encaixar amb Sergey Brin (o era Sundar Pichai?), amb Mark Zuckerberg i amb un senyor gran, prim, amb ulleres i cabells esclarissats, canosos, que podia ser Bill Gates o Warren Buffet (encara vivien ambdós?). Entre la munió de gent que anava i venia, es va trobar al costat d’algú, molt semblant a Elon Musk, que el mirava de dalt a baix amb desdeny. Més tard, algú se li va acostar i li va dir a cau d’orella que era Satoshi Nakamoto, el creador de <em>freecoin</em>. Però es va fer fonedís en un tancar i obrir d’ulls abans que pogués girar-se a mirar-lo.</p>
+<p>Després, un noi molt jove vestit amb texans i una samarreta en la qual es llegia ‘<em>Staff</em>’, se’l va emportar a una sala que devia ser una mena de camerí. Li va mostrar un document en una pantalla i li va explicar que, en eixir a l’escenari, hauria d’anar contestant aquelles preguntes, per ordre, amb la major sinceritat i espontaneïtat. Però ell, es va excusar, no tenia el do de la paraula, de fet era un desastre parlant en públic. I a més a més hi havia el problema de l’idioma. El noi li va dir que això rai, que apreciarien per damunt de tot la seva experiència individual, el punt de vista —cadascú de nosaltres és unic, li va remarcar—, i que l’ajudarien a calmar-se i a concentrar-se. Seria molt més senzill del que s’imaginava. Es va haver d’esperar molta estona, tot sol, rellegint les preguntes una vegada i una altra. Si el van ajudar d’alguna manera, no ho va saber. Potser van vessar un ansiolític en el got de cafè  descafeïnat i aigualit? O en la botelleta d’aigua de glaciar? La veritat és que va sentir estranyament serè quan el van fer passar a un espai fosc il·limitat. El van il·luminar amb focus potentíssims i no podia veure res, ningú, no sabia davant de qui es trobava. Un grup de gent, havia mig entès, nombrós però selecte, que incloïa una bona part de les ments més privilegiades de la ciència, la tecnologia i els negocis d’arreu del món. Una veu va començar a recitar-li les preguntes per alguna mena d’auricular que no s’havia adonat que li col·locaven. La veueta, dolça i encisadora com la d’una fada o un àngel, sonava dins del seu cap i l’animava a continuar quan Agustí s’interrompia o es trabucava, o li apuntava un mot que se li resistia. Els interessava la seva opinió sobre temes com la crisi climàtica, la igualtat d’oportunitats, l’impacte de la robòtica, el futur del capitalisme i la democràcia, la relació entre religió i ciència… No era conscient de la reacció del públic a les seves respostes, sempre massa sumàries i matusseres. Només li va arribar, de tant en tant, un murmuri que podien ser rialles, com en les <em>sitcoms</em>, però molt llunyanes. Però això devien ser figuracions seves, producte d’aquells nervis somorts: la por a parlar en públic que havia expressat abans.</p>
+<p>Fent memòria, molt pitjor havia estat el registre impúdic i minuciós que li van practicar a l’aeroport, però això tampoc no s’ho podia prendre com una ofensa personal. Ho feien a tothom, o si més no a una tria aleatòria de viatgers, i estava plenament justificat per les constants amenaces terroristes que ja no se sabia d’on més podien venir, després de l’eliminació de centenars de grups i grupuscles insurgents. No podia pensar que hi hagués res personal en aquell escorcoll, per més violent que hagués estat.</p>
+<hr>
+<p>Pareixia contenta, encara que s’hagués quedat sense feina. Devien ser les hormones de l’embaràs? Li va contar que, quan l’<em>startup</em> va plegar, ja havia estalviat prou diners per a una temporada, i que no creia que tingués dificultats per a trobar bones ofertes quan decidís o necessités buscar-ne. Va veure que tornava a mirar el rellotge.</p>
+<p>—Bé —va dir—, ara he de marxar.</p>
+<p>—Com et dius de debò? —la va interrogar Agustí de sobte.</p>
+<p>—Pelàgia, com vols que em digui? —va contestar ella, amb un somriure franc—. No te’n recordes?</p>
+<p>Va pagar ella i van passar directament al vestíbul de l’edifici, sense eixir al carrer. Li va dir que s’havia alegrat de veure’l i li va fer un bes a la galta, totalment cast. Agustí va deixar que pugés. Abans d’incorporar-se al seu lloc s’havia de posar l’uniforme. En tornar de la Vall del Silici, per algun motiu, li havia fet més mandra que mai reprendre la seva feina com a tutor universitari. Però ell, al contrari que Pelàgia, tenia un capital molt magre. Sort de Patrici, que havia instal·lat els ascensors —imitació dels d’un hotel de Nova York de 1900— en aquest antic bloc d’habitatges, recentment rehabilitat per a oficines, i va moure fils perquè el contractessin. A Agustí, al principi, li havien paregut ridículs els pantalons i la jaqueta de color roig, amb els botons daurats de llautó, però ara no podia evitar un sentiment genuí d’orgull cada vegada que se’l posava. Tenir una feina fixa en un lloc com aquest era un privilegi. La seva mare li va explicar una vegada que aquest carrer, quan ella era petita, era als afores de la ciutat, que les úniques cases que hi havia eren xalets on vivien famílies de bona posició —metges, advocats, funcionaris— i que als estius s’hi organitzava un cinema a l’aire lliure. Eren altres temps, però algunes coses no havien canviat tant i tant.</p>
+<p>Es tornarien a trobar quan Pelàgia marxés, però seria millor que no es tornessin a besar. Tant si eren sols com si compartien el trajecte amb altres usuaris, no seria apropiat estant de servei. S’acomiadarien de nou, amb decòrum i un “arreveure”, o “fins l’altra”, que no compremetria a res, i la pròxima vegada que coincidissin ja no hi hauria la sorpresa ni l’emoció, ni aflorarien records tan vívids en el breu espai entre tots dos. I en endavant, si és que hi havia altres ocasions, les convencions socials bastarien per guiar el seu comportament recíproc.</p>
+<p>Li quedaven més de vuit hores de feina per davant. Avui tenia ganes de provar el nou processador de pensaments que s’havia fet implantar. A priori no pareixia molt pràctic, amb aquest percentatge mitjà d’errades d’un cinc a un vuit per cent, massa elevat fins i tot per a una primera versió. Però li podia venir molt bé en els intervals habituals d’inactivitat en què no pujava ni baixava ningú i l’ascensor s’estava immòbil a la planta baixa. Podria prendre nota de les seves idees —el seu cervell bullia com sempre— i impedir així que se li oblidés quelcom important: una sensació que sovint l’assetjava. Només calia evocar una imatge predefinida —venia configurat amb una serp enroscada en la branca d’una pomera, un cor travessat per una fletxa i un poalet amb una mica d’aigua a la vora del mar— i engegar el dictat mental, que se sincronitzava automàticament amb el comunicador de butxaca o amb un ordinador personal.</p>
+<p>Aquesta setmana feia el torn de vesprada. Això volia dir que acabava a la mitjanit. Hi hauria lluna plena i Agustí ja es representava la imatge relluent i imponent de l’escultura, al capdamunt de la terrassa. Quan se n’anava a casa, li agradava aturar-se i fer mitja volta, just abans d’arribar a la plaça, per admirar-la amb la perspectiva idònia. L’edifici tenia tot just vint pisos, un gratacel certament modest, però en aquesta ciutat provinciana i petita de cases baixes destacava sobre l’horitzó. Era el més alt de la ciutat i tan sols n’hi havia tres o quatre que s’hi acostaven. Com a remat, per accentuar la verticalitat del bloc i perquè servís de suport a una antena de telecomunicacions, l’arquitecte li havia col·locat a sobre aquella estructura de planxes d’acer cromat. La seva intenció inicial havia estat posar-hi un gat de la sort —amb braç articulat mòbil accionat per energia solar—, com a gest cordial de reconeixement als inversors xinesos que finançaven la reforma. Però aquests no van aprovar el disseny —potser s’ho van prendre com una broma de mal gust— i es va suscitar una certa tensió. Per sort aquest lamentable episodi ja estava gairebé oblidat. Finalment es va optar per una composició aparentment abstracta de dotze metres d’alçada. Una obra que es podia interpretar fàcilment com una figura humana i que Agustí veia molt clar que representava Santa Mònica, vestida amb hàbit de monja i amb un mocador a la mà dreta per a eixugar les llàgrimes que el seu fill li feia vessar. Vista des del punt adequat era una icona grandiosa i corprenedora.</p>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+      <li>📅 <a class="u-url" href="https://carlesbellver.net/tmp/0fbdb260a2c2/"><span class="post-date dt-published">2019-08-05</span></a></li>
+      
+      <li><span class="readingtime">🕐 30 minuts</span></li>
+    
+</ul>
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>

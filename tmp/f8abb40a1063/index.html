@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Una qüestió de mètrica (i d&#39;errates)</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1647334628" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1647334628" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="Una qüestió de mètrica (i d&#39;errates)"/>
+<meta property="og:description" content="Esborrany per a l&#39;homenatge d’El Pont a Joan Fuster." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/tmp/f8abb40a1063/" /><meta property="og:image" content="https://carlesbellver.net/uploads/2019/fb9ebfd41f.jpg" />
+<meta property="article:published_time" content="2022-03-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-03-04T00:00:00+00:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/2019/fb9ebfd41f.jpg"/>
+
+<meta name="twitter:title" content="Una qüestió de mètrica (i d&#39;errates)"/>
+<meta name="twitter:description" content="Esborrany per a l&#39;homenatge d’El Pont a Joan Fuster."/>
+
+
+
+
+<meta name="page-source-path" content="tmp/f8abb40a1063.md">
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.net/about"><img class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.net/about">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a><button class="theme-switcher">
+        Tema fosc
+    </button></a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+        
+      <ul class="post-navigation">
+        
+          <li>🗂
+          
+            Esborrany privat
+          
+          </li>
+        
+        <li><span class="readingtime">🕐 4 minuts</span></ul>
+      </ul>
+    
+
+
+    <article class="post h-entry">
+      <header class="post-header">
+        <h1 class="post-title">Una qüestió de mètrica (i d&#39;errates)</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <img src="https://carlesbellver.net/uploads/2019/fb9ebfd41f.jpg" />
+<p>Al febrer de 2013, estava enllestint el meu llibre <em>La nit mil dos</em> i em vaig adonar que tenia un problema.</p>
+<p>Havia decidit encapçalar el llibre amb la citació d&rsquo;un vers de Joan Fuster. Un vers d&rsquo;un poema —“Criatura dolcíssima”— bastant conegut, encara que fora, sobretot, per l&rsquo;adaptació que en va fer Lluís Llach (<em>Somniem</em>, 1979; <em>Poetes</em>, 2004).</p>
+<p>El vers en qüestió era el darrer d’aquest tercet:</p>
+<blockquote>
+<p>¿Però no hi trobaran ta pau, tos muscles,<br>
+la teua olor completa, penetrant-me?<br>
+¿No hi llegiran ton nom amb un bell pànic?</p>
+</blockquote>
+<p>El cas és que, fins aquell moment, havia preferit no parar compte en certa —incòmoda— discrepància que s&rsquo;advertia en diferents transcripcions. En la versió de Llach figurava tal com l&rsquo;acabe d&rsquo;anotar, però en l&rsquo;edició dins del recull <em>Set llibres de versos</em> (Tres i Quatre, 1989), que és la que tenia a mà, i en un fum de pàgines web, deia una altra cosa lleugerament diferent:</p>
+<blockquote>
+<p>¿No <em>li</em> llegiran ton nom amb un bell pànic?</p>
+</blockquote>
+<p>Quina de les dues versions devia ser la bona? És a dir: l&rsquo;original, la correcta. Per a mi, el sentit resultava molt més clar amb “hi”. &ldquo;No hi llegiran&rdquo; volia dir, evidentment, “no llegiran en els meus versos”. A qui, o a què, tanmateix, faria referència “li”? A qui “no li llegiran ton nom”? A qui podríem llegir-li aqueix nom que no sabem?</p>
+<p>Aquesta consideració, en tot cas, no em pareixia gens concloent. Podia ser que jo, simplement, no entenguera el vers. I si no volia citar un vers apòcrif, o erroni, encara menys voldria citar-ne un que no entenia!</p>
+<p>Em vaig plantejar com desfer l&rsquo;embolic i vaig recordar que la primera vegada que vaig llegir aquest poema va ser, l&rsquo;any 1987 o 1988, en l&rsquo;exemplar d&rsquo;<em>Escrit per al silenci</em> de la Biblioteca de la Fundació Huguet, a la casa de la Cultura de Castelló. Vint-i-cinc anys després, vaig tenir la sort de poder accedir una altra vegada al mateix exemplar —ara a la Biblioteca de la Universitat Jaume I, on s&rsquo;havien integrat els fons de la Fundació— i vaig poder comprovar que en aquella edició de 1954 —la primera, l&rsquo;original— el pronom utilitzat era “hi”, no “li”.</p>
+<p>Quan devia aparèixer, doncs, l&rsquo;altra versió? Una recerca ràpida en Google Books em va mostrar que el “li” només s&rsquo;havia estès a partir de l&rsquo;edició de 1989. D&rsquo;entrada, però, no podia descartar que en lloc d&rsquo;una errata no fora una correcció, introduïda pel mateix Fuster en aquella data tardana. Estava a punt de demanar opinió a persones que en saberen més que jo, de Fuster i de la seua obra, i aleshores vaig advertir que el canvi de pronom tenia una altra conseqüència rellevant, a més de la semàntica: la versió amb “li” suposava una síl·laba més, onze en total. Quina era la mètrica del poema? Quantes síl·labes tenien els altres versos? Em vaig afanyar a comptar i el resultat va ser que tot el poema eren tercets decasíl·labs, excepte aquest verset de la discòrdia. Amb “li”, hauria estat l&rsquo;únic hendecasíl·lab entre un total de noranta versos, i això tindria poc trellat. La versió amb “li”, per tant, vulnerava la mètrica del poema i per aquesta raó, al meu parer, havia de ser una errata.</p>
+<p>I així va ser com, finalment, vaig poder citar el vers sense més maldecaps.</p>
+<hr>
+<p>Preguntar als <em>sabuts</em>: ho vaig fer igualment. Tant Francesc Pérez Moragon com Vicent Salvador Liern van tenir l’amabilitat d&rsquo;atendre els meus dubtes i van corroborar, ambdós, la conclusió adés exposada. Els reitere el meu agraïment.</p>
+<hr>
+<p>Un indici més, si calguera. Des de l&rsquo;edició original, acompanya el poema la nota següent de Fuster, en la qual agraeix a l&rsquo;impressor una errata que el va fer canviar d&rsquo;idea:</p>
+<blockquote>
+<p>En un dels pomes d&rsquo;aquest llibre, inesperadament, vaig trobar la col·laboració involuntària del linotipista. Jo havia escrit: «Jo t’inventava noms o altres carícies». Innocent de mi —era sincer en dir-ho—, pensava que podia «inventar» noms i carícies, i no, les carícies eren les de sempre, i també els noms. Però el linotipista, en comptes de «Jo t’inventava», va posar «Jo t’intentava». El «Jo t’intentava» resulta penosament cacofònic; tanmateix s&rsquo;obre a unes eventualitats semàntiques més atractives. «Jo t’intentava noms o altres carícies» és un vers francament bonic. No és meu: és una errada tipogràfica. «Intentar noms…» No és igual «intentar» que «inventar»…</p>
+</blockquote>
+<p>Del “li”, per contra, Fuster no en va dir res en cap edició, fins on jo sé.</p>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+      <li>📅 <a class="u-url" href="https://carlesbellver.net/tmp/f8abb40a1063/"><span class="post-date dt-published">2022-03-04</span></a></li>
+      
+      <li><span class="readingtime">🕐 4 minuts</span></li>
+    
+</ul>
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>
