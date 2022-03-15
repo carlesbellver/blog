@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/03/15/theranos-of-education/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education\">Who is the Theranos of Education?</a></p>\n<p>Theranos, l&rsquo;empresa del sector de la biotecnologia que va intentar enganyar a tothom amb fantasioses tècniques d&rsquo;anàlisi de sang… i ho va aconseguir durant un temps. Podria passar això en el món de l&rsquo;educació? O ja ha passat? Dos casos molt semblants: tant Altschool (escoles amb tecnologies avançades) com Knewton (programari per a l&rsquo;aprenentatge adaptatiu) havien de revolucionar l&rsquo;educació i es van esvair en pocs anys.</p>\n<blockquote>\n<p>Després de consultar un munt de mestres, empresaris, inversors i altres professionals de l&rsquo;educació sobre la base de les característiques de Theranos (líder carismàtic, capital de risc inicial que sembla desaparèixer, afirmacions no provades i cobertura mediàtica i bombo seguits de silenci), dues grans companyies s&rsquo;esmentaven una vegada i una altra.</p>\n</blockquote>\n",
+				"date_published": "2022-03-15T10:24:37+01:00",
+				"url": "https://carlesbellver.net/2022/03/15/theranos-of-education/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/03/13/gemutlichkeit/",
 				
 				"content_html": "<blockquote>\n<p><em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>OANS ZWOA DREI! G’SUFFA!</em></p>\n</blockquote>\n<p>Col·legi Universitari de Castelló. Cap a 1990? <a href=\"https://ca.wikipedia.org/wiki/Vicent_Mart%C3%ADnez_Guzm%C3%A1n\">Vicent Martínez Guzmán</a> ens il·lustrava sobre les dificultats per a <a href=\"https://publicacions.iec.cat/repository/pdf/00000082/00000067.pdf\">traduir amb precisió el mot alemany <em>Gemüt</em></a>, en el context de la filosofia de Husserl, i <a href=\"http://eticaydemocracia.uji.es/cvs/salvador/cv.pdf\">Salvador Cabedo Manuel</a> ens va sorprendre —ens va desconcertar— entonant aquesta cançoneta popular alemanya. Típica de les cerveseries, ens va explicar tot seguit. Trenta anys després, la trobe transcrita en una novel·la de Jonathan Coe i recorde l’anècdota. Un brindis, un brindis per aixecar l&rsquo;ànim! <em>Der Gemütlichkeit!</em> La vida i la filosofia.</p>\n<p><a href=\"https://www.flickr.com/photos/usnationalarchives/4726903479\" title=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"><img src=\"/uploads/2022/2022-03-13-gemutlichkeit.jpg\" alt=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"></a></p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Els antivacunes insisteixen en la importància de ser crítics, però els seus arguments, si et prens la molèstia de llegir-los, més aviat pareixen <a href=\"https://ca.wikipedia.org/wiki/M%C3%A8tode_paranoic-cr%C3%ADtic\">paranoico-crítics</a>, a la manera de Dalí.</p>\n",
 				"date_published": "2022-01-05T23:38:52+00:00",
 				"url": "https://carlesbellver.net/2022/01/05/22332/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/03/ull-soluble/",
-				
-				"content_html": "<p>Arqueologia de l’oci nocturn. L’Ull Soluble. Va començar com a llibreria-cafeteria i va triomfar durant anys com a bar musical.</p>\n<img alt=\"Rètol de l'Ull Soluble\" src=\"/uploads/2022/2022-01-03-ull-soluble.jpg\">\n",
-				"date_published": "2022-01-03T19:06:02+01:00",
-				"url": "https://carlesbellver.net/2022/01/03/ull-soluble/"
 			}
 	]
 }
