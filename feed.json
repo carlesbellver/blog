@@ -1,9 +1,9 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "La vista cansada",
-	"icon": "https://carlesbellver.net/",
-	"home_page_url": "https://carlesbellver.net/",
-	"feed_url": "https://carlesbellver.net/feed.json",
+	"icon": "https://carlesbellver.net",
+	"home_page_url": "https://carlesbellver.net",
+	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
 				"id": "https://carlesbellver.net/2022/03/15/theranos-of-education/",

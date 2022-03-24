@@ -2,8 +2,8 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "La vista cansada",
 	"icon": "/uploads/avatar.jpg",
-	"home_page_url": "https://carlesbellver.net/",
-	"feed_url": "https://carlesbellver.net/archive/index.json",
+	"home_page_url": "https://carlesbellver.net",
+	"feed_url": "https://carlesbellver.netarchive/index.json",
 	"items": [
 			{
 				"title": "",
@@ -5903,7 +5903,7 @@
 				"title": "",
 				"date_published": "2018-03-26T12:47:00+00:00",
 				"url": "https://carlesbellver.net/2018/03/26/years-of-edtech.html",
-				"tags": "retalls",
+				"tags": "retalls, educació",
 				"content_text": "📎 25 Years of EdTech: Learning objects\nPer què van fallar els objectes d’aprenentatge?\n Sobreenginyeria. Debats semàntics. Paradoxa de reutilització. Manca de familiaritat.  "
 			},
 			{
