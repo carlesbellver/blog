@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/03/29/rafael-llopis/",
+				
+				"content_html": "<p>M'assabente que <a href=\"https://es.wikipedia.org/wiki/Rafael_Llopis\">Rafael Llopis</a> va morir la setmana passada. Gràcies a ell —i a les traduccions de <a href=\"https://es.wikipedia.org/wiki/Francisco_Torres_Oliver\">Francisco Torres Oliver</a>— vam conèixer les meravelloses al·lucinacions de Lovecraft en aquells llibrets de butxaca d'Alianza Editorial. La seva edició —i l'enciclopèdica introducció— de <em>Los mitos de Cthulhu</em> ens van descobrir un món que va durar més enllà dels límits estrets de l'adolescència.</p>\n",
+				"date_published": "2022-03-29T19:50:46+02:00",
+				"url": "https://carlesbellver.net/2022/03/29/rafael-llopis/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/03/15/theranos-of-education/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education\">Who is the Theranos of Education?</a></p>\n<p>Theranos, l'empresa del sector de la biotecnologia que va intentar enganyar a tothom amb fantasioses tècniques d'anàlisi de sang… i ho va aconseguir durant un temps. Podria passar això en el món de l'educació? O ja ha passat? Dos casos molt semblants: tant Altschool (escoles amb tecnologies avançades) com Knewton (programari per a l'aprenentatge adaptatiu) havien de revolucionar l'educació i es van esvair en pocs anys.</p>\n<blockquote>\n<p>Després de consultar un munt de mestres, empresaris, inversors i altres professionals de l'educació sobre la base de les característiques de Theranos (líder carismàtic, capital de risc inicial que sembla desaparèixer, afirmacions no provades i cobertura mediàtica i bombo seguits de silenci), dues grans companyies s'esmentaven una vegada i una altra.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>Coextensiu amb el seu exterior, hi ha un interior de les coses.</p>\n<p><em>Coextensif à leur Dehors, il y a un Dedans des Choses.</em></p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin\">Pierre Teilhard de Chardin</a>, <em>Le phénomène humain</em>.</p>\n<img alt=\"Foto del rellotge del Fadrí, torre campanar de Castelló, des de dins.\" src=\"/uploads/2022/2022-01-08-dedans.jpg\">\n<p>Foto: el rellotge del <a href=\"https://mucc.castello.es/seus/el-fadri/\">Fadrí</a>, des de dins.</p>\n",
 				"date_published": "2022-01-08T12:45:02+01:00",
 				"url": "https://carlesbellver.net/2022/01/08/dedans/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/05/22332/",
-				
-				"content_html": "<p>Els antivacunes insisteixen en la importància de ser crítics, però els seus arguments, si et prens la molèstia de llegir-los, més aviat pareixen <a href=\"https://ca.wikipedia.org/wiki/M%C3%A8tode_paranoic-cr%C3%ADtic\">paranoico-crítics</a>, a la manera de Dalí.</p>\n",
-				"date_published": "2022-01-05T23:38:52+00:00",
-				"url": "https://carlesbellver.net/2022/01/05/22332/"
 			}
 	]
 }
