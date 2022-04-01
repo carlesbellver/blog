@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Thu, 31 Mar 2022 20:07:23 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Apr 2022 19:30:14 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2022/04/01/amor-lliure/</link>
+      <pubDate>Fri, 01 Apr 2022 19:30:14 +0200</pubDate>
+      <guid>https://carlesbellver.net/2022/04/01/amor-lliure/</guid>
+      <description>&lt;p&gt;Amor lliure (i feliç).&lt;/p&gt;
+&lt;img alt=&#34;Grafit en una paret: “Be lesbian” i un cor somrient&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-04-01-amor-lliure.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -287,19 +297,6 @@
       <pubDate>Tue, 11 Jan 2022 22:57:15 +0000</pubDate>
       <guid>https://carlesbellver.net/2022/01/11/38235/</guid>
       <description>&lt;p&gt;Ell lamentava la cita, però la va fer igualment. Enguany &lt;a href=&#34;https://www.vilaweb.cat/noticies/com-un-eslogan-dunamuno-ha-acabat-marcant-lany-joan-fuster/&#34;&gt;s’han repetit la cita i les lamentacions&lt;/a&gt;, però per separat. Jo hauria preferit: “Vindrà l’hora de veure dins els versos”. O: “Heus ací un home que moria allarat en clars abismes”. Cadascú té les seues preferències i les diu.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2022/01/10/first-impressions-web3/</link>
-      <pubDate>Mon, 10 Jan 2022 17:31:26 +0100</pubDate>
-      <guid>https://carlesbellver.net/2022/01/10/first-impressions-web3/</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;https://moxie.org/2022/01/07/web3-first-impressions.html&#34;&gt;Moxie Marlinspike &amp;gt;&amp;gt; My first impressions of web3&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Per fer utilitzables aquestes tecnologies, l&#39;espai s&#39;està consolidant al voltant de… plataformes. Una altra vegada. Gent que mantindrà servidors per tu i controlarà les iteracions de les noves funcionalitats que emergeixin. Infura, OpenSea, Coinbase, Etherscan.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;El web3 és un web de servidors. La cadena de blocs és una xarxa d&#39;iguals, però només entre servidors. Malgrat la promesa de descentralització i de confiança fermament assentada en la criptografia, clients d&#39;usuari com MetaMask només poden interactuar amb la cadena de blocs d&#39;Ethereum mitjançant plataformes com etherscan, Infura o OpenSea, i ho fan sense cap mena d&#39;autenticació o signatura criptogràfica. És a dir, donant per descomptat que cal confiar en aquests intermediaris.&lt;/p&gt;
 </description>
     </item>
     

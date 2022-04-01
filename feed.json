@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/04/01/amor-lliure/",
+				
+				"content_html": "<p>Amor lliure (i feliç).</p>\n<img alt=\"Grafit en una paret: “Be lesbian” i un cor somrient\" src=\"/uploads/2022/2022-04-01-amor-lliure.jpg\">\n",
+				"date_published": "2022-04-01T19:30:14+02:00",
+				"url": "https://carlesbellver.net/2022/04/01/amor-lliure/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/03/31/art-transports-us/",
 				
 				"content_html": "<p>📎 <a href=\"https://psyche.co/ideas/when-art-transports-us-where-do-we-actually-go\">When art transports us, where do we actually go?</a></p>\n<p>Aquesta pregunta m'ha recordat la <a href=\"/2015/09/16/de-la-revelaci.html\">definició clàssica de <em>ciberespai</em></a>: el <em>lloc</em> no físic on ens trobem quan parlem per telèfon (és a dir, això mateix que ara volen continuar esprement comercialment amb el nom de “metavers”).</p>\n<p>Hi ha, en fi, altres mons, i no sé si són en aquest, però són accessibles des d'aquest.</p>\n<blockquote>\n<p>L'obra d'art, però, obre un món heterònom que no experimente com a pertanyent a la unitat espaciotemporal del món real.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Ell lamentava la cita, però la va fer igualment. Enguany <a href=\"https://www.vilaweb.cat/noticies/com-un-eslogan-dunamuno-ha-acabat-marcant-lany-joan-fuster/\">s’han repetit la cita i les lamentacions</a>, però per separat. Jo hauria preferit: “Vindrà l’hora de veure dins els versos”. O: “Heus ací un home que moria allarat en clars abismes”. Cadascú té les seues preferències i les diu.</p>\n",
 				"date_published": "2022-01-11T22:57:15+00:00",
 				"url": "https://carlesbellver.net/2022/01/11/38235/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/10/first-impressions-web3/",
-				
-				"content_html": "<p>📎 <a href=\"https://moxie.org/2022/01/07/web3-first-impressions.html\">Moxie Marlinspike &gt;&gt; My first impressions of web3</a></p>\n<blockquote>\n<p>Per fer utilitzables aquestes tecnologies, l'espai s'està consolidant al voltant de… plataformes. Una altra vegada. Gent que mantindrà servidors per tu i controlarà les iteracions de les noves funcionalitats que emergeixin. Infura, OpenSea, Coinbase, Etherscan.</p>\n</blockquote>\n<p>El web3 és un web de servidors. La cadena de blocs és una xarxa d'iguals, però només entre servidors. Malgrat la promesa de descentralització i de confiança fermament assentada en la criptografia, clients d'usuari com MetaMask només poden interactuar amb la cadena de blocs d'Ethereum mitjançant plataformes com etherscan, Infura o OpenSea, i ho fan sense cap mena d'autenticació o signatura criptogràfica. És a dir, donant per descomptat que cal confiar en aquests intermediaris.</p>\n",
-				"date_published": "2022-01-10T17:31:26+01:00",
-				"url": "https://carlesbellver.net/2022/01/10/first-impressions-web3/"
 			}
 	]
 }
