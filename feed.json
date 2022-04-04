@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/04/04/gran-ciutat/",
+				
+				"content_html": "<p>Bon dia. Ja ens queda menys: al voltant de cent setanta anys #Castelló #UJI</p>\n<blockquote>\n<p>Si vols crear una gran ciutat, crea una gran universitat i espera dos-cents anys.</p>\n</blockquote>\n<p>📎 <a href=\"https://www.lavanguardia.com/encatala/20220404/8174400/barcelona-li-agradaria-boston-pero-ara-com-ara-es-mes-miami.html\">Bruce Katz, urbanista de ciutats globals</a></p>\n",
+				"date_published": "2022-04-04T08:00:35+02:00",
+				"url": "https://carlesbellver.net/2022/04/04/gran-ciutat/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/04/01/amor-lliure/",
 				
 				"content_html": "<p>L’amor lliure (i feliç).</p>\n<img alt=\"Grafit en una paret: “Be lesbian” i un cor somrient\" src=\"/uploads/2022/2022-04-01-amor-lliure.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Les pastures de l&rsquo;#UJI. Descansar en prats deliciosos.</p>\n<img alt=\"Fotografia del Jardí dels Sentits, Universitat Jaume I. Escultura d'un cavall entres els arbres.\" src=\"/uploads/2022/2022-01-17-pastures-uji.jpg\">\n",
 				"date_published": "2022-01-17T16:51:33+01:00",
 				"url": "https://carlesbellver.net/2022/01/17/pastures-uji/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/11/38235/",
-				
-				"content_html": "<p>Ell lamentava la cita, però la va fer igualment. Enguany <a href=\"https://www.vilaweb.cat/noticies/com-un-eslogan-dunamuno-ha-acabat-marcant-lany-joan-fuster/\">s’han repetit la cita i les lamentacions</a>, però per separat. Jo hauria preferit: “Vindrà l’hora de veure dins els versos”. O: “Heus ací un home que moria allarat en clars abismes”. Cadascú té les seues preferències i les diu.</p>\n",
-				"date_published": "2022-01-11T22:57:15+00:00",
-				"url": "https://carlesbellver.net/2022/01/11/38235/"
 			}
 	]
 }
