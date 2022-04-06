@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: En Charles Darwin i el peixet corredor</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1649252186" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1649252186" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="En Charles Darwin i el peixet corredor"/>
+<meta property="og:description" content="Açò pareix que ens ha acostat, tant en l&rsquo;espai com en el temps, al gran esdeveniment, el secret dels secrets, és a dir, l&rsquo;aparició de nous éssers damunt de la Terra.
+ — Charles Darwin, anotació al seu diari, 1865
+Charles Robert Darwin (1809-1882). Savi excèntric anglès. Naturalista. Preferia la companyia dels animals a la dels homes." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/cpe/1995/darwin/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+<meta name="twitter:title" content="En Charles Darwin i el peixet corredor"/>
+<meta name="twitter:description" content="Açò pareix que ens ha acostat, tant en l&rsquo;espai com en el temps, al gran esdeveniment, el secret dels secrets, és a dir, l&rsquo;aparició de nous éssers damunt de la Terra.
+ — Charles Darwin, anotació al seu diari, 1865
+Charles Robert Darwin (1809-1882). Savi excèntric anglès. Naturalista. Preferia la companyia dels animals a la dels homes."/>
+
+
+
+
+<meta name="page-source-path" content="CPE/1995/darwin.md">
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.netabout"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.netabout">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li><img class="icon" src="https://carlesbellver.net/svg.icons/arrow-circle-left.svg" alt="up" />
+          
+            <a href="https://carlesbellver.net/cpe/" title="Contes per a extraterrestres">Contes per a extraterrestres</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">En Charles Darwin i el peixet corredor</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p><img src="https://carlesbellver.net/uploads/2000/darwin.gif" alt=""></p>
+<blockquote>
+<p>Açò pareix que ens ha acostat, tant en l&rsquo;espai com en el temps, al gran esdeveniment, el secret dels secrets, és a dir, l&rsquo;aparició de nous éssers damunt de la Terra.</p>
+</blockquote>
+<p>— Charles Darwin, anotació al seu diari, 1865</p>
+<p><strong>Charles Robert Darwin</strong> (1809-1882). Savi excèntric anglès. Naturalista. Preferia la companyia dels animals a la dels homes. El seu pare el va obligar a cursar medicina i teologia, però ell perdia el temps caçant i col.leccionant animals, minerals i plantes. Es va traure el títol l&rsquo;any 1831 gràcies a les classes d&rsquo; un professor particular.</p>
+<p>L&rsquo;any següent, fart de tot, va acceptar una plaça de naturalista sense sou en un vaixell que havia de fer la volta al món. A les Illes Galápagos el va impressionar la variabilitat de les espècies d&rsquo;ocells i rèptils.</p>
+<p>En tornar a Anglaterra l&rsquo;any 1836 va relacionar aquestes observacions amb la pràctica dels criadors de ramat. El delirant resultat va ser l&rsquo;anomenada Teoria de l&rsquo;Evolució (The Origin of Species 1859), segons la qual les espècies es van modificant paulatinament de manera que unes descendeixen d&rsquo;altres al llarg de les èpoques geològiques. Els peixos s&rsquo;haurien transformat en amfibis i haurien eixit de l&rsquo;aigua; els amfibis en rèptils, i els rèptils finalment en mamífers.</p>
+<p>Amb el pas del temps el senyor Darwin va extremar les seves opinions i també el seu odi envers el gènere humà. En un moment de ràbia va arribar a declarar que l&rsquo;home descendeix del mico (The Ascent of Man 1871). Va comptar amb un grup de seguidors incondicionals, escassos però sorollosos, entre els quals va destacar l&rsquo;anticlerical Thomas Henry Huxley.</p>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>

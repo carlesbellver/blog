@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Correcamins</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1649252186" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1649252186" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="Correcamins"/>
+<meta property="og:description" content="Font: Usenet
+Un experiment sobre els efectes de la velocitat en el cos humà
+Aquesta notícia va aparèixer a la premsa americana abans de circular per Internet cap a finals de l&rsquo;any 96. Es va dir que el protagonista mereixia el Premi Darwin, atorgat anualment a aquells que fan el millor servei a la selecció natural matant-se d&rsquo;una manera extraordinàriament estúpida." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/cpe/1996/correcamins/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+<meta name="twitter:title" content="Correcamins"/>
+<meta name="twitter:description" content="Font: Usenet
+Un experiment sobre els efectes de la velocitat en el cos humà
+Aquesta notícia va aparèixer a la premsa americana abans de circular per Internet cap a finals de l&rsquo;any 96. Es va dir que el protagonista mereixia el Premi Darwin, atorgat anualment a aquells que fan el millor servei a la selecció natural matant-se d&rsquo;una manera extraordinàriament estúpida."/>
+
+
+
+
+<meta name="page-source-path" content="CPE/1996/correcamins.md">
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.netabout"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.netabout">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li><img class="icon" src="https://carlesbellver.net/svg.icons/arrow-circle-left.svg" alt="up" />
+          
+            <a href="https://carlesbellver.net/cpe/" title="Contes per a extraterrestres">Contes per a extraterrestres</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">Correcamins</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Font: Usenet</p>
+<p><img src="https://carlesbellver.net/uploads/2000/correcamins.gif" alt=""></p>
+<p>Un experiment sobre els efectes de la velocitat en el cos humà</p>
+<p><em>Aquesta notícia va aparèixer a la premsa americana abans de circular per Internet cap a finals de l&rsquo;any 96. Es va dir que el protagonista mereixia el Premi Darwin, atorgat anualment a aquells que fan el millor servei a la selecció natural matant-se d&rsquo;una manera extraordinàriament estúpida.</em></p>
+<p>La Patrulla d&rsquo;Autopistes d&rsquo;Arizona es va topar un dia amb una pila de metall ardent incrustada a la paret d&rsquo;un cingle, damunt d&rsquo;un revolt de la carretera. Semblaven les deixalles d&rsquo;un accident d&rsquo;aviació, però era un cotxe. La mena de cotxe no es va poder identificar sobre el terreny.</p>
+<p>Al Laboratori de Criminologia van tardar mesos a descobrir què era i què havia passat. Sembla que un paio s&rsquo;havia agenciat d&rsquo;alguna manera una unitat JATO (<em>Jet Assisted Take Off</em> - un propulsor de combustible sòlid) que s&rsquo;utilitza per donar empenta extra als avions militars de transport quan han de prendre el vol en pistes curtes.</p>
+<p>El xicot va conduir el seu Chevrolet Impala fins al desert fins que va localitzar una recta ben llarga. Llavors es va aturar, va enganxar la unitat propulsora al cotxe, va agafar velocitat, i va engegar el JATO.</p>
+<p>Segons els càlculs, la ignició va tenir lloc a una distància d&rsquo;aproximadament 5 quilòmetres del punt de l&rsquo;impacte. Això s&rsquo;ha sabut per l&rsquo;asfalt socarrat i fos que hi va deixar. Si la unitat funcionava correctament, la força màxima es degué aconseguir en qüestió de segons. El Chevrolet podria haver ultrapassat els 550 quilòmetres per hora. El conductor, que ja es podia considerar un pilot, hauria experimentat acceleracions generalment reservades als combats entre caces F-14 amb els postcremadors a tota potència. El cotxe va continuar enfilant la recta durant 4 quilòmetres (15 o 20 segons!) abans que ell intentés frenar i fongués els frens completament. En aquell moment els pneumàtics van rebentar i van deixar marques de cautxú a la carretera, i el vehicle va ser aerotransportat fins a la paret rocallosa del cingle. El xoc es va produir a una alçada d&rsquo;uns 40 metres, on va quedar un cràter ennegrit d&rsquo;un metre de fondo.</p>
+<p>La major part de les restes del conductor eren irrecuperables. Al cràter es van extraure petits fragments d&rsquo;ossos, dents i pèls. També es van detectar esberles d&rsquo;ungles i os en una peça que podia ser part del volant.</p>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>

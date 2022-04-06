@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Els primers temps de l&#39;astronàutica</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1649252186" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1649252186" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="Els primers temps de l&#39;astronàutica"/>
+<meta property="og:description" content="Font: Enciclopèdia Catalana
+Imatge: AP, NASA
+160 Llucià de Samosata descriu per primera vegada un viatge a la Lluna en la novel·la Vera historia.
+1649 Cyrano de Bergerac escriu Voyage de la lune.
+1865 Jules Verne tracta el problema del viatge lunar a les seves novel·les De la Terre à la Lune i Autour de la Lune." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/cpe/1996/astronautica/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+<meta name="twitter:title" content="Els primers temps de l&#39;astronàutica"/>
+<meta name="twitter:description" content="Font: Enciclopèdia Catalana
+Imatge: AP, NASA
+160 Llucià de Samosata descriu per primera vegada un viatge a la Lluna en la novel·la Vera historia.
+1649 Cyrano de Bergerac escriu Voyage de la lune.
+1865 Jules Verne tracta el problema del viatge lunar a les seves novel·les De la Terre à la Lune i Autour de la Lune."/>
+
+
+
+
+<meta name="page-source-path" content="CPE/1996/astronautica.md">
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.netabout"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.netabout">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li><img class="icon" src="https://carlesbellver.net/svg.icons/arrow-circle-left.svg" alt="up" />
+          
+            <a href="https://carlesbellver.net/cpe/" title="Contes per a extraterrestres">Contes per a extraterrestres</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">Els primers temps de l&#39;astronàutica</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Font: Enciclopèdia Catalana<br>
+Imatge: AP, NASA</p>
+<p><img src="https://carlesbellver.net/uploads/2000/astronautica.jpg" alt=""></p>
+<p><strong>160</strong> Llucià de Samosata descriu per primera vegada un viatge a la Lluna en la novel·la Vera historia.</p>
+<p><strong>1649</strong> Cyrano de Bergerac escriu Voyage de la lune.</p>
+<p><strong>1865</strong> Jules Verne tracta el problema del viatge lunar a les seves novel·les De la Terre à la Lune i Autour de la Lune.</p>
+<p><strong>1926</strong> El primer coet de propergol líquid de Goddard arriba a 56 m d&rsquo;altitud.</p>
+<p><strong>1927</strong> Apareix el terme &lsquo;astronàutica&rsquo;, emprat per primera vegada per Joseph Henri-Honoré Boëx (Rosny Ainé).</p>
+<p><strong>1930</strong> S&rsquo;estrena el film de ficció astronàutica de Fritz Lang <em>Una dona a la Lluna</em>.</p>
+<p><strong>1957</strong> L&rsquo;URSS col·loca en òrbita el Sputnik 1, primer satèl·lit artificial de la Terra.<br>
+Es llança el Sputnik 2, el primer satèl·lit artificial portador d&rsquo;un ésser vivent, la gossa Lajka.</p>
+<p><strong>1958</strong> Col·locació en òrbita de l&rsquo;Explorer , primer satèl·lit artificial nord-americà.<br>
+El Pioneer 1 (EUA) pot ser considerat la primera sonda còsmica, el primer intent fallat de fer impacte a la Lluna.</p>
+<p><strong>1959</strong> L&rsquo;Explorer 6 envia la primera imatge de TV de la Terra, vista des de I&rsquo;espai extraatmosfèric. La sonda còsmica Luna 2 (URSS) fa impacte a la Lluna.</p>
+<p><strong>1961</strong> El 12 d&rsquo;abril el soviètic Iuri A. Gagarin efectua el primer vol orbital humà a bord del vehicle Vostok 1, amb una durada de 108 minuts.</p>
+<p><strong>1962</strong> Llançament de la càpsula Mercury MA-G tripulada per John Glenn, primer nord-americà que féu òrbites al voltant de la Terra.</p>
+<p><strong>1964</strong> El Voskhod (URSS), primer vehicle espacial amb més d&rsquo;un home. Tripulants: V.V. Komarov, K.P. Feoktistov i B.B. Jegorov.</p>
+<p><strong>1965</strong> Primera activitat fora d&rsquo;un vehicle espacial: el cosmonauta rus Leonov sortí del Voskhod 2, mentre aquest continuava l&rsquo;orbita al voltant de la Terra.</p>
+<p><strong>1966</strong> L&rsquo;URSS (Luna 9) i els Estats Units (Surveyor I) aconsegueixen de fer aterrar suaument un giny a la Lluna.</p>
+<p><strong>1967</strong> La sonda còsmica soviètica Venus 4, després de 128 dies de viatge, desprèn una càpsula experimental que baixa suaument sobre el planeta Venus.</p>
+<p>La sonda Surveyor 5 (EUA), despres d&rsquo;aterrar en el Mar de la Tranquil·litat, efectua la primera anàlisi elemental del sòl lunar.</p>
+<p><strong>1968</strong> Emprenen el viatge els tres homes de la missió Apollo 8, que seran els primers a fer òrbites al voltant de la Lluna.</p>
+<p><strong>1969</strong> El 21 de juliol els astronautes nord-americans Armstrong i Aldrin, tripulants del mòdul lunar del vehicle espacial Apollo 11, esdevenen els primers homes a arribar a la Lluna .</p>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>

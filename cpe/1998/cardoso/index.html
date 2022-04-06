@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Cardoso Flea Circus</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1649252186" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1649252186" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="Cardoso Flea Circus"/>
+<meta property="og:description" content="Font: EL PAÍS
+Data: 14/4/1998
+L&rsquo;escultora i dissenyadora colombiana María Fernanda Cardoso ha recuperat recentment la tradició dels circs de puces dins del context de l&rsquo;art d&rsquo;avantguarda.
+Al Cardoso Flea Circus, instal·lat al New Museum of Contemporary Art de Nova York, el repertori de la troupe de puces és variat: l&rsquo;anomenada Brutus arrossega una locomotora en miniatura, el pes de la qual és 160." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/cpe/1998/cardoso/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+<meta name="twitter:title" content="Cardoso Flea Circus"/>
+<meta name="twitter:description" content="Font: EL PAÍS
+Data: 14/4/1998
+L&rsquo;escultora i dissenyadora colombiana María Fernanda Cardoso ha recuperat recentment la tradició dels circs de puces dins del context de l&rsquo;art d&rsquo;avantguarda.
+Al Cardoso Flea Circus, instal·lat al New Museum of Contemporary Art de Nova York, el repertori de la troupe de puces és variat: l&rsquo;anomenada Brutus arrossega una locomotora en miniatura, el pes de la qual és 160."/>
+
+
+
+
+<meta name="page-source-path" content="CPE/1998/cardoso.md">
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.netabout"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.netabout">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li><img class="icon" src="https://carlesbellver.net/svg.icons/arrow-circle-left.svg" alt="up" />
+          
+            <a href="https://carlesbellver.net/cpe/" title="Contes per a extraterrestres">Contes per a extraterrestres</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">Cardoso Flea Circus</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Font: EL PAÍS<br>
+Data: 14/4/1998</p>
+<p><img src="https://carlesbellver.net/uploads/2000/cardoso.jpg" alt=""></p>
+<p>L&rsquo;escultora i dissenyadora colombiana María Fernanda Cardoso ha recuperat recentment la tradició dels circs de puces dins del context de l&rsquo;art d&rsquo;avantguarda.</p>
+<p>Al <em>Cardoso Flea Circus</em>, instal·lat al New Museum of Contemporary Art de Nova York, el repertori de la <em>troupe</em> de puces és variat: l&rsquo;anomenada Brutus arrossega una locomotora en miniatura, el pes de la qual és 160.000 vegades el seu; un grup de ballarines amb faldilles a mida es mouen seguint el ritme d&rsquo;una música tropical; Pepita i Pepón fan arriscats exercicis de funambulisme; una altra companya fa <em>body jumping</em> i, finalment, hi ha un número inspirat en Harry Houdini.</p>
+<p>Tot això pareix impossible, potser una mera simulació òptica, però Maria Cardoso insisteix que és real. L&rsquo;ensinistrament de puces es va iniciar al segle XIX a la cort de Prússia. En va ser el pioner un tal Mestre Bertolotto. Investigant aquesta tradició Cardoso ha perfeccionat un mètode que fa servir l&rsquo;exposició a la llum, al fred i a la calor, i diferents textures que atrauen o repel·leixen els insectes. A vegades, també les dirigeix bufant o amb fils de seda o coure.</p>
+<p>Cardoso cria les puces ella mateixa. En necessita centenars, ja que el seu cicle vital és molt curt. Moltes les incuba al pèl del seu gat. Després, quan comencen a actuar, moren prompte d&rsquo;inanició, ja que no les alimenta. La raó és la seva particular dieta: xuclen sang.</p>
+<p>Cardoso reconeix que és «absurd» recuperar aquest art. Segons ella «el circ de puces existeix en un món real i alhora en un món mític.» Afirma també que «fer una cosa tan inútil i absurda és tot un repte per a la ment. En un món d&rsquo;Internet i alta tecnologia, queda encara quelcom tan arcà i extraordinari que desafia els límits de la imaginació.»</p>
+<p>Abans Cardoso havia utilitzat mosques, estrelles de mar, piranyes, granotes, llangardaixos i ossos humans per a les seves instal·lacions i exposicions. El circ de puces, declara, és part d&rsquo;un interès científico-artístic per la relació entre els animals i els éssers humans.</p>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>

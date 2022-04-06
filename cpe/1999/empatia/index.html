@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: El test d&#39;empatia Voigt-Kampff</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1649252186" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1649252186" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="El test d&#39;empatia Voigt-Kampff"/>
+<meta property="og:description" content="Tal com el descriu Philip K. Dick als primers capítols de la novel·la Somien els androides amb ovelles elèctriques? (1968) Font: Somien els androides amb ovelles elèctriques? Informació recopilada i traduïda per Carles Bellver Torlà.
+L&rsquo;Institut Pavlov de la Unió Soviètica va dissenyar el Test d&rsquo;empatia Voigt després que Sudermann produís l&rsquo;any 2018 les primeres unitats d&rsquo;androides pràcticament indistingibles dels éssers humans autèntics." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/cpe/1999/empatia/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+<meta name="twitter:title" content="El test d&#39;empatia Voigt-Kampff"/>
+<meta name="twitter:description" content="Tal com el descriu Philip K. Dick als primers capítols de la novel·la Somien els androides amb ovelles elèctriques? (1968) Font: Somien els androides amb ovelles elèctriques? Informació recopilada i traduïda per Carles Bellver Torlà.
+L&rsquo;Institut Pavlov de la Unió Soviètica va dissenyar el Test d&rsquo;empatia Voigt després que Sudermann produís l&rsquo;any 2018 les primeres unitats d&rsquo;androides pràcticament indistingibles dels éssers humans autèntics."/>
+
+
+
+
+<meta name="page-source-path" content="CPE/1999/empatia.md">
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.netabout"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.netabout">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li><img class="icon" src="https://carlesbellver.net/svg.icons/arrow-circle-left.svg" alt="up" />
+          
+            <a href="https://carlesbellver.net/cpe/" title="Contes per a extraterrestres">Contes per a extraterrestres</a>
+          
+          </li>
+        
+        <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net/svg.icons/clock.svg" alt="clock" /> 5 minuts</span></li>
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">El test d&#39;empatia Voigt-Kampff</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <h2 id="tal-com-el-descriu-philip-k-dick-als-primers-capítols-de-la-novella-somien-els-androides-amb-ovelles-elèctriques-1968">Tal com el descriu Philip K. Dick als primers capítols de la novel·la Somien els androides amb ovelles elèctriques? (1968)</h2>
+<p>Font: <em>Somien els androides amb ovelles elèctriques?</em>  Informació recopilada i traduïda per Carles Bellver Torlà.</p>
+<p>L&rsquo;Institut Pavlov de la Unió Soviètica va dissenyar el Test d&rsquo;empatia Voigt després que Sudermann produís l&rsquo;any 2018 les primeres unitats d&rsquo;androides pràcticament indistingibles dels éssers humans autèntics. Aquesta prova, perfeccionada posteriorment per Lurie Kampff, ha estat utilitzada des de llavors pels cossos policials per detectar els androides que pretenen introduir-se il·legalment a la Terra i eliminar-los («retirar-los»).</p>
+<p>El Test d&rsquo;empatia no intenta mesurar la intel·ligència dels androides, igual o superior a la dels humans, sinó la facultat estrictament humana d&rsquo;identificar-se amb el proïsme i comprendre els seus sentiments i emocions. Un androide és incapaç de sentir compassió, tot i que podria simular que en sent.</p>
+<p>El test Voigt-Kampff consisteix a plantejar a l&rsquo;individu sospitós una sèrie de situacions moralment inquietants i mesurar, per mitjà d&rsquo;un equipament tècnic bastant senzill, la dilatació capil·lar a la seva regió facial i la tensió dels músculs oculars. Se sap que aquestes respostes funcionen autònomament i no es poden controlar de manera voluntària igual que la respiració o el ritme cardíac, per exemple.</p>
+<p>Dissortadament, segons alguns psiquiatres russos existeix la possibilitat d&rsquo;identificar erròniament com a androides certs individus esquizoides o esquizofrènics que manifesten una incapacitat afectiva profunda. Kampff va minimitzar aquest problema en l&rsquo;article «El bloqueig de l&rsquo;assumpció de rols en l&rsquo;esquizofrènic no deteriorat». Generalment s&rsquo;admet que el perill pot existir, però en tot cas aquesta gent hauria d&rsquo;estar ingressada en hospitals.</p>
+<h3 id="exemple">Exemple</h3>
+<p>Tot seguit incloem la llista de «situacions socials» que van permetre a l&rsquo;oficial Rick Deckard identificar l&rsquo;androide Rachel Rosen. Fem constar en cursiva les reaccions de l&rsquo;androide.</p>
+<p>Cal tenir en compte que al llibre de Dick l&rsquo;extinció d&rsquo;espècies i la dràstica reducció del nombre d&rsquo;animals ha convertit la vida en un valor sagrat. La moral evoluciona amb les circumstàncies.</p>
+<ol>
+<li>Us regalen una cartera de pell de jònec pel vostre aniversari.<br>
+<em>Rachel diu: «No l&rsquo;acceptaria. I denunciaria la persona que me la donés.» Els indicadors de l&rsquo;aparell oscil·len violentament.</em></li>
+<li>Teniu un xiquet menut, que us ensenya la seva col·lecció de papallones, inclòs el pot que fa servir per matar-les.<br>
+<em>Rachel diu: «El portaria al metge.» Els indicadors tornen a moure&rsquo;s, però no tant com abans.</em></li>
+<li>Esteu mirant la tele, i de sobte descobriu una vespa que us corre pel braç.<br>
+<em>Rachel diu: «La mataria.» Aquesta vegada els indicadors tot just tremolen un moment.</em></li>
+<li>Trobeu en una revista una foto en color, a tota pàgina, d&rsquo;una dona nua (<em>Rachel interromp Deckard: «Això és per provar si sóc una androide o si sóc homosexual.» Els indicadors no es mouen i Deckard continua</em>). Al vostre home li agrada la foto. La dona jau de boca a terra sobre una enorme i bellíssima pell d&rsquo;ós. El vostre home penja la foto a la paret del seu estudi.<br>
+<em>Rachel diu: «Certament no li ho permetria.» Les agulles es mouen llavors, però abans no. No s&rsquo;ha apercebut de l&rsquo;element important, la pell animal. Deckard comença a sospitar que és una androide.</em></li>
+<li>Esteu llegint una novel·la escrita en els vells temps abans de la guerra. Els personatges visiten el moll de pescadors a San Francisco. Tenen fam i entren en un restaurant. Un demana llagosta, i el xef deixa caure la llagosta en un perol amb aigua bullint mentre els altres miren.<br>
+<em>Rachel diu: «Déu meu! Això és horrible. Realment ho van fer? És una depravació! Voleu dir una llagosta</em> viva*?» Però els indicadors no responen. Formalment, una resposta correcta. Però simulada.*</li>
+<li>Llogueu una caseta a la muntanya en una zona encara verda. És de pi rústic amb una gran llar. A les parets algú ha penjat mapes antics, estampats per Currier i Ives, i damunt de la llar han posat un cap de cérvol, tot un mascle amb grans banyes. A la gent que vé amb vosaltres els agrada la decoració de la caseta.<br>
+<em>Rachel diu: «No amb el cap de cérvol.» Els indicadors, tanmateix, tot just es mouen.</em></li>
+<li>Quedeu embarassada d&rsquo;un home que us ha promès casar-se. L&rsquo;home se&rsquo;n va amb una altra dona, la vostra millor amiga. Avorteu.<br>
+<em>Rachel diu: «Mai avortaria. En tot cas no es pot. És cadena perpètua, i la policia sempre està vigilant.» Aquesta vegada les agulles sí que es mouen violentament. Deckard li pregunta si parla per experiència pròpia i ella contesta amb evasives mentre les agulles continuen movent-se.</em></li>
+<li>Teniu una cita amb un home que us proposa visitar el seu apartament. Una vegada allí us ofereix una beguda. Mentre esteu bevent veieu el dormitori. La decoració és atractiva, amb cartells de corregudes de bous, i hi entreu per mirar-ho de més prop. Ell us segueix i tanca la porta.<br>
+<em>Rachel demana explicacions sobre les corregudes de bous. Les agulles tot just es mouen.</em></li>
+<li>Esteu mirant una pel·lícula vella a la tele, una pel·lícula d&rsquo;abans de la guerra. En un banquet, els convidats mengen ostres crues. Els entrants consten de gos bullit farcit amb arròs.<br>
+<em>Rachel gruny i les agulles es mouen una mica.</em></li>
+</ol>
+<p><strong>La conclusió final del test és que Rachel Rosen és una androide.</strong></p>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>

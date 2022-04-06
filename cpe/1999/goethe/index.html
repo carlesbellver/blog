@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Volien exhibir la mòmia de Goethe</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1649252186" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1649252186" />
+
+
+
+
+
+
+
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+<link href="https://micro.blog/carlesbellver" rel="me">
+
+<meta name="og:title" content="Volien exhibir la mòmia de Goethe"/>
+<meta property="og:description" content="Font: Frankfurter Allgemeine Zeitung
+Data: 19/3/1999
+L&rsquo;any 1970 les autoritats de la República Democràtica Alemanya (RDA) van organitzar l&rsquo;exhumació de les restes de Johann Wolfgang von Goethe (1749-1832). La seva intenció era endreçar el cadàver i veure què es podia fer per preservar-lo en unes condicions acceptables. Pareix que s&rsquo;estava considerant la possibilitat de momificar-lo i exhibir-lo públicament en una urna de vidre, igual que es feia a Moscou amb la mòmia de Vladimir Ilich Lenin." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/cpe/1999/goethe/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/avatar.jpg"/>
+<meta name="twitter:title" content="Volien exhibir la mòmia de Goethe"/>
+<meta name="twitter:description" content="Font: Frankfurter Allgemeine Zeitung
+Data: 19/3/1999
+L&rsquo;any 1970 les autoritats de la República Democràtica Alemanya (RDA) van organitzar l&rsquo;exhumació de les restes de Johann Wolfgang von Goethe (1749-1832). La seva intenció era endreçar el cadàver i veure què es podia fer per preservar-lo en unes condicions acceptables. Pareix que s&rsquo;estava considerant la possibilitat de momificar-lo i exhibir-lo públicament en una urna de vidre, igual que es feia a Moscou amb la mòmia de Vladimir Ilich Lenin."/>
+
+
+
+
+<meta name="page-source-path" content="CPE/1999/goethe.md">
+
+
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <a href="https://carlesbellver.netabout"><img alt="Avatar" class="avatar" src="https://carlesbellver.net/uploads/avatar.jpg"></a>
+  <a href="https://carlesbellver.netabout">Carles Bellver Torlà</a>
+  
+    
+    
+      <a href="https://carlesbellver.net/" title="">Blog</a>
+    
+      <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+    
+      <a href="https://carlesbellver.net/contes/" title="">Contes</a>
+    
+      <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+    
+      <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+    
+      <a href="https://carlesbellver.net/search/" title="">Cercar</a>
+    
+  
+  
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li><img class="icon" src="https://carlesbellver.net/svg.icons/arrow-circle-left.svg" alt="up" />
+          
+            <a href="https://carlesbellver.net/cpe/" title="Contes per a extraterrestres">Contes per a extraterrestres</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">Volien exhibir la mòmia de Goethe</h1>
+      </header>
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Font: Frankfurter Allgemeine Zeitung<br>
+Data: 19/3/1999</p>
+<p>L&rsquo;any 1970 les autoritats de la República Democràtica Alemanya (RDA) van organitzar l&rsquo;exhumació de les restes de Johann Wolfgang von Goethe (1749-1832). La seva intenció era endreçar el cadàver i veure què es podia fer per preservar-lo en unes condicions acceptables. Pareix que s&rsquo;estava considerant la possibilitat de momificar-lo i exhibir-lo públicament en una urna de vidre, igual que es feia a Moscou amb la mòmia de Vladimir Ilich Lenin. Dissortadament l&rsquo;estat de deteriorament del cadàver no permetia fer miracles.</p>
+<p>L&rsquo;exhumació es va dur a terme una nit de novembre amb molta discreció. Segons els protocols ara publicats es va justificar oficialment per tal de reparar el pany del sarcòfag. En realitat, una colla de científics i funcionaris van transportar les despulles de Goethe en una camioneta pels carrers de Weimar, les van netejar i examinar, i després, a la matinada, les van retornar al seu lloc, a la Cripta dels Prínceps.</p>
+<p>La documentació conservada ha permès saber, per exemple, que Goethe feia 1,69 m d&rsquo;alçada. El director de la Fundació Clàssics de Weimar ha anunciat un estudi científic a partir d&rsquo;aquestes dades.</p>
+<p>D&rsquo;altra banda, el Ministre de Cultura del land de Turíngia ha declarat que ordenarà investigar tan macabra operació.</p>
+
+
+        
+      </div>
+        
+      
+
+
+<ul class="post-info">
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+
+    
+
+
+        </main>
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+            2002 - 2022
+          </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>
