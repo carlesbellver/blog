@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/04/30/far-west/",
+				
+				"content_html": "<p>L&rsquo;occident llunyà. <em>Far West</em>.</p>\n<img alt=\"Un cavallet del Corpus passant pel carrer sota l'atenta mirada d'un transeünt.\" src=\"/uploads/2022/2022-04-30-far-west.jpg\">\n",
+				"date_published": "2022-04-30T17:55:03+02:00",
+				"url": "https://carlesbellver.net/2022/04/30/far-west/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/04/27/facebook-does-not-know/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes\">Facebook Doesn’t Know What It Does With Your Data, Or Where It Goes: Leaked Document</a></p>\n<blockquote>\n<p>Facebook s’enfronta al que descriu internament com un “tsunami” de les regulacions de privadesa arreu del món, que obligarà l’empresa a canviar dràsticament la manera de tractar les dades personals dels usuaris. I el problema “fonamental”, admet l&rsquo;empresa, és que Facebook no té ni idea d’on van totes les seues dades d’usuari, ni què n&rsquo;està fent, <a href=\"https://www.documentcloud.org/documents/21716382-facebook-data-lineage-internal-document\">segons un document intern filtrat obtingut per Motherboard</a>.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json\">I accidentally used YAML.parse instead of JSON.parse, and it… worked?</a></p>\n<blockquote>\n<p>That, dear reader, is the story of how I learnt that <a href=\"http://yaml.org/spec/1.2-old/spec.html#id2759572\">YAML is a superset of JSON</a>.</p>\n</blockquote>\n",
 				"date_published": "2022-01-24T09:27:35+01:00",
 				"url": "https://carlesbellver.net/2022/01/24/yaml-json/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/23/notnft/",
-				"title": "Un reenfocament (o un rodeig) low-tech dels NFT",
-				"content_html": "<img alt=\"Detall d'un pseudo-NFT.\" src=\"/uploads/2022/2022-01-23-notnft.jpg\">\n<p>A hores d&rsquo;ara ja <a href=\"https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html\">s&rsquo;ha parlat</a> prou i massa dels NFT o <a href=\"https://en.wikipedia.org/wiki/Non-fungible_token\">Non-fungible tokens</a>. Sabem que són una mena de certificats d&rsquo;autenticitat i de propietat d&rsquo;objectes digitals: imatges, <a href=\"https://twitter.com/DaniNovarama/status/1484449865857961987\">elements de videojocs</a>, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d&rsquo;un artifici tecnològic que apel·la a l&rsquo;afecció pel col·leccionisme i que busca traure&rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.</p>\n<p>Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m&rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi <code>NOTNFT00</code>:</p>\n<p>🖼 <a href=\"https://notnft.carlesbellver.net/\">NFT gratuïts i il·limitats de les portades dels meus llibres</a></p>\n<p>Modestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.</p>\n<ul>\n<li>La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible.</li>\n<li>L&rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l&rsquo;anterior i resulta excessivament complicada per a la majoria d&rsquo;usuaris. Em pareix molt més senzill identificar-se amb l&rsquo;adreça de correu electrònic.</li>\n<li>La distinció (i la confusió) entre l&rsquo;NFT i l&rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.</li>\n<li>L&rsquo;escassesa. De debò no s&rsquo;havia adonat ningú que es poden fer infinites còpies d&rsquo;un fitxer?</li>\n<li>El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero.</li>\n<li>L&rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d&rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l&rsquo;adreça electrònica d&rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.</li>\n</ul>\n<p>Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.</p>\n",
-				"date_published": "2022-01-23T17:20:08+01:00",
-				"url": "https://carlesbellver.net/2022/01/23/notnft/"
 			}
 	]
 }
