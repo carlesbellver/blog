@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sat, 30 Apr 2022 17:55:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2022 19:07:01 +0000</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2022/05/06/fusteries/</link>
+      <pubDate>Fri, 06 May 2022 19:07:01 +0000</pubDate>
+      <guid>https://carlesbellver.net/2022/05/06/fusteries/</guid>
+      <description>&lt;p&gt;📖 Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que trenta anys després participaria en l’homenatge que li retrien els escriptors de Castelló. En una discreta segona fila, evidentment, darrere de figures venerables com Vicent Pitarch, Lluís Meseguer i Toni Royo. Tots tres encarregats de presentar avui divendres, a la Fira del Llibre de Castelló, aquestes &lt;a href=&#34;https://www.elpontdeleslletres.cat/2022/05/02/fusteries-del-pont-nova-obra-collectiva-en-homenatge-a-joan-fuster-en-el-centenari-del-naixement/&#34;&gt;Fusteries d’El Pont&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;https://carlesbellver.net/uploads/2022/2022-05-06-fusteries.jpg&#34; alt=&#34;D&#39;esquerra a dreta, Toni Royo, Vicent Pitarch i Lluís Meseguer en la Fira del Llibre de Castelló.&#34;&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -279,18 +289,6 @@
       <description>&lt;p&gt;📎 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2214140520300359&#34;&gt;Estimated car cost as a predictor of driver yielding behaviors for pedestrians&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Com més car és el cotxe, menys probable és que el conductor s&amp;rsquo;ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d&amp;rsquo;increment en el preu del cotxe.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2022/01/24/yaml-json/</link>
-      <pubDate>Mon, 24 Jan 2022 09:27:35 +0100</pubDate>
-      <guid>https://carlesbellver.net/2022/01/24/yaml-json/</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json&#34;&gt;I accidentally used YAML.parse instead of JSON.parse, and it… worked?&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;That, dear reader, is the story of how I learnt that &lt;a href=&#34;http://yaml.org/spec/1.2-old/spec.html#id2759572&#34;&gt;YAML is a superset of JSON&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

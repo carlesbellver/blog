@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/05/06/fusteries/",
+				
+				"content_html": "<p>📖 Qui m’havia de dir a mi l’any 1992 —quan es va morir Joan Fuster i jo començava a pensar en el meu primer llibre— que trenta anys després participaria en l’homenatge que li retrien els escriptors de Castelló. En una discreta segona fila, evidentment, darrere de figures venerables com Vicent Pitarch, Lluís Meseguer i Toni Royo. Tots tres encarregats de presentar avui divendres, a la Fira del Llibre de Castelló, aquestes <a href=\"https://www.elpontdeleslletres.cat/2022/05/02/fusteries-del-pont-nova-obra-collectiva-en-homenatge-a-joan-fuster-en-el-centenari-del-naixement/\">Fusteries d’El Pont</a>.</p>\n<img src=\"/uploads/2022/2022-05-06-fusteries.jpg\" alt=\"D'esquerra a dreta, Toni Royo, Vicent Pitarch i Lluís Meseguer en la Fira del Llibre de Castelló.\">\n",
+				"date_published": "2022-05-06T19:07:01+00:00",
+				"url": "https://carlesbellver.net/2022/05/06/fusteries/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/04/30/far-west/",
 				
 				"content_html": "<p>L&rsquo;extrem occident. <em>Far West</em>.</p>\n<img alt=\"Un cavallet del Corpus passant pel carrer sota l'atenta mirada d'un transeünt.\" src=\"/uploads/2022/2022-04-30-far-west.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.sciencedirect.com/science/article/pii/S2214140520300359\">Estimated car cost as a predictor of driver yielding behaviors for pedestrians</a></p>\n<blockquote>\n<p>Com més car és el cotxe, menys probable és que el conductor s&rsquo;ature en un pas de vianants. La probabilitat disminueix en un 3 % per cada mil euros d&rsquo;increment en el preu del cotxe.</p>\n</blockquote>\n",
 				"date_published": "2022-01-24T17:04:22+01:00",
 				"url": "https://carlesbellver.net/2022/01/24/porsche/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/24/yaml-json/",
-				
-				"content_html": "<p>📎 <a href=\"https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json\">I accidentally used YAML.parse instead of JSON.parse, and it… worked?</a></p>\n<blockquote>\n<p>That, dear reader, is the story of how I learnt that <a href=\"http://yaml.org/spec/1.2-old/spec.html#id2759572\">YAML is a superset of JSON</a>.</p>\n</blockquote>\n",
-				"date_published": "2022-01-24T09:27:35+01:00",
-				"url": "https://carlesbellver.net/2022/01/24/yaml-json/"
 			}
 	]
 }
