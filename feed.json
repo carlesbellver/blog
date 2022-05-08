@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/05/08/prorroga/",
+				
+				"content_html": "<p>Encara em queden uns pocs exemplars digitals d’<a href=\"/contes/unicorns\"><em>Unicorns</em></a> per signar, així que mantindré l’<a href=\"/2022/04/22/sant-jordi/\">oferta</a> fins a fi d’existències.</p>\n",
+				"date_published": "2022-05-08T18:25:00+02:00",
+				"url": "https://carlesbellver.net/2022/05/08/prorroga/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/05/08/42/",
 				
 				"content_html": "<p>La resposta a la pregunta definitiva sobre la vida, l&rsquo;univers i tot plegat.</p>\n<img alt=\"Grafit amb el número 42 en un poal d'escombraries.\" src=\"/uploads/2022/2022-05-08-42.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Belshazzar%27s_feast\">Escrit a la paret</a> i no en arameu.</p>\n<img alt=\"Adhesiu: “Somos la puta ruina”\" src=\"/uploads/2022/2022-02-04-arameu.jpg\">\n",
 				"date_published": "2022-02-04T18:24:45+01:00",
 				"url": "https://carlesbellver.net/2022/02/04/arameu/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/01/27/revenants/",
-				
-				"content_html": "<p>Quan fan servir l’americanisme <em>egressat</em>, no puc evitar que em sone a <em>regressar</em>, com si en lloc d’haver obtingut el títol d’un grau —o postgrau— hagueren retornat del més enllà. <em>Les Revenants</em>.</p>\n",
-				"date_published": "2022-01-27T18:18:56+01:00",
-				"url": "https://carlesbellver.net/2022/01/27/revenants/"
 			}
 	]
 }
