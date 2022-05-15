@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/",
+				"title": "Els tòpics són la religió de les classes mitjanes",
+				"content_html": "<blockquote>\n<p>—…no hi havia alguna cosa [en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?</p>\n<p>—Crec que ell va dir l&rsquo;<em>ethos</em>.</p>\n<p>—Perquè l&rsquo;originalitat és pertorbadora, correcte?</p>\n<p>—Depèn del context.</p>\n<p>—Com?</p>\n<p>—Hi ha contextos de classe mitjana on s&rsquo;espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S&rsquo;imposa.</p>\n</blockquote>\n<p>—John Fowles, “The Cloud” (<em>The Ebony Tower</em>).</p>\n",
+				"date_published": "2022-05-15T18:45:59+02:00",
+				"url": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/05/08/prorroga/",
 				
 				"content_html": "<p>Encara em queden uns pocs exemplars digitals d’<a href=\"/contes/unicorns\"><em>Unicorns</em></a> per signar, així que mantindré l’<a href=\"/2022/04/22/sant-jordi/\">oferta</a> fins a fi d’existències.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>L&rsquo;estranger, Castelló i Espanya. Sense dret a correspondència.</p>\n<img alt=\"Bústies clausurades a l'edifici de Correus de Castelló\" src=\"/uploads/2022/2022-02-05-correus.jpg\">\n",
 				"date_published": "2022-02-05T20:30:13+01:00",
 				"url": "https://carlesbellver.net/2022/02/05/correus/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/04/arameu/",
-				
-				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Belshazzar%27s_feast\">Escrit a la paret</a> i no en arameu.</p>\n<img alt=\"Adhesiu: “Somos la puta ruina”\" src=\"/uploads/2022/2022-02-04-arameu.jpg\">\n",
-				"date_published": "2022-02-04T18:24:45+01:00",
-				"url": "https://carlesbellver.net/2022/02/04/arameu/"
 			}
 	]
 }

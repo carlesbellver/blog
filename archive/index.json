@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netarchive/index.json",
 	"items": [
 			{
+				"title": "Els tòpics són la religió de les classes mitjanes",
+				"date_published": "2022-05-15T18:45:59+02:00",
+				"url": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/",
+				"tags": "citacions",
+				"content_text": " —…no hi havia alguna cosa [en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?\n—Crec que ell va dir l\u0026rsquo;ethos.\n—Perquè l\u0026rsquo;originalitat és pertorbadora, correcte?\n—Depèn del context.\n—Com?\n—Hi ha contextos de classe mitjana on s\u0026rsquo;espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S\u0026rsquo;imposa.\n —John Fowles, “The Cloud” (The Ebony Tower).\n"
+			},
+			{
 				"title": "",
 				"date_published": "2022-05-08T18:25:00+02:00",
 				"url": "https://carlesbellver.net/2022/05/08/prorroga/",
@@ -2718,7 +2725,7 @@
 				"title": "",
 				"date_published": "2019-05-15T08:21:00+00:00",
 				"url": "https://carlesbellver.net/2019/05/15/these-really-do.html",
-				"tags": "retalls",
+				"tags": "retalls, educació",
 				"content_text": "📎 When is a campus not a campus? When it’s a micro-campus\n “Realment pareixen més aviat cafeteries de moda, amb wifi decent i una mica de brànding universitari. En lloc de WeWork és com si fos WeStudy.”\n "
 			},
 			{
