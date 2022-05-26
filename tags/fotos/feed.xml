@@ -17,7 +17,7 @@
       <pubDate>Sun, 08 May 2022 09:30:12 +0200</pubDate>
       
       <guid>https://carlesbellver.net/2022/05/08/42/</guid>
-      <description>&lt;p&gt;La resposta a la pregunta definitiva sobre la vida, l&amp;rsquo;univers i tot plegat.&lt;/p&gt;
+      <description>&lt;p&gt;La resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat.&lt;/p&gt;
 &lt;img alt=&#34;Grafit amb el número 42 en un poal d&#39;escombraries.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-05-08-42.jpg&#34;&gt;
 </description>
     </item>
@@ -39,7 +39,7 @@
       <pubDate>Sat, 30 Apr 2022 17:55:03 +0200</pubDate>
       
       <guid>https://carlesbellver.net/2022/04/30/far-west/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;extrem occident. &lt;em&gt;Far West&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;L’extrem occident. &lt;em&gt;Far West&lt;/em&gt;.&lt;/p&gt;
 &lt;img alt=&#34;Un cavallet del Corpus passant pel carrer sota l&#39;atenta mirada d&#39;un transeünt.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-04-30-far-west.jpg&#34;&gt;
 </description>
     </item>
@@ -127,18 +127,18 @@
       <pubDate>Sun, 23 Jan 2022 17:20:08 +0100</pubDate>
       
       <guid>https://carlesbellver.net/2022/01/23/notnft/</guid>
-      <description>&lt;img alt=&#34;Detall d&#39;un pseudo-NFT.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg&#34;&gt;
-&lt;p&gt;A hores d&amp;rsquo;ara ja &lt;a href=&#34;https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html&#34;&gt;s&amp;rsquo;ha parlat&lt;/a&gt; prou i massa dels NFT o &lt;a href=&#34;https://en.wikipedia.org/wiki/Non-fungible_token&#34;&gt;Non-fungible tokens&lt;/a&gt;. Sabem que són una mena de certificats d&amp;rsquo;autenticitat i de propietat d&amp;rsquo;objectes digitals: imatges, &lt;a href=&#34;https://twitter.com/DaniNovarama/status/1484449865857961987&#34;&gt;elements de videojocs&lt;/a&gt;, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d&amp;rsquo;un artifici tecnològic que apel·la a l&amp;rsquo;afecció pel col·leccionisme i que busca traure&amp;rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.&lt;/p&gt;
-&lt;p&gt;Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m&amp;rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi &lt;code&gt;NOTNFT00&lt;/code&gt;:&lt;/p&gt;
+      <description>&lt;img alt=&#34;Detall d’un pseudo-NFT.&#34; src=&#34;https://carlesbellver.net/uploads/2022/2022-01-23-notnft.jpg&#34;&gt;
+&lt;p&gt;A hores d’ara ja &lt;a href=&#34;https://www.lavanguardia.com/tecnologia/20210319/6601992/burbuja-nft.html&#34;&gt;s’ha parlat&lt;/a&gt; prou i massa dels NFT o &lt;a href=&#34;https://en.wikipedia.org/wiki/Non-fungible_token&#34;&gt;Non-fungible tokens&lt;/a&gt;. Sabem que són una mena de certificats d’autenticitat i de propietat d’objectes digitals: imatges, &lt;a href=&#34;https://twitter.com/DaniNovarama/status/1484449865857961987&#34;&gt;elements de videojocs&lt;/a&gt;, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d’un artifici tecnològic que apel·la a l’afecció pel col·leccionisme i que busca traure’n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.&lt;/p&gt;
+&lt;p&gt;Aquest cap de setmana he dedicat unes hores a pensar sobre el tema i m’he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi &lt;code&gt;NOTNFT00&lt;/code&gt;:&lt;/p&gt;
 &lt;p&gt;🖼 &lt;a href=&#34;https://notnft.carlesbellver.net/&#34;&gt;NFT gratuïts i il·limitats de les portades dels meus llibres&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Modestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;La necessitat de registrar els NFT en una cadena de blocs. No sé com no se li havia acudit a ningú utilitzar una base de dades normal i corrent, sempre molt més eficient i sostenible.&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;obligatorietat de la criptografia de clau pública, que es deriva de l&amp;rsquo;anterior i resulta excessivament complicada per a la majoria d&amp;rsquo;usuaris. Em pareix molt més senzill identificar-se amb l&amp;rsquo;adreça de correu electrònic.&lt;/li&gt;
-&lt;li&gt;La distinció (i la confusió) entre l&amp;rsquo;NFT i l&amp;rsquo;objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;escassesa. De debò no s&amp;rsquo;havia adonat ningú que es poden fer infinites còpies d&amp;rsquo;un fitxer?&lt;/li&gt;
+&lt;li&gt;L’obligatorietat de la criptografia de clau pública, que es deriva de l’anterior i resulta excessivament complicada per a la majoria d’usuaris. Em pareix molt més senzill identificar-se amb l’adreça de correu electrònic.&lt;/li&gt;
+&lt;li&gt;La distinció (i la confusió) entre l’NFT i l’objecte al qual es refereix. Per a més claredat, he preferit inscriure visiblement les dades de la transacció en les imatges mateixes.&lt;/li&gt;
+&lt;li&gt;L’escassesa. De debò no s’havia adonat ningú que es poden fer infinites còpies d’un fitxer?&lt;/li&gt;
 &lt;li&gt;El cost de la compravenda. Si pot haver-hi còpies infinites, el preu de cada una pot ser molt més baix. Fins i tot zero.&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;associació amb la noció de propietat. Té sentit considerar-se propietari d&amp;rsquo;un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l&amp;rsquo;adreça electrònica d&amp;rsquo;una altra persona per obtenir una còpia idèntica de la seua còpia.&lt;/li&gt;
+&lt;li&gt;L’associació amb la noció de propietat. Té sentit considerar-se propietari d’un objecte digital, infinitament reproduïble i transmissible? El meu esquema no reforça aquesta visió, sinó que la dissol: podeu utilitzar l’adreça electrònica d’una altra persona per obtenir una còpia idèntica de la seua còpia.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Tot plegat, em donaria per satisfet en cas que aquesta deconstrucció dels NFT —parcial, ingènua i rudimentària— us conduïra a una conclusió similar a la que he tret jo. Si és viable despullar-los de quasi totes les seues característiques bàsiques, sense perdre gran cosa pel camí, potser és que no necessitàvem per a res els famosos NFT.&lt;/p&gt;
 </description>
@@ -473,7 +473,7 @@ inflating: unicorns.txt
       
       <guid>https://carlesbellver.net/2021/03/08/27672/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Jo vull tornar a viure on l&amp;rsquo;herba&lt;br&gt;
+&lt;p&gt;Jo vull tornar a viure on l’herba&lt;br&gt;
 no és com aquí pur ornament, joia dels ulls&lt;br&gt;
 que dura l&amp;rsquo;any sencer.&lt;/p&gt;
 &lt;/blockquote&gt;

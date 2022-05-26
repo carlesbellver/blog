@@ -24,7 +24,7 @@
 				"date_published": "2022-05-08T09:30:12+02:00",
 				"url": "https://carlesbellver.net/2022/05/08/42/",
 				"tags": "Castelló, fotos",
-				"content_text": "La resposta a la pregunta definitiva sobre la vida, l\u0026rsquo;univers i tot plegat.\n"
+				"content_text": "La resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat.\n"
 			},
 			{
 				"title": "",
@@ -38,7 +38,7 @@
 				"date_published": "2022-04-30T17:55:03+02:00",
 				"url": "https://carlesbellver.net/2022/04/30/far-west/",
 				"tags": "Castelló, fotos",
-				"content_text": "L\u0026rsquo;extrem occident. Far West.\n"
+				"content_text": "L’extrem occident. Far West.\n"
 			},
 			{
 				"title": "",
@@ -213,7 +213,7 @@
 				"date_published": "2022-01-23T17:20:08+01:00",
 				"url": "https://carlesbellver.net/2022/01/23/notnft/",
 				"tags": "fotos",
-				"content_text": "A hores d\u0026rsquo;ara ja s\u0026rsquo;ha parlat prou i massa dels NFT o Non-fungible tokens. Sabem que són una mena de certificats d\u0026rsquo;autenticitat i de propietat d\u0026rsquo;objectes digitals: imatges, elements de videojocs, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d\u0026rsquo;un artifici tecnològic que apel·la a l\u0026rsquo;afecció pel col·leccionisme i que busca traure\u0026rsquo;n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.\nAquest cap de setmana he dedicat unes hores a pensar sobre el tema i m\u0026rsquo;he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi NOTNFT00:\n🖼 NFT gratuïts i il·limitats de les portades dels meus llibres\nModestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.\n La necessitat de …"
+				"content_text": "A hores d’ara ja s’ha parlat prou i massa dels NFT o Non-fungible tokens. Sabem que són una mena de certificats d’autenticitat i de propietat d’objectes digitals: imatges, elements de videojocs, un tuit, o qualsevol altra cosa. I que es poden comprar i vendre, generalment en plataformes de criptomonedes. Podríem dir, doncs, que es tracta d’un artifici tecnològic que apel·la a l’afecció pel col·leccionisme i que busca traure’n profit econòmic. Com si compràrem i canviàrem cromos, però en el ciberespai (o metavers, com es diu ara). I algú, és clar, va fent caixa.\nAquest cap de setmana he dedicat unes hores a pensar sobre el tema i m’he entretingut improvisant una implementació molt ràpida que podeu provar amb el codi NOTNFT00:\n🖼 NFT gratuïts i il·limitats de les portades dels meus llibres\nModestament, crec que he aconseguit resoldre algun dels problemes i dependències més comuns dels NFT, tant tècnics com conceptuals.\n La necessitat de registrar els NFT en una cadena de blocs. No sé com …"
 			},
 			{
 				"title": "",
@@ -780,7 +780,7 @@
 				"date_published": "2021-03-08T19:21:12+00:00",
 				"url": "https://carlesbellver.net/2021/03/08/27672/",
 				"tags": "fotos, citacions",
-				"content_text": " Jo vull tornar a viure on l\u0026rsquo;herba\nno és com aquí pur ornament, joia dels ulls\nque dura l\u0026rsquo;any sencer.\n —Attilio Bertolucci, Porta’m amb tu / Portami con te\nPrimer títol —una delícia— de Salze, projecte editorial de Marta Vilardaga i Josep Porcar.\n"
+				"content_text": " Jo vull tornar a viure on l’herba\nno és com aquí pur ornament, joia dels ulls\nque dura l\u0026rsquo;any sencer.\n —Attilio Bertolucci, Porta’m amb tu / Portami con te\nPrimer títol —una delícia— de Salze, projecte editorial de Marta Vilardaga i Josep Porcar.\n"
 			},
 			{
 				"title": "",
@@ -5351,7 +5351,7 @@
 				"date_published": "2018-05-28T08:52:00+00:00",
 				"url": "https://carlesbellver.net/2018/05/28/things-the-blockchain.html",
 				"tags": "retalls",
-				"content_text": "📎 187 Things the Blockchain Is Supposed to Fix\nDes de la pobresa fins a Skynet, incloent “que la gent no es prengui els medicaments”.\n"
+				"content_text": "📎 187 Things the Blockchain Is Supposed to Fix\nTotes les coses que es resoldran mitjançant les tecnologies de cadena de blocs. Des de la pobresa fins a Skynet, passant per “que la gent no es prengui els medicaments”.\n"
 			},
 			{
 				"title": "",
