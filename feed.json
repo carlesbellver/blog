@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/05/22/fuster-ciscarista/",
+				
+				"content_html": "<blockquote>\n<p>Naturalment, Fuster era ciscarista, a diferència de molts dels seus seguidors. Les raons són molt naturals: Fuster era molt més intel·ligent i pragmàtic que la majoria dels seus <em>followers</em>. Ell va entendre de seguida que la Llei d'Ús i Ensenyament del Valencià era revolucionària, el primer estri legal favorable a la llengua des dels Decrets de Nova Planta…</p>\n</blockquote>\n<p>📎 Joan Garí, <a href=\"http://oficidelector.blogspot.com/2022/05/fuster-en-la-seua-salsa.html\">“Fuster en la seua salsa”</a> (ressenya del llibre de Salvador Vendrell <a href=\"https://www.onadaedicions.com/llibres/producte/A+casa+Joan+Fuster+Les+tertulies+de+Sueca\"><em>A casa Joan Fuster. Les tertúlies de Sueca</em></a>).</p>\n",
+				"date_published": "2022-05-22T09:35:45+02:00",
+				"url": "https://carlesbellver.net/2022/05/22/fuster-ciscarista/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/",
 				"title": "Els tòpics són la religió de les classes mitjanes",
 				"content_html": "<blockquote>\n<p>—…no hi havia alguna cosa [en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?</p>\n<p>—Crec que ell va dir l'<em>ethos</em>.</p>\n<p>—Perquè l'originalitat és pertorbadora, correcte?</p>\n<p>—Depèn del context.</p>\n<p>—Com?</p>\n<p>—Hi ha contextos de classe mitjana on s'espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S'imposa.</p>\n</blockquote>\n<p>—John Fowles, “The Cloud” (<em>The Ebony Tower</em>).</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.lavanguardia.com/cribeo/estilo-de-vida/20220208/8041733/nino-8-anos-esconde-propio-libro-escrito-mano-biblioteca-convierte-exito.html\">Un niño de 8 años esconde su libro manuscrito en la biblioteca y se convierte en todo un éxito</a></p>\n<blockquote>\n<p>Tras cuatro intensos días dedicándose únicamente a su creación, Dillon decidió esconder su obra en la Biblioteca Comunitaria de Ada para que todo el mundo pudiera disfrutar de la novela que cuenta la historia de su propio viaje al pasado provocado por una explosión de una de las bolas de su árbol de Navidad.</p>\n</blockquote>\n<img src=\"https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2022/02/08/6202425b57391.png\" />",
 				"date_published": "2022-02-08T17:18:22+01:00",
 				"url": "https://carlesbellver.net/2022/02/08/adventures-dillon-helbig/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/05/correus/",
-				
-				"content_html": "<p>L'estranger, Castelló i Espanya. Sense dret a correspondència.</p>\n<img alt=\"Bústies clausurades a l'edifici de Correus de Castelló\" src=\"/uploads/2022/2022-02-05-correus.jpg\">\n",
-				"date_published": "2022-02-05T20:30:13+01:00",
-				"url": "https://carlesbellver.net/2022/02/05/correus/"
 			}
 	]
 }
