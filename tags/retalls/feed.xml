@@ -539,8 +539,8 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <description>&lt;blockquote&gt;
 &lt;p&gt;A hores d&#39;ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (&lt;em&gt;Primo Levi&lt;/em&gt;, 2002), persisteixen a creure que sí.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;📎 Diego Gambetta, &lt;a href=&#34;http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments&#34;&gt;Primo Levi&#39;s Last Moments&lt;/a&gt; (postscriptum, 21 d&#39;abril de 2005)&lt;/p&gt;
-&lt;p&gt;En aquest blog: &lt;a href=&#34;https://carlesbellver.net/2004/06/28/els-darrers-moments.html&#34;&gt;Els darrers moments de Primo Levi&lt;/a&gt; (28 de juny de 2004).&lt;/p&gt;
+&lt;p&gt;📎 Diego Gambetta, &lt;a href=&#34;http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments&#34;&gt;“Primo Levi’s Last Moments”&lt;/a&gt; (&lt;em&gt;postscriptum&lt;/em&gt;, 21 d&#39;abril de 2005)&lt;/p&gt;
+&lt;p&gt;En aquest blog: &lt;a href=&#34;https://carlesbellver.net/2004/06/28/els-darrers-moments.html&#34;&gt;“Els darrers moments de Primo Levi”&lt;/a&gt; (28 de juny de 2004).&lt;/p&gt;
 </description>
     </item>
     
@@ -5220,7 +5220,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://carlesbellver.net/2018/06/27/breaking-linear-classifiers.html</guid>
       <description>&lt;p&gt;📎 &lt;a href=&#34;http://karpathy.github.io/2015/03/30/breaking-convnets/&#34;&gt;Breaking Linear Classifiers on ImageNet&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Podem agafar qualsevol imatge arbitrària (p. ex. &amp;quot;panda&amp;quot;) i classificar-la com a qualsevol classe que desitgem (p. ex. &amp;quot;estruç&amp;quot;) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu). ) i, el més important, també als classificadors lineals. De fet, és aquesta naturalesa &lt;em&gt;lineal&lt;/em&gt; que és problemàtica. I com que els models d’aprenentatge profund fan servir funcions lineals per construir la seva arquitectura, hereten els seus defectes.&lt;/p&gt;
+&lt;p&gt;Podem agafar qualsevol imatge arbitrària (p. ex. “panda”) i classificar-la com a qualsevol classe que desitgem (p. ex. “estruç”) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s&#39;estén a molts altres dominis (p. ex. sistemes de reconeixement de veu) i, el més important, també als classificadors lineals. De fet, és aquesta naturalesa &lt;em&gt;lineal&lt;/em&gt; que és problemàtica. I com que els models d’aprenentatge profund fan servir funcions lineals per construir la seva arquitectura, hereten els seus defectes.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

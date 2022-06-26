@@ -695,8 +695,8 @@
 				"title": "",
 				"date_published": "2021-06-28T21:50:09+02:00",
 				"url": "https://carlesbellver.net/2021/06/28/primo-levi/",
-				"tags": "retalls",
-				"content_text": " A hores d'ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (Primo Levi, 2002), persisteixen a creure que sí.\n📎 Diego Gambetta, Primo Levi's Last Moments (postscriptum, 21 d'abril de 2005)\nEn aquest blog: Els darrers moments de Primo Levi (28 de juny de 2004).\n"
+				"tags": "retalls, citacions",
+				"content_text": " A hores d'ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (Primo Levi, 2002), persisteixen a creure que sí.\n📎 Diego Gambetta, “Primo Levi’s Last Moments” (postscriptum, 21 d'abril de 2005)\nEn aquest blog: “Els darrers moments de Primo Levi” (28 de juny de 2004).\n"
 			},
 			{
 				"title": "",
@@ -5182,7 +5182,7 @@
 				"title": "",
 				"date_published": "2018-06-28T20:56:00+00:00",
 				"url": "https://carlesbellver.net/2018/06/28/215645.html",
-				"tags": "",
+				"tags": "citacions",
 				"content_text": "Deixe ací anotada la bio que tenia al Twitter, perquè m'agradava, tot i que no em pareixia adequada com a bio de Twitter.\nFuture is already here (RF), unevenly distributed (WG) and short-lived (CB). Subject matters: technology, creativity and everything else in heaven and earth, H.\nRF = Radio Futura\nWG = William Gibson\nCB = Myself\nH = Horatius\n"
 			},
 			{
@@ -5190,7 +5190,7 @@
 				"date_published": "2018-06-27T19:13:16+00:00",
 				"url": "https://carlesbellver.net/2018/06/27/201316.html",
 				"tags": "ressenyes",
-				"content_text": "📖 Walter de la Mare, Memoirs of a Midget. Una novel·la extraordinària que hauria d'haver llegit fa molts anys. I Miyazaki podria haver-ne fet una pel·lícula. Epíleg interessantíssim d'Angela Carter. M.: Midgetina, Metaphor, Myself.\n"
+				"content_text": "📖 Walter de la Mare, Memoirs of a Midget. Una novel·la extraordinària que hauria d’haver llegit fa molts anys. I Miyazaki podria haver-ne fet una pel·lícula. Epíleg interessantíssim d’Angela Carter. M.: Midgetina, Metaphor, Myself.\n"
 			},
 			{
 				"title": "",
@@ -5204,7 +5204,7 @@
 				"date_published": "2018-06-27T12:59:00+00:00",
 				"url": "https://carlesbellver.net/2018/06/27/breaking-linear-classifiers.html",
 				"tags": "retalls",
-				"content_text": "📎 Breaking Linear Classifiers on ImageNet\nPodem agafar qualsevol imatge arbitrària (p. ex. \u0026quot;panda\u0026quot;) i classificar-la com a qualsevol classe que desitgem (p. ex. \u0026quot;estruç\u0026quot;) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s'estén a molts altres dominis (p. ex. sistemes de reconeixement de veu). ) i, el més important, també als classificadors lineals. De fet, és aquesta naturalesa lineal que és problemàtica. I com que els models d’aprenentatge profund fan servir funcions lineals per construir la seva arquitectura, hereten els seus defectes.\n"
+				"content_text": "📎 Breaking Linear Classifiers on ImageNet\nPodem agafar qualsevol imatge arbitrària (p. ex. “panda”) i classificar-la com a qualsevol classe que desitgem (p. ex. “estruç”) afegint pautes de soroll minúscules i imperceptibles… Però, de fet, el defecte central s'estén a molts altres dominis (p. ex. sistemes de reconeixement de veu) i, el més important, també als classificadors lineals. De fet, és aquesta naturalesa lineal que és problemàtica. I com que els models d’aprenentatge profund fan servir funcions lineals per construir la seva arquitectura, hereten els seus defectes.\n"
 			},
 			{
 				"title": "",
