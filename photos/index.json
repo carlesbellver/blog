@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "La vista cansada",
-  "icon": "/uploads/avatar.jpg",
+  "icon": "",
   "home_page_url": "https://carlesbellver.net",
   "feed_url": "https://carlesbellver.netphotos/index.json",
   "items": [
