@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/07/27/alternative-physics/",
+				
+				"content_html": "<p>📎 <a href=\"https://phys.org/news/2022-07-roboticists-alternative-physics.html\">Roboticists discover alternative physics</a></p>\n<p>Un programa informàtic analitza les imatges que li proporciona una càmera i busca equacions —amb el mínim nombre de variables— que servisquen per calcular els moviments observats. Les equacions funcionen, però no s’assemblen a les nostres i no és fàcil esbrinar quines variables utilitzen.</p>\n<blockquote>\n<p>“Potser alguns fenòmens ens pareixen misteriosament complexos perquè intentem entendre’ls utilitzant les variables equivocades. En aquests experiments, el nombre de variables era el mateix cada vegada que reiniciàvem la intel·ligència artificial, però les variables eren diferents cada vegada. Així que sí, hi ha maneres alternatives de descriure l’univers i és molt possible que les nostres no siguen perfectes.”</p>\n</blockquote>\n",
+				"date_published": "2022-07-27T20:13:06+02:00",
+				"url": "https://carlesbellver.net/2022/07/27/alternative-physics/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/06/05/izquierda-ceniza/",
 				
 				"content_html": "<p>📎 Ignacio Sánchez-Cuenca: <a href=\"https://ctxt.es/es/20220601/Firmas/39900/\">La izquierda ceniza</a></p>\n<blockquote>\n<p>Triturada la utopía, en cualquiera de sus formas, la crítica hiperbólica del mundo contemporáneo es una carga muy pesada de sobrellevar […] La izquierda no se quedaría sin espacio propio por el hecho de reconocer la complejidad del mundo, con su intrincada mezcla de aspectos positivos y negativos. Se pueden celebrar hasta los pequeños avances sin por ello renunciar a la lucha por la mejora en todos los ámbitos posibles de aquellas situaciones de opresión, discriminación y explotación que perviven y se enquistan.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>El món sencer a la porta de casa. Carrer Sant Blai #Castelló.</p>\n<img alt=\"Globus terraqüi. Grafit a la porta d'una casa.\" src=\"/uploads/2022/2022-02-10-mon-sencer.jpg\">\n",
 				"date_published": "2022-02-10T19:30:12+01:00",
 				"url": "https://carlesbellver.net/2022/02/10/mon-sencer/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/09/solsida/",
-				
-				"content_html": "<p>La solsida. <em>Der Untergang</em>.</p>\n<img alt=\"\" src=\"/uploads/2022/2022-02-09-solsida.jpg\">\n",
-				"date_published": "2022-02-09T20:30:12+01:00",
-				"url": "https://carlesbellver.net/2022/02/09/solsida/"
 			}
 	]
 }
