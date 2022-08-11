@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.technologyreview.com/2022/08/06/1056727/vr-virtual-reality-psychedelics-transcendence/\">Virtual Reality is as good as psychedelics at helping people reach transcendence</a></p>\n<blockquote>\n<p>En les quatre mètriques, Isness-D va provocar respostes indestriables de les associades amb les dosis mitjanes de psicodèlics. En l’escala d’experiència mística, els participants en Isness-D van informar d’una experiència tan intensa com la provocada per 20 mil·ligrams de psilocibina o 200 micrograms d’LSD, i més forta que la induïda per microdosis de qualsevol de les dues substàncies.</p>\n</blockquote>\n",
+				"date_published": "2022-08-11T19:16:31+02:00",
+				"url": "https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/07/28/book-thief/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/books/2022/jul/14/alleged-book-thief-filippo-bernardini-may-avoid-trial-in-the-us\">Alleged book thief Filippo Bernardini may avoid trial in the US</a></p>\n<p><a href=\"https://www.lavanguardia.com/cultura/20201224/6146536/phishing-manuscritos-libros-mail.html\">Hi hagué un temps</a> en què un misteriós lladre o <em>hacker</em> enganyava autors de renom perquè li enviaren els seus originals encara inèdits. Falsificava adreces de correu electrònic i es feia passar pel seu agent o per un empleat editorial a fi de guanyar-se la seua confiança. I quan aconseguia el botí no intentava traure’n profit: ni revenia els llibres, ni els filtrava, ni sotmetia els autors a cap mena de xantatge. No tornaven a saber res d’ell. Margaret Atwood o Ian McEwan van ser il·lustres víctimes seues, entre d’altres.</p>\n<p>Imagine que la detenció de <a href=\"https://www.bbc.com/news/entertainment-arts-59893035\">Filippo Bernardini</a> el gener d’enguany va frustrar algunes expectatives. Degué arribar un punt en què no eres ningú en l’escena literària si no t’havien intentat furtar el darrer llibre. Jo mateix, sense cap motiu, em vaig sentir vagament decebut i vaig continuar publicant en obert com sempre. Diuen que el tal Bernardini treballava a Simon &amp; Schuster negociant drets d’autor. El va detindre l’FBI a l’aeroport John F. Kennedy de Nova York i ningú ha explicat encara per què feia el que feia, si és que realment era ell qui ho feia.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://quoteinvestigator.com/2022/02/15/radio/\">The Radio Is a Distraction and Keeps You from Concentrating</a></p>\n<blockquote>\n<p>La ràdio… ja sé que sóc el seu pare, però no m'agrada. Simplement no m'agrada. És una molèstia. No l'escolte mai. La ràdio és una distracció i t'impedeix concentrar-te. Hi ha massa distraccions en aquesta vida per a un pensament de qualitat; i és la qualitat del pensament, no la quantitat, el que compta.</p>\n</blockquote>\n<p>—Nikola Tesla</p>\n",
 				"date_published": "2022-02-18T18:32:08+01:00",
 				"url": "https://carlesbellver.net/2022/02/18/tesla-radio/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/12/madrid-fascista/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.eldiario.es/sociedad/desconocido-entramado-usaron-fascistas-refugiarse-madrid_1_8727803.html\">El desconocido entramado que usaron los fascistas para refugiarse en Madrid</a></p>\n<p>Otto Skorzeny, Leon Degrelle, un gelater italià i un agent doble alemany, Oswald Mosley… El festival internacional del feixisme al Madrid franquista.</p>\n",
-				"date_published": "2022-02-12T09:05:40+01:00",
-				"url": "https://carlesbellver.net/2022/02/12/madrid-fascista/"
 			}
 	]
 }
