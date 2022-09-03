@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/</loc>
-    <lastmod>2022-08-11T19:16:31+02:00</lastmod>
+    <loc>https://carlesbellver.net/tmp/</loc>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/</loc>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tmp/3c3d6858fb20/</loc>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/</loc>
     <lastmod>2022-08-11T19:16:31+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/posts/</loc>
@@ -91,9 +97,6 @@
   </url><url>
     <loc>https://carlesbellver.net/2022/03/06/88436/</loc>
     <lastmod>2022-03-06T18:40:37+01:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tmp/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tmp/f8abb40a1063/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
