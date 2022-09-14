@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/09/14/81025/",
+				
+				"content_html": "<p>En els temps que corren, cada vegada és més fàcil exhibir en públic la teua ignorància.</p>\n",
+				"date_published": "2022-09-14T20:43:45+00:00",
+				"url": "https://carlesbellver.net/2022/09/14/81025/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/09/01/gorbachov/",
 				
 				"content_html": "<p>📎 Rafael Poch: <a href=\"https://ctxt.es/es/20220801/Firmas/40610/\">Luces y sombras de Mijaíl Gorbachov (1931-2022)</a></p>\n<blockquote>\n<p>En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro gangster global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Les organitzacions clandestines utilitzaven sovint bústies secretes per a comunicar-se.</p>\n<img alt=\"Bústia\" src=\"/uploads/2022/2022-02-23-busties-secretes.jpg\">\n",
 				"date_published": "2022-02-23T21:30:14+01:00",
 				"url": "https://carlesbellver.net/2022/02/23/busties-secretes/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/23/challenging-neoliberalism/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.forbes.com/sites/michaeltnietzel/2022/02/16/leading-universities-will-receive-more-than-40-million-to-create-academic-centers-challenging-neoliberalism/\">Leading Academic Institutions Will Receive More Than $40 Million To Create Centers Challenging Neoliberalism</a></p>\n<blockquote>\n<p>Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l'economia i la societat actuals:</p>\n<blockquote>\n<p>Aquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.</p>\n</blockquote>\n</blockquote>\n",
-				"date_published": "2022-02-23T09:08:04+01:00",
-				"url": "https://carlesbellver.net/2022/02/23/challenging-neoliberalism/"
 			}
 	]
 }
