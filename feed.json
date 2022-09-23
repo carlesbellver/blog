@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/",
+				
+				"content_html": "<p>📎 Sens Dubte: <a href=\"https://www.ub.edu/sens-dubte/consultes/nietzschea-o-nietzschia/\">nietzscheà o nietzschià?</a></p>\n<blockquote>\n<p>La vacil·lació d’alguns derivats fins i tot es reflecteix en els diccionaris i acostuma a afectar especialment aquests noms acabats en e sonora en la llengua d’origen. Per exemple, en castellà, segons el DRAE, el derivat de Goethe tant pot ser goethiano com goetheano. En català, segons el DIEC2, el derivat de Nietzsche és nietzscheà, però anteriorment havia recollit el derivat nietzschià.</p>\n</blockquote>\n<p>Em va estranyar veure escrit <em>nietzschià</em> en un assaig molt interessant sobre Joan Fuster.</p>\n",
+				"date_published": "2022-09-23T14:58:41+02:00",
+				"url": "https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/09/14/81025/",
 				
 				"content_html": "<p>En els temps que corren, cada vegada és més fàcil exhibir en públic la teua ignorància.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Diuen que ningú llegeix —o escriu— ja blogs, però jo avui he endreçat el meu.</p>\n",
 				"date_published": "2022-03-06T18:40:37+01:00",
 				"url": "https://carlesbellver.net/2022/03/06/88436/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/02/23/busties-secretes/",
-				
-				"content_html": "<p>Les organitzacions clandestines utilitzaven sovint bústies secretes per a comunicar-se.</p>\n<img alt=\"Bústia\" src=\"/uploads/2022/2022-02-23-busties-secretes.jpg\">\n",
-				"date_published": "2022-02-23T21:30:14+01:00",
-				"url": "https://carlesbellver.net/2022/02/23/busties-secretes/"
 			}
 	]
 }
