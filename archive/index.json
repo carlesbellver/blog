@@ -1,10 +1,4 @@
-{
-	"version": "https://jsonfeed.org/version/1",
-	"title": "La vista cansada",
-	"icon": "",
-	"home_page_url": "https://carlesbellver.net",
-	"feed_url": "https://carlesbellver.netarchive/index.json",
-	"items": [
+[
 			{
 				"title": "La broma",
 				"date_published": "2022-10-09T18:10:22+02:00",
@@ -10597,4 +10591,3 @@
 				"content_text": "Experiments i divagacions. Entre la tecnologia i la literatura:\nInspiració (2022) Sant Jordi digital (2022) (no)nft (2022) unicorns.png (un llibre dins d'una imatge en format PNG) (2021) ab-oblique (Oblique Strategies Arduboy app) (2020) Unicorns (improvisacions en 1.024 caràcters) (2018) Escriure —breument— en temps d'Internet (2017) After Word(s) (més enllà del processador de textos) (2013) Smart tools for smart writers (2012) 100% Charles Beauvoir (2012) 24 hores Ch. B. (2009) Petit Wilbur Contes per a extraterrestres (1993-2000) "
 			}
 	]
-}
