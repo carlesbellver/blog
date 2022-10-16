@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/10/16/domingo-cerrdo/",
+				
+				"content_html": "<p>Diumenge <em>porrc</em>. És un fet ben conegut la mala relació d'algunes persones amb el darrer dia de la setmana.</p>\n<img alt=\"Horari penjat a la porta d'un negoci: “Domingo cerrdo”.\" src=\"/uploads/2022/2022-10-16-domingo-cerrdo.jpg\">\n",
+				"date_published": "2022-10-16T17:18:38+02:00",
+				"url": "https://carlesbellver.net/2022/10/16/domingo-cerrdo/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/10/09/broma/",
 				"title": "La broma",
 				"content_html": "<p>Dilluns passat vaig començar a cavil·lar una broma una mica ximple. Diria en Twitter que jo ja sabia a qui donarien enguany el Nobel de literatura, perquè m’ho havia filtrat <a href=\"https://twitter.com/tombatossalator\">Albert Garcia Pascual</a>. I dijous, en difondre’s la notícia del premi, lamentaria amargament que ell m’haguera pres el pèl i escenificaríem una petita discussió, en el curs de la qual insinuaria que m’havia fet creure que era jo el guardonat. I llavors ell… Ell res, perquè al cap d’una estona, un amic comú em va informar que Albert s’havia mort d’un infart.</p>\n<p>S’havia acabat la broma. S’havien acabat les bromes compartides, els cafès, les converses o les <a href=\"https://docs.google.com/document/d/1ghxCbmYHtd24dpEkhdL9rW3MkdZhVZP3OOZh1_FFus0/edit?usp=sharing\">presentacions de llibres</a>, entre altres amenitats.</p>\n<p>O no. Perquè tot això queda. Sempre ens quedarà. Així que moltes felicitacions a la senyora Annie Ernaux, però que sàpiga que ho ha tingut fàcil, perquè el Comitè del Nobel, <a href=\"https://www.bbc.com/mundo/noticias-58800338\">des de 1974</a>, ha resolt no atorgar el premi pòstumament.</p>\n<p>(Albert va morir dilluns passat i jo encara no havia estat capaç de dir-ne res.)</p>\n<img src=\"/uploads/2019/2019-03-04-albes.jpg\" alt=\"Foto d’Albert Garcia Pascual en la presentació del seu poemari Albes. Llibreria El Passeig, 4 de març de 2019, Castelló de la Plana.\">",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.edsurge.com/news/2022-03-14-who-is-the-theranos-of-education\">Who is the Theranos of Education?</a></p>\n<p>Theranos, l'empresa del sector de la biotecnologia que va intentar enganyar a tothom amb fantasioses tècniques d'anàlisi de sang… i ho va aconseguir durant un temps. Podria passar això en el món de l'educació? O ja ha passat? Dos casos molt semblants: tant Altschool (escoles amb tecnologies avançades) com Knewton (programari per a l'aprenentatge adaptatiu) havien de revolucionar l'educació i es van esvair en pocs anys.</p>\n<blockquote>\n<p>Després de consultar un munt de mestres, empresaris, inversors i altres professionals de l'educació sobre la base de les característiques de Theranos (líder carismàtic, capital de risc inicial que sembla desaparèixer, afirmacions no provades i cobertura mediàtica i bombo seguits de silenci), dues grans companyies s'esmentaven una vegada i una altra.</p>\n</blockquote>\n",
 				"date_published": "2022-03-15T10:24:37+01:00",
 				"url": "https://carlesbellver.net/2022/03/15/theranos-of-education/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/13/gemutlichkeit/",
-				
-				"content_html": "<blockquote>\n<p><em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>Ein Prosit, ein Prosit</em><br>\n<em>Der Gemütlichkeit</em><br>\n<em>OANS ZWOA DREI! G’SUFFA!</em></p>\n</blockquote>\n<p>Col·legi Universitari de Castelló. Cap a 1990? <a href=\"https://ca.wikipedia.org/wiki/Vicent_Mart%C3%ADnez_Guzm%C3%A1n\">Vicent Martínez Guzmán</a> ens il·lustrava sobre les dificultats per a <a href=\"https://publicacions.iec.cat/repository/pdf/00000082/00000067.pdf\">traduir amb precisió el mot alemany <em>Gemüt</em></a>, en el context de la filosofia de Husserl, i <a href=\"http://eticaydemocracia.uji.es/cvs/salvador/cv.pdf\">Salvador Cabedo Manuel</a> ens va sorprendre —ens va desconcertar— entonant aquesta cançoneta popular alemanya. Típica de les cerveseries, ens va explicar tot seguit. Trenta anys després, la trobe transcrita en una novel·la de Jonathan Coe i recorde l’anècdota. Un brindis, un brindis per aixecar l'ànim! <em>Der Gemütlichkeit!</em> La vida i la filosofia.</p>\n<p><a href=\"https://www.flickr.com/photos/usnationalarchives/4726903479\" title=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"><img src=\"/uploads/2022/2022-03-13-gemutlichkeit.jpg\" alt=\"Beer Steins Are Raised as the Concord Singers Practice Singing German Songs in New Ulm, Minnesota…\"></a></p>\n",
-				"date_published": "2022-03-13T10:48:55+01:00",
-				"url": "https://carlesbellver.net/2022/03/13/gemutlichkeit/"
 			}
 	]
 }
