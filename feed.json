@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/11/08/93170/",
+				
+				"content_html": "<p>📎 <a href=\"http://www.catb.org/jargon/html/S/September-that-never-ended.html\">September that never ended</a></p>\n<blockquote>\n<p>One of the seasonal rhythms of the Usenet used to be the annual September influx of clueless newbies who, lacking any sense of netiquette, made a general nuisance of themselves… But in September 1993, AOL users became able to post to Usenet, nearly overwhelming the old-timers' capacity to acculturate them. Syn. eternal September.</p>\n</blockquote>\n",
+				"date_published": "2022-11-08T08:39:51+01:00",
+				"url": "https://carlesbellver.net/2022/11/08/93170/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/10/21/frankfurt/",
 				
 				"content_html": "<p>En una altra vida, o en somni, jo també <a href=\"https://carlesbellver.net/contes/unicorns/unicorns15/\">vaig anar a la Fira de Frankfurt</a>.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://psyche.co/ideas/when-art-transports-us-where-do-we-actually-go\">When art transports us, where do we actually go?</a></p>\n<p>Aquesta pregunta m'ha recordat la <a href=\"/2015/09/16/de-la-revelaci.html\">definició clàssica de <em>ciberespai</em></a>: el <em>lloc</em> no físic on ens trobem quan parlem per telèfon (és a dir, això mateix que ara volen continuar esprement comercialment amb el nom de “metavers”).</p>\n<p>Hi ha, en fi, altres mons, i no sé si són en aquest, però són accessibles des d'aquest.</p>\n<blockquote>\n<p>L'obra d'art, però, obre un món heterònom que no experimente com a pertanyent a la unitat espaciotemporal del món real.</p>\n</blockquote>\n",
 				"date_published": "2022-03-31T20:07:23+02:00",
 				"url": "https://carlesbellver.net/2022/03/31/art-transports-us/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/29/rafael-llopis/",
-				
-				"content_html": "<p>M’assabente que <a href=\"https://es.wikipedia.org/wiki/Rafael_Llopis\">Rafael Llopis</a> va morir la setmana passada. Gràcies a ell —i a les traduccions de <a href=\"https://es.wikipedia.org/wiki/Francisco_Torres_Oliver\">Francisco Torres Oliver</a>— vam conèixer les meravelloses al·lucinacions de Lovecraft en aquells llibrets de butxaca d'Alianza Editorial. La seva edició —i l’enciclopèdica introducció— de <em>Los mitos de Cthulhu</em> ens van descobrir un món que va durar més enllà dels límits estrets de l’adolescència.</p>\n",
-				"date_published": "2022-03-29T19:50:46+02:00",
-				"url": "https://carlesbellver.net/2022/03/29/rafael-llopis/"
 			}
 	]
 }
