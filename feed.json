@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/11/10/02394/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.atlassian.com/agile/project-management/epics-stories-themes\">Stories, epics, and initiatives</a></p>\n<p>Als informàtics els agrada fer-te escriure, però la seua passió per la lectura no sempre resulta evident.</p>\n",
+				"date_published": "2022-11-10T18:46:48+01:00",
+				"url": "https://carlesbellver.net/2022/11/10/02394/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/11/08/93170/",
 				
 				"content_html": "<p>📎 <a href=\"http://www.catb.org/jargon/html/S/September-that-never-ended.html\">September that never ended</a></p>\n<blockquote>\n<p>One of the seasonal rhythms of the Usenet used to be the annual September influx of clueless newbies who, lacking any sense of netiquette, made a general nuisance of themselves… But in September 1993, AOL users became able to post to Usenet, nearly overwhelming the old-timers' capacity to acculturate them. Syn. eternal September.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>L’amor lliure (i feliç).</p>\n<img alt=\"Grafit en una paret: “Be lesbian” i un cor somrient\" src=\"/uploads/2022/2022-04-01-amor-lliure.jpg\">\n",
 				"date_published": "2022-04-01T19:30:14+02:00",
 				"url": "https://carlesbellver.net/2022/04/01/amor-lliure/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/03/31/art-transports-us/",
-				
-				"content_html": "<p>📎 <a href=\"https://psyche.co/ideas/when-art-transports-us-where-do-we-actually-go\">When art transports us, where do we actually go?</a></p>\n<p>Aquesta pregunta m'ha recordat la <a href=\"/2015/09/16/de-la-revelaci.html\">definició clàssica de <em>ciberespai</em></a>: el <em>lloc</em> no físic on ens trobem quan parlem per telèfon (és a dir, això mateix que ara volen continuar esprement comercialment amb el nom de “metavers”).</p>\n<p>Hi ha, en fi, altres mons, i no sé si són en aquest, però són accessibles des d'aquest.</p>\n<blockquote>\n<p>L'obra d'art, però, obre un món heterònom que no experimente com a pertanyent a la unitat espaciotemporal del món real.</p>\n</blockquote>\n",
-				"date_published": "2022-03-31T20:07:23+02:00",
-				"url": "https://carlesbellver.net/2022/03/31/art-transports-us/"
 			}
 	]
 }
