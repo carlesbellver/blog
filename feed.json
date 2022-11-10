@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/11/10/05062/",
+				
+				"content_html": "<p>📎 <a href=\"https://www.eldiario.es/economia/banco-espana-camuflo-gasto-1-2-millones-euros-piscinas-trabajadores_1_9693053.html\">El Banco de España camufló el gastó de 1,2 millones de euros en dos piscinas para sus trabajadores</a></p>\n<p>Mentre als funcionaris de la perifèria ens retallaven el sou i ens ampliaven l’horari, els del Banc d’Espanya prenien el sol i el bany —a les colònies— a càrrec de l’erari públic.</p>\n",
+				"date_published": "2022-11-10T19:32:33+01:00",
+				"url": "https://carlesbellver.net/2022/11/10/05062/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/11/10/02394/",
 				
 				"content_html": "<p>📎 <a href=\"https://www.atlassian.com/agile/project-management/epics-stories-themes\">Stories, epics, and initiatives</a></p>\n<p>Als informàtics els agrada fer-te escriure, però la seua passió per la lectura no sempre resulta evident.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Bon dia. Ja ens queda menys: al voltant de cent setanta anys #Castelló #UJI</p>\n<blockquote>\n<p>Si vols crear una gran ciutat, crea una gran universitat i espera dos-cents anys.</p>\n</blockquote>\n<p>📎 <a href=\"https://www.lavanguardia.com/encatala/20220404/8174400/barcelona-li-agradaria-boston-pero-ara-com-ara-es-mes-miami.html\">Bruce Katz, urbanista de ciutats globals</a></p>\n",
 				"date_published": "2022-04-04T08:00:35+02:00",
 				"url": "https://carlesbellver.net/2022/04/04/gran-ciutat/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/04/01/amor-lliure/",
-				
-				"content_html": "<p>L’amor lliure (i feliç).</p>\n<img alt=\"Grafit en una paret: “Be lesbian” i un cor somrient\" src=\"/uploads/2022/2022-04-01-amor-lliure.jpg\">\n",
-				"date_published": "2022-04-01T19:30:14+02:00",
-				"url": "https://carlesbellver.net/2022/04/01/amor-lliure/"
 			}
 	]
 }
