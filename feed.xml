@@ -6,8 +6,17 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Wed, 16 Nov 2022 16:00:09 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Nov 2022 17:15:42 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2022/11/20/60847/</link>
+      <pubDate>Sun, 20 Nov 2022 17:15:42 +0100</pubDate>
+      <guid>https://carlesbellver.net/2022/11/20/60847/</guid>
+      <description>&lt;p&gt;El meu script bash per a publicar apunts ràpids al blog i en Mastodon i Twitter havia de ser supersenzill, però ha anat creixent amb tota mena d’opcions i ja té vora quatre-centes línies de codi. 😅&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -280,17 +289,6 @@
 &lt;p&gt;En l&#39;article enllaçat més amunt, m’ha cridat l’atenció especialment el lligam que s&#39;hi estableix entre els videojocs i el concepte de flux encunyat per &lt;a href=&#34;https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi&#34;&gt;Csikszentmihalyi&lt;/a&gt;. Precisament, va ser aquesta experiència d’immersió mental en els jocs la que va donar origen en 1962 al concepte de &lt;a href=&#34;https://carlesbellver.net/2015/09/16/de-la-revelaci.html&#34;&gt;ciberespai&lt;/a&gt;, com a mitjà, més enllà de la realitat física, en què ens trobem quan interactuem amb o mitjançant dispositius electrònics.&lt;/p&gt;
 &lt;p&gt;El ciberespai: una idea amb molta història que ara el senyor Z. vol monopolitzar i explotar comercialment, canviant-li el nom per metavers.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Sant Jordi digital</title>
-      <link>https://carlesbellver.net/2022/04/22/sant-jordi/</link>
-      <pubDate>Fri, 22 Apr 2022 11:00:50 +0200</pubDate>
-      <guid>https://carlesbellver.net/2022/04/22/sant-jordi/</guid>
-      <description>&lt;p&gt;Oferta de Sant Jordi, vàlida fins al 8 de maig: si voleu que us signe un llibre en format electrònic, no teniu més que dir-m’ho i us enviaré un EPUB d’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns/&#34;&gt;&lt;em&gt;Unicorns&lt;/em&gt;&lt;/a&gt; personalitzat i gratuït.&lt;/p&gt;
-&lt;p&gt;S’admeten peticions per &lt;a href=&#34;https://carlesbellver.net/about/&#34;&gt;correu, Telegram, Mastodon o Twitter&lt;/a&gt;. Indiqueu en quina adreça de correu voleu rebre el llibre i quin nom ha d’aparèixer en la dedicatòria.&lt;/p&gt;
-&lt;p&gt;En aquesta edició especial s’inclouen els seixanta-quatre dibuixos gargotejats per l’autor, a la manera d’Arthur Laffer, en els tovallons de paper de l’Arkham Café (s’ha de dir que no tenen, evidentment, cap valor artístic).&lt;/p&gt;
-&lt;img src=&#34;https://carlesbellver.net/uploads/2022/2022-04-22-tovallons_800.jpg&#34; alt=&#34;Mosaic amb les seixanta-quatre il·lustracions&#34;&gt;</description>
     </item>
     
   </channel>

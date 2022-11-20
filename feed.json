@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/11/20/60847/",
+				
+				"content_html": "<p>El meu script bash per a publicar apunts ràpids al blog i en Mastodon i Twitter havia de ser supersenzill, però ha anat creixent amb tota mena d’opcions i ja té vora quatre-centes línies de codi. 😅</p>\n",
+				"date_published": "2022-11-20T17:15:42+01:00",
+				"url": "https://carlesbellver.net/2022/11/20/60847/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/11/16/10776/",
 				
 				"content_html": "<p>📎 <a href=\"https://garymarcus.substack.com/p/a-few-words-about-bullshit\">A Few Words About Bullshit</a></p>\n<p>Una intel·ligència artificial entrenada amb milions d'articles científics capaç de generar ciència falsa.</p>\n<blockquote>\n<p>Is this really what AI has come to, automatically mixing reality with bullshit so finally we can no longer recognize the difference?</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://www.insidehighered.com/blogs/higher-ed-gamma/can-video-games-teach\">Can Video Games Teach?</a></p>\n<p>Tinc la sensació que una bona part del discurs sobre jocs seriosos ve de persones, i d'ambients, que potser no s’havien pres encara prou seriosament els videojocs. Ni la cultura popular en general, de fet. Com si no hagueren donat prou importància a l'aprenentatge que es produïa, o es produeix, a més dels jocs, en tebeos, pel·lícules, cançons, etc., i no hagueren reflexionat sobre com traure’n profit per a l’educació formal.</p>\n<p>La meua opinió sobre el tema —totalment irrellevant— és que, als jocs, s’hi sol jugar seriosament —<a href=\"/2014/03/14/julio-cortzar-jugbamos.html\">com deia Julio Cortázar</a>— i que és bo equilibrar la balança amb un disseny seriós dels jocs. També, evidentment, des d’un punt de vista pedagògic.</p>\n<p>En l'article enllaçat més amunt, m’ha cridat l’atenció especialment el lligam que s'hi estableix entre els videojocs i el concepte de flux encunyat per <a href=\"https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi\">Csikszentmihalyi</a>. Precisament, va ser aquesta experiència d’immersió mental en els jocs la que va donar origen en 1962 al concepte de <a href=\"/2015/09/16/de-la-revelaci.html\">ciberespai</a>, com a mitjà, més enllà de la realitat física, en què ens trobem quan interactuem amb o mitjançant dispositius electrònics.</p>\n<p>El ciberespai: una idea amb molta història que ara el senyor Z. vol monopolitzar i explotar comercialment, canviant-li el nom per metavers.</p>\n",
 				"date_published": "2022-04-23T10:15:46+02:00",
 				"url": "https://carlesbellver.net/2022/04/23/video-games/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/04/22/sant-jordi/",
-				"title": "Sant Jordi digital",
-				"content_html": "<p>Oferta de Sant Jordi, vàlida fins al 8 de maig: si voleu que us signe un llibre en format electrònic, no teniu més que dir-m’ho i us enviaré un EPUB d’<a href=\"/contes/unicorns/\"><em>Unicorns</em></a> personalitzat i gratuït.</p>\n<p>S’admeten peticions per <a href=\"/about/\">correu, Telegram, Mastodon o Twitter</a>. Indiqueu en quina adreça de correu voleu rebre el llibre i quin nom ha d’aparèixer en la dedicatòria.</p>\n<p>En aquesta edició especial s’inclouen els seixanta-quatre dibuixos gargotejats per l’autor, a la manera d’Arthur Laffer, en els tovallons de paper de l’Arkham Café (s’ha de dir que no tenen, evidentment, cap valor artístic).</p>\n<img src=\"/uploads/2022/2022-04-22-tovallons_800.jpg\" alt=\"Mosaic amb les seixanta-quatre il·lustracions\">",
-				"date_published": "2022-04-22T11:00:50+02:00",
-				"url": "https://carlesbellver.net/2022/04/22/sant-jordi/"
 			}
 	]
 }
