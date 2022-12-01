@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://carlesbellver.net/2022/12/01/desembre/</loc>
+    <lastmod>2022-12-01T08:07:45+01:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/fotos/</loc>
+    <lastmod>2022-12-01T08:07:45+01:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/</loc>
+    <lastmod>2022-12-01T08:07:45+01:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/posts/</loc>
+    <lastmod>2022-12-01T08:07:45+01:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/</loc>
+    <lastmod>2022-12-01T08:07:45+01:00</lastmod>
+  </url><url>
     <loc>https://carlesbellver.net/2022/11/29/34717/</loc>
     <lastmod>2022-11-29T16:12:00+01:00</lastmod>
   </url><url>
-    <loc>https://carlesbellver.net/</loc>
-    <lastmod>2022-11-29T16:12:00+01:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/posts/</loc>
-    <lastmod>2022-11-29T16:12:00+01:00</lastmod>
-  </url><url>
     <loc>https://carlesbellver.net/tags/retalls/</loc>
-    <lastmod>2022-11-29T16:12:00+01:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/</loc>
     <lastmod>2022-11-29T16:12:00+01:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/11/25/88774/</loc>
@@ -39,9 +45,6 @@
     <lastmod>2022-10-21T19:42:09+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/10/16/domingo-cerrdo/</loc>
-    <lastmod>2022-10-16T17:18:38+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/fotos/</loc>
     <lastmod>2022-10-16T17:18:38+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/10/09/broma/</loc>
