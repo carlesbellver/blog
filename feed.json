@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/12/16/20791/",
+				
+				"content_html": "<p>Els ramats dels dinars de Nadal palesen que ningú creix. Mai. Atavismes que afloren de sota els abrics i la cosmètica civilitzatòria. Qui era roí de menut continua sent-ho cinquanta anys després. Els documentals sobre primats em van ensenyar molt més del que podia imaginar.</p>\n",
+				"date_published": "2022-12-16T21:00:06+01:00",
+				"url": "https://carlesbellver.net/2022/12/16/20791/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/12/13/55/",
 				
 				"content_html": "<p>Avui he fet cinquanta-cinc anys. N’han passat quasi quaranta, per tant, des que els invents del senyor Clive Sinclair em van començar a ensenyar aquesta altra forma d’escriptura —o de màgia: la programació— que <a href=\"/2021/04/14/healing-power-javascript/\">fa que passen coses</a>.</p>\n<img src=\"/uploads/2022/2022-12-13-55.jpg\" alt=\"Foto de Carles Bellver Torlà amb una samarreta amb el retol Sinclair ZX Spectrum i el nombre 55 sobreimprès.\">",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>—…no hi havia alguna cosa [en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?</p>\n<p>—Crec que ell va dir l'<em>ethos</em>.</p>\n<p>—Perquè l'originalitat és pertorbadora, correcte?</p>\n<p>—Depèn del context.</p>\n<p>—Com?</p>\n<p>—Hi ha contextos de classe mitjana on s'espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S'imposa.</p>\n</blockquote>\n<p>—John Fowles, “The Cloud” (<em>The Ebony Tower</em>).</p>\n",
 				"date_published": "2022-05-15T18:45:59+02:00",
 				"url": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/05/08/prorroga/",
-				
-				"content_html": "<p>Encara em queden uns pocs exemplars digitals d’<a href=\"/contes/unicorns\"><em>Unicorns</em></a> per signar, així que mantindré l’<a href=\"/2022/04/22/sant-jordi/\">oferta</a> fins a fi d’existències.</p>\n",
-				"date_published": "2022-05-08T18:25:00+02:00",
-				"url": "https://carlesbellver.net/2022/05/08/prorroga/"
 			}
 	]
 }
