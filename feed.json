@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/12/22/30256/",
+				
+				"content_html": "<p>Bon Nadal.</p>\n<img alt=\"Felicitació de Nadal amb una imatge dels Reis d'Orient extreta de l'Atles Català de Cresques Abraham (1375).\" src=\"/uploads/2022/2022-12-22-30256.jpg\">\n",
+				"date_published": "2022-12-22T18:31:01+01:00",
+				"url": "https://carlesbellver.net/2022/12/22/30256/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/12/16/20791/",
 				
 				"content_html": "<p>Els ramats dels dinars de Nadal palesen que ningú creix. Mai. Atavismes que afloren de sota els abrics i la cosmètica civilitzatòria. Qui era roí de menut continua sent-ho cinquanta anys després. Els documentals sobre primats em van ensenyar molt més del que podia imaginar.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>Naturalment, Fuster era ciscarista, a diferència de molts dels seus seguidors. Les raons són molt naturals: Fuster era molt més intel·ligent i pragmàtic que la majoria dels seus <em>followers</em>. Ell va entendre de seguida que la Llei d'Ús i Ensenyament del Valencià era revolucionària, el primer estri legal favorable a la llengua des dels Decrets de Nova Planta…</p>\n</blockquote>\n<p>📎 Joan Garí, <a href=\"http://oficidelector.blogspot.com/2022/05/fuster-en-la-seua-salsa.html\">“Fuster en la seua salsa”</a> (ressenya del llibre de Salvador Vendrell <a href=\"https://www.onadaedicions.com/llibres/producte/A+casa+Joan+Fuster+Les+tertulies+de+Sueca\"><em>A casa Joan Fuster. Les tertúlies de Sueca</em></a>).</p>\n",
 				"date_published": "2022-05-22T09:35:45+02:00",
 				"url": "https://carlesbellver.net/2022/05/22/fuster-ciscarista/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/",
-				"title": "Els tòpics són la religió de les classes mitjanes",
-				"content_html": "<blockquote>\n<p>—…no hi havia alguna cosa [en Roland Barthes] sobre els tòpics com a religió de les classes mitjanes?</p>\n<p>—Crec que ell va dir l'<em>ethos</em>.</p>\n<p>—Perquè l'originalitat és pertorbadora, correcte?</p>\n<p>—Depèn del context.</p>\n<p>—Com?</p>\n<p>—Hi ha contextos de classe mitjana on s'espera que un soni original. Divertit. Fins i tot revolucionari. Però el context és una mena de signe de revocació. S'imposa.</p>\n</blockquote>\n<p>—John Fowles, “The Cloud” (<em>The Ebony Tower</em>).</p>\n",
-				"date_published": "2022-05-15T18:45:59+02:00",
-				"url": "https://carlesbellver.net/2022/05/15/john-fowles-els-topics/"
 			}
 	]
 }
