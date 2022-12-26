@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/12/26/57574/",
+				
+				"content_html": "<blockquote>\n<p>M'agradaria tenir una comprensió més perfecta de les coses, però no vull comprar-la tan cara com costa. La meva intenció és passar tranquil·lament, i no laboriosament, el que em queda de vida. Per res em veig trencant-me el cap: no per la ciència, per valuosa que sigui. No busco als llibres res que no sigui donar-me plaer amb una diversió honesta; o si estudio, només hi busco la ciència que tracti del coneixement de mi mateix i que m'instrueixi a morir bé i a viure bé.</p>\n</blockquote>\n<p>—Michel de Montaigne, <em>Essais</em> (1595), llibre II, capítol 10.</p>\n",
+				"date_published": "2022-12-26T13:26:30+01:00",
+				"url": "https://carlesbellver.net/2022/12/26/57574/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/12/22/30256/",
 				
 				"content_html": "<p>Bon Nadal.</p>\n<img alt=\"Felicitació de Nadal amb una imatge dels Reis d'Orient extreta de l'Atles Català de Cresques Abraham (1375).\" src=\"/uploads/2022/2022-12-22-30256.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 Ignacio Sánchez-Cuenca: <a href=\"https://ctxt.es/es/20220601/Firmas/39900/\">La izquierda ceniza</a></p>\n<blockquote>\n<p>Triturada la utopía, en cualquiera de sus formas, la crítica hiperbólica del mundo contemporáneo es una carga muy pesada de sobrellevar […] La izquierda no se quedaría sin espacio propio por el hecho de reconocer la complejidad del mundo, con su intrincada mezcla de aspectos positivos y negativos. Se pueden celebrar hasta los pequeños avances sin por ello renunciar a la lucha por la mejora en todos los ámbitos posibles de aquellas situaciones de opresión, discriminación y explotación que perviven y se enquistan.</p>\n</blockquote>\n",
 				"date_published": "2022-06-05T11:56:33+02:00",
 				"url": "https://carlesbellver.net/2022/06/05/izquierda-ceniza/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/05/22/fuster-ciscarista/",
-				
-				"content_html": "<blockquote>\n<p>Naturalment, Fuster era ciscarista, a diferència de molts dels seus seguidors. Les raons són molt naturals: Fuster era molt més intel·ligent i pragmàtic que la majoria dels seus <em>followers</em>. Ell va entendre de seguida que la Llei d'Ús i Ensenyament del Valencià era revolucionària, el primer estri legal favorable a la llengua des dels Decrets de Nova Planta…</p>\n</blockquote>\n<p>📎 Joan Garí, <a href=\"http://oficidelector.blogspot.com/2022/05/fuster-en-la-seua-salsa.html\">“Fuster en la seua salsa”</a> (ressenya del llibre de Salvador Vendrell <a href=\"https://www.onadaedicions.com/llibres/producte/A+casa+Joan+Fuster+Les+tertulies+de+Sueca\"><em>A casa Joan Fuster. Les tertúlies de Sueca</em></a>).</p>\n",
-				"date_published": "2022-05-22T09:35:45+02:00",
-				"url": "https://carlesbellver.net/2022/05/22/fuster-ciscarista/"
 			}
 	]
 }
