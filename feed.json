@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2022/12/31/06424/",
+				
+				"content_html": "<p>L'any que ve.</p>\n<img alt=\"Pintura a l'oli d'un ovni sobre un camp per DALLE·2\" src=\"/uploads/2022/2022-12-31-06424.jpg\">\n",
+				"date_published": "2022-12-31T18:07:14+01:00",
+				"url": "https://carlesbellver.net/2022/12/31/06424/"
+			},
+			{
 				"id": "https://carlesbellver.net/2022/12/26/57574/",
 				
 				"content_html": "<blockquote>\n<p>M'agradaria tenir una comprensió més perfecta de les coses, però no vull comprar-la tan cara com costa. La meva intenció és passar tranquil·lament, i no laboriosament, el que em queda de vida. Per res em veig trencant-me el cap: no per la ciència, per valuosa que sigui. No busco als llibres res que no sigui donar-me plaer amb una diversió honesta; o si estudio, només hi busco la ciència que tracti del coneixement de mi mateix i que m'instrueixi a morir bé i a viure bé.</p>\n</blockquote>\n<p>—Michel de Montaigne, <em>Essais</em> (1595), llibre II, capítol 10.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📎 <a href=\"https://phys.org/news/2022-07-roboticists-alternative-physics.html\">Roboticists discover alternative physics</a></p>\n<p>Un programa informàtic analitza les imatges que li proporciona una càmera i busca equacions —amb el mínim nombre de variables— que servisquen per calcular els moviments observats. Les equacions funcionen, però no s’assemblen a les nostres i no és fàcil esbrinar quines variables utilitzen.</p>\n<blockquote>\n<p>“Potser alguns fenòmens ens pareixen misteriosament complexos perquè intentem entendre’ls utilitzant les variables equivocades. En aquests experiments, el nombre de variables era el mateix cada vegada que reiniciàvem la intel·ligència artificial, però les variables eren diferents cada vegada. Així que sí, hi ha maneres alternatives de descriure l’univers i és molt possible que les nostres no siguen perfectes.”</p>\n</blockquote>\n",
 				"date_published": "2022-07-27T20:13:06+02:00",
 				"url": "https://carlesbellver.net/2022/07/27/alternative-physics/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/06/05/izquierda-ceniza/",
-				
-				"content_html": "<p>📎 Ignacio Sánchez-Cuenca: <a href=\"https://ctxt.es/es/20220601/Firmas/39900/\">La izquierda ceniza</a></p>\n<blockquote>\n<p>Triturada la utopía, en cualquiera de sus formas, la crítica hiperbólica del mundo contemporáneo es una carga muy pesada de sobrellevar […] La izquierda no se quedaría sin espacio propio por el hecho de reconocer la complejidad del mundo, con su intrincada mezcla de aspectos positivos y negativos. Se pueden celebrar hasta los pequeños avances sin por ello renunciar a la lucha por la mejora en todos los ámbitos posibles de aquellas situaciones de opresión, discriminación y explotación que perviven y se enquistan.</p>\n</blockquote>\n",
-				"date_published": "2022-06-05T11:56:33+02:00",
-				"url": "https://carlesbellver.net/2022/06/05/izquierda-ceniza/"
 			}
 	]
 }
