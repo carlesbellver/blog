@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.netfeed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/01/06/dark-forest/",
+				
+				"content_html": "<p>📎 <a href=\"https://maggieappleton.com/ai-dark-forest\">The Expanding Dark Forest and Generative AI</a></p>\n<blockquote>\n<p>La <a href=\"https://maggieappleton.com/cozy-web\">teoria del bosc fosc</a> de la xarxa fa referència a l’estat del món en línia, cada vegada més semblant al món real i al mateix temps més mancat de realitat. La majoria d'espais web oberts i públicament accessibles estan ocupats per robots, anunciants, trolls, extractors de dades, pescaclics, &quot;creadors de contingut&quot; farcits de paraules clau i brossa manipulada algorítmicament.</p>\n</blockquote>\n<p>El nou repte, diu Maggie Appleton, és provar que no som algoritmes d’intel·ligència artificial: una mena de test de Turing invers. En aquest apunt del seu web esbossa cinc opcions, les més interessants de les quals serien les tres primeres:</p>\n<ol>\n<li><strong>Triangular la realitat objectiva</strong>. Com més específic i local siga el context, quant més contacte hi haja amb el món real, més inassolible seria el resultat per a una IA que no pot contrastar les dades amb cap font externa (ací, per cert, rau també la solució del pseudoproblema del plagi en els treballs acadèmics).</li>\n<li><strong>Ser originals, crítics i sofisticats</strong>. Fugir de la mediocritat: és a dir, de l’estadística que alimenta les IA. Els models probabilístics “escupen text que sona a treball de notable alt… Això apujarà el nivell d’exigència per a tothom”.</li>\n<li><strong>Desenvolupar un estil personal</strong>. En termes de lingüística clàssica: “Hem codificat <em>la langue</em> en un punt exacte del temps. El que ens queda per a jugar és <em>la parla</em>.” L’estil, recordem, <a href=\"/2019/12/10/i-know-jerry.html\">“és allò que fas <em>malament</em>”</a>, allò que no pots deixar de fer i et caracteritza, segons Neil Gaiman/Jerry Garcia.</li>\n</ol>\n",
+				"date_published": "2023-01-06T20:02:14+01:00",
+				"url": "https://carlesbellver.net/2023/01/06/dark-forest/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/01/05/panoli/",
 				
 				"content_html": "<blockquote>\n<p><strong>panoli</strong></p>\n<p>Del valenciano <em>panoli</em>; propiamente ‘fruta de sartén’, contracc. de <em>pa en oli</em> ‘pan con aceite’, en cat. <em>pa amb oli</em>.</p>\n<ol>\n<li><em>adj. coloq.</em> Dicho de una persona: Simple y fácil de engañar. <em>U. t. c. s.</em></li>\n</ol>\n</blockquote>\n<p>—<a href=\"https://dle.rae.es/?id=RhqkPe8\">RAE</a></p>\n<img alt=\"Panoli a l'aparador d'una pastisseria\" src=\"/uploads/2023/2023-01-05-panoli.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Refugi antiaeri, plaça Tetuan de Castelló. En la projecció audiovisual, foto de la plaça Emilio Castelar (ara Porta del Sol). La gent corre a amagar-se en sentir les alarmes.</p>\n<img alt=\"Foto d'un túnel del refugi antiaeri de la plaça Tetuán de Castelló.\" src=\"/uploads/2022/2022-08-23-bombes.jpg\">\n",
 				"date_published": "2022-08-23T19:15:33+02:00",
 				"url": "https://carlesbellver.net/2022/08/23/bombes/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.technologyreview.com/2022/08/06/1056727/vr-virtual-reality-psychedelics-transcendence/\">Virtual Reality is as good as psychedelics at helping people reach transcendence</a></p>\n<blockquote>\n<p>En les quatre mètriques, Isness-D va provocar respostes indestriables de les associades amb les dosis mitjanes de psicodèlics. En l’escala d’experiència mística, els participants en Isness-D van informar d’una experiència tan intensa com la provocada per 20 mil·ligrams de psilocibina o 200 micrograms d’LSD, i més forta que la induïda per microdosis de qualsevol de les dues substàncies.</p>\n</blockquote>\n",
-				"date_published": "2022-08-11T19:16:31+02:00",
-				"url": "https://carlesbellver.net/2022/08/11/virtual-reality-psychedelics/"
 			}
 	]
 }
