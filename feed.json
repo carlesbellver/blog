@@ -1,9 +1,9 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "La vista cansada",
-	"icon": "https://carlesbellver.net",
-	"home_page_url": "https://carlesbellver.net",
-	"feed_url": "https://carlesbellver.netfeed.json",
+	"icon": "https://carlesbellver.net/",
+	"home_page_url": "https://carlesbellver.net/",
+	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
 				"id": "https://carlesbellver.net/2023/01/06/dark-forest/",
