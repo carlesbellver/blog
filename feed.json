@@ -7,36 +7,36 @@
 	"items": [
 			{
 				"id": "https://carlesbellver.net/2023/01/21/catalunya-roja/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.lavanguardia.com/opinion/20230121/8698199/catalunya-roja.html\">Catalunya Roja</a></p>\n<p>Ignacio Sánchez-Cuenca sobre les diferències ideològiques a l’UE i a Espanya. Segons l’<a href=\"https://www.europarl.europa.eu/at-your-service/es/be-heard/eurobarometer/2019-european-elections-entered-a-new-dimension\">Eurobaròmetre</a> posterior a les eleccions de 2019, Espanya és el país més esquerrà d’Europa (4,4) i Romania el més dretà (6,1). Catalunya (3,6) i Euskadi són les més <em>roges</em>, i Madrid (4,9) la que menys. L'escala va del zero (extrema esquerra) al deu (extrema dreta).</p>\n<p>Diversos factors poden explicar que la gent opine de mitjana d’una manera i vote (almenys aparentment) d’una altra manera. Però el que m’han fet evocar aquestes dades és una altra cosa. Allò que va dir Joan Fuster (<a href=\"https://elramellet.blogspot.com/2011/06/sera-desquerres-o-no-sera.html\">en una entrevista amb Amadeu Fabregat</a>): <em>que el País Valencià seria d’esquerres o no seria</em>. Si l’<em>statu quo</em> ja et va bé —i per això ets conservador—, per què hauries de voler canviar-lo?</p>\n<blockquote>\n<p>La percepción de una parte importante de las poblaciones catalana y vasca de que sus respectivas naciones no gozan del reconocimiento nacional que deberían tener, o la creencia de que sufren algún tipo de discriminación o maltrato, produce una tensión política entre centro y periferia que desplaza los valores ideológicos hacia la izquierda.</p>\n</blockquote>\n",
+				"title": "Catalunya Roja",
+				"content_html": "<p>Ignacio Sánchez-Cuenca sobre les diferències ideològiques a l’UE i a Espanya. Segons l’<a href=\"https://www.europarl.europa.eu/at-your-service/es/be-heard/eurobarometer/2019-european-elections-entered-a-new-dimension\">Eurobaròmetre</a> posterior a les eleccions de 2019, Espanya és el país més esquerrà d’Europa (4,4) i Romania el més dretà (6,1). Catalunya (3,6) i Euskadi són les més <em>roges</em>, i Madrid (4,9) la que menys. L'escala va del zero (extrema esquerra) al deu (extrema dreta).</p>\n<p>Diversos factors poden explicar que la gent opine de mitjana d’una manera i vote (almenys aparentment) d’una altra manera. Però el que m’han fet evocar aquestes dades és una altra cosa. Allò que va dir Joan Fuster (<a href=\"https://elramellet.blogspot.com/2011/06/sera-desquerres-o-no-sera.html\">en una entrevista amb Amadeu Fabregat</a>): <em>que el País Valencià seria d’esquerres o no seria</em>. Si l’<em>statu quo</em> ja et va bé —i per això ets conservador—, per què hauries de voler canviar-lo?</p>\n<blockquote>\n<p>La percepción de una parte importante de las poblaciones catalana y vasca de que sus respectivas naciones no gozan del reconocimiento nacional que deberían tener, o la creencia de que sufren algún tipo de discriminación o maltrato, produce una tensión política entre centro y periferia que desplaza los valores ideológicos hacia la izquierda.</p>\n</blockquote>\n",
 				"date_published": "2023-01-21T13:40:51+01:00",
 				"url": "https://carlesbellver.net/2023/01/21/catalunya-roja/"
 			},
 			{
 				"id": "https://carlesbellver.net/2023/01/06/dark-forest/",
-				
-				"content_html": "<p>📎 <a href=\"https://maggieappleton.com/ai-dark-forest\">The Expanding Dark Forest and Generative AI</a></p>\n<blockquote>\n<p>La <a href=\"https://maggieappleton.com/cozy-web\">teoria del bosc fosc</a> de la xarxa fa referència a l’estat del món en línia, cada vegada més semblant al món real i al mateix temps més mancat de realitat. La majoria d'espais web oberts i públicament accessibles estan ocupats per robots, anunciants, trolls, extractors de dades, pescaclics, &quot;creadors de contingut&quot; farcits de paraules clau i brossa manipulada algorítmicament.</p>\n</blockquote>\n<p>El nou repte, diu Maggie Appleton, és provar que no som algoritmes d’intel·ligència artificial: una mena de test de Turing invers. En aquest apunt del seu web esbossa cinc opcions, les més interessants de les quals serien les tres primeres:</p>\n<ol>\n<li><strong>Triangular la realitat objectiva</strong>. Com més específic i local siga el context, quant més contacte hi haja amb el món real, més inassolible seria el resultat per a una IA que no pot contrastar les dades amb cap font externa (ací, per cert, rau també la solució del pseudoproblema del plagi en els treballs acadèmics).</li>\n<li><strong>Ser originals, crítics i sofisticats</strong>. Fugir de la mediocritat: és a dir, de l’estadística que alimenta les IA. Els models probabilístics “escupen text que sona a treball de notable alt… Això apujarà el nivell d’exigència per a tothom”.</li>\n<li><strong>Desenvolupar un estil personal</strong>. En termes de lingüística clàssica: “Hem codificat <em>la langue</em> en un punt exacte del temps. El que ens queda per a jugar és <em>la parla</em>.” L’estil, recordem, <a href=\"/2019/12/10/i-know-jerry.html\">“és allò que fas <em>malament</em>”</a>, allò que no pots deixar de fer i et caracteritza, segons Neil Gaiman/Jerry Garcia.</li>\n</ol>\n",
+				"title": "The Expanding Dark Forest and Generative AI",
+				"content_html": "<blockquote>\n<p>La <a href=\"https://maggieappleton.com/cozy-web\">teoria del bosc fosc</a> de la xarxa fa referència a l’estat del món en línia, cada vegada més semblant al món real i al mateix temps més mancat de realitat. La majoria d'espais web oberts i públicament accessibles estan ocupats per robots, anunciants, trolls, extractors de dades, pescaclics, &quot;creadors de contingut&quot; farcits de paraules clau i brossa manipulada algorítmicament.</p>\n</blockquote>\n<p>El nou repte, diu Maggie Appleton, és provar que no som algoritmes d’intel·ligència artificial: una mena de test de Turing invers. En aquest apunt del seu web esbossa cinc opcions, les més interessants de les quals serien les tres primeres:</p>\n<ol>\n<li><strong>Triangular la realitat objectiva</strong>. Com més específic i local siga el context, quant més contacte hi haja amb el món real, més inassolible seria el resultat per a una IA que no pot contrastar les dades amb cap font externa (ací, per cert, rau també la solució del pseudoproblema del plagi en els treballs acadèmics).</li>\n<li><strong>Ser originals, crítics i sofisticats</strong>. Fugir de la mediocritat: és a dir, de l’estadística que alimenta les IA. Els models probabilístics “escupen text que sona a treball de notable alt… Això apujarà el nivell d’exigència per a tothom”.</li>\n<li><strong>Desenvolupar un estil personal</strong>. En termes de lingüística clàssica: “Hem codificat <em>la langue</em> en un punt exacte del temps. El que ens queda per a jugar és <em>la parla</em>.” L’estil, recordem, <a href=\"/2019/12/10/i-know-jerry.html\">“és allò que fas <em>malament</em>”</a>, allò que no pots deixar de fer i et caracteritza, segons Neil Gaiman/Jerry Garcia.</li>\n</ol>\n",
 				"date_published": "2023-01-06T20:02:14+01:00",
 				"url": "https://carlesbellver.net/2023/01/06/dark-forest/"
 			},
 			{
 				"id": "https://carlesbellver.net/2023/01/05/panoli/",
-				
-				"content_html": "<blockquote>\n<p><strong>panoli</strong></p>\n<p>Del valenciano <em>panoli</em>; propiamente ‘fruta de sartén’, contracc. de <em>pa en oli</em> ‘pan con aceite’, en cat. <em>pa amb oli</em>.</p>\n<ol>\n<li><em>adj. coloq.</em> Dicho de una persona: Simple y fácil de engañar. <em>U. t. c. s.</em></li>\n</ol>\n</blockquote>\n<p>—<a href=\"https://dle.rae.es/?id=RhqkPe8\">RAE</a></p>\n<img alt=\"Panoli a l'aparador d'una pastisseria\" src=\"/uploads/2023/2023-01-05-panoli.jpg\">\n",
+				"title": "panoli",
+				"content_html": "<blockquote>\n<p>Del valenciano <em>panoli</em>; propiamente ‘fruta de sartén’, contracc. de <em>pa en oli</em> ‘pan con aceite’, en cat. <em>pa amb oli</em>.</p>\n<ol>\n<li><em>adj. coloq.</em> Dicho de una persona: Simple y fácil de engañar. <em>U. t. c. s.</em></li>\n</ol>\n</blockquote>\n<p>—RAE</p>\n<img alt=\"Panoli a l'aparador d'una pastisseria\" src=\"/uploads/2023/2023-01-05-panoli.jpg\">\n",
 				"date_published": "2023-01-05T13:13:41+01:00",
 				"url": "https://carlesbellver.net/2023/01/05/panoli/"
 			},
 			{
 				"id": "https://carlesbellver.net/2023/01/03/72876/",
-				
-				"content_html": "<p>📖 <em>Un poco menos que ángeles</em>. No recorde com vaig descobrir <a href=\"https://en.wikipedia.org/wiki/Barbara_Pym\">Barbara Pym</a>, primera en la llista d’escriptores i escriptors britànics més injustament menystinguts segons Philip Larkin i David Cecil. Més moderna que Jane Austen, més subtil que Evelyn Waugh. <em>Less Than Angels</em> és una de les novel·les més memorables que vaig llegir el 2023. Els alts i baixos de l’amor, molt d’humor i observació perspicaç de la vida d’homes i dones, a casa i a la facultat d’antropologia.</p>\n",
+				"title": "Un poco menos que ángeles",
+				"content_html": "<p>📖 <em>Un poco menos que ángeles</em>. No recorde com vaig descobrir <a href=\"https://en.wikipedia.org/wiki/Barbara_Pym\">Barbara Pym</a>, primera en la llista d’escriptores i escriptors britànics més injustament menystinguts, segons Philip Larkin i David Cecil. Més moderna que Jane Austen, més subtil que Evelyn Waugh. <em>Less Than Angels</em> és una de les novel·les més memorables que vaig llegir el 2023. Els alts i baixos de l’amor, molt d’humor i observació perspicaç de la vida d’homes i dones, a casa i a la facultat d’antropologia.</p>\n",
 				"date_published": "2023-01-03T20:08:04+01:00",
 				"url": "https://carlesbellver.net/2023/01/03/72876/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/12/31/06424/",
 				
-				"content_html": "<p>L'any que ve ja toca.</p>\n<img alt=\"Pintura a l'oli d'un ovni sobre un camp per DALLE·2\" src=\"/uploads/2022/2022-12-31-06424.jpg\">\n",
+				"content_html": "<p>L’any que ve ja toca.</p>\n<img alt=\"Pintura a l'oli d'un ovni sobre un camp per DALLE·2\" src=\"/uploads/2022/2022-12-31-06424.jpg\">\n",
 				"date_published": "2022-12-31T18:07:14+01:00",
 				"url": "https://carlesbellver.net/2022/12/31/06424/"
 			},
@@ -70,8 +70,8 @@
 			},
 			{
 				"id": "https://carlesbellver.net/2022/12/05/66828/",
-				
-				"content_html": "<p>📎 <a href=\"https://midrange.tedium.co/issues/twitter-elon-musk-performative-anger/\">The Twitter Files Were Designed To Make You Mad</a></p>\n<blockquote>\n<p>En algun moment sents que estàs sent manipulat per formar part de la telenovel·la d'un home ric […] Però el cas és que Twitter sempre ha funcionat així, animant-te a tenir opinió sobre un tema que fa deu minuts desconeixies completament.</p>\n</blockquote>\n",
+				"title": "The Twitter Files Were Designed To Make You Mad",
+				"content_html": "<blockquote>\n<p>En algun moment sents que estàs sent manipulat per formar part de la telenovel·la d'un home ric […] Però el cas és que Twitter sempre ha funcionat així, animant-te a tenir opinió sobre un tema que fa deu minuts desconeixies completament.</p>\n</blockquote>\n",
 				"date_published": "2022-12-05T20:00:57+01:00",
 				"url": "https://carlesbellver.net/2022/12/05/66828/"
 			},
@@ -84,15 +84,15 @@
 			},
 			{
 				"id": "https://carlesbellver.net/2022/11/29/34717/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.technologyreview.com/2022/11/29/1063777/the-ai-myth-western-lawmakers-get-wrong/\">The AI myth Western lawmakers get wrong</a></p>\n<blockquote>\n<p>Tot i que s’hi han fet experiments controvertits de crèdit social en l’àmbit local, no hi ha a la Xina cap sistema estatal d’aquest tipus amb algorismes que classifiquen la gent… La ironia és que mentre els polítics nord-americans i europeus intenten prohibir coses que en realitat no existeixen, sí que tenen en funcionament als seus països mecanismes que deneguen l’accés a l’habitatge o a llocs de treball en funció de l’anàlisi de dades.</p>\n</blockquote>\n",
+				"title": "The AI myth Western lawmakers get wrong",
+				"content_html": "<blockquote>\n<p>Tot i que s’hi han fet experiments controvertits de crèdit social en l’àmbit local, no hi ha a la Xina cap sistema estatal d’aquest tipus amb algorismes que classifiquen la gent… La ironia és que mentre els polítics nord-americans i europeus intenten prohibir coses que en realitat no existeixen, sí que tenen en funcionament als seus països mecanismes que deneguen l’accés a l’habitatge o a llocs de treball en funció de l’anàlisi de dades.</p>\n</blockquote>\n",
 				"date_published": "2022-11-29T16:12:00+01:00",
 				"url": "https://carlesbellver.net/2022/11/29/34717/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/11/25/88774/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.theguardian.com/commentisfree/2022/nov/22/elon-musk-twitter-business-politics-right\">Elon Musk never cared if Twitter was a business failure – he wants a political win</a></p>\n<p>Elon Musk no pretén fer negoci amb Twitter. El seu propòsit és desplaçar l’ecosistema informatiu cap a la dreta.</p>\n",
+				"title": "Elon Musk never cared if Twitter was a business failure – he wants a political win",
+				"content_html": "<p>Elon Musk no pretén fer negoci amb Twitter. El seu propòsit és desplaçar l’ecosistema informatiu cap a la dreta.</p>\n",
 				"date_published": "2022-11-25T16:06:29+01:00",
 				"url": "https://carlesbellver.net/2022/11/25/88774/"
 			},
@@ -105,29 +105,29 @@
 			},
 			{
 				"id": "https://carlesbellver.net/2022/11/16/10776/",
-				
-				"content_html": "<p>📎 <a href=\"https://garymarcus.substack.com/p/a-few-words-about-bullshit\">A Few Words About Bullshit</a></p>\n<p>Una intel·ligència artificial entrenada amb milions d'articles científics capaç de generar ciència falsa.</p>\n<blockquote>\n<p>Is this really what AI has come to, automatically mixing reality with bullshit so finally we can no longer recognize the difference?</p>\n</blockquote>\n",
+				"title": "A Few Words About Bullshit",
+				"content_html": "<p>Una intel·ligència artificial entrenada amb milions d'articles científics capaç de generar ciència falsa.</p>\n<blockquote>\n<p>Is this really what AI has come to, automatically mixing reality with bullshit so finally we can no longer recognize the difference?</p>\n</blockquote>\n",
 				"date_published": "2022-11-16T16:00:09+01:00",
 				"url": "https://carlesbellver.net/2022/11/16/10776/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/11/10/05062/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.eldiario.es/economia/banco-espana-camuflo-gasto-1-2-millones-euros-piscinas-trabajadores_1_9693053.html\">El Banco de España camufló el gastó de 1,2 millones de euros en dos piscinas para sus trabajadores</a></p>\n<p>Mentre als funcionaris de la perifèria ens retallaven el sou i ens ampliaven l’horari, els del Banc d’Espanya prenien el sol i el bany —a les colònies— a càrrec de l’erari públic.</p>\n",
+				"title": "El Banco de España camufló el gastó de 1,2 millones de euros en dos piscinas para sus trabajadores",
+				"content_html": "<p>Mentre als funcionaris de la perifèria ens retallaven el sou i ens ampliaven l’horari, els del Banc d’Espanya prenien el sol i el bany —a les colònies— a càrrec de l’erari públic.</p>\n",
 				"date_published": "2022-11-10T19:32:33+01:00",
 				"url": "https://carlesbellver.net/2022/11/10/05062/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/11/10/02394/",
-				
-				"content_html": "<p>📎 <a href=\"https://www.atlassian.com/agile/project-management/epics-stories-themes\">Stories, epics, and initiatives</a></p>\n<p>Als informàtics els agrada fer-te escriure, però la seua passió per la lectura no sempre resulta evident.</p>\n",
+				"title": "Stories, epics, and initiatives",
+				"content_html": "<p>Als informàtics els agrada fer-te escriure, però la seua passió per la lectura no sempre resulta evident.</p>\n",
 				"date_published": "2022-11-10T18:46:48+01:00",
 				"url": "https://carlesbellver.net/2022/11/10/02394/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/11/08/93170/",
-				
-				"content_html": "<p>📎 <a href=\"http://www.catb.org/jargon/html/S/September-that-never-ended.html\">September that never ended</a></p>\n<blockquote>\n<p>One of the seasonal rhythms of the Usenet used to be the annual September influx of clueless newbies who, lacking any sense of netiquette, made a general nuisance of themselves… But in September 1993, AOL users became able to post to Usenet, nearly overwhelming the old-timers' capacity to acculturate them. Syn. eternal September.</p>\n</blockquote>\n",
+				"title": "September that never ended",
+				"content_html": "<blockquote>\n<p>One of the seasonal rhythms of the Usenet used to be the annual September influx of clueless newbies who, lacking any sense of netiquette, made a general nuisance of themselves… But in September 1993, AOL users became able to post to Usenet, nearly overwhelming the old-timers' capacity to acculturate them. Syn. eternal September.</p>\n</blockquote>\n",
 				"date_published": "2022-11-08T08:39:51+01:00",
 				"url": "https://carlesbellver.net/2022/11/08/93170/"
 			},
@@ -154,15 +154,15 @@
 			},
 			{
 				"id": "https://carlesbellver.net/2022/09/24/inspiracio/",
-				
-				"content_html": "<p>📎 <a href=\"https://42.carlesbellver.net\">42</a></p>\n<p><a href=\"https://42.carlesbellver.net\">Inspiració</a> diària per als vostres textos creatius i altres menesters. Uns pocs mots aleatoris que, amb una mica de sort, us poden despertar la imaginació, la curiositat, alguna connexió inesperada. La selecció es renova diàriament i varia lleugerament per a cadascú, amb un total de quaranta-dues frases o sintagmes navegables cada vegada (perquè algú va dir que quaranta-dos era la resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat).</p>\n<p>Pel que fa a la font dels mots, en lloc de fullejar els evangelis (la <a href=\"/2017/09/24/la-loteria-sagrada.html\"><em>sortes biblicae</em></a> dels antics), o el <em>Necronomicon</em>, o la Constitució Espanyola, m’he estimat més que el meu <em>script</em> regiri els exemples de les entrades del <em>Diccionari de la llengua catalana</em> de l’Institut d’Estudis Catalans. Fragments trets de context, el potencial surrealista dels quals em va ser revelat per Josep M. Chordà <a href=\"/cpe/1995/fabra/\">l’any 1995</a>, molt abans de llegir el cèlebre conte “Cercles d’infinites combinacions” de Vicenç Pagès… Jordà.</p>\n<p><a href=\"https://42.carlesbellver.net\" title=\"Inspiració\"><img src=\"https://42.carlesbellver.net/img/preview.png\" alt=\"Una finestra d'una aplicació amb text en lletra de mida gran que diu: “Useu-ne, però no n’abuseu.”\"></a></p>\n",
+				"title": "Inspiració",
+				"content_html": "<p>Inspiració diària per als vostres textos creatius i altres menesters. Uns pocs mots aleatoris que, amb una mica de sort, us poden despertar la imaginació, la curiositat, alguna connexió inesperada. La selecció es renova diàriament i varia lleugerament per a cadascú, amb un total de quaranta-dues frases o sintagmes navegables cada vegada (perquè algú va dir que quaranta-dos era la resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat).</p>\n<p>Pel que fa a la font dels mots, en lloc de fullejar els evangelis (la <a href=\"/2017/09/24/la-loteria-sagrada.html\"><em>sortes biblicae</em></a> dels antics), o el <em>Necronomicon</em>, o la Constitució Espanyola, m’he estimat més que el meu <em>script</em> regiri els exemples de les entrades del <em>Diccionari de la llengua catalana</em> de l’Institut d’Estudis Catalans. Fragments trets de context, el potencial surrealista dels quals em va ser revelat per Josep M. Chordà <a href=\"/cpe/1995/fabra/\">l’any 1995</a>, molt abans de llegir el cèlebre conte “Cercles d’infinites combinacions” de Vicenç Pagès… Jordà.</p>\n<img src=\"http://42.carlesbellver.net/img/preview.png\" alt=\"Una finestra d'una aplicació amb text en lletra de mida gran que diu: “Useu-ne, però no n’abuseu.”\">",
 				"date_published": "2022-09-24T13:48:43+02:00",
 				"url": "https://carlesbellver.net/2022/09/24/inspiracio/"
 			},
 			{
 				"id": "https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/",
-				
-				"content_html": "<p>📎 Sens Dubte: <a href=\"https://www.ub.edu/sens-dubte/consultes/nietzschea-o-nietzschia/\">nietzscheà o nietzschià?</a></p>\n<blockquote>\n<p>La vacil·lació d’alguns derivats fins i tot es reflecteix en els diccionaris i acostuma a afectar especialment aquests noms acabats en e sonora en la llengua d’origen. Per exemple, en castellà, segons el DRAE, el derivat de Goethe tant pot ser goethiano com goetheano. En català, segons el DIEC2, el derivat de Nietzsche és nietzscheà, però anteriorment havia recollit el derivat nietzschià.</p>\n</blockquote>\n<p>Em va estranyar veure escrit <em>nietzschià</em> en un assaig molt interessant sobre Joan Fuster.</p>\n",
+				"title": "nietzscheà o nietzschià?",
+				"content_html": "<blockquote>\n<p>La vacil·lació d’alguns derivats fins i tot es reflecteix en els diccionaris i acostuma a afectar especialment aquests noms acabats en e sonora en la llengua d’origen. Per exemple, en castellà, segons el DRAE, el derivat de Goethe tant pot ser goethiano com goetheano. En català, segons el DIEC2, el derivat de Nietzsche és nietzscheà, però anteriorment havia recollit el derivat nietzschià.</p>\n</blockquote>\n<p>Em va estranyar veure escrit <em>nietzschià</em> en un assaig molt interessant sobre Joan Fuster.</p>\n",
 				"date_published": "2022-09-23T14:58:41+02:00",
 				"url": "https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/"
 			},
@@ -175,8 +175,8 @@
 			},
 			{
 				"id": "https://carlesbellver.net/2022/09/01/gorbachov/",
-				
-				"content_html": "<p>📎 Rafael Poch: <a href=\"https://ctxt.es/es/20220801/Firmas/40610/\">Luces y sombras de Mijaíl Gorbachov (1931-2022)</a></p>\n<blockquote>\n<p>En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro gangster global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.</p>\n</blockquote>\n",
+				"title": "Luces y sombras de Mijaíl Gorbachov (1931-2022)",
+				"content_html": "<blockquote>\n<p>En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro gangster global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.</p>\n</blockquote>\n",
 				"date_published": "2022-09-01T19:07:53+02:00",
 				"url": "https://carlesbellver.net/2022/09/01/gorbachov/"
 			}
