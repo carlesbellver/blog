@@ -1176,11 +1176,11 @@
 				"content_text": "\n\n\u003e Tenim una cultura d'addicció al treball que exerceix molta pressió sobre el treballador individual per fer-lo responsable de moltes i moltes coses que estan fora del control del treballador. El GTD és alhora un mitjà per a fer front a aquesta pressió i una metodologia personal que prolonga l’exposició a tota aquesta pressió. Augmenta el nombre de boles que pots mantenir a l’aire, però no resol el problema que els altres us tiren cada vegada més boles i esperen que feu malabars.\n\nEs podria dir quelcom similar del *mindfulness*? No és que siguen dolents *per se*, de fet poden ens donar molt bons resultats i alleujar aqueixa pressió a què sovint estem sotmesos. Però serien remeis estrictament individuals per a problemes estructurals que van més enllà de cada un de nosaltres. I s'integren perfectament amb el sistema, perquè no el qüestionen, de manera que contribueixen a mantindre'l.\n\n(D'altra banda, hi ha gent que pareix gaudir d'immunitat congènita a l'addicció al treball. Aquests no cal que es preocupen de res.)\n"
 			},
 			{
-				"title": ,
+				"title": "Does Apple really log every app you run? A technical look",
 				"date_published": "2020-11-16T08:53:09+00:00",
 				"url": "/2020/11/16/13189/",
-				"tags": "",
-				"content_text": "\n📎 [Does Apple really log every app you run? A technical look](https://blog.jacopo.io/en/post/apple-ocsp/)\n\nAfortunadament, pareix que el Mac no envia a Apple un *hash* de cada aplicació cada vegada que intentes obrir-la. *Només* li envia certes dades sobre el certificat del desenvolupador, quan estima necessari comprovar que continua sent vàlid. Pel que fa la privadesa no seria el mateix. Però molt més lamentable que el *bug* dels servidors de l'altre dia —que alentia o paralitzava els macs— és el fet que Apple no done cap explicació sobre aquest assumpte.\n\n"
+				"tags": "retalls",
+				"content_text": "\nAfortunadament, pareix que el Mac no envia a Apple un *hash* de cada aplicació cada vegada que intentes obrir-la. *Només* li envia certes dades sobre el certificat del desenvolupador, quan estima necessari comprovar que continua sent vàlid. Pel que fa la privadesa no seria el mateix. Però molt més lamentable que el *bug* dels servidors de l'altre dia —que alentia o paralitzava els macs— és el fet que Apple no done cap explicació sobre aquest assumpte.\n\n"
 			},
 			{
 				"title": ,
@@ -1225,11 +1225,11 @@
 				"content_text": "\nCiència ciutadana #UJI. Participació en el projecte [Vigilantes del aire](https://vigilantesdelaire.ibercivis.es/). Aquestes maduixeres mesuren la concentració de metalls pesats.\n\n\u003cimg alt=\"Maduixeres a la finestra del despatx\" src=\"/uploads/2020/2020-10-24-203321.jpg\"\u003e\n"
 			},
 			{
-				"title": ,
+				"title": "ohnosecond",
 				"date_published": "2020-10-16T12:10:32+00:00",
 				"url": "/2020/10/16/ohnosecond/",
-				"tags": "",
-				"content_text": "\n📎 [ohnosecond](https://en.wiktionary.org/wiki/ohnosecond)\n\n\u003e (*humor*) La fracció de temps entre cometre una errada i adonar-se'n (imitació de termes com nanosegon and attosegon).\n"
+				"tags": "retalls",
+				"content_text": "\n\u003e (*humor*) La fracció de temps entre cometre una errada i adonar-se'n (imitació de termes com nanosegon and attosegon).\n"
 			},
 			{
 				"title": ,
@@ -1260,11 +1260,11 @@
 				"content_text": "\nEl dia 16 de setembre comence a llegir una novel·la de Perucho que tenia pendent de fa mesos i que comença així: ”El dia 16 de setembre de 1771 sortia de Southampton la ranquejant goleta…”\n"
 			},
 			{
-				"title": ,
+				"title": "¿De la Educación interrumpida a la Educación intermitente?",
 				"date_published": "2020-09-14T07:24:39+00:00",
 				"url": "/2020/09/14/albert-sangr-de.html",
-				"tags": "",
-				"content_text": "\n📎 Albert Sangrà: [¿De la Educación interrumpida a la Educación intermitente?](https://www.magisnet.com/2020/09/de-la-educacion-interrumpida-a-la-educacion-intermitente/)\n\nLa bretxa digital d'accés es pot tancar amb voluntat política. Ara cal tancar també la bretxa digital d'ús desenvolupant la competència digital de la ciutadania. I dissenyar models de presencialitat discontínua des del supòsit que el curs podria ser totalment no presencial en qualsevol moment.\n"
+				"tags": "retalls",
+				"content_text": "\nLa bretxa digital d'accés es pot tancar amb voluntat política. Ara cal tancar també la bretxa digital d'ús desenvolupant la competència digital de la ciutadania. I dissenyar models de presencialitat discontínua des del supòsit que el curs podria ser totalment no presencial en qualsevol moment.\n"
 			},
 			{
 				"title": ,
@@ -1278,7 +1278,7 @@
 				"date_published": "2020-09-01T15:06:00+00:00",
 				"url": "/2020/09/01/i-quina-s.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e —I quina és la certesa?\n\u003e \n\u003e —La certesa és que si sabent què passa no fem res per canviar les coses, la pandèmia serà un assaig només d’allò que podria ser el món d’ací a una dècada a conseqüència del canvi climàtic.\n\nAbans d'això, diu que ja no tenim grans relats històrics. Però esmenta l'ecologisme i el feminisme com a únics moviments socials i “grans motors d’aquesta dècada i les vinents”. Potser no els copsem com a relats històrics perquè no ens pareixen tan grans —tan bons— com els d'abans. Potser és només un problema generacional.\n\n📎 [Joan Romero: 'El País Valencià hauria de ser capaç de construir una identitat col·lectiva potent'](https://www.vilaweb.cat/noticies/no-esta-acabadajoan-romero-si-no-fem-res-per-canviar-les-coses-la-pandemia-sera-una-anecdota-al-costat-de-les-consequencies-el-canvi-climatic/)\n\n"
+				"content_text": "\n\u003e —I quina és la certesa?\n\u003e \n\u003e —La certesa és que si sabent què passa no fem res per canviar les coses, la pandèmia serà un assaig només d’allò que podria ser el món d’ací a una dècada a conseqüència del canvi climàtic.\n\nAbans d'això, diu que ja no tenim grans relats històrics. Però esmenta l'ecologisme i el feminisme com a únics moviments socials i “grans motors d’aquesta dècada i les vinents”. Potser no els copsem com a relats històrics perquè no ens pareixen tan grans —tan bons— com els d'abans. Potser és només un problema generacional.\n"
 			},
 			{
 				"title": "Autonomy Online: A Case For The IndieWeb",
@@ -1330,11 +1330,11 @@
 				"content_text": "\n✍🏻👽 Avui se celebra el centenari de Ray Bradbury. L'any 2015 li vaig dedicar un dels vuit somnis inclosos en el meu llibre [*Un cel nou i una terra nova*](https://carlesbellver.net/llibres/uncelnouiunaterranova/): [“L’extraterrestre”](https://carlesbellver.net/contes/setsomnis/extraterrestre.html).\n"
 			},
 			{
-				"title": ,
+				"title": "Scientists discover brain hack for language learning",
 				"date_published": "2020-08-21T08:22:34+00:00",
 				"url": "/2020/08/21/scientists-discover-brain.html",
-				"tags": "",
-				"content_text": "\n📎 [Scientists discover brain hack for language learning](https://www.inverse.com/innovation/neural-stimulation-language-device)\n\nL'estimulació transcutània del nervi vague mitjançant un senzill dispositiu auricular (sense implants) podria millorar l'aprenentatge d'idiomes en adults —i també el rendiment cognitiu en altres camps.\n"
+				"tags": "retalls",
+				"content_text": "\nL'estimulació transcutània del nervi vague mitjançant un senzill dispositiu auricular (sense implants) podria millorar l'aprenentatge d'idiomes en adults —i també el rendiment cognitiu en altres camps.\n"
 			},
 			{
 				"title": ,
@@ -1358,11 +1358,11 @@
 				"content_text": "\n📖 Will Hunt, [*Underground: A Human History Of The Worlds Beneath Our Feet*](https://micro.blog/books/9780812996746)\n\nEl misteri —*“tremendum et fascinans”*— del subsol. Crònica personal d’incursions en túnels urbans moderns, antigues ciutats subterrànies i mines i cavernes arreu del món, amb generoses excursions pels dominis de l’antropologia i la psicologia recreatives.\n"
 			},
 			{
-				"title": ,
+				"title": "Academic urban legends",
 				"date_published": "2020-07-29T14:13:00+00:00",
 				"url": "/2020/07/29/ole-bjrn-rekdal.html",
-				"tags": "",
-				"content_text": "\n📎 Ole Bjørn Rekdal: [Academic urban legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679) (2014)\n\nLa bibliometria com a patró de la veritat: cada vegada que un autor, per mandra o descurança, repeteix una referència sense comprovar-la, està reforçant de manera acrítica l’assumpció de la seva validesa. Però una imprecisió o una falsedat no deixen de ser-ho per repetir-les mil vegades.\n\nS’ha repetit més de mil vegades, fins i tot en llibres i articles acadèmics, que l’origen de la falsa creença sobre l’aportació de ferro dels espinacs va ser una errada en la posició del punt decimal, que hauria multiplicat per deu la quantitat real. I tanmateix, ningú ha sabut mai detallar qui exactament va cometre aquella errada (uns “químics alemanys” anònims, es va dir), quan (la dècada de 1930, o la de 1870?) o en quines circumstàncies concretes. Ni tan sols va poder fer-ho el divulgador original d'aquesta *hipòtesi* —diguem-ne així—, que al final va creure recordar que ho havia llegit en el *Reader’s Digest*, ni més ni menys.\n\nI qui diu el ferro dels espinacs, diu [el futur de l’educació i del treball](https://elpais.com/elpais/2017/03/10/hechos/1489146364_790212.html), o tantes altres idees (mems) en circulació.\n\nVegeu també: [Scientific Facts — Are they like Myths, Told through Fairytales and Spread by Gossip?](/2018/09/28/scientific-facts-are.html).\n"
+				"tags": "retalls",
+				"content_text": "\nLa bibliometria com a patró de la veritat: cada vegada que un autor, per mandra o descurança, repeteix una referència sense comprovar-la, està reforçant de manera acrítica l’assumpció de la seva validesa. Però una imprecisió o una falsedat no deixen de ser-ho per repetir-les mil vegades.\n\nS’ha repetit més de mil vegades, fins i tot en llibres i articles acadèmics, que l’origen de la falsa creença sobre l’aportació de ferro dels espinacs va ser una errada en la posició del punt decimal, que hauria multiplicat per deu la quantitat real. I tanmateix, ningú ha sabut mai detallar *qui* exactament va cometre aquella errada (uns “químics alemanys” anònims, es va dir), *quan* (la dècada de 1930, o la de 1870?) o en quines circumstàncies concretes. Ni tan sols va poder fer-ho el divulgador original d'aquesta *hipòtesi* —diguem-ne així—, que al final va creure recordar que ho havia llegit en el *Reader’s Digest*, ni més ni menys.\n\nI qui diu el ferro dels espinacs, diu [el futur de l’educació i del treball](https://elpais.com/elpais/2017/03/10/hechos/1489146364_790212.html), o tantes altres idees (mems) en circulació.\n\nVegeu també: [Scientific Facts — Are they like Myths, Told through Fairytales and Spread by Gossip?](/2018/09/28/scientific-facts-are.html).\n"
 			},
 			{
 				"title": "Lockdown was the longest period of quiet in recorded human history",
@@ -1488,7 +1488,7 @@
 				"date_published": "2020-05-16T10:59:00+00:00",
 				"url": "/2020/05/16/el-teletrabajo-es.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e El teletrabajo es útil como una opción que dota de flexibilidad al trabajo, mejorando la calidad de vida del trabajador y probablemente mejorando su productividad, siempre y cuando el modelo organizativo se acerque al consciente, es decir donde prevalezca la confianza, la autonomía y la calidad del empleo sea alta. Sin embargo, su implantación de emergencia ha sacado a la luz de forma más evidente los principios sobre los que la mayoría de las empresas se sustentan: control y logro. Y bajo tales principios el teletrabajo es una opción muy cuestionable, especialmente con respecto al trabajador.\n\n📎 Ricardo Chiva Gómez: [Teletrabajo: hacia un modelo organizativo consciente](https://www.eldiario.es/tribunaabierta/Teletrabajo-modelo-organizativo-consciente_6_1024757523.html)\n"
+				"content_text": "\n\u003e El teletrabajo es útil como una opción que dota de flexibilidad al trabajo, mejorando la calidad de vida del trabajador y probablemente mejorando su productividad, siempre y cuando el modelo organizativo se acerque al consciente, es decir donde prevalezca la confianza, la autonomía y la calidad del empleo sea alta. Sin embargo, su implantación de emergencia ha sacado a la luz de forma más evidente los principios sobre los que la mayoría de las empresas se sustentan: control y logro. Y bajo tales principios el teletrabajo es una opción muy cuestionable, especialmente con respecto al trabajador.\n"
 			},
 			{
 				"title": "Evolutionary Psychology gets another whack",
@@ -1502,7 +1502,7 @@
 				"date_published": "2020-05-15T09:23:56+00:00",
 				"url": "/2020/05/15/no-es-coincidencia.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e No es coincidencia que sean diez países gobernados por mujeres los que mejor y más rápido han actuado y han sabido comunicar a su población confianza y seguridad. Hay una lección y una esperanza en todo eso.\n\n📎 Juan Verde: [“La ciencia hace dos décadas que nos avisa del peligro de pandemia”](https://www.lavanguardia.com/lacontra/20200515/481149070782/la-ciencia-hace-dos-decadas-que-nos-avisa-del-peligro-de-pandemia.html)\n"
+				"content_text": "\n\u003e No es coincidencia que sean diez países gobernados por mujeres los que mejor y más rápido han actuado y han sabido comunicar a su población confianza y seguridad. Hay una lección y una esperanza en todo eso.\n"
 			},
 			{
 				"title": "Coronavirus is ‘Kill Bill’-esque blow to capitalism and could lead to reinvention of communism",
@@ -1666,11 +1666,11 @@
 				"content_text": "\nL’any passat vaig fer tant de calaix a Barcelona amb la meva [paradeta d’ebooks](/2019/04/23/he-vingut-a.html) que enguany no m’hauria calgut tornar-hi. Però va ser divertit i m’hauria agradat repetir-ho. Fins al juliol, doncs.\n"
 			},
 			{
-				"title": ,
+				"title": "Así discute Habermas",
 				"date_published": "2020-04-12T19:31:49+00:00",
 				"url": "/2020/04/12/as-discute-habermas.html",
-				"tags": "",
-				"content_text": "\n📎 [Así discute Habermas](https://elpais.com/cultura/2020/04/08/babelia/1586361642_479728.html)\n\n\u003e “¿Puede interpretarse también el asesinato planificado de millones de personas, del que hoy ya no ignoramos nada, como un error que nos fue deparado como un destino en el contexto de la historia del ser?”\n\u003e \n\u003e …pero cuando en los años ochenta y noventa recriminarle [a Heidegger] su proximidad al nazismo se convirtió en tendencia, Habermas volvió a la palestra para recordar que su reproche no se dirigía tanto a esa cercanía de 1933 como a su negativa a reconocer su error a partir de 1945.\n"
+				"tags": "retalls",
+				"content_text": "\n\u003e “¿Puede interpretarse también el asesinato planificado de millones de personas, del que hoy ya no ignoramos nada, como un error que nos fue deparado como un destino en el contexto de la historia del ser?”\n\u003e \n\u003e …pero cuando en los años ochenta y noventa recriminarle [a Heidegger] su proximidad al nazismo se convirtió en tendencia, Habermas volvió a la palestra para recordar que su reproche no se dirigía tanto a esa cercanía de 1933 como a su negativa a reconocer su error a partir de 1945.\n"
 			},
 			{
 				"title": ,
@@ -1694,11 +1694,11 @@
 				"content_text": "\nEstic fascinat. Creen webs falses que simulen fòrums, on fan veure que algú pregunta per un llibre *teu* (que realment no interessa pas a ningú), amb la finalitat de difondre enllaços a alguna d’aquelles pàgines de descàrrega rares i fraudulentes.\n\nL’únic enllaç que funciona és el de la pàgina de descàrrega. Tots els altres —el de la pàgina d'inici del fòrum, els dels perfils dels usuaris, etc.— van a la mateixa pàgina on estàs.\n\nQuina inventiva!\n\n\u003cimg src=\"/uploads/2020/63e4acbe80.png\" width=\"600\" height=\"586\" alt=\"\" /\u003e\n"
 			},
 			{
-				"title": "Stephen Downes",
+				"title": "Who’s Zoomin’ Who?",
 				"date_published": "2020-04-02T19:16:58+00:00",
 				"url": "/2020/04/02/laprenentatge-en-lnia.html",
 				"tags": "retalls, citacions, educació",
-				"content_text": "\n\u003e L’aprenentatge en línia hauria de ser ràpid, divertit, boig, no planificat i inspirador.\n\n📎 [Stephen Downes](https://www.downes.ca/post/70681)\n"
+				"content_text": "\n\u003e L’aprenentatge en línia hauria de ser ràpid, divertit, boig, no planificat i inspirador.\n\n—[Stephen Downes](https://www.downes.ca/post/70681)\n"
 			},
 			{
 				"title": "De provincia a provincia y con grupos de al menos 15 personas: así funciona el seguimiento de los ciudadanos por las operadoras",
@@ -1929,7 +1929,7 @@
 				"date_published": "2020-01-08T16:30:50+00:00",
 				"url": "/2020/01/08/the-more-we.html",
 				"tags": "retalls, citacions",
-				"content_text": "\n\u003e …quant més automatizem, i més sofisticada fem l’automatització, més dependrem d'operaris humans altament qualificats.\n\n📎 [Ironies of automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)\n"
+				"content_text": "\n\u003e …quant més automatizem, i més sofisticada fem l’automatització, més dependrem d'operaris humans altament qualificats.\n\n—[Ironies of automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)\n"
 			},
 			{
 				"title": ,
@@ -1957,14 +1957,14 @@
 				"date_published": "2019-12-08T06:49:35+00:00",
 				"url": "/2019/12/08/propublica-has-determined.html",
 				"tags": "retalls",
-				"content_text": "\nUn mètode pseudocientífic d'identificació de culpables, basat en l'anàlisi de l'escriptura, fa furor en els cossos policials dels EUA i d'altres països.\n\n📎 ['Why Are Cops Around the World Using This Outlandish Mind-Reading Tool?'](https://m.slashdot.org/story/364382)\n"
+				"content_text": "\nUn mètode pseudocientífic d'identificació de culpables, basat en l'anàlisi de l'escriptura, fa furor en els cossos policials dels EUA i d'altres països."
 			},
 			{
 				"title": "Why Your 5G Phone Connection Could Mean Lousy Weather Forecasts",
 				"date_published": "2019-12-04T07:52:00+00:00",
 				"url": "/2019/12/04/water-vapor-emits.html",
 				"tags": "retalls",
-				"content_text": "\nEls satèl·lits meteorològics capten el senyal —feble— del vapor d'aigua a 23.8 GHz, dins de l'espectre del 5G. L'extensió d'aquesta tecnologia podria dificultar els mesuraments —no se sabria si es detecten núvols o connexions de dades— i faria menys fiables les prediccions.\n\n📎 [Why Your 5G Phone Connection Could Mean Lousy Weather Forecasts](https://singularityhub.com/2019/12/04/why-your-5g-phone-connection-could-mean-lousy-weather-forecasts/)\n"
+				"content_text": "\nEls satèl·lits meteorològics capten el senyal —feble— del vapor d'aigua a 23.8 GHz, dins de l'espectre del 5G. L'extensió d'aquesta tecnologia podria dificultar els mesuraments —no se sabria si es detecten núvols o connexions de dades— i faria menys fiables les prediccions.\n"
 			},
 			{
 				"title": ,
@@ -2006,7 +2006,7 @@
 				"date_published": "2019-11-19T19:26:21+00:00",
 				"url": "/2019/11/19/as-g-connectivity.html",
 				"tags": "retalls",
-				"content_text": "\nElon Musk promet que volarem en coets o per túnels subterranis. Però els futuròlegs de Singularity creuen que el 5G, la hiperrealitat virtual i els robots instauraran la telepresència i aboliran les distàncies.\n\n📎 [Within 10 Years, We'll Travel by Hyperloop, Rockets, and Avatars](https://singularityhub.com/2019/11/15/within-10-years-well-travel-by-hyperloop-rockets-and-avatars/)\n"
+				"content_text": "\nElon Musk promet que volarem en coets o per túnels subterranis. Però els futuròlegs de Singularity creuen que el 5G, la hiperrealitat virtual i els robots instauraran la telepresència i aboliran les distàncies.\n"
 			},
 			{
 				"title": ,
@@ -2034,7 +2034,7 @@
 				"date_published": "2019-11-13T16:33:00+00:00",
 				"url": "/2019/11/13/los-datos-revelan.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Los datos revelan que el voto a la ultraderecha depende ante todo de la identidad nacional y, en menor medida, de la inmigración. La ideología explica más bien poco.\n\n📎 [Noticia electoral sobre Vox para la izquierda](https://ctxt.es/es/20191106/Politica/29494/Ignacio-Sanchez-Cuenca-analisis-elecciones-Vox-nacionalismo-xenofobia.htm)\n"
+				"content_text": "\n\u003e Los datos revelan que el voto a la ultraderecha depende ante todo de la identidad nacional y, en menor medida, de la inmigración. La ideología explica más bien poco.\n"
 			},
 			{
 				"title": "Barcelona de Fawkes, Barcelona de Fleck",
@@ -2048,7 +2048,7 @@
 				"date_published": "2019-11-12T07:42:01+00:00",
 				"url": "/2019/11/12/and-then-eight.html",
 				"tags": "retalls",
-				"content_text": "\nLes empreses d'Internet trafiquen amb les nostres dades. Però difícilment podem escapar-ne, perquè a hores d'ara formen part del teixit social, cívic i laboral, així que no tenim elecció real.\n\n📎 [8 Unbelievable Things You Never Knew About Tracking](https://noti.st/laurakalbag/Y4Q95l/slides)\n"
+				"content_text": "\nLes empreses d'Internet trafiquen amb les nostres dades. Però difícilment podem escapar-ne, perquè a hores d'ara formen part del teixit social, cívic i laboral, així que no tenim elecció real.\n"
 			},
 			{
 				"title": ,
@@ -2069,14 +2069,14 @@
 				"date_published": "2019-11-06T19:00:54+00:00",
 				"url": "/2019/11/06/un-repaso-a.html",
 				"tags": "retalls",
-				"content_text": "\nEl feixisme s'assenta sempre sobre una sòlida base de mentides i més mentides.\n\n📎 [Lo que nadie respondió a Santiago Abascal en el debate](https://www.eldiario.es/escolar/nadie-respondio-Santiago-Abascal-debate_6_960364003.html)\n"
+				"content_text": "\nEl feixisme s'assenta sempre sobre una sòlida base de mentides i més mentides.\n"
 			},
 			{
 				"title": "A Photographer's Ode to Everyday Soviet Architecture",
 				"date_published": "2019-11-06T18:31:09+00:00",
 				"url": "/2019/11/06/areniy-kotov-soviet.html",
 				"tags": "retalls",
-				"content_text": "\nAreniy Kotov, *Soviet Cities: Labour, Life \u0026amp; Leisure*:\n\n\u003e És normal —en aquestes ciutats que van pertànyer a l’URSS— sentir-te com un arqueòleg que visitava les ruïnes d'una civilització antiga i no sabia què hi trobaria!\n\n📎 [A Photographer's Ode to Everyday Soviet Architecture](https://www.atlasobscura.com/articles/soviet-architecture-photos)\n"
+				"content_text": "\nAreniy Kotov, *Soviet Cities: Labour, Life \u0026amp; Leisure*:\n\n\u003e És normal —en aquestes ciutats que van pertànyer a l’URSS— sentir-te com un arqueòleg que visitava les ruïnes d'una civilització antiga i no sabia què hi trobaria!\n"
 			},
 			{
 				"title": "The peculiar bathroom habits of Westerners",
@@ -2090,7 +2090,7 @@
 				"date_published": "2019-11-06T08:55:00+00:00",
 				"url": "/2019/11/06/so-a-charismatic.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e …una tecnologia carismàtica promet una solució ràpida dels problemes, quelcom molt comú en el món tecnològic. I ho fa reproduint valors existents, de vegades valors problemàtics.\n\n📎 [What Happened to the ‘$100 Laptop’?](https://www.edsurge.com/news/2019-11-05-what-happened-to-the-100-laptop)\n"
+				"content_text": "\n\u003e …una tecnologia carismàtica promet una solució ràpida dels problemes, quelcom molt comú en el món tecnològic. I ho fa reproduint valors existents, de vegades valors problemàtics.\n"
 			},
 			{
 				"title": "The ghost writers helping 'lazy' Western students",
@@ -2146,14 +2146,14 @@
 				"date_published": "2019-10-22T08:36:00+00:00",
 				"url": "/2019/10/22/the-fsf-should.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e La FSF hauria d'haver nodrit i conreat nous líders des de fa temps, líders que miressin al futur, entenguessin la informàtica en núvol i mòbil i les seves amenaces per a una societat lliure.\n\n📎 Stefano Maffulli: [Why Richard Stallman doesn’t matter](https://maffulli.net/2019/10/17/why-richard-stallman-doesnt-matter/)\n"
+				"content_text": "\n\u003e La FSF hauria d'haver nodrit i conreat nous líders des de fa temps, líders que miressin al futur, entenguessin la informàtica en núvol i mòbil i les seves amenaces per a una societat lliure.\n"
 			},
 			{
-				"title": ,
+				"title": "The World in 50 Years",
 				"date_published": "2019-10-21T20:41:19+00:00",
 				"url": "/2019/10/21/quartz-the-world.html",
-				"tags": "",
-				"content_text": "\n📎 Quartz: [The World in 50 Years](https://qz.com/is/the-world-in-50-years/themes/)\n\nLa ciència-ficció en què creuen les elits.\n\n\u003e Hem preguntat a alguns dels pensadors més agosarats com serà el món d’ací a cinquanta anys.\n"
+				"tags": "retalls",
+				"content_text": "\nLa ciència-ficció en què creuen les elits.\n\n\u003e Hem preguntat a alguns dels pensadors més agosarats com serà el món d’ací a cinquanta anys.\n"
 			},
 			{
 				"title": ,
@@ -2167,14 +2167,14 @@
 				"date_published": "2019-10-19T19:19:36+00:00",
 				"url": "/2019/10/19/photographer-sandro-miller.html",
 				"tags": "retalls",
-				"content_text": "\nSandro Miller i John Malkovich recreen més de seixanta fotografies icòniques, incloent-hi retrats de Salvador Dalí, el Che Guevara i Albert Einstein.\n\n📎 [John Malkovich poses as history's most famous figures](https://edition.cnn.com/style/amp/john-malkovich-sandro-miller/)\n"
+				"content_text": "\nSandro Miller i John Malkovich recreen més de seixanta fotografies icòniques, incloent-hi retrats de Salvador Dalí, el Che Guevara i Albert Einstein.\n"
 			},
 			{
 				"title": "Els catorze senyals del feixisme",
 				"date_published": "2019-10-17T19:20:39+00:00",
 				"url": "/2019/10/17/tales-caractersticas-no.html",
 				"tags": "retalls",
-				"content_text": "\n1. Culte de la tradició\n2. Rebuig de la modernitat\n3. Culte de l’acció per l’acció\n4. El desacord com a traïció\n5. Por a la diferència\n6. Crida a les classes mitjanes frustrades\n7. Nacionalisme\n8. Fortalesa i feblesa dels enemics\n9. Viure per la lluita\n10. Elitisme popular\n11. Culte de l'heroisme\n12. Masclisme\n13. Populisme qualitatiu\n14. Neollengua\n\n📎 Umberto Eco: [Los 14 síntomas del fascismo eterno](https://ctxt.es/es/20190116/Politica/23898/Umberto-Eco-documento-CTXT-fascismo-nazismo-extrema-derecha.htm)\n"
+				"content_text": "\n1. Culte de la tradició\n2. Rebuig de la modernitat\n3. Culte de l’acció per l’acció\n4. El desacord com a traïció\n5. Por a la diferència\n6. Crida a les classes mitjanes frustrades\n7. Nacionalisme\n8. Fortalesa i feblesa dels enemics\n9. Viure per la lluita\n10. Elitisme popular\n11. Culte de l'heroisme\n12. Masclisme\n13. Populisme qualitatiu\n14. Neollengua\n"
 			},
 			{
 				"title": "Dutch family 'waiting for end of time' discovered in basement",
@@ -2188,7 +2188,7 @@
 				"date_published": "2019-10-15T16:49:00+00:00",
 				"url": "/2019/10/15/la-sentencia-salva.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e La sentencia salva lo que queda del Régimen del 78 tras 2011: la idea de un nuevo enemigo interior necesario, la cerrazón a toda reforma en cualquier ámbito, y unos medios no problemáticos, sensibles de dar la razón al Estado y de no fiscalizarlo, ni siquiera ahora.\n\n📎 Editorial ctxt.es: [Una sentencia contra la democracia](https://ctxt.es/es/20191009/Firmas/28864/Editorial-Sentencia-Cat-Proces-sedicion.htm)\n"
+				"content_text": "\n\u003e La sentencia salva lo que queda del Régimen del 78 tras 2011: la idea de un nuevo enemigo interior necesario, la cerrazón a toda reforma en cualquier ámbito, y unos medios no problemáticos, sensibles de dar la razón al Estado y de no fiscalizarlo, ni siquiera ahora.\n"
 			},
 			{
 				"title": "Data Playbook Toolkit",
@@ -2209,7 +2209,7 @@
 				"date_published": "2019-10-11T17:37:00+00:00",
 				"url": "/2019/10/11/ocrmypdf-adds-an.html",
 				"tags": "retalls",
-				"content_text": "\nOCRmyPDF afegeix una capa de text OCR a fitxers PDF escanejats, de manera que s'hi pugui buscar o copiar text.\n\n📎 [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)\n"
+				"content_text": "\nOCRmyPDF afegeix una capa de text OCR a fitxers PDF escanejats, de manera que s'hi pugui buscar o copiar text.\n"
 			},
 			{
 				"title": ,
@@ -2247,11 +2247,11 @@
 				"content_text": "\n\nSara Ahmed analitza el procés de transformació de la felicitat en eina d’opressió en *The Promise of Happinness*, un tractat filosòfic destinat a assassinar l’ideari de Mr. Wonderful. En la infelicitat rau el germen de la revolució.\n"
 			},
 			{
-				"title": ,
+				"title": "Banksy canvas of chimps in U.K. Parliament up for auction amid Brexit uncertainty",
 				"date_published": "2019-10-03T05:56:00+00:00",
 				"url": "/2019/10/03/banksy-canvas-of.html",
-				"tags": "",
-				"content_text": "\n📎 [Banksy canvas of chimps in U.K. Parliament up for auction amid Brexit uncertainty](https://www.cbc.ca/news/entertainment/banksy-primates-u-k-parliament-auction-1.5305229)\n\nIn memoriam Pierre Boulle.\n\n\u003cimg src=\"https://i.cbc.ca/1.5305482.1570011544!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/banksy-london-chimpanzees-u-k-parliament.JPG\"\u003e\n"
+				"tags": "retalls",
+				"content_text": "\nIn memoriam Pierre Boulle.\n\n\u003cimg src=\"https://i.cbc.ca/1.5305482.1570011544!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/banksy-london-chimpanzees-u-k-parliament.JPG\"\u003e\n"
 			},
 			{
 				"title": "Encuesta de Hábitos y Prácticas Culturales en España 2018-2019",
@@ -2314,7 +2314,7 @@
 				"date_published": "2019-09-26T15:57:47+00:00",
 				"url": "/2019/09/26/ecoconsumerism-may-expiate.html",
 				"tags": "retalls",
-				"content_text": "\nCent companyies són responsables del 71% d'emissions. Fer més verdes les nostres vides individuals pot ser important, però ho serà molt més l'acció política col·lectiva.\n\n📎 [Neoliberalism has conned us into fighting climate change as individuals](https://www.theguardian.com/environment/true-north/2017/jul/17/neoliberalism-has-conned-us-into-fighting-climate-change-as-individuals)\n"
+				"content_text": "\nCent companyies són responsables del 71% d'emissions. Fer més verdes les nostres vides individuals pot ser important, però ho serà molt més l'acció política col·lectiva.\n"
 			},
 			{
 				"title": ,
@@ -2328,7 +2328,7 @@
 				"date_published": "2019-09-21T19:33:00+00:00",
 				"url": "/2019/09/21/the-altai-region.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e La regió d'Altai es troba just sota la ruta de vol de la base espacial més gran i transitada del món: el cosmòdrom de Baikonur, al Kazakhstan. Cada vegada que s'hi enlaira una nau, els dipòsits de combustible buits, els coets elevadors gastats i altres rebuigs cauen sobre aquests turons remots, esgarrifen els residents, destrossen cases i maten bestiar. Sovint, l'agència espacial russa ha de lliurar una indemnització als veïns…\n\n📎 [The Mountain Where Space Junk Litters](https://www.amusingplanet.com/2019/09/the-mountains-where-space-junk-litter.html)\n"
+				"content_text": "\n\u003e La regió d'Altai es troba just sota la ruta de vol de la base espacial més gran i transitada del món: el cosmòdrom de Baikonur, al Kazakhstan. Cada vegada que s'hi enlaira una nau, els dipòsits de combustible buits, els coets elevadors gastats i altres rebuigs cauen sobre aquests turons remots, esgarrifen els residents, destrossen cases i maten bestiar. Sovint, l'agència espacial russa ha de lliurar una indemnització als veïns…\n"
 			},
 			{
 				"title": "The Testaments",
@@ -2342,21 +2342,21 @@
 				"date_published": "2019-09-19T10:22:00+00:00",
 				"url": "/2019/09/19/software-didnt-adapt.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e El programari no es va adaptar al món. Vam adaptar el món al programari […] Per tal que aquests sistemes funcionin, els processos s'han de simplificar, s'ha d'eliminar la complexitat. Això, sovint, té un cost.\n\n📎 [On “AI” replacing jobs and humans](https://tante.cc/2019/09/06/on-ai-replacing-jobs-and-humans/)\n"
+				"content_text": "\n\u003e El programari no es va adaptar al món. Vam adaptar el món al programari […] Per tal que aquests sistemes funcionin, els processos s'han de simplificar, s'ha d'eliminar la complexitat. Això, sovint, té un cost.\n"
 			},
 			{
 				"title": "Squirrels Listen To Birds' Conversations As Signal of Safety",
 				"date_published": "2019-09-19T05:36:56+00:00",
 				"url": "/2019/09/19/according-to-a.html",
 				"tags": "retalls",
-				"content_text": "\nEls esquirols no sols escolten els crits d'alerta dels ocells, sinó que interpreten la seva piuladissa habitual com a senyal d'absència de perill.\n\n📎 [Squirrels Listen To Birds' Conversations As Signal of Safety](https://science.slashdot.org/story/19/09/06/2122210/squirrels-listen-to-birds-conversations-as-signal-of-safety)\n"
+				"content_text": "\nEls esquirols no sols escolten els crits d'alerta dels ocells, sinó que interpreten la seva piuladissa habitual com a senyal d'absència de perill.\n"
 			},
 			{
 				"title": "Edward Snowden: “Los gobiernos están empezando a delegar su autoridad a las grandes plataformas tecnológicas”",
 				"date_published": "2019-09-18T15:04:00+00:00",
 				"url": "/2019/09/18/creo-que-estamos.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Creo que estamos viendo la tensión de un mundo al límite, y que estamos al borde de algo y podemos caer en dos direcciones opuestas. Si caemos en la dirección correcta, habrá reforma. Si caemos en la mala, habrá revolución.\n\n📎 [Edward Snowden: “Los gobiernos están empezando a delegar su autoridad a las grandes plataformas tecnológicas”](https://www.eldiario.es/internacional/gobiernos-empezando-autoridad-plataformas-tecnologicas_0_942806555.html)\n"
+				"content_text": "\n\u003e Creo que estamos viendo la tensión de un mundo al límite, y que estamos al borde de algo y podemos caer en dos direcciones opuestas. Si caemos en la dirección correcta, habrá reforma. Si caemos en la mala, habrá revolución.\n"
 			},
 			{
 				"title": ,
@@ -2370,28 +2370,28 @@
 				"date_published": "2019-09-10T14:25:00+00:00",
 				"url": "/2019/09/10/digital-is-a.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e El digital és un gran accelerador de l’escalfament global. Fomenta la producció d'objectes a una escala inimaginable. I la majoria d’aquestes coses són brossa.\n\n📎 [Digital is garbage](http://gerrymcgovern.com/digital-is-garbage/)\n"
+				"content_text": "\n\u003e El digital és un gran accelerador de l’escalfament global. Fomenta la producció d'objectes a una escala inimaginable. I la majoria d’aquestes coses són brossa.\n"
 			},
 			{
 				"title": "The Epstein scandal at MIT shows the moral bankruptcy of techno-elites",
 				"date_published": "2019-09-09T07:42:00+00:00",
 				"url": "/2019/09/09/its-not-uncommon.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e No és rar que els intel·lectuals facin d'idiotes útils per als rics i poderosos, però sota la [“tercera cultura”](https://www.edge.org/conversation/john_brockman-the-third-culture) pareix un requisit laboral.\n\n📎 Evgeny Morozov: [The Epstein scandal at MIT shows the moral bankruptcy of techno-elites](https://www.theguardian.com/commentisfree/2019/sep/07/jeffrey-epstein-mit-funding-tech-intellectuals)\n"
+				"content_text": "\n\u003e No és rar que els intel·lectuals facin d'idiotes útils per als rics i poderosos, però sota la [“tercera cultura”](https://www.edge.org/conversation/john_brockman-the-third-culture) pareix un requisit laboral.\n"
 			},
 			{
 				"title": "Human speech may have a universal transmission rate: 39 bits per second",
 				"date_published": "2019-09-05T20:38:00+00:00",
 				"url": "/2019/09/05/no-matter-how.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e …per més ràpid o lent que es parli cada idioma, tots tendeixen a transmetre informació aproximadament a la mateixa velocitat: 39 bits per segon, si fa no fa el doble de la velocitat del codi Morse.\n\n📎 [Human speech may have a universal transmission rate: 39 bits per second](https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second)\n"
+				"content_text": "\n\u003e …per més ràpid o lent que es parli cada idioma, tots tendeixen a transmetre informació aproximadament a la mateixa velocitat: 39 bits per segon, si fa no fa el doble de la velocitat del codi Morse.\n"
 			},
 			{
 				"title": "Why Don’t We Just Call Agile What It Is: Feminist",
 				"date_published": "2019-09-05T08:44:00+00:00",
 				"url": "/2019/09/05/i-use-these.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Utilitze aquests exemples com a suport de la idea que el que ara anomenem principis *Lean-Agile* són principis que ja es donen per descomptats en els moviments socials progressistes i que són profundament necessaris per tenir èxit […]\n\u003e\n\u003e - Col·laboració sobre jerarquia\n\u003e - Orientat al servei\n\u003e - Experimental\n\u003e - Antiautoritari\n\u003e - Lúdic\n\u003e - Iteratiu\n\u003e - Encoratjador i relacional\n\n📎 Hanna Thomas: [Why Don’t We Just Call Agile What It Is: Feminist](https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba)\n"
+				"content_text": "\n\u003e Utilitze aquests exemples com a suport de la idea que el que ara anomenem principis *Lean-Agile* són principis que ja es donen per descomptats en els moviments socials progressistes i que són profundament necessaris per tenir èxit […]\n\u003e\n\u003e - Col·laboració sobre jerarquia\n\u003e - Orientat al servei\n\u003e - Experimental\n\u003e - Antiautoritari\n\u003e - Lúdic\n\u003e - Iteratiu\n\u003e - Encoratjador i relacional\n"
 			},
 			{
 				"title": "This T-shirt does not exist",
@@ -2454,7 +2454,7 @@
 				"date_published": "2019-08-17T08:34:00+00:00",
 				"url": "/2019/08/17/radithor-was-invented.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Radithor va ser inventat per William J. A. Bailey, que havia abandonat els estudis a la Universitat de Harvard i pretenia falsament ser doctor en medicina. Bailey va promoure Radithor com a estimulant metabòlic i afrodisíac.\n\n📎 [The Radioactive Energy Drink That Kills](https://www.amusingplanet.com/2019/08/the-radioactive-energy-drink-that-kills.html)\n"
+				"content_text": "\n\u003e Radithor va ser inventat per William J. A. Bailey, que havia abandonat els estudis a la Universitat de Harvard i pretenia falsament ser doctor en medicina. Bailey va promoure Radithor com a estimulant metabòlic i afrodisíac.\n"
 			},
 			{
 				"title": ,
@@ -2524,7 +2524,7 @@
 				"date_published": "2019-08-03T08:02:00+00:00",
 				"url": "/2019/08/03/the-soviets-were.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Els soviètics anaven clarament per davant en la carrera espacial i els EUA buscaven desesperadament alguna cosa que estimulés la seva confiança… Per què no enviar una bomba atòmica a la Lluna i detonar-la-hi, de manera que el món sencer ho veiés?\n\n📎 [Project A119: The Secret Plan to Nuke The Moon](https://www.amusingplanet.com/2019/08/project-a119-secret-plan-to-nuke-moon.html)\n"
+				"content_text": "\n\u003e Els soviètics anaven clarament per davant en la carrera espacial i els EUA buscaven desesperadament alguna cosa que estimulés la seva confiança… Per què no enviar una bomba atòmica a la Lluna i detonar-la-hi, de manera que el món sencer ho veiés?\n"
 			},
 			{
 				"title": ,
@@ -2545,7 +2545,7 @@
 				"date_published": "2019-07-28T07:43:00+00:00",
 				"url": "/2019/07/28/just-as-darwin.html",
 				"tags": "retalls, citacions",
-				"content_text": "\n\u003e De la mateixa manera que Darwin va descobrir la llei del desenvolupament de la naturalesa orgànica, així Marx va descobrir la llei del desenvolupament de la història humana: el fet simple, fins ara amagat per un sobrecreixement de la ideologia, que la humanitat ha de menjar, beure, tenir recer i roba, abans que pugui dedicar-se a la política, la ciència, l'art, la religió, etc.; que, per tant, la producció dels mitjans materials immediats i, en conseqüència, el grau de desenvolupament econòmic assolit per un determinat poble o durant una època determinada, constitueixen el fonament sobre el qual les institucions estatals, les concepcions legals, l'art i fins i tot les idees sobre la religió de les persones involucrades han anat evolucionant, i a la llum del qual, per tant, s’han d’explicar, en lloc de fer-ho a la inversa, com fins ara era el cas.\n\u003e \n\u003e Però això no és tot…\n\n📎 [Engels’ Speech at the Grave of Karl Marx. London, March 17, 1883](https://www.marxists.org/archive/marx/works/1883/death/burial.htm)\n"
+				"content_text": "\n\u003e De la mateixa manera que Darwin va descobrir la llei del desenvolupament de la naturalesa orgànica, així Marx va descobrir la llei del desenvolupament de la història humana: el fet simple, fins ara amagat per un sobrecreixement de la ideologia, que la humanitat ha de menjar, beure, tenir recer i roba, abans que pugui dedicar-se a la política, la ciència, l'art, la religió, etc.; que, per tant, la producció dels mitjans materials immediats i, en conseqüència, el grau de desenvolupament econòmic assolit per un determinat poble o durant una època determinada, constitueixen el fonament sobre el qual les institucions estatals, les concepcions legals, l'art i fins i tot les idees sobre la religió de les persones involucrades han anat evolucionant, i a la llum del qual, per tant, s’han d’explicar, en lloc de fer-ho a la inversa, com fins ara era el cas.\n\u003e \n\u003e Però això no és tot…\n"
 			},
 			{
 				"title": "Cordón sanitario a Podemos (y nacionalistas)",
@@ -2566,7 +2566,7 @@
 				"date_published": "2019-07-20T17:47:00+00:00",
 				"url": "/2019/07/20/this-paper-is.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e “Aquest article és significatiu perquè està emergint ràpidament tota una indústria de tecnologies que pretenen identificar emocions de forma automatitzada.”\n\n📎 [Emotion-Detection Applications Are Built On Outdated Science, Report Warns](https://science.slashdot.org/story/19/07/19/222234/emotion-detection-applications-are-built-on-outdated-science-report-warns)\n"
+				"content_text": "\n\u003e “Aquest article és significatiu perquè està emergint ràpidament tota una indústria de tecnologies que pretenen identificar emocions de forma automatitzada.”\n"
 			},
 			{
 				"title": "“La Guerra Civil fue instigada por los monárquicos en connivencia con la Italia fascista”",
@@ -2587,21 +2587,21 @@
 				"date_published": "2019-07-17T20:39:00+00:00",
 				"url": "/2019/07/17/a-surprisingly-consistent.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e …les ciències socials han recollit un conjunt de proves sorprenentment consistent que demostra que la competició tendeix a impedir-nos de fer tot el que podríem: particularment si ho comparem amb la cooperació, en la qual les persones treballen unes amb altres, no contra les altres. Més aviat, l'excel·lència s'ha definit, per raons ideològiques, com una cosa a la qual no pot arribar tothom.\n\n📎 Alfie Kohn: [Can Everyone Be Excellent?](https://www.alfiekohn.org/article/excellence/)\n"
+				"content_text": "\n\u003e …les ciències socials han recollit un conjunt de proves sorprenentment consistent que demostra que la competició tendeix a impedir-nos de fer tot el que podríem: particularment si ho comparem amb la cooperació, en la qual les persones treballen unes amb altres, no contra les altres. Més aviat, l'excel·lència s'ha definit, per raons ideològiques, com una cosa a la qual no pot arribar tothom.\n"
 			},
 			{
 				"title": "The Slow Media Manifesto",
 				"date_published": "2019-07-16T09:56:00+00:00",
 				"url": "/2019/07/16/like-slow-food.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Com el “Slow Food”, el Slow Media va contra un consum ràpid i a favor d'elegir els ingredients amb cura i concentrar-se en la preparació. Els mitjans lents són acollidors i hospitalaris.\n\n📎 [The Slow Media Manifesto](http://en.slow-media.net/manifesto)\n"
+				"content_text": "\n\u003e Com el “Slow Food”, el Slow Media va contra un consum ràpid i a favor d'elegir els ingredients amb cura i concentrar-se en la preparació. Els mitjans lents són acollidors i hospitalaris.\n"
 			},
 			{
 				"title": "Surveillance Cameras Debunk the Bystander Effect",
 				"date_published": "2019-07-12T13:55:00+00:00",
 				"url": "/2019/07/12/its-one-of.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e És un dels mites urbans més persistents de tots: si tens problemes, no comptes que ningú que passi prop t'ajudarà.\n\nPerò l'experiència prova el contrari:\n\n📎 [Surveillance Cameras Debunk the Bystander Effect](https://www.citylab.com/life/2019/07/bystander-effect-stranger-danger-crime-public-safety-video/593755/)\n"
+				"content_text": "\n\u003e És un dels mites urbans més persistents de tots: si tens problemes, no comptes que ningú que passi prop t'ajudarà.\n\nPerò l'experiència prova el contrari.\n"
 			},
 			{
 				"title": "El obispo colombiano que quiere practicar un exorcismo desde un helicóptero",
@@ -2674,11 +2674,11 @@
 				"content_text": "\nEncotillament: cos i ànima. Discos de control i fils de colors.\n\n\u003cimg src=\"/uploads/2019/c8162808cb.jpg\" width=\"449\" height=\"600\" alt=\"\" /\u003e\n"
 			},
 			{
-				"title": "OLDaily",
+				"title": "L’altra gent",
 				"date_published": "2019-06-29T18:12:00+00:00",
 				"url": "/2019/06/29/there-is-this.html",
 				"tags": "retalls, citacions",
-				"content_text": "\n\u003e Hi ha aquest mite… que la gent no valora les coses si són gratis. De debò? La propera vegada que respireu, digueu-vos-ho a vosaltres mateixos. La propera vegada que feu una amistat, digueu-vos que… Heus ací el quid d’aquesta mena d’arguments: sempre es refereixen *a l’altra gent*.\n\n📎 [OLDaily](https://www.downes.ca/post/69648)\n"
+				"content_text": "\n\u003e Hi ha aquest mite… que la gent no valora les coses si són gratis. De debò? La propera vegada que respireu, digueu-vos-ho a vosaltres mateixos. La propera vegada que feu una amistat, digueu-vos que… Heus ací el quid d’aquesta mena d’arguments: sempre es refereixen *a l’altra gent*.\n\n—[OLDaily](https://www.downes.ca/post/69648)\n"
 			},
 			{
 				"title": "“Los libros que blanquean el Imperio español constituyen un suicidio de la inteligencia”",
@@ -2706,7 +2706,7 @@
 				"date_published": "2019-06-24T14:39:00+00:00",
 				"url": "/2019/06/24/cubrir-literalmente-todo.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e …cubrir literalmente todo de plantas …con relación a todas las otras soluciones es la más efectiva y barata, y tenemos todas las técnicas para hacerlo.\n\n📎 Stefano Mancuso: [“Debemos cubrir nuestras ciudades de vegetación”](https://www.lavanguardia.com/lacontra/20190624/463063232452/debemos-cubrir-nuestras-ciudades-de-vegetacion.html)\n"
+				"content_text": "\n\u003e …cubrir literalmente todo de plantas …con relación a todas las otras soluciones es la más efectiva y barata, y tenemos todas las técnicas para hacerlo.\n"
 			},
 			{
 				"title": "Scientists discover sea of fresh water under the ocean",
@@ -2863,25 +2863,25 @@
 				"content_text": "\nTots els dies Twitter em mostra missatges publicitaris del mateix candidat a l'alcaldia de València: una ciutat on no visc i un senyor a qui no votaria mai. Perfils de votants, propaganda política ultrapersonalitzada, màxima disrupció electoral. *Steve Bannon rules the world.*\n"
 			},
 			{
-				"title": "MIT Technology Review, Feb 8, 2019",
+				"title": "The real reason America is scared of Huawei: internet-connected everything",
 				"date_published": "2019-05-21T05:46:00+00:00",
 				"url": "/2019/05/21/the-us-government.html",
 				"tags": "retalls, citacions",
-				"content_text": "\n\u003e El govern dels Estats Units pareix haver decidit que és simplement massa arriscat que una empresa xinesa controli massa infraestructura 5G.\n\n📎 [MIT Technology Review, Feb 8, 2019](https://www.technologyreview.com/s/612874/the-real-reason-america-is-scared-of-huawei-internet-connected-everything/)\n"
+				"content_text": "\n\u003e El govern dels Estats Units pareix haver decidit que és simplement massa arriscat que una empresa xinesa controli massa infraestructura 5G.\n"
 			},
 			{
 				"title": "GB Studio",
 				"date_published": "2019-05-20T20:10:00+00:00",
 				"url": "/2019/05/20/a-free-and.html",
 				"tags": "retalls",
-				"content_text": "\nUn entorn gràfic de creació de jocs d'aventura retro. Gratuït i senzill. Els jocs es poden jugar en emuladors de Game Boy.\n\n📎 [GB Studio](https://www.gbstudio.dev/)\n"
+				"content_text": "\nUn entorn gràfic de creació de jocs d'aventura retro. Gratuït i senzill. Els jocs es poden jugar en emuladors de Game Boy.\n"
 			},
 			{
 				"title": "The internet, but not as we know it: life online in China, Russia, Cuba and India",
 				"date_published": "2019-05-20T15:25:00+00:00",
 				"url": "/2019/05/20/more-than-half.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Més de la meitat de la població mundial és ara en línia, però això no vol dir que tothom vegi el mateix. Des de filtres governamentals fins a recepció per correu postal…\n\n📎 [The internet, but not as we know it: life online in China, Russia, Cuba and India](https://www.theguardian.com/technology/ng-interactive/2019/jan/11/the-internet-but-not-as-we-know-it-life-online-in-china-russia-cuba-and-india)\n"
+				"content_text": "\n\u003e Més de la meitat de la població mundial és ara en línia, però això no vol dir que tothom vegi el mateix. Des de filtres governamentals fins a recepció per correu postal…\n"
 			},
 			{
 				"title": "Sàpiens. Una breu història de la humanitat",
@@ -2902,21 +2902,21 @@
 				"date_published": "2019-05-17T16:18:45+00:00",
 				"url": "/2019/05/17/mientras-llamemos-granjas.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e …mientras llamemos granjas a unas naves que en realidad son fábricas; mientras hablemos de ganadería sin especificar el método de producción…\n\n📎 [Ganadería: con “apellido”, por favor](https://www.elsaltodiario.com/saltamontes/ganaderia-con-apellido-por-favor)\n"
+				"content_text": "\n\u003e …mientras llamemos granjas a unas naves que en realidad son fábricas; mientras hablemos de ganadería sin especificar el método de producción…\n"
 			},
 			{
 				"title": "Los héroes de la retirada",
 				"date_published": "2019-05-17T14:30:08+00:00",
 				"url": "/2019/05/17/h-m-enzensberger.html",
 				"tags": "retalls",
-				"content_text": "\nH. M. Enzensberger, 1989: Jruschov, Jaruzelski, Suárez…\n\n\u003e …y la retirada más difícil de todas es la de la guerra que estamos librando desde la revolución industrial contra nuestra propia biosfera.\n\n📎 [Los héroes de la retirada](https://elpais.com/diario/1989/12/26/opinion/630630005_850215.html)\n"
+				"content_text": "\nH. M. Enzensberger, 1989: Jruschov, Jaruzelski, Suárez…\n\n\u003e …y la retirada más difícil de todas es la de la guerra que estamos librando desde la revolución industrial contra nuestra propia biosfera.\n"
 			},
 			{
 				"title": "PAUers. Una aproximación",
 				"date_published": "2019-05-16T06:13:00+00:00",
 				"url": "/2019/05/16/revisar-los-resultados.html",
 				"tags": "retalls",
-				"content_text": "\nLa coagulació d'un estil de vida en Ciudadanos. Un model de ciutat difusa, sense serveis, sense comerços, amb enclavaments de seguretat i exclusió. “El nadador” de John Cheever al fons.\n\n📎 Jorge Dioni: [PAUers. Una aproximación](https://apuntesdeclase.lamarea.com/analisis/pauers-una-aproximacion/)\n"
+				"content_text": "\nLa coagulació d'un estil de vida en Ciudadanos. Un model de ciutat difusa, sense serveis, sense comerços, amb enclavaments de seguretat i exclusió. “El nadador” de John Cheever al fons.\n"
 			},
 			{
 				"title": "Hidden Cupid resurfaces in one of Vermeer’s best-known works after two and a half centuries",
@@ -2940,11 +2940,11 @@
 				"content_text": "\n\n\u003e “Realment pareixen més aviat cafeteries de moda, amb wifi decent i una mica de brànding universitari. En lloc de WeWork és com si fos WeStudy.”\n\n"
 			},
 			{
-				"title": ,
+				"title": "When Has Writing a Book Ever Not Been an Elitist Pursuit?",
 				"date_published": "2019-05-11T18:27:20+00:00",
 				"url": "/2019/05/11/when-has-writing.html",
-				"tags": "",
-				"content_text": "\n📎 [When Has Writing a Book Ever Not Been an Elitist Pursuit?](https://the-digital-reader.com/2019/05/09/when-has-writing-ever-not-been-an-elitist-pursuit/)\n\n\u003e Tant se val quin període considereu, abans de la invenció de la impremta o després de la màquina d'escriure, crear un llibre ha estat sempre un hobby més que una professió."
+				"tags": "retalls",
+				"content_text": "\n\u003e Tant se val quin període considereu, abans de la invenció de la impremta o després de la màquina d'escriure, crear un llibre ha estat sempre un hobby més que una professió."
 			},
 			{
 				"title": "Learning Space Rating System (LSRS)",
@@ -2958,7 +2958,7 @@
 				"date_published": "2019-05-08T14:06:00+00:00",
 				"url": "/2019/05/08/a-small-body.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Podem confiar, per tant, en les decisions que es prenen en habitacions petites? Quant afecta a les nostres capacitats cognitives la qualitat de l’aire en interiors?\n\n📎 [Is Conference Room Air Making You Dumber?](https://www.nytimes.com/2019/05/06/health/conference-room-air.html)\n"
+				"content_text": "\n\u003e Podem confiar, per tant, en les decisions que es prenen en habitacions petites? Quant afecta a les nostres capacitats cognitives la qualitat de l’aire en interiors?\n"
 			},
 			{
 				"title": "glitches, brain farts, errors",
@@ -2972,7 +2972,7 @@
 				"date_published": "2019-05-07T09:47:00+00:00",
 				"url": "/2019/05/07/a-fi-dentrenar.html",
 				"tags": "retalls",
-				"content_text": "\nPer a entrenar la seva \"intel·ligència *artificial*\" (sic), Facebook té a l'Índia un equip de gent que va revisant milions de missatges i fotos (encara que siguin publicacions privades) i els etiqueta segons una sèrie d'aspectes, incloent \"el tema  (menjar, un selfi, un animal?), el moment (una activitat diària o una ocasió especial?), o la intenció de l'autor (planificar una activitat, resultar inspirador, fer un acudit?).\n\n📎 [Facebook 'labels' posts by hand, posing privacy questions](https://www.reuters.com/article/us-facebook-ai/facebook-labels-posts-by-hand-posing-privacy-questions-idUSKCN1SC01T)\n"
+				"content_text": "\nPer a entrenar la seva \"intel·ligència *artificial*\" (sic), Facebook té a l'Índia un equip de gent que va revisant milions de missatges i fotos (encara que siguin publicacions privades) i els etiqueta segons una sèrie d'aspectes, incloent \"el tema  (menjar, un selfi, un animal?), el moment (una activitat diària o una ocasió especial?), o la intenció de l'autor (planificar una activitat, resultar inspirador, fer un acudit?).\n"
 			},
 			{
 				"title": "Open source tools for visual, data-driven essays; Part 1: Working with Data",
@@ -2989,11 +2989,11 @@
 				"content_text": "\n\nEditor (i lector) Markdown multiplataforma, amb vista d'esquema i importació i exportació integrada via Pandoc. Versions per a macOS, Linux i Windows.\n"
 			},
 			{
-				"title": ,
+				"title": "Extinction Rebellion has a message for the world: We've only just begun",
 				"date_published": "2019-05-01T07:44:53+00:00",
 				"url": "/2019/05/01/extinction-rebellion-has.html",
-				"tags": "",
-				"content_text": "\n📎 [Extinction Rebellion has a message for the world: We've only just begun](https://reuters.com/article/idUSKCN1S731V)\n\nOnze dies de protestes a Londres.\n"
+				"tags": "retalls",
+				"content_text": "\nOnze dies de protestes a Londres.\n"
 			},
 			{
 				"title": "Workbench: open source data journalism platform",
@@ -3056,7 +3056,7 @@
 				"date_published": "2019-04-17T18:38:00+00:00",
 				"url": "/2019/04/17/the-libro-de.html",
 				"tags": "retalls",
-				"content_text": "\nEl *Libro de los epítomes*, catàleg de la biblioteca d'Hernando Colón —fill de Cristòfor Colom—, inclou resums de milers de llibres, molts dels quals desapareguts.\n\n📎 ['Extraordinary' 500-year-old library catalogue reveals books lost to time](https://www.theguardian.com/books/2019/apr/10/extraordinary-500-year-old-library-catalogue-reveals-books-lost-to-time-libro-de-los-epitomes)\n"
+				"content_text": "\nEl *Libro de los epítomes*, catàleg de la biblioteca d'Hernando Colón —fill de Cristòfor Colom—, inclou resums de milers de llibres, molts dels quals desapareguts.\n"
 			},
 			{
 				"title": ,
@@ -3084,21 +3084,21 @@
 				"date_published": "2019-04-09T13:30:02+00:00",
 				"url": "/2019/04/09/now-a-team.html",
 				"tags": "retalls",
-				"content_text": "\nÀtoms de potassi que pareixen una esponja feta d'aigua de la qual regalima aigua.\n\n📎 [Confirmed: New phase of matter is solid and liquid at same time](https://www.nationalgeographic.com/science/2019/04/new-phase-matter-confirmed-solid-and-liquid-same-time-potassium-physics/)\n"
+				"content_text": "\nÀtoms de potassi que pareixen una esponja feta d'aigua de la qual regalima aigua.\n"
 			},
 			{
 				"title": "Coding Is for Everyone—as Long as You Speak English",
 				"date_published": "2019-04-09T12:12:56+00:00",
 				"url": "/2019/04/09/the-technology-of.html",
 				"tags": "retalls",
-				"content_text": "\nL'anglès és a la programació el que el llatí a la cultura medieval. En l'actual feudalisme informàtic, els llenguatges multilingües, o els basats en altres idiomes —o els [esotèrics](https://en.wikipedia.org/wiki/Esoteric_programming_language)—, continuen sent marginals.\n\n📎 [Coding Is for Everyone—as Long as You Speak English](https://www.wired.com/story/coding-is-for-everyoneas-long-as-you-speak-english/)\n"
+				"content_text": "\nL'anglès és a la programació el que el llatí a la cultura medieval. En l'actual feudalisme informàtic, els llenguatges multilingües, o els basats en altres idiomes —o els [esotèrics](https://en.wikipedia.org/wiki/Esoteric_programming_language)—, continuen sent marginals.\n"
 			},
 			{
 				"title": "“La renta básica no es la salvación, es la respuesta a las personas que no serán necesarias en el modelo productivo”",
 				"date_published": "2019-04-07T17:15:06+00:00",
 				"url": "/2019/04/07/un-de-la.html",
 				"tags": "retalls",
-				"content_text": "\nSantiago Niño-Becerra ens explica el futur. Però el futur no és escrit enlloc i ningú ha encertat mai a predir-lo. Aquestes són, net i cru, les amenaçadores tendències *presents*.\n\n📎 [\"La renta básica no es la salvación, es la respuesta a las personas que no serán necesarias en el modelo productivo\"](https://www.eldiario.es/economia/respuesta-realidad-personas-necesarias-productivo_0_885062556.html)\n"
+				"content_text": "\nSantiago Niño-Becerra ens explica el futur. Però el futur no és escrit enlloc i ningú ha encertat mai a predir-lo. Aquestes són, net i cru, les amenaçadores tendències *presents*.\n"
 			},
 			{
 				"title": ,
@@ -3119,7 +3119,7 @@
 				"date_published": "2019-04-05T08:15:03+00:00",
 				"url": "/2019/04/05/alternatives-tiques-fcils.html",
 				"tags": "retalls",
-				"content_text": "\nAlternatives ètiques, fàcils d'utilitzar i respectuoses amb la privacitat per als webs i apps socials més populars: Facebook, Twitter, Instagram, YouTube, WhatsApp, Gmail…\n\n📎 [switching.social](https://switching.social/)\n"
+				"content_text": "\nAlternatives ètiques, fàcils d'utilitzar i respectuoses amb la privacitat per als webs i apps socials més populars: Facebook, Twitter, Instagram, YouTube, WhatsApp, Gmail…\n"
 			},
 			{
 				"title": "Singularidades de una chica rubia",
@@ -3133,7 +3133,7 @@
 				"date_published": "2019-04-03T08:15:00+00:00",
 				"url": "/2019/04/03/com-autentica-banksy.html",
 				"tags": "retalls",
-				"content_text": "\nCom autentica Banksy les serigrafies que ven per Internet? Sorprenentment (ironia) no utilitza blockchain, sinó que ha creat la seva autoritat central certificadora i un enginyós mecanisme criptogràfic d'allò més analògic.\n\n📎 [How Banksy Authenticates His Work](https://reprage.com/post/how-banksy-authenticates-his-work)\n"
+				"content_text": "\nCom autentica Banksy les serigrafies que ven per Internet? Sorprenentment (ironia) no utilitza blockchain, sinó que ha creat la seva autoritat central certificadora i un enginyós mecanisme criptogràfic d'allò més analògic.\n"
 			},
 			{
 				"title": ,
@@ -3168,7 +3168,7 @@
 				"date_published": "2019-03-29T11:54:00+00:00",
 				"url": "/2019/03/29/linda-castaeda-no.html",
 				"tags": "retalls, educació",
-				"content_text": "\n\u003e Se habla más de educación porque cada vez hay más gente que ha podido meter mano en la educación, porque cada vez es un sector que ofrece más oportunidades de negocio… fruto de la aplicación de políticas neoliberales de privatización. Y denostar la educación pública y señalar culpables crea en la opinión pública la convicción de que la educación no funciona.\n\n📎 [Linda Castañeda: “No existe ninguna forma de ser docente siendo neutral, siempre adoctrinamos de una forma u otra”](https://yosoytuprofe.20minutos.es/2019/03/26/entrevista-linda-castaneda/)\n\n"
+				"content_text": "\n\u003e Se habla más de educación porque cada vez hay más gente que ha podido meter mano en la educación, porque cada vez es un sector que ofrece más oportunidades de negocio… fruto de la aplicación de políticas neoliberales de privatización. Y denostar la educación pública y señalar culpables crea en la opinión pública la convicción de que la educación no funciona.\n\n"
 			},
 			{
 				"title": ,
@@ -3266,7 +3266,7 @@
 				"date_published": "2019-03-11T07:06:00+00:00",
 				"url": "/2019/03/11/080623.html",
 				"tags": "retalls",
-				"content_text": "\nPer què diuen *cooficial* com si significara menys que oficial? Perquè, per a aquestes persones, de llengua oficial de debò només pot haver-n'hi una, i ja sabem quina és. Però l'[article tres de la Constitució](http://www.congreso.es/consti/constitucion/indice/titulos/articulos.jsp?ini=1\u0026fin=9\u0026tipo=2) diu que les altres llengües \"serán también oficiales\". És a dir, *igualment* oficials.\n\nI per què diuen que «\"uno de Palencia\" no pot optar a una plaça a València per desconèixer el valencià?» Tot i que, de fet, siguen tantíssims els funcionaris que desconeixen el valencià, i que \"un de Palència\" també pot aprendre'n. Perquè donen per descomptat que es pot ser mestre o metge sense molestar-se a entendre la llengua dels aborígens.\n\n📎 [Casado defensa el castellà com a llengua vehicular en l'Educació i l'Administració](https://www.diarilaveu.com/casado-defensa-castella-llengua-vehicular-educacio-i-administracio)\n\n"
+				"content_text": "\nPer què diuen *cooficial* com si significara menys que oficial? Perquè, per a aquestes persones, de llengua oficial de debò només pot haver-n'hi una, i ja sabem quina és. Però l'[article tres de la Constitució](http://www.congreso.es/consti/constitucion/indice/titulos/articulos.jsp?ini=1\u0026fin=9\u0026tipo=2) diu que les altres llengües \"serán también oficiales\". És a dir, *igualment* oficials.\n\nI per què diuen que «\"uno de Palencia\" no pot optar a una plaça a València per desconèixer el valencià?» Tot i que, de fet, siguen tantíssims els funcionaris que desconeixen el valencià, i que \"un de Palència\" també pot aprendre'n. Perquè donen per descomptat que es pot ser mestre o metge sense molestar-se a entendre la llengua dels aborígens.\n\n"
 			},
 			{
 				"title": "From hard drive to over-heard drive: Boffins convert spinning rust into eavesdropping mic",
@@ -3483,7 +3483,7 @@
 				"date_published": "2019-01-27T08:42:00+00:00",
 				"url": "/2019/01/27/094259.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e “De todos los papeles posibles, el individuo contemporáneo tiende a retener uno solo: el del bebé quejumbroso, calamitoso y gruñón.”\n\n📎 Pedro Vallín: [España, una pesadilla de Pascal Bruckner](https://www.lavanguardia.com/politica/20190127/4618005989/pascal-bruckner-vox-podemos-proces-pesadilla-espana.html)\n\n"
+				"content_text": "\n\u003e “De todos los papeles posibles, el individuo contemporáneo tiende a retener uno solo: el del bebé quejumbroso, calamitoso y gruñón.”\n\n"
 			},
 			{
 				"title": "Complete Axolotl Genome Could Pave the Way Toward Human Tissue Regeneration",
@@ -3948,11 +3948,11 @@
 				"content_text": "\n\u003cimg class=\"emoji\" alt=\"emoji: building construction\" src=\"/contes/unicorns/twemoji/1f3d7.svg\"\u003e\n\nEufrosina, no van saber com, es va quedar el negoci. Era més gran que les altres i tenia fama de bruixa. Deien que sabia fabricar or. O que havia trobat monedes antigues dins d’una olla. Un misteri tan gran, doncs, com la desaparició del Quim, el seu proxeneta. Però estaven acostumades que els passessin coses inexplicables.\n\nPrimer va continuar vivint a la cambra de dalt, al costat de la meva, envoltada d’imatges de sants i marededéus. A l’estiu se’n va anar a un xalet a la Costa Brava. Els va dir que estalviessin i que busquessin un altre ofici. S’ho van prendre com un consell. El Quim els cobrava un cinquanta per cent més el lloguer. Ella només el lloguer. Solia fer jo l’ingrés una vegada per setmana. I molts més encàrrecs. Em consideraven inofensiu.\n\nVivien un somni autogestionari que només va durar un trimestre. Al setembre van rebre l’avís d’una immobiliària. Eufrosina havia venut la casa i l’enderrocarien per construir pisos dúplex. Va ser una desbandada. Totes van acabar malament.\n"
 			},
 			{
-				"title": "MIT Technology Review",
+				"title": "Ethereum thinks it can change the world. It’s running out of time to prove it",
 				"date_published": "2018-12-14T12:24:00+00:00",
 				"url": "/2018/12/14/132402.html",
 				"tags": "retalls",
-				"content_text": "\n\u003e Les expectatives dels sistemes blockchain, altes fa un any, cauen gairebé tan ràpid com els preus de les monedes que hi estan basades.\n\n📎 [MIT Technology Review](https://www.technologyreview.com/s/612507/ethereum-thinks-it-can-change-the-world-its-running-out-of-time-to-prove-it/)\n"
+				"content_text": "\n\u003e Les expectatives dels sistemes blockchain, altes fa un any, cauen gairebé tan ràpid com els preus de les monedes que hi estan basades.\n"
 			},
 			{
 				"title": "Evelyn Berezin, 93, Dies; Built the First True Word Processor",
@@ -4498,7 +4498,7 @@
 				"date_published": "2018-11-07T16:33:00+00:00",
 				"url": "/2018/11/07/173301.html",
 				"tags": "retalls, citacions",
-				"content_text": "\n\u003e En l’època dels llocs web i dels sistemes de gestió de continguts, els usuaris érem els clients. En l’època de les xarxes socials basades en plataformes érem el producte. En què ens convertim en un món d’intel·ligència artificial, dades enllaçades i funcions criptogràfiques?\n\n📎 [E-Learning 3.0 MOOC](https://el30.mooc.ca/cgi-bin/page.cgi?module=8)\n"
+				"content_text": "\n\u003e En l’època dels llocs web i dels sistemes de gestió de continguts, els usuaris érem els clients. En l’època de les xarxes socials basades en plataformes érem el producte. En què ens convertim en un món d’intel·ligència artificial, dades enllaçades i funcions criptogràfiques?\n"
 			},
 			{
 				"title": "Seams, Stitches, And The Decline Of The Mac",
@@ -4585,11 +4585,11 @@
 				"content_text": "\n\n\u003e L’any passat, un novel·lista se'n va anar de viatge pels Estats Units. Aquest viatge era un intent d’emular Jack Kerouac: eixir a la carretera i trobar alguna cosa essencial per escriure'n l'experiència. Hi ha, però, una diferència clau… Aquest escriptor era només un micròfon, un GPS i una càmera connectats a un ordinador portàtil, i un munt d'àlgebra lineal.\n"
 			},
 			{
-				"title": ,
+				"title": "Hi ha una cosa que es diu amnistia",
 				"date_published": "2018-10-25T14:59:54+00:00",
 				"url": "/2018/10/25/155954.html",
-				"tags": "",
-				"content_text": "\n📎 Xavier Diez: [Hi ha una cosa que es diu amnistia](https://blocs.mesvilaweb.cat/xavierdiez/?p=270463).\n\n\u003e  En el carreró sense sortida en què s’ha ficat l’estat espanyol per tractar de resoldre mitjançant la repressió un conflicte polític més convencional del que podríem admetre, hi ha més fórmules de solució, si més no per tornar a posar el comptador a zero, de les que fins ara s’han debatut.\n"
+				"tags": "retalls",
+				"content_text": "\n\u003e  En el carreró sense sortida en què s’ha ficat l’estat espanyol per tractar de resoldre mitjançant la repressió un conflicte polític més convencional del que podríem admetre, hi ha més fórmules de solució, si més no per tornar a posar el comptador a zero, de les que fins ara s’han debatut.\n"
 			},
 			{
 				"title": "Three Things You May Misunderstand About the Creative Commons Licenses",
@@ -4746,18 +4746,18 @@
 				"content_text": "\n\n\u003e Però les ments suspicaces es preguntaven si Sotheby's va ser agafat completament per sorpresa.\n\n"
 			},
 			{
-				"title": ,
+				"title": "Banksy painting ‘self-destructs’ on podium in auction prank",
 				"date_published": "2018-10-06T06:24:00+00:00",
 				"url": "/2018/10/06/072437.html",
-				"tags": "",
-				"content_text": "\n📎 [Banksy painting ‘self-destructs’ on podium in auction prank](https://www.ft.com/content/1c748f2e-c8ea-11e8-ba8f-ee390057b8c9)\n\n\u003e Un quadre de Banksy s'ha autodestruït en el podi de subhastes de Sotheby's a Londres després de vendre's per més d'un milió de lliures esterlines, en el que se suposa que ha estat una de les bromes més audaces acomplertes per aquest artista de carrer."
+				"tags": "retalls",
+				"content_text": "\n\u003e Un quadre de Banksy s'ha autodestruït en el podi de subhastes de Sotheby's a Londres després de vendre's per més d'un milió de lliures esterlines, en el que se suposa que ha estat una de les bromes més audaces acomplertes per aquest artista de carrer."
 			},
 			{
-				"title": ,
+				"title": "traveler.getfreewrite.com",
 				"date_published": "2018-10-03T15:05:27+00:00",
 				"url": "/2018/10/03/160527.html",
-				"tags": "",
-				"content_text": "\n📎 [traveler.getfreewrite.com](https://traveler.getfreewrite.com)\n\nIt looks like a new iteration of the [\"pretentious hipster nonsense\" $500 word processor](https://mashable.com/2016/02/24/freewrite-word-processor/) has been announced."
+				"tags": "retalls",
+				"content_text": "\nIt looks like a new iteration of the [\"pretentious hipster nonsense\" $500 word processor](https://mashable.com/2016/02/24/freewrite-word-processor/) has been announced."
 			},
 			{
 				"title": ,
@@ -5674,7 +5674,7 @@
 				"date_published": "2018-05-13T10:00:00+00:00",
 				"url": "/2018/05/13/peter-diamandis-on.html",
 				"tags": "retalls, citacions",
-				"content_text": "\n\u003e “Si alguna cosa pot sortir malament, arregla-ho! (A la merda Murphy!)”\n\n📎 Quote Investigator: [Peter Diamandis on Overcoming Murphy’s Law](https://quoteinvestigator.com/2018/05/11/not-murphy/)\n"
+				"content_text": "\n\u003e “Si alguna cosa pot sortir malament, arregla-la! (A la merda Murphy!)”\n\n—Quote Investigator: [Peter Diamandis on Overcoming Murphy’s Law](https://quoteinvestigator.com/2018/05/11/not-murphy/)\n"
 			},
 			{
 				"title": ,
@@ -5723,7 +5723,7 @@
 				"date_published": "2018-05-09T08:14:00+00:00",
 				"url": "/2018/05/09/091420.html",
 				"tags": "retalls, citacions",
-				"content_text": "\n\u003e “Les criptomonedes acabaran malament”, va dir Buffett ... “Per a mi, no és més que demència\", va contestar Munger. “És com si algú negocia amb cagarros i decidiu que no us podeu quedar fora.”\n\n📎 [Charlie Munger compares cryptocurrencies to “turds” and “dementia”](https://qz.com/1271029)\n\n"
+				"content_text": "\n\u003e “Les criptomonedes acabaran malament”, va dir Buffett ... “Per a mi, no és més que demència\", va contestar Munger. “És com si algú negocia amb cagarros i decidiu que no us podeu quedar fora.”\n\n"
 			},
 			{
 				"title": "De-Googling my phone",
