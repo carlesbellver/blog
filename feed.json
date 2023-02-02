@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/02/02/60696/",
+				
+				"content_html": "<p>En català, com en francès, no necessitem cap neologisme per expressar l’estat actual d’Internet.</p>\n<blockquote>\n<p>…<em>emmerder</em> already exists and has its own shades of meaning.</p>\n</blockquote>\n",
+				"date_published": "2023-02-02T18:59:11+01:00",
+				"url": "https://carlesbellver.net/2023/02/02/60696/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/01/21/catalunya-roja/",
 				"title": "Catalunya Roja",
 				"content_html": "<p>Ignacio Sánchez-Cuenca sobre les diferències ideològiques a l’UE i a Espanya. Segons l’<a href=\"https://www.europarl.europa.eu/at-your-service/es/be-heard/eurobarometer/2019-european-elections-entered-a-new-dimension\">Eurobaròmetre</a> posterior a les eleccions de 2019, Espanya és el país més esquerrà d’Europa (4,4) i Romania el més dretà (6,1). Catalunya (3,6) i Euskadi són les més <em>roges</em>, i Madrid (4,9) la que menys. L'escala va del zero (extrema esquerra) al deu (extrema dreta).</p>\n<p>Diversos factors poden explicar que la gent opine de mitjana d’una manera i vote (almenys aparentment) d’una altra manera. Però el que m’han fet evocar aquestes dades és una altra cosa. Allò que va dir Joan Fuster (<a href=\"https://elramellet.blogspot.com/2011/06/sera-desquerres-o-no-sera.html\">en una entrevista amb Amadeu Fabregat</a>): <em>que el País Valencià seria d’esquerres o no seria</em>. Si l’<em>statu quo</em> ja et va bé —i per això ets conservador—, per què hauries de voler canviar-lo?</p>\n<blockquote>\n<p>La percepción de una parte importante de las poblaciones catalana y vasca de que sus respectivas naciones no gozan del reconocimiento nacional que deberían tener, o la creencia de que sufren algún tipo de discriminación o maltrato, produce una tensión política entre centro y periferia que desplaza los valores ideológicos hacia la izquierda.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>En els temps que corren, cada vegada és més fàcil exhibir en públic la teua ignorància.</p>\n",
 				"date_published": "2022-09-14T20:43:45+00:00",
 				"url": "https://carlesbellver.net/2022/09/14/81025/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/09/01/gorbachov/",
-				"title": "Luces y sombras de Mijaíl Gorbachov (1931-2022)",
-				"content_html": "<blockquote>\n<p>En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro gangster global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.</p>\n</blockquote>\n",
-				"date_published": "2022-09-01T19:07:53+02:00",
-				"url": "https://carlesbellver.net/2022/09/01/gorbachov/"
 			}
 	]
 }
