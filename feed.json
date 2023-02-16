@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/02/16/61555/",
+				
+				"content_html": "<p>Últimament he fet bastants proves amb ChatGPT, he llegit sobre el tema i n’hem parlat molt a la feina, fins que hem arribat a plasmar algunes idees en un <a href=\"https://cent.uji.es/pub/chatgpt\">document</a> adreçat al professorat. Però em fa l’efecte que algunes persones que han opinat sobre aquesta tecnologia han tingut accés a una versió més potent i més fiable que la meua. No el ChatGPT Plus de 20 €/m, sinó un encara millor, potser exclusiu per a iniciats. Només així m’explique les seues aparents exageracions.</p>\n",
+				"date_published": "2023-02-16T16:32:49+01:00",
+				"url": "https://carlesbellver.net/2023/02/16/61555/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/02/02/60696/",
 				"title": "Enshittification",
 				"content_html": "<p>En català, com en francès, no necessitem cap neologisme per expressar l’estat actual d’Internet.</p>\n<blockquote>\n<p>…<em>emmerder</em> already exists and has its own shades of meaning.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>La vacil·lació d’alguns derivats fins i tot es reflecteix en els diccionaris i acostuma a afectar especialment aquests noms acabats en e sonora en la llengua d’origen. Per exemple, en castellà, segons el DRAE, el derivat de Goethe tant pot ser goethiano com goetheano. En català, segons el DIEC2, el derivat de Nietzsche és nietzscheà, però anteriorment havia recollit el derivat nietzschià.</p>\n</blockquote>\n<p>Em va estranyar veure escrit <em>nietzschià</em> en un assaig molt interessant sobre Joan Fuster.</p>\n",
 				"date_published": "2022-09-23T14:58:41+02:00",
 				"url": "https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/09/14/81025/",
-				
-				"content_html": "<p>En els temps que corren, cada vegada és més fàcil exhibir en públic la teua ignorància.</p>\n",
-				"date_published": "2022-09-14T20:43:45+00:00",
-				"url": "https://carlesbellver.net/2022/09/14/81025/"
 			}
 	]
 }
