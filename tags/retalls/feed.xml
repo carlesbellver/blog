@@ -6,10 +6,24 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Thu, 02 Feb 2023 18:59:11 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2023 09:44:05 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/</link>
+      <pubDate>Thu, 23 Feb 2023 09:44:05 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una &amp;quot;continuació raonable&amp;quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.&lt;/p&gt;
+&lt;p&gt;El que fa, bàsicament, és preguntar-se una vegada i una altra: &amp;quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?&amp;quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un &lt;em&gt;token&lt;/em&gt;, que podria ser només una part d&#39;una paraula, i per això de vegades pot &amp;quot;inventar&amp;quot; paraules noves.)&lt;/p&gt;
+&lt;p&gt;A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa &amp;quot;pla&amp;quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l&#39;atzar paraules amb menys probabilitat, obtenim un text més &amp;quot;interessant&amp;quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       

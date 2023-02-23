@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/",
+				"title": "What Is ChatGPT Doing… and Why Does It Work?",
+				"content_html": "<blockquote>\n<p>El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una &quot;continuació raonable&quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.</p>\n<p>El que fa, bàsicament, és preguntar-se una vegada i una altra: &quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?&quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un <em>token</em>, que podria ser només una part d'una paraula, i per això de vegades pot &quot;inventar&quot; paraules noves.)</p>\n<p>A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa &quot;pla&quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l'atzar paraules amb menys probabilitat, obtenim un text més &quot;interessant&quot;.</p>\n</blockquote>\n",
+				"date_published": "2023-02-23T09:44:05+01:00",
+				"url": "https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/02/16/chatgpt/",
 				
 				"content_html": "<p>Últimament he fet bastants proves amb ChatGPT, he llegit sobre el tema i n’hem parlat molt a la feina, fins que hem arribat a plasmar algunes idees en un <a href=\"https://cent.uji.es/pub/chatgpt\">document</a> adreçat al professorat. Però em fa l’efecte que algunes persones que han opinat sobre aquesta tecnologia han tingut accés a una versió més potent i més fiable que la meua. No el ChatGPT Plus de 20 €/m, sinó un encara millor, potser exclusiu per a iniciats. Només així m’explique les seues aparents exageracions.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Inspiració diària per als vostres textos creatius i altres menesters. Uns pocs mots aleatoris que, amb una mica de sort, us poden despertar la imaginació, la curiositat, alguna connexió inesperada. La selecció es renova diàriament i varia lleugerament per a cadascú, amb un total de quaranta-dues frases o sintagmes navegables cada vegada (perquè algú va dir que quaranta-dos era la resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat).</p>\n<p>Pel que fa a la font dels mots, en lloc de fullejar els evangelis (la <a href=\"/2017/09/24/la-loteria-sagrada.html\"><em>sortes biblicae</em></a> dels antics), o el <em>Necronomicon</em>, o la Constitució Espanyola, m’he estimat més que el meu <em>script</em> regiri els exemples de les entrades del <em>Diccionari de la llengua catalana</em> de l’Institut d’Estudis Catalans. Fragments trets de context, el potencial surrealista dels quals em va ser revelat per Josep M. Chordà <a href=\"/cpe/1995/fabra/\">l’any 1995</a>, molt abans de llegir el cèlebre conte “Cercles d’infinites combinacions” de Vicenç Pagès… Jordà.</p>\n<img src=\"http://42.carlesbellver.net/img/preview.png\" alt=\"Una finestra d'una aplicació amb text en lletra de mida gran que diu: “Useu-ne, però no n’abuseu.”\">",
 				"date_published": "2022-09-24T13:48:43+02:00",
 				"url": "https://carlesbellver.net/2022/09/24/inspiracio/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/",
-				"title": "nietzscheà o nietzschià?",
-				"content_html": "<blockquote>\n<p>La vacil·lació d’alguns derivats fins i tot es reflecteix en els diccionaris i acostuma a afectar especialment aquests noms acabats en e sonora en la llengua d’origen. Per exemple, en castellà, segons el DRAE, el derivat de Goethe tant pot ser goethiano com goetheano. En català, segons el DIEC2, el derivat de Nietzsche és nietzscheà, però anteriorment havia recollit el derivat nietzschià.</p>\n</blockquote>\n<p>Em va estranyar veure escrit <em>nietzschià</em> en un assaig molt interessant sobre Joan Fuster.</p>\n",
-				"date_published": "2022-09-23T14:58:41+02:00",
-				"url": "https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/"
 			}
 	]
 }

@@ -6,8 +6,21 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Thu, 16 Feb 2023 16:32:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2023 09:44:05 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>What Is ChatGPT Doing… and Why Does It Work?</title>
+      <link>https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/</link>
+      <pubDate>Thu, 23 Feb 2023 09:44:05 +0100</pubDate>
+      <guid>https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una &amp;quot;continuació raonable&amp;quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.&lt;/p&gt;
+&lt;p&gt;El que fa, bàsicament, és preguntar-se una vegada i una altra: &amp;quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?&amp;quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un &lt;em&gt;token&lt;/em&gt;, que podria ser només una part d&#39;una paraula, i per això de vegades pot &amp;quot;inventar&amp;quot; paraules noves.)&lt;/p&gt;
+&lt;p&gt;A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa &amp;quot;pla&amp;quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l&#39;atzar paraules amb menys probabilitat, obtenim un text més &amp;quot;interessant&amp;quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -264,18 +277,6 @@
       <description>&lt;p&gt;Inspiració diària per als vostres textos creatius i altres menesters. Uns pocs mots aleatoris que, amb una mica de sort, us poden despertar la imaginació, la curiositat, alguna connexió inesperada. La selecció es renova diàriament i varia lleugerament per a cadascú, amb un total de quaranta-dues frases o sintagmes navegables cada vegada (perquè algú va dir que quaranta-dos era la resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat).&lt;/p&gt;
 &lt;p&gt;Pel que fa a la font dels mots, en lloc de fullejar els evangelis (la &lt;a href=&#34;https://carlesbellver.net/2017/09/24/la-loteria-sagrada.html&#34;&gt;&lt;em&gt;sortes biblicae&lt;/em&gt;&lt;/a&gt; dels antics), o el &lt;em&gt;Necronomicon&lt;/em&gt;, o la Constitució Espanyola, m’he estimat més que el meu &lt;em&gt;script&lt;/em&gt; regiri els exemples de les entrades del &lt;em&gt;Diccionari de la llengua catalana&lt;/em&gt; de l’Institut d’Estudis Catalans. Fragments trets de context, el potencial surrealista dels quals em va ser revelat per Josep M. Chordà &lt;a href=&#34;https://carlesbellver.net/cpe/1995/fabra/&#34;&gt;l’any 1995&lt;/a&gt;, molt abans de llegir el cèlebre conte “Cercles d’infinites combinacions” de Vicenç Pagès… Jordà.&lt;/p&gt;
 &lt;img src=&#34;http://42.carlesbellver.net/img/preview.png&#34; alt=&#34;Una finestra d&#39;una aplicació amb text en lletra de mida gran que diu: “Useu-ne, però no n’abuseu.”&#34;&gt;</description>
-    </item>
-    
-    <item>
-      <title>nietzscheà o nietzschià?</title>
-      <link>https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/</link>
-      <pubDate>Fri, 23 Sep 2022 14:58:41 +0200</pubDate>
-      <guid>https://carlesbellver.net/2022/09/23/nietzschea-nietzschia/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;La vacil·lació d’alguns derivats fins i tot es reflecteix en els diccionaris i acostuma a afectar especialment aquests noms acabats en e sonora en la llengua d’origen. Per exemple, en castellà, segons el DRAE, el derivat de Goethe tant pot ser goethiano com goetheano. En català, segons el DIEC2, el derivat de Nietzsche és nietzscheà, però anteriorment havia recollit el derivat nietzschià.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Em va estranyar veure escrit &lt;em&gt;nietzschià&lt;/em&gt; en un assaig molt interessant sobre Joan Fuster.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
