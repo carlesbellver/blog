@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/02/25/37429/",
+				
+				"content_html": "<p>L’article de Manuel Castells sobre ChatGPT és una perfecta il·lustració d’on pot arribar avui en dia aquesta eina. Quan algú pensa que el nivell del text generat és bo, sol ser perquè ell mateix no domina el tema.</p>\n",
+				"date_published": "2023-02-25T16:04:14+01:00",
+				"url": "https://carlesbellver.net/2023/02/25/37429/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/",
 				"title": "What Is ChatGPT Doing… and Why Does It Work?",
 				"content_html": "<blockquote>\n<p>El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una &quot;continuació raonable&quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.</p>\n<p>El que fa, bàsicament, és preguntar-se una vegada i una altra: &quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?&quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un <em>token</em>, que podria ser només una part d'una paraula, i per això de vegades pot &quot;inventar&quot; paraules noves.)</p>\n<p>A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa &quot;pla&quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l'atzar paraules amb menys probabilitat, obtenim un text més &quot;interessant&quot;.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Dilluns passat vaig començar a cavil·lar una broma una mica ximple. Diria en Twitter que jo ja sabia a qui donarien enguany el Nobel de literatura, perquè m’ho havia filtrat <a href=\"https://twitter.com/tombatossalator\">Albert Garcia Pascual</a>. I dijous, en difondre’s la notícia del premi, lamentaria amargament que ell m’haguera pres el pèl i escenificaríem una petita discussió, en el curs de la qual insinuaria que m’havia fet creure que era jo el guardonat. I llavors ell… Ell res, perquè al cap d’una estona, un amic comú em va informar que Albert s’havia mort d’un infart.</p>\n<p>S’havia acabat la broma. S’havien acabat les bromes compartides, els cafès, les converses o les <a href=\"https://docs.google.com/document/d/1ghxCbmYHtd24dpEkhdL9rW3MkdZhVZP3OOZh1_FFus0/edit?usp=sharing\">presentacions de llibres</a>, entre altres amenitats.</p>\n<p>O no. Perquè tot això queda. Sempre ens quedarà. Així que moltes felicitacions a la senyora Annie Ernaux, però que sàpiga que ho ha tingut fàcil, perquè el Comitè del Nobel, <a href=\"https://www.bbc.com/mundo/noticias-58800338\">des de 1974</a>, ha resolt no atorgar el premi pòstumament.</p>\n<p>(Albert va morir dilluns passat i jo encara no havia estat capaç de dir-ne res.)</p>\n<img src=\"/uploads/2019/2019-03-04-albes.jpg\" alt=\"Foto d’Albert Garcia Pascual en la presentació del seu poemari Albes. Llibreria El Passeig, 4 de març de 2019, Castelló de la Plana.\">",
 				"date_published": "2022-10-09T18:10:22+02:00",
 				"url": "https://carlesbellver.net/2022/10/09/broma/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/09/24/inspiracio/",
-				"title": "Inspiració",
-				"content_html": "<p>Inspiració diària per als vostres textos creatius i altres menesters. Uns pocs mots aleatoris que, amb una mica de sort, us poden despertar la imaginació, la curiositat, alguna connexió inesperada. La selecció es renova diàriament i varia lleugerament per a cadascú, amb un total de quaranta-dues frases o sintagmes navegables cada vegada (perquè algú va dir que quaranta-dos era la resposta a la pregunta definitiva sobre la vida, l’univers i tot plegat).</p>\n<p>Pel que fa a la font dels mots, en lloc de fullejar els evangelis (la <a href=\"/2017/09/24/la-loteria-sagrada.html\"><em>sortes biblicae</em></a> dels antics), o el <em>Necronomicon</em>, o la Constitució Espanyola, m’he estimat més que el meu <em>script</em> regiri els exemples de les entrades del <em>Diccionari de la llengua catalana</em> de l’Institut d’Estudis Catalans. Fragments trets de context, el potencial surrealista dels quals em va ser revelat per Josep M. Chordà <a href=\"/cpe/1995/fabra/\">l’any 1995</a>, molt abans de llegir el cèlebre conte “Cercles d’infinites combinacions” de Vicenç Pagès… Jordà.</p>\n<img src=\"http://42.carlesbellver.net/img/preview.png\" alt=\"Una finestra d'una aplicació amb text en lletra de mida gran que diu: “Useu-ne, però no n’abuseu.”\">",
-				"date_published": "2022-09-24T13:48:43+02:00",
-				"url": "https://carlesbellver.net/2022/09/24/inspiracio/"
 			}
 	]
 }
