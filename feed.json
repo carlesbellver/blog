@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/02/26/00207/",
+				
+				"content_html": "<p>Dues coses que em feien sentir molta angúnia quan era menut: les misses i el flamenc. Encara procure evitar-les.</p>\n",
+				"date_published": "2023-02-26T09:30:11+01:00",
+				"url": "https://carlesbellver.net/2023/02/26/00207/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/02/25/37429/",
 				"title": "ChatGPT",
 				"content_html": "<p>L’article de Manuel Castells sobre ChatGPT és una perfecta il·lustració d’on pot arribar avui en dia aquesta eina. Quan algú pensa que el nivell del text generat és bo, sol ser perquè ell mateix no domina el tema.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Diumenge <em>porrc</em>. És un fet ben conegut la mala relació d'algunes persones amb el darrer dia de la setmana.</p>\n<img alt=\"Horari penjat a la porta d'un negoci: “Domingo cerrdo”.\" src=\"/uploads/2022/2022-10-16-domingo-cerrdo.jpg\">\n",
 				"date_published": "2022-10-16T17:18:38+02:00",
 				"url": "https://carlesbellver.net/2022/10/16/domingo-cerrdo/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/10/09/broma/",
-				"title": "La broma",
-				"content_html": "<p>Dilluns passat vaig començar a cavil·lar una broma una mica ximple. Diria en Twitter que jo ja sabia a qui donarien enguany el Nobel de literatura, perquè m’ho havia filtrat <a href=\"https://twitter.com/tombatossalator\">Albert Garcia Pascual</a>. I dijous, en difondre’s la notícia del premi, lamentaria amargament que ell m’haguera pres el pèl i escenificaríem una petita discussió, en el curs de la qual insinuaria que m’havia fet creure que era jo el guardonat. I llavors ell… Ell res, perquè al cap d’una estona, un amic comú em va informar que Albert s’havia mort d’un infart.</p>\n<p>S’havia acabat la broma. S’havien acabat les bromes compartides, els cafès, les converses o les <a href=\"https://docs.google.com/document/d/1ghxCbmYHtd24dpEkhdL9rW3MkdZhVZP3OOZh1_FFus0/edit?usp=sharing\">presentacions de llibres</a>, entre altres amenitats.</p>\n<p>O no. Perquè tot això queda. Sempre ens quedarà. Així que moltes felicitacions a la senyora Annie Ernaux, però que sàpiga que ho ha tingut fàcil, perquè el Comitè del Nobel, <a href=\"https://www.bbc.com/mundo/noticias-58800338\">des de 1974</a>, ha resolt no atorgar el premi pòstumament.</p>\n<p>(Albert va morir dilluns passat i jo encara no havia estat capaç de dir-ne res.)</p>\n<img src=\"/uploads/2019/2019-03-04-albes.jpg\" alt=\"Foto d’Albert Garcia Pascual en la presentació del seu poemari Albes. Llibreria El Passeig, 4 de març de 2019, Castelló de la Plana.\">",
-				"date_published": "2022-10-09T18:10:22+02:00",
-				"url": "https://carlesbellver.net/2022/10/09/broma/"
 			}
 	]
 }
