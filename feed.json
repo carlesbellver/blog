@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/02/28/65807/",
+				
+				"content_html": "<p>Segons un tòpic sortosament anacrònic, el funcionari que treballava <em>massa</em> feia quedar malament els seus companys més parsimoniosos i els posava en un compromís. Aquesta nit he somniat que la institució pública on treballe regulava —vigilava i castigava— l’“excés de dedicació” (sic). Quina ànsia he passat.</p>\n",
+				"date_published": "2023-02-28T07:30:10+01:00",
+				"url": "https://carlesbellver.net/2023/02/28/65807/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/02/26/00207/",
 				
 				"content_html": "<p>Dues coses que em feien sentir molta angúnia quan era menut: les misses i el flamenc. Encara procure evitar-les.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>En una altra vida, o en somni, jo també <a href=\"https://carlesbellver.net/contes/unicorns/unicorns15/\">vaig anar a la Fira de Frankfurt</a>.</p>\n",
 				"date_published": "2022-10-21T19:42:09+02:00",
 				"url": "https://carlesbellver.net/2022/10/21/frankfurt/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/10/16/domingo-cerrdo/",
-				
-				"content_html": "<p>Diumenge <em>porrc</em>. És un fet ben conegut la mala relació d'algunes persones amb el darrer dia de la setmana.</p>\n<img alt=\"Horari penjat a la porta d'un negoci: “Domingo cerrdo”.\" src=\"/uploads/2022/2022-10-16-domingo-cerrdo.jpg\">\n",
-				"date_published": "2022-10-16T17:18:38+02:00",
-				"url": "https://carlesbellver.net/2022/10/16/domingo-cerrdo/"
 			}
 	]
 }

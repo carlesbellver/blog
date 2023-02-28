@@ -3,8 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://carlesbellver.net/</loc>
-    <lastmod>2023-02-27T19:50:59+01:00</lastmod>
+    <lastmod>2023-02-28T07:30:10+01:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://carlesbellver.net/2023/02/28/65807/</loc>
+    <lastmod>2023-02-28T07:30:10+01:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/posts/</loc>
+    <lastmod>2023-02-28T07:30:10+01:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/</loc>
+    <lastmod>2023-02-28T07:30:10+01:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/uji/</loc>
+    <lastmod>2023-02-28T07:30:10+01:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tmp/</loc>
     <lastmod>2023-02-27T19:50:59+01:00</lastmod>
@@ -15,16 +27,10 @@
     <loc>https://carlesbellver.net/2023/02/26/00207/</loc>
     <lastmod>2023-02-26T09:30:11+01:00</lastmod>
   </url><url>
-    <loc>https://carlesbellver.net/posts/</loc>
-    <lastmod>2023-02-26T09:30:11+01:00</lastmod>
-  </url><url>
     <loc>https://carlesbellver.net/2023/02/25/37429/</loc>
     <lastmod>2023-02-25T16:04:14+01:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tags/retalls/</loc>
-    <lastmod>2023-02-25T16:04:14+01:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/</loc>
     <lastmod>2023-02-25T16:04:14+01:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/</loc>
@@ -175,9 +181,6 @@
     <lastmod>2022-04-22T11:00:50+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/04/04/gran-ciutat/</loc>
-    <lastmod>2022-04-04T08:00:35+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/uji/</loc>
     <lastmod>2022-04-04T08:00:35+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2022/04/01/amor-lliure/</loc>
