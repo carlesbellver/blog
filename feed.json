@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/03/08/92507/",
+				"title": "Why do Nigerian Scammers Say They are from Nigeria?",
+				"content_html": "<p>Aquest estudi de 2012 de Cormac Herley (Microsoft Research) suggereix que les deficiències argumentals i d’estil del correu brossa podrien ser un avantatge per als estafadors, ja que només picaria la gent més crèdula. És a dir, les víctimes ideals.</p>\n",
+				"date_published": "2023-03-08T17:22:15+01:00",
+				"url": "https://carlesbellver.net/2023/03/08/92507/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/03/01/89971/",
 				
 				"content_html": "<blockquote>\n<p>Un escriptor com aquest no pot ser mai popular. Vola massa lent i alhora massa alt.</p>\n</blockquote>\n<p>—E. M. Forster, <a href=\"https://en.m.wikisource.org/wiki/Pharos_and_Pharillon/The_Poetry_of_C._P._Cavafy\">«La poesia de K. P. Kavafis»</a>.</p>\n<p>(Evidentment, no comptava amb Lluís Llach.)</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Als informàtics els agrada fer-te escriure, però la seua passió per la lectura no sempre resulta evident.</p>\n",
 				"date_published": "2022-11-10T18:46:48+01:00",
 				"url": "https://carlesbellver.net/2022/11/10/02394/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/11/08/93170/",
-				"title": "September that never ended",
-				"content_html": "<blockquote>\n<p>One of the seasonal rhythms of the Usenet used to be the annual September influx of clueless newbies who, lacking any sense of netiquette, made a general nuisance of themselves… But in September 1993, AOL users became able to post to Usenet, nearly overwhelming the old-timers' capacity to acculturate them. Syn. eternal September.</p>\n</blockquote>\n",
-				"date_published": "2022-11-08T08:39:51+01:00",
-				"url": "https://carlesbellver.net/2022/11/08/93170/"
 			}
 	]
 }
