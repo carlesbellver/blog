@@ -6,8 +6,17 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Wed, 08 Mar 2023 17:22:15 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2023 10:12:41 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>Census GPT</title>
+      <link>https://carlesbellver.net/2023/03/13/censusgpt/</link>
+      <pubDate>Mon, 13 Mar 2023 10:12:41 +0100</pubDate>
+      <guid>https://carlesbellver.net/2023/03/13/censusgpt/</guid>
+      <description>&lt;p&gt;Aquest web contesta preguntes sobre el cens dels EUA utilitzant ChatGPT. Com ho fa? La clau està en la funció &lt;code&gt;make_default_messages&lt;/code&gt; del fitxer &lt;a href=&#34;https://github.com/caesarHQ/textSQL/blob/main/api/app/api/utils/text_to_sql.py&#34;&gt;&lt;code&gt;text_to_sql.py&lt;/code&gt;&lt;/a&gt;, que explica a ChatGPT l’estructura de la base de dades del cens. A partir d’això i d’uns pocs exemples, ChatGPT pot traduir les preguntes subsegüents de l’usuari a sentències SQL que el web executarà i processarà.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Why do Nigerian Scammers Say They are from Nigeria?</title>
@@ -267,15 +276,6 @@
       <pubDate>Thu, 10 Nov 2022 19:32:33 +0100</pubDate>
       <guid>https://carlesbellver.net/2022/11/10/05062/</guid>
       <description>&lt;p&gt;Mentre als funcionaris de la perifèria ens retallaven el sou i ens ampliaven l’horari, els del Banc d’Espanya prenien el sol i el bany —a les colònies— a càrrec de l’erari públic.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stories, epics, and initiatives</title>
-      <link>https://carlesbellver.net/2022/11/10/02394/</link>
-      <pubDate>Thu, 10 Nov 2022 18:46:48 +0100</pubDate>
-      <guid>https://carlesbellver.net/2022/11/10/02394/</guid>
-      <description>&lt;p&gt;Als informàtics els agrada fer-te escriure, però la seua passió per la lectura no sempre resulta evident.&lt;/p&gt;
 </description>
     </item>
     

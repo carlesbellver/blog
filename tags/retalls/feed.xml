@@ -6,10 +6,20 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Wed, 08 Mar 2023 17:22:15 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2023 10:12:41 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2023/03/13/censusgpt/</link>
+      <pubDate>Mon, 13 Mar 2023 10:12:41 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2023/03/13/censusgpt/</guid>
+      <description>&lt;p&gt;Aquest web contesta preguntes sobre el cens dels EUA utilitzant ChatGPT. Com ho fa? La clau està en la funció &lt;code&gt;make_default_messages&lt;/code&gt; del fitxer &lt;a href=&#34;https://github.com/caesarHQ/textSQL/blob/main/api/app/api/utils/text_to_sql.py&#34;&gt;&lt;code&gt;text_to_sql.py&lt;/code&gt;&lt;/a&gt;, que explica a ChatGPT l’estructura de la base de dades del cens. A partir d’això i d’uns pocs exemples, ChatGPT pot traduir les preguntes subsegüents de l’usuari a sentències SQL que el web executarà i processarà.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
