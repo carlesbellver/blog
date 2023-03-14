@@ -14,7 +14,29 @@
       <link>https://carlesbellver.net/2023/03/13/censusgpt/</link>
       <pubDate>Mon, 13 Mar 2023 10:12:41 +0100</pubDate>
       <guid>https://carlesbellver.net/2023/03/13/censusgpt/</guid>
-      <description>&lt;p&gt;Aquest web contesta preguntes sobre el cens dels EUA utilitzant ChatGPT. Com ho fa? La clau està en la funció &lt;code&gt;make_default_messages&lt;/code&gt; del fitxer &lt;a href=&#34;https://github.com/caesarHQ/textSQL/blob/main/api/app/api/utils/text_to_sql.py&#34;&gt;&lt;code&gt;text_to_sql.py&lt;/code&gt;&lt;/a&gt;, que explica a ChatGPT l’estructura de la base de dades del cens. A partir d’això i d’uns pocs exemples, ChatGPT pot traduir les preguntes subsegüents de l’usuari a sentències SQL que el web executarà i processarà.&lt;/p&gt;
+      <description>&lt;p&gt;Aquest web contesta preguntes sobre el cens dels EUA utilitzant ChatGPT. Com ho fa? La clau està en la funció &lt;code&gt;make_default_messages&lt;/code&gt; del fitxer &lt;a href=&#34;https://github.com/caesarHQ/textSQL/blob/main/api/app/api/utils/sql_gen/text_to_sql.py&#34;&gt;&lt;code&gt;text_to_sql.py&lt;/code&gt;&lt;/a&gt;, que explica a ChatGPT l’estructura de la base de dades del cens. A partir d’això i d’uns pocs exemples, ChatGPT pot traduir les preguntes subsegüents de l’usuari a sentències SQL que el web executarà i processarà.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;def make_default_messages(table_names: List[str]):
+  return [
+    {
+      &amp;#34;role&amp;#34;: &amp;#34;system&amp;#34;,
+      &amp;#34;content&amp;#34;: (
+        &amp;#34;You are a helpful assistant for generating syntactically correct read-only SQL to answer a given question or command, generally about crime, demographics, and population.&amp;#34;
+        &amp;#34;\n&amp;#34;
+        &amp;#34;The following are schemas of tables you can query:\n&amp;#34;
+        &amp;#34;---------------------\n&amp;#34; + generate_msg_with_schemas(table_names) +
+        &amp;#34;\n\n&amp;#34;
+        &amp;#34;---------------------\n&amp;#34;
+        &amp;#34;Use state abbreviations for states.&amp;#34;
+        &amp;#34; Table &amp;#39;crime_by_city&amp;#39; does not have columns &amp;#39;zip_code&amp;#39; or &amp;#39;county&amp;#39;.&amp;#34;
+        &amp;#34; Do not use ambiguous column names.&amp;#34;
+        &amp;#34; For example, &amp;#39;city&amp;#39; can be ambiguous because both tables &amp;#39;acs_census_data&amp;#39; and &amp;#39;crime_by_city&amp;#39; have a column named &amp;#39;city&amp;#39;.&amp;#34;
+        &amp;#34; Always specify the table where you are using the column.&amp;#34;
+        &amp;#34; If you include a &amp;#39;city&amp;#39; column in the result table, include a &amp;#39;state&amp;#39; column too.&amp;#34;
+        &amp;#34; If you include a &amp;#39;county&amp;#39; column in the result table, include a &amp;#39;state&amp;#39; column too.&amp;#34;
+        &amp;#34; Make sure each value in the result table is not null.\n&amp;#34;
+      )
+    },
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;etc.&lt;/p&gt;
 </description>
     </item>
     
