@@ -1,5 +1,12 @@
 [
       {
+        "title": "Generant històries amb ChatGPT",
+        "date_published": "2023-03-19T10:19:24+01:00",
+        "url": "/2023/03/19/lofiwriter/",
+        "tags": "",
+        "content_text": "A última hora i per primera vegada en trenta-dos anys, l’UJI va decidir tancar el campus per Magdalena i donar-nos vacances. Una part d’aquestes hores inesperades de lleure les he dedicat a continuar jugant amb l’API de ChatGPT i programar un petit bot (@lofiwriter) que genera textos amb pretensions literàries.\nEl prompt que envia el bot a l’API és d’aquest estil:\nDraft a short story imitating the style of Jeanette Winterson. Mention or imply a mistake and a windstorm. Be imaginative and ironic. Avoid sentimentality and grandiloquence. Length: between two and five sentences. Language: English.\nL’autora o autor que cal imitar els trac d’una llista que vaig demanar al mateix ChatGPT (“Give me a list of one hundred acclaimed modernist or postmodern writers, including international ones”), de manera que m’assegure que els coneix. Les paraules clau venen de diverses llistes del mateix tipus: llocs, objectes, etc.\nA més a més d’un relat (“short story”) el bot pot sol·licitar altres formes (l’extensió i el nombre de paraules clau depenen de la forma triada):\nUna idea per a una novel·la. Una idea per a una pel·lícula. Un diàleg entre dos personatges. Les frases inicials d’una novel·la. Les frases finals d’una novel·la. Un koan. Un haiku (i altres tipus de poemes breus). Un aforisme. Una meditació. Després d’obtenir una resposta, el bot demana a ChatGPT que la traduïsca al català i publica ambdues versions en Mastodon.\nFins ara, havent assajat diferents variacions, diria que els resultats obtinguts són més prompte mediocres (en català, ni tan sols aconsegueix un nivell acceptable de correcció lingüística). Com a inspiració, em va funcionar millor l’aleatorietat pura dels exemples del DIEC.\n"
+      },
+      {
         "title": "Negativity drives online news consumption — Nature",
         "date_published": "2023-03-19T10:15:11+01:00",
         "url": "/2023/03/19/17280/",
