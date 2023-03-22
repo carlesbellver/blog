@@ -1,5 +1,12 @@
 [
 			{
+				"title": ,
+				"date_published": "2023-03-22T19:23:47+01:00",
+				"url": "/2023/03/22/09417/",
+				"tags": "",
+				"content_text": "\nSi voleu guardar un secret, teniu dues opcions:\n\n1. Xifrar-lo amb un algoritme suficientment segur, p. ex. AES-256.\n2. Adreçar-lo a Recursos Humans per registre d’entrada, i mai no se’n sabrà res més.\n\n"
+			},
+			{
 				"title": "Generant històries amb ChatGPT",
 				"date_published": "2023-03-19T10:19:24+01:00",
 				"url": "/2023/03/19/lofiwriter/",

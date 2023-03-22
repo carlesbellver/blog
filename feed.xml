@@ -6,8 +6,21 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 19 Mar 2023 10:19:24 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2023 19:23:47 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2023/03/22/09417/</link>
+      <pubDate>Wed, 22 Mar 2023 19:23:47 +0100</pubDate>
+      <guid>https://carlesbellver.net/2023/03/22/09417/</guid>
+      <description>&lt;p&gt;Si voleu guardar un secret, teniu dues opcions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Xifrar-lo amb un algoritme suficientment segur, p. ex. AES-256.&lt;/li&gt;
+&lt;li&gt;Adreçar-lo a Recursos Humans per registre d’entrada, i mai no se’n sabrà res més.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Generant històries amb ChatGPT</title>
@@ -309,15 +322,6 @@
       <pubDate>Fri, 25 Nov 2022 16:06:29 +0100</pubDate>
       <guid>https://carlesbellver.net/2022/11/25/88774/</guid>
       <description>&lt;p&gt;Elon Musk no pretén fer negoci amb Twitter. El seu propòsit és desplaçar l’ecosistema informatiu cap a la dreta.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2022/11/20/60847/</link>
-      <pubDate>Sun, 20 Nov 2022 17:15:42 +0100</pubDate>
-      <guid>https://carlesbellver.net/2022/11/20/60847/</guid>
-      <description>&lt;p&gt;El meu script bash per a publicar apunts ràpids al blog i en Mastodon i Twitter havia de ser supersenzill, però ha anat creixent amb tota mena d’opcions i ja té vora quatre-centes línies de codi. 😅&lt;/p&gt;
 </description>
     </item>
     
