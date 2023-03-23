@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/03/23/91111/",
+				"title": "3 Things to Learn from a Child, 7 from a Thief: Bob Dylan’s Favorite Hasidic Teaching",
+				"content_html": "<p>Ser sempre feliç; no parar quiet; plorar per qualsevol cosa. Treballar de nit; una nit i una altra; ser solidari amb els companys de feina; arriscar la vida; no sobrevalorar els bens materials; suportar colps i tortures; creure en la teua feina.</p>\n<p>Idealització de la infància i del lladronici?</p>\n",
+				"date_published": "2023-03-23T18:05:31+01:00",
+				"url": "https://carlesbellver.net/2023/03/23/91111/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/03/22/09417/",
 				
 				"content_html": "<p>Si voleu guardar un secret, teniu dues opcions:</p>\n<ol>\n<li>Xifrar-lo amb un algoritme suficientment segur, p. ex. AES-256.</li>\n<li>Adreçar-lo a Recursos Humans per registre d’entrada, i mai no se’n sabrà res més.</li>\n</ol>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>Tot i que s’hi han fet experiments controvertits de crèdit social en l’àmbit local, no hi ha a la Xina cap sistema estatal d’aquest tipus amb algorismes que classifiquen la gent… La ironia és que mentre els polítics nord-americans i europeus intenten prohibir coses que en realitat no existeixen, sí que tenen en funcionament als seus països mecanismes que deneguen l’accés a l’habitatge o a llocs de treball en funció de l’anàlisi de dades.</p>\n</blockquote>\n",
 				"date_published": "2022-11-29T16:12:00+01:00",
 				"url": "https://carlesbellver.net/2022/11/29/34717/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/11/25/88774/",
-				"title": "Elon Musk never cared if Twitter was a business failure – he wants a political win",
-				"content_html": "<p>Elon Musk no pretén fer negoci amb Twitter. El seu propòsit és desplaçar l’ecosistema informatiu cap a la dreta.</p>\n",
-				"date_published": "2022-11-25T16:06:29+01:00",
-				"url": "https://carlesbellver.net/2022/11/25/88774/"
 			}
 	]
 }
