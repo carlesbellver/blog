@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/03/24/63432/",
+				
+				"content_html": "<p>A 24 de març, unes persones molt amables m’han portat una cistella de Nadal. És la cosa més coherent que m’ha passat avui a l’#UJI.</p>\n<img alt=\"Foto d'una cistella de Nadal damunt de la taula del despatx.\" src=\"/uploads/2023/2023-03-24-63432.jpg\">\n",
+				"date_published": "2023-03-24T14:10:48+01:00",
+				"url": "https://carlesbellver.net/2023/03/24/63432/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/03/23/91111/",
 				"title": "3 Things to Learn from a Child, 7 from a Thief: Bob Dylan’s Favorite Hasidic Teaching",
 				"content_html": "<p>Ser sempre feliç; no parar quiet; plorar per qualsevol cosa. Treballar de nit; una nit i una altra; ser solidari amb els companys de feina; arriscar la vida; no sobrevalorar els bens materials; suportar colps i tortures; creure en la teua feina.</p>\n<p>Idealització de la infància i del lladronici?</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Passem full del calendari. <em>Conditions may apply.</em></p>\n<img src=\"/uploads/2022/2022-12-01-desembre.jpg\">",
 				"date_published": "2022-12-01T08:07:45+01:00",
 				"url": "https://carlesbellver.net/2022/12/01/desembre/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/11/29/34717/",
-				"title": "The AI myth Western lawmakers get wrong",
-				"content_html": "<blockquote>\n<p>Tot i que s’hi han fet experiments controvertits de crèdit social en l’àmbit local, no hi ha a la Xina cap sistema estatal d’aquest tipus amb algorismes que classifiquen la gent… La ironia és que mentre els polítics nord-americans i europeus intenten prohibir coses que en realitat no existeixen, sí que tenen en funcionament als seus països mecanismes que deneguen l’accés a l’habitatge o a llocs de treball en funció de l’anàlisi de dades.</p>\n</blockquote>\n",
-				"date_published": "2022-11-29T16:12:00+01:00",
-				"url": "https://carlesbellver.net/2022/11/29/34717/"
 			}
 	]
 }

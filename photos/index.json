@@ -6,6 +6,13 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2023/03/24/63432/",
+        "date_published": "2023-03-24T14:10:48+01:00",
+        "url": "/2023/03/24/63432/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-03-24-63432.jpg",
+        "content_text": "A 24 de març, unes persones molt amables m’han portat una cistella de Nadal. És la cosa més coherent que m’ha passat …"
+    },
+    {
         "id": "/2023/01/05/panoli/",
         "title": "panoli",
         "date_published": "2023-01-05T13:13:41+01:00",
