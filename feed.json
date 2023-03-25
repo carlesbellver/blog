@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/03/25/69506/",
+				
+				"content_html": "<p>Avui hem comprat mandarines amb patent israeliana.</p>\n<img alt=\"Foto zenital d'unes mandarines en un bol\" src=\"/uploads/2023/2023-03-25-69506.jpg\">\n",
+				"date_published": "2023-03-25T19:38:36+01:00",
+				"url": "https://carlesbellver.net/2023/03/25/69506/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/03/24/63432/",
 				
 				"content_html": "<p>A 24 de març, unes persones molt amables m’han portat una cistella de Nadal. És la cosa més coherent que m’ha passat avui a l’#UJI.</p>\n<img alt=\"Foto d'una cistella de Nadal damunt de la taula del despatx.\" src=\"/uploads/2023/2023-03-24-63432.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>En algun moment sents que estàs sent manipulat per formar part de la telenovel·la d'un home ric […] Però el cas és que Twitter sempre ha funcionat així, animant-te a tenir opinió sobre un tema que fa deu minuts desconeixies completament.</p>\n</blockquote>\n",
 				"date_published": "2022-12-05T20:00:57+01:00",
 				"url": "https://carlesbellver.net/2022/12/05/66828/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/12/01/desembre/",
-				
-				"content_html": "<p>Passem full del calendari. <em>Conditions may apply.</em></p>\n<img src=\"/uploads/2022/2022-12-01-desembre.jpg\">",
-				"date_published": "2022-12-01T08:07:45+01:00",
-				"url": "https://carlesbellver.net/2022/12/01/desembre/"
 			}
 	]
 }
