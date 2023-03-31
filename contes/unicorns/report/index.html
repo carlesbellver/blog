@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Informe de la CIA sobre ‘Unicorns’</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Special%20Elite&display=swap');
+</style>
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1680252370" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1680252370" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1680252370" />
+
+
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="Informe de la CIA sobre ‘Unicorns’"/>
+<meta property="og:description" content="Informe secret de la CIA sobre ‘Unicorns’." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/contes/unicorns/report/" /><meta property="og:image" content="https://carlesbellver.net/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg" />
+<meta property="article:published_time" content="2023-03-31T21:30:05+00:00" />
+<meta property="article:modified_time" content="2023-03-31T21:30:05+00:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://carlesbellver.net/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg"/>
+<meta name="twitter:title" content="Informe de la CIA sobre ‘Unicorns’"/>
+<meta name="twitter:description" content="Informe secret de la CIA sobre ‘Unicorns’."/>
+
+
+
+
+<meta name="page-source-path" content="contes/unicorns/report.md">
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/" title="">Blog</a>
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post contes h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li>
+          
+            <a href="https://carlesbellver.net/contes/unicorns/" title="Unicorns">Unicorns</a>
+          
+          </li>
+        
+        <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 12 minuts</span></li>
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">Informe de la CIA sobre ‘Unicorns’</h1>
+      </header>      
+      
+      
+      
+      
+      
+      
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <img src="https://carlesbellver.net/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg" alt="Pintura a l'oli de l'esquelet d'un unicorn. Generada per DALL·E.">
+<p><strong>Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.</strong></p>
+<p>A més d’una valoració general d’allò més espaterrant, transcrita a continuació, l’informe inclou una sinopsi de cada conte d’<a href="https://carlesbellver.net/contes/unicorns/"><em>Unicorns</em></a>. Al meu parer són resums de molt poca qualitat, gramaticalment deficients i gens perspicaços, possiblement generats mitjançant algun procediment informàtic automatitzat com ara ChatGPT.</p>
+<blockquote>
+<p>S'ha interceptat un conjunt de documents que consta de seixanta-quatre textos, els quals abasten un ampli ventall de temes. Diversos textos estan relacionats amb el món acadèmic i les discussions filosòfiques. Tanmateix, alguns poden suposar un risc per a la seguretat nacional a causa de la menció de casos potencials d'espionatge, experimentació nuclear i possible comunicació amb els morts. A més, altres textos tracten de la creació de llenguatges, desaparicions misterioses i conceptes estranys i ocults. L'accés a aquests textos s'ha de controlar acuradament i s'han de prendre precaucions per evitar una divulgació no autoritzades, atès que alguns continguts poden causar malestar social pels temes foscos i estranys.</p>
+<p>S'aconsella investigar més a fons, especialment <a href="https://carlesbellver.net/contes/unicorns/unicorns24">#24</a> <a href="https://carlesbellver.net/contes/unicorns/unicorns31">#31</a> <a href="https://carlesbellver.net/contes/unicorns/unicorns41">#41</a> <a href="https://carlesbellver.net/contes/unicorns/unicorns60">#60</a>.</p>
+</blockquote>
+<p>Algunes preguntes que em veig obligat a plantejar-me:</p>
+<ol>
+<li>Per què va cridar l’atenció de la CIA el meu inofensiu recull de microcontes?</li>
+<li>Hauré de posar un <em>disclaimer</em> davant de cadascuna de les meues creacions literàries, tal com ja vaig haver de fer amb la <a href="https://carlesbellver.net/contes/tombatossals/">“Història del <em>Tombatossals</em>”</a> quan algunes ànimes càndides la van prendre per informació fidedigna?</li>
+<li>Explicaria açò que cap editorial haja volgut publicar el recull?</li>
+</ol>
+<p>A continuació podeu consultar l’informe complet si us ve de gust.</p>
+<hr>
+<div style="margin: 2em 1em; font-family: 'Special Elite'; font-size: 0.95em;">
+<p>A set of documents containing 64 texts was intercepted, covering a wide range of topics. Several texts relate to academia and philosophical discussions. However, some texts may pose a risk to national security due to their mention of potential espionage, nuclear experimentation, and possible communication with the dead. Additionally, other texts deal with the creation of languages, mysterious disappearances and strange, occult concepts. Access to these texts should be carefully monitored, and precautions must be taken to prevent unauthorized disclosures, given the potential for some contents to cause social unrest due to their dark and eerie themes.</p>
+<p>Further investigation is advised, especially of <a href="https://carlesbellver.net/contes/unicorns/unicorns24">#24</a> <a href="https://carlesbellver.net/contes/unicorns/unicorns31">#31</a> <a href="https://carlesbellver.net/contes/unicorns/unicorns41">#41</a> <a href="https://carlesbellver.net/contes/unicorns/unicorns60">#60</a>.</p>
+<p>***</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns01">#01</a> The author meets a french student in the University of Paris and invites her to a lecture on unicorns after finding an advertisement for a colloquium in her folder.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns02">#02</a> The author becomes paranoid after someone asks about a person in a photo and throws away the book by Jean-Paul Sartre in which the photo was found.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns03">#03</a> Alcohol can distort memory and the author describes a disturbing dream/memory of an unknown person in an unpleasant house.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns04">#04</a> Different stories are told about how pollution began in Arkham but they end with the realization that a new false report is emerging.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns05">#05</a> Unusual pets, including a pig and zebras, are discussed before turning to Mr. Dexter and his giant spider.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns06">#06</a> The author is frustrated at the post office and later learns a sickly man named Nahum visited after his recent death.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns07">#07</a> Miskatonic University was closed due to McCarthyism but academic activity resumed and many of the same professors still teach today.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns08">#08</a> The author and a professor discuss a book about dragons in China and the author remembers seeing a dragon but is unsure if it was real.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns09">#09</a> The author ran errands for prostitutes and learned from their stories, while reflecting on his own mentality.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns10">#10</a> Two people discuss a third person named Eudoxia but shift to talking about movies and books, with one person later suggesting the other stick to philosophy or poetry instead of writing novels.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns11">#11</a> The author recalls meeting a girl who wrote a psychological profile of him in a chalet and kept the copy into his last years of college.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns12">#12</a> As a thirteen-year-old, the author read encyclopedias at the municipal library before turning to novels, which he found to be a manual of instructions for understanding the world around him.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns13">#13</a> The article describes a philosophy department that starts studying the Tractatus by Wittgenstein from the end, focusing on Wittgenstein's letter to Ludwig von Ficker about the ethical sense of the work, leading to the author being called a &quot;silly young man.&quot;</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns14">#14</a> The author was involved in a medieval play in Italy and accidentally made a death seem more real, leading to him being asked to leave.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns15">#15</a> The author won an award for a book of stories inspired by his stay in a psychiatric institution but fears it will be placed in the pet section of bookstores and has declined an offer to write stories for dogs.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns16">#16</a> The author meets a woman at a university reception, leading him to have hope for the future despite his initial pessimism, but wakes up the next day with a migraine and no memory of what was said.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns17">#17</a> The Office of Strategic Services had a report discussing options in Central Asia related to the “Antarctic hypothesis,” and the text briefly mentions someone ordering a bride from a catalog from a certain Republic of Leng.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns18">#18</a> Lovecraft's work has cast doubt on the existence of the Miskatonic University and Arkham, and characters in his stories prefer to keep the public in ignorance rather than risk mass hysteria.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns19">#19</a> The text talks about a mysterious author who worked for the American embassy and wrote dark poetry, which caused controversy over the authenticity of certain scenes and the identity of those involved, and mentions a French translator who committed suicide and a man who was suspected of being the subject of the poetry being found tied up and naked.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns20">#20</a> The text talks about the Tibetan lamas who settled in California in the 1960s and became notable competition for Zen Buddhism among religiously inclined hippies, with their teachings and personalities still living on the campus.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns21">#21</a> Two young people invented a secret language to test each other's comprehension, which was later discovered to be intended for invoking the devil.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns22">#22</a> The text is a dream that the author had about someone known to him, who he begged for forgiveness but was mocked and then later reunited with and talked about their past circumstances.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns23">#23</a> A group of old men discusses a book about the natural philosophy of Isaac Newton and laments their lack of success, reflecting on the similarities between the book they are reading and the letters from Leibniz to Sophie de Hannover and wishing they had better written a book called &quot;Quantum Mechanics for Old Men&quot; instead.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns24">#24</a> The text talks about rumors surrounding a manual with a wrongly numbered page that contained instructions on how to create a small atomic bomb, which the protagonist believed and tried to replicate, resulting in an explosion, causing the group to abandon their atomic experiment and return to reading Paracelsus.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns25">#25</a> The text talks about the Tibetan concept of tulpa, which is the ability to create objects or even living beings with the energy of one's mind, and the narrator initially scoffs at the concept but later receives a box containing a creature, which he believes to be a tulpa.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns26">#26</a> The protagonist visits the immigration office on a campus where his colleague's servant had disappeared, and the immigration officer appears disinterested and spends more time examining the protagonist's passport than interrogating him, and the missing servant was a heroin addict.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns27">#27</a> The author visits a Masonic museum in Innsmouth and discovers live specimens of a Polynesian marine mammal, a giant, grotesque sea rat swimming in a dirty aquarium, finding it sinister and leaving quickly.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns28">#28</a> The text describes a moment where the author and an Irish companion observe the chaos in the night sky that is disrupting the order of the constellations and reach for whiskey to calm themselves and be able to enjoy the stars again.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns29">#29</a> The text tells the story of a person who takes empathy and depression tests with his roommate's psychology student friend, resulting in a sour relationship after mistakenly calling the roommate &quot;Valia&quot; after smoking hashish.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns30">#30</a> The text describes a meeting between the narrator and a woman who he initially mistakes for someone else and later realizes he is in her apartment, hearing whispers and laughter from another room before deciding to leave and get some fresh air.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns31">#31</a> In 1926, one year before AT&amp;T inaugurated the transatlantic connection with London, an anonymous entrepreneur opened a telephone service in New York for communicating with the dead, which was successful among wealthy people but was later revealed to spy on potential customers and had a large archive of private data.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns32">#32</a> The text tells a strange story about a phone call received by a woman named Bess, in which a voice on the other end sings a creepy variation of a song and whispers the word “believe” before hanging up.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns33">#33</a> The protagonist wakes up feeling chased from a dream, but is afraid to say the name of the chaser out loud.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns34">#34</a> A man receives a slave as an 18th birthday present, treats her well but she steals and disappears.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns35">#35</a> A story about a prostitute business owned by a reputed witch who disappeared, leading to bad endings for the sex workers.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns36">#36</a> A comical seminar on graphology with an intelligent instructor who analyzes a piece of torn paper before asking the narrator to leave.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns37">#37</a> The fascination with vanished civilizations is discussed, and the idea of secrets and mysteries associated with origins is mentioned.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns38">#38</a> The text discusses the Mars region of Cydonia and mentions a fake medieval text that was found to contain fraud.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns39">#39</a> A character named Asenath has controversial aquatic structure theories, and advises the narrator to leave a meeting place that is a &quot;house for the insane&quot;.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns40">#40</a> Remains from the Great Sandy Desert analyzed using radiometric dating suggest hallways that are hundreds of millions of years older than Earth itself, leading to speculation about extraterrestrial civilizations.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns41">#41</a> The story of a woman named N. M., a doctor in mathematics and psychology and exobiology lab leader, who rejected a French physicist's advance and calls to betray the USSR.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns42">#42</a> A person wakes up in someone else's body and navigates the discomfort of new relationships and unfamiliar surroundings.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns43">#43</a> A woman meets a cosmonaut and an old childhood acquaintance at a robotics demonstration, and the text suggests a complex relationship between the characters.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns44">#44</a> The author describes a chance encounter with a woman as their &quot;demon&quot;, and feeling embarrassed after being tricked and falling off a chair.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns45">#45</a> The main character is unable to understand human mating rituals and describes an encounter where a man criticizes a woman's behavior after they slept together.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns46">#46</a> The text discusses the book &quot;Heavenly Emporium&quot;, its authenticity, and how different people may perceive reality.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns47">#47</a> A slave discovers a demon replacing her owner, a rich merchant, and the demon is eventually killed.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns48">#48</a> A traveler visits a small travel agency and sees a dark storage room with old items before being brought back to reality by the worker's comment about their limited futures.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns49">#49</a> A writer with writer's block researches the history of his computer setup and discovers it is a Timex Sinclair 1000, discussing it with a colleague for additional details.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns50">#50</a> An individual addicted to writing is in a rehabilitation program where he writes for 30 minutes a day and resists the urge to write a novel, jokingly mentioning his drinking.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns51">#51</a> Grace B. M. Hopper was the first person to identify an insect as causing errors in a computer, which can provoke unexpected responses in human brains and be creatively freeing.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns52">#52</a> A representative shows off a new typewriter with a &quot;soul,&quot; but the narrator thinks the future belongs to computers and becomes lost in thought, comparing it to a shiny beetle.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns53">#53</a> The mysterious &quot;andromina&quot; uses quantum mechanics to measure the proportion of nearby events that are actually happening, but its function is not fully understood and it consistently has low measurements except in dreams.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns54">#54</a> A museum acquired a mummy of unclear origin, believed to be from a Native American tribe, and the author notes that a visitor resembles the mummy.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns55">#55</a> Reports of excavations in a remote archaeological site in the Himalayas, Kavishnanda, reveal a deep well with multiple sets of stairs and an ominous presence named Zura.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns56">#56</a> Danvers, a Miskatonic student, realizes notes he dictated are abominable perversions and signs a contract at dawn despite howling in fear.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns57">#57</a> There are rumors that Danvers may be a spy or informant due to his travels, and he expresses disgust towards &quot;African primitivism&quot; during his search for the skull of a cyclops in Spain's Mediterranean coast.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns58">#58</a> Two people discuss war and patriotism, with one boasting of participating from a desk and the other arguing against war due to the sacrifice of democracy and perpetuation of fascism in foreign governments.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns59">#59</a> Characters contemplate the afterlife while being transported on a wagon with other dead bodies, and the story ends with a count of the number of bodies.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns60">#60</a> The creation of a fictitious language called Catalan is described, based on a dialect spoken by peasants with a grammar and lexicon created from scratch, and remarks are made on the esoteric undertones of the enterprise.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns61">#61</a> A person hears a group of people discussing needing a rope or cyanide for suicide, and later discusses the possibility with someone in a makeshift office in a boiler room.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns62">#62</a> The authenticity of unicorn horns is discussed, including the possibility that many sold in the Middle Ages were actually narwhal tusks.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns63">#63</a> The author visits a degraded apartment building and sees someone he used to know, Valérie, who is holding a mirror as if waiting for a unicorn.</p>
+<p><a href="https://carlesbellver.net/contes/unicorns/unicorns64">#64</a> A group of explorers search for a lost city in the jungle, discussing ancient myths and legends regarding the city, and the dreamer wakes up realizing lost cities, like lost loves, can never be found again.</p>
+</div>
+
+        <img src="https://carlesbellver.net/uploads/2023/2023-03-31-unicorn-skeleton-1.jpg" class="sn">
+      </div>
+            
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/contes/unicorns/report/"><span class="post-date dt-published">2023-03-31</span></a></li>
+      
+      <li><ul class="post-tags"><li><img class="icon" src="https://carlesbellver.net//svg.icons/tag.svg" alt="tag" /> <a href="https://carlesbellver.net/tags/contes">contes</a></li> </ul></li>
+      
+      <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 12 minuts</span></li>
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+    
+    
+
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2023
+        </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>
