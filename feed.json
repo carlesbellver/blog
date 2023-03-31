@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/03/31/report/",
+				"title": "Informe de la CIA sobre ‘Unicorns’",
+				"content_html": "<blockquote>\n<p>Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.</p>\n</blockquote>\n",
+				"date_published": "2023-03-31T21:55:49+02:00",
+				"url": "https://carlesbellver.net/2023/03/31/report/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/03/25/69506/",
 				
 				"content_html": "<p>Avui hem comprat mandarines amb patent israeliana.</p>\n<img alt=\"Foto zenital d'unes mandarines en un bol\" src=\"/uploads/2023/2023-03-25-69506.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Avui he fet cinquanta-cinc anys. N’han passat quasi quaranta, per tant, des que els invents del senyor Clive Sinclair em van començar a ensenyar aquesta altra forma d’escriptura —o de màgia: la programació— que <a href=\"/2021/04/14/healing-power-javascript/\">fa que passen coses</a>.</p>\n<img src=\"/uploads/2022/2022-12-13-55.jpg\" alt=\"Foto de Carles Bellver Torlà amb una samarreta amb el retol Sinclair ZX Spectrum i el nombre 55 sobreimprès.\">",
 				"date_published": "2022-12-13T19:44:14+01:00",
 				"url": "https://carlesbellver.net/2022/12/13/55/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/12/05/66828/",
-				"title": "The Twitter Files Were Designed To Make You Mad",
-				"content_html": "<blockquote>\n<p>En algun moment sents que estàs sent manipulat per formar part de la telenovel·la d'un home ric […] Però el cas és que Twitter sempre ha funcionat així, animant-te a tenir opinió sobre un tema que fa deu minuts desconeixies completament.</p>\n</blockquote>\n",
-				"date_published": "2022-12-05T20:00:57+01:00",
-				"url": "https://carlesbellver.net/2022/12/05/66828/"
 			}
 	]
 }
