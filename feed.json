@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/04/02/tota-la-veritat/",
+				"title": "Tota la veritat sobre l’informe de la CIA",
+				"content_html": "<img src=\"/uploads/2023/2023-04-02-script.jpg\" alt=\"Captura de pantalla d'una parts de l'script en llenguatge Python que resumeix pàgines web.\">\n<p>No cal dir que l’<a href=\"/contes/unicorns/report\">informe de la\nCIA sobre ‘Unicorns’</a> és completament fals. Ficció i més ficció: un divertiment inofensiu.</p>\n<p>Fa uns quants dies, estava provant un <a href=\"https://github.com/whichlight/tldr-cl\">script</a> que resumeix pàgines web mitjançant l’API de ChatGPT. L’havia provat amb notícies d’actualitat i altres pàgines igualment prosaiques. En el navegador, tenia obert l’índex d’<a href=\"/contes/unicorns\"><em>Unicorns</em></a> i se’m va acudir intentar-ho amb l’enllaç d’un dels capítols.</p>\n<p>El resultat presentava un aire fred i distant, com si un testimoni imparcial i poc perceptiu explicara els fets desapassionadament. Per alguna raó, em va recordar els <em>cables</em> de Wikileaks i em va fer pensar, exactament, en un informe de la CIA sobre els meus microcontes.</p>\n<p>És a dir, amb això ja tenia la idea i només faltava veure com portar-la a terme. Per a començar, vaig programar un script que demanava a ChatGPT un resum de cada un dels seixanta-quatre capítols d’<em>Unicorns</em>. El resultat era bo, però els resums eren massa extensos: tot just la meitat que els originals. Amb un nou script, vaig demanar a ChatGPT que resumira cada resum en una sola frase.</p>\n<p>Quina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:</p>\n<blockquote>\n<p>La llista següent resumeix el contingut d'un conjunt de documents. Redacta un informe molt breu que avalue l'oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l'estil d'una agència d'intel·ligència.</p>\n</blockquote>\n<p>Aquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del <a href=\"/contes/unicorns/report\">fals informe</a>. Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.</p>\n",
+				"date_published": "2023-04-02T10:35:25+02:00",
+				"url": "https://carlesbellver.net/2023/04/02/tota-la-veritat/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/03/31/report/",
 				"title": "Informe de la CIA sobre ‘Unicorns’",
 				"content_html": "<blockquote>\n<p>Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Els ramats dels dinars de Nadal palesen que ningú creix. Mai. Atavismes que afloren de sota els abrics i la cosmètica civilitzatòria. Qui era roí de menut continua sent-ho cinquanta anys després. Els documentals sobre primats em van ensenyar molt més del que podia imaginar.</p>\n",
 				"date_published": "2022-12-16T21:00:06+01:00",
 				"url": "https://carlesbellver.net/2022/12/16/20791/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/12/13/55/",
-				
-				"content_html": "<p>Avui he fet cinquanta-cinc anys. N’han passat quasi quaranta, per tant, des que els invents del senyor Clive Sinclair em van començar a ensenyar aquesta altra forma d’escriptura —o de màgia: la programació— que <a href=\"/2021/04/14/healing-power-javascript/\">fa que passen coses</a>.</p>\n<img src=\"/uploads/2022/2022-12-13-55.jpg\" alt=\"Foto de Carles Bellver Torlà amb una samarreta amb el retol Sinclair ZX Spectrum i el nombre 55 sobreimprès.\">",
-				"date_published": "2022-12-13T19:44:14+01:00",
-				"url": "https://carlesbellver.net/2022/12/13/55/"
 			}
 	]
 }

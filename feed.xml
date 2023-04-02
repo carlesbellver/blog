@@ -6,8 +6,27 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Fri, 31 Mar 2023 21:55:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2023 10:35:25 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title>Tota la veritat sobre l’informe de la CIA</title>
+      <link>https://carlesbellver.net/2023/04/02/tota-la-veritat/</link>
+      <pubDate>Sun, 02 Apr 2023 10:35:25 +0200</pubDate>
+      <guid>https://carlesbellver.net/2023/04/02/tota-la-veritat/</guid>
+      <description>&lt;img src=&#34;https://carlesbellver.net/uploads/2023/2023-04-02-script.jpg&#34; alt=&#34;Captura de pantalla d&#39;una parts de l&#39;script en llenguatge Python que resumeix pàgines web.&#34;&gt;
+&lt;p&gt;No cal dir que l’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns/report&#34;&gt;informe de la
+CIA sobre ‘Unicorns’&lt;/a&gt; és completament fals. Ficció i més ficció: un divertiment inofensiu.&lt;/p&gt;
+&lt;p&gt;Fa uns quants dies, estava provant un &lt;a href=&#34;https://github.com/whichlight/tldr-cl&#34;&gt;script&lt;/a&gt; que resumeix pàgines web mitjançant l’API de ChatGPT. L’havia provat amb notícies d’actualitat i altres pàgines igualment prosaiques. En el navegador, tenia obert l’índex d’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;&lt;em&gt;Unicorns&lt;/em&gt;&lt;/a&gt; i se’m va acudir intentar-ho amb l’enllaç d’un dels capítols.&lt;/p&gt;
+&lt;p&gt;El resultat presentava un aire fred i distant, com si un testimoni imparcial i poc perceptiu explicara els fets desapassionadament. Per alguna raó, em va recordar els &lt;em&gt;cables&lt;/em&gt; de Wikileaks i em va fer pensar, exactament, en un informe de la CIA sobre els meus microcontes.&lt;/p&gt;
+&lt;p&gt;És a dir, amb això ja tenia la idea i només faltava veure com portar-la a terme. Per a començar, vaig programar un script que demanava a ChatGPT un resum de cada un dels seixanta-quatre capítols d’&lt;em&gt;Unicorns&lt;/em&gt;. El resultat era bo, però els resums eren massa extensos: tot just la meitat que els originals. Amb un nou script, vaig demanar a ChatGPT que resumira cada resum en una sola frase.&lt;/p&gt;
+&lt;p&gt;Quina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La llista següent resumeix el contingut d&#39;un conjunt de documents. Redacta un informe molt breu que avalue l&#39;oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l&#39;estil d&#39;una agència d&#39;intel·ligència.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del &lt;a href=&#34;https://carlesbellver.net/contes/unicorns/report&#34;&gt;fals informe&lt;/a&gt;. Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Informe de la CIA sobre ‘Unicorns’</title>
@@ -315,15 +334,6 @@
       <guid>https://carlesbellver.net/2022/12/16/20791/</guid>
       <description>&lt;p&gt;Els ramats dels dinars de Nadal palesen que ningú creix. Mai. Atavismes que afloren de sota els abrics i la cosmètica civilitzatòria. Qui era roí de menut continua sent-ho cinquanta anys després. Els documentals sobre primats em van ensenyar molt més del que podia imaginar.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2022/12/13/55/</link>
-      <pubDate>Tue, 13 Dec 2022 19:44:14 +0100</pubDate>
-      <guid>https://carlesbellver.net/2022/12/13/55/</guid>
-      <description>&lt;p&gt;Avui he fet cinquanta-cinc anys. N’han passat quasi quaranta, per tant, des que els invents del senyor Clive Sinclair em van començar a ensenyar aquesta altra forma d’escriptura —o de màgia: la programació— que &lt;a href=&#34;https://carlesbellver.net/2021/04/14/healing-power-javascript/&#34;&gt;fa que passen coses&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&#34;https://carlesbellver.net/uploads/2022/2022-12-13-55.jpg&#34; alt=&#34;Foto de Carles Bellver Torlà amb una samarreta amb el retol Sinclair ZX Spectrum i el nombre 55 sobreimprès.&#34;&gt;</description>
     </item>
     
   </channel>

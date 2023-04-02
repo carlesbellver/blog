@@ -1,17 +1,17 @@
 [
       {
+        "title": "Tota la veritat sobre l’informe de la CIA",
+        "date_published": "2023-04-02T10:35:25+02:00",
+        "url": "/2023/04/02/tota-la-veritat/",
+        "tags": "",
+        "content_text": " No cal dir que l’informe de la CIA sobre ‘Unicorns’ és completament fals. Ficció i més ficció: un divertiment inofensiu.\nFa uns quants dies, estava provant un script que resumeix pàgines web mitjançant l’API de ChatGPT. L’havia provat amb notícies d’actualitat i altres pàgines igualment prosaiques. En el navegador, tenia obert l’índex d’Unicorns i se’m va acudir intentar-ho amb l’enllaç d’un dels capítols.\nEl resultat presentava un aire fred i distant, com si un testimoni imparcial i poc perceptiu explicara els fets desapassionadament. Per alguna raó, em va recordar els cables de Wikileaks i em va fer pensar, exactament, en un informe de la CIA sobre els meus microcontes.\nÉs a dir, amb això ja tenia la idea i només faltava veure com portar-la a terme. Per a començar, vaig programar un script que demanava a ChatGPT un resum de cada un dels seixanta-quatre capítols d’Unicorns. El resultat era bo, però els resums eren massa extensos: tot just la meitat que els originals. Amb un nou script, vaig demanar a ChatGPT que resumira cada resum en una sola frase.\nQuina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:\nLa llista següent resumeix el contingut d\u0026#39;un conjunt de documents. Redacta un informe molt breu que avalue l\u0026#39;oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l\u0026#39;estil d\u0026#39;una agència d\u0026#39;intel·ligència.\nAquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del fals informe. Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.\n"
+      },
+      {
         "title": "Informe de la CIA sobre ‘Unicorns’",
         "date_published": "2023-03-31T21:55:49+02:00",
         "url": "/2023/03/31/report/",
         "tags": "retalls",
         "content_text": " Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.\n"
-      },
-      {
-        "title": "Contes",
-        "date_published": "2023-03-30T23:30:05+00:00",
-        "url": "/contes/",
-        "tags": "",
-        "content_text": "Alguns contes solts.\nUnicorns (improvisacions en 1.024 caràcters) “Una història subterrània” “El drac i la garsa” (d\u0026#39;Un cel nou i una terra nova) “La vista cansada” (de La nit mil dos) “L\u0026#39;automàtica” (de Parèntesi) “Deteriorament general de la realitat” (de La vida canina) “Història del Tombatossals” (d\u0026#39;El llibre de tòpics) "
       },
       {
         "title": "Informe de la CIA sobre ‘Unicorns’",
@@ -3921,6 +3921,13 @@
         "url": "/2018/12/11/your-apps-know.html",
         "tags": "retalls",
         "content_text": "Diversos tipus d\u0026#39;aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:\n…els que tenen accés a les dades brutes, inclosos empleats o clients, poden identificar una persona sense el seu consentiment. Poden seguir algú que coneixen, localitzant un telèfon que sol estar a l\u0026#39;adreça d\u0026#39;aquesta persona. O, a l\u0026#39;inrevés, poden vincular un nom a un punt anònim, veient on passa les nits els dispositiu i utilitzant registres públics per esbrinar qui hi viu.\nTot açò és il·legal a Europa —no als EUA—, però caldria que es fes complir la llei! Els nostres mòbils s\u0026#39;han convertit en dispositius de vigilància i el NY Times ho il·lustra amb exemples reals en mapes interactius. En un altre article, ens recorden com fer que les apps deixen de rastrejar la nostra ubicació.\niPhone: Configuració → Privacitat → Localització Android: Configuració → Ubicació Un dels problemes d\u0026#39;Android és que no pots impedir que una app accedeixi a la teua ubicació en segon pla, és a dir, quan no estàs utilitzant aquesta app.\n"
+      },
+      {
+        "title": "Contes",
+        "date_published": "2018-12-11T00:00:00+00:00",
+        "url": "/contes/",
+        "tags": "",
+        "content_text": "Alguns contes solts.\nUnicorns (improvisacions en 1.024 caràcters) “Una història subterrània” “El drac i la garsa” (d\u0026#39;Un cel nou i una terra nova) “La vista cansada” (de La nit mil dos) “L\u0026#39;automàtica” (de Parèntesi) “Deteriorament general de la realitat” (de La vida canina) “Història del Tombatossals” (d\u0026#39;El llibre de tòpics) "
       },
       {
         "title": "Un ornitorrinc a l’armari",

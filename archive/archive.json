@@ -1,17 +1,17 @@
 [
 			{
+				"title": "Tota la veritat sobre l’informe de la CIA",
+				"date_published": "2023-04-02T10:35:25+02:00",
+				"url": "/2023/04/02/tota-la-veritat/",
+				"tags": "",
+				"content_text": "\n\u003cimg src=\"/uploads/2023/2023-04-02-script.jpg\" alt=\"Captura de pantalla d'una parts de l'script en llenguatge Python que resumeix pàgines web.\"\u003e\n\nNo cal dir que l’[informe de la\nCIA sobre ‘Unicorns’](/contes/unicorns/report) és completament fals. Ficció i més ficció: un divertiment inofensiu.\n\nFa uns quants dies, estava provant un [script](https://github.com/whichlight/tldr-cl) que resumeix pàgines web mitjançant l’API de ChatGPT. L’havia provat amb notícies d’actualitat i altres pàgines igualment prosaiques. En el navegador, tenia obert l’índex d’[*Unicorns*](/contes/unicorns) i se’m va acudir intentar-ho amb l’enllaç d’un dels capítols.\n\nEl resultat presentava un aire fred i distant, com si un testimoni imparcial i poc perceptiu explicara els fets desapassionadament. Per alguna raó, em va recordar els *cables* de Wikileaks i em va fer pensar, exactament, en un informe de la CIA sobre els meus microcontes.\n\nÉs a dir, amb això ja tenia la idea i només faltava veure com portar-la a terme. Per a començar, vaig programar un script que demanava a ChatGPT un resum de cada un dels seixanta-quatre capítols d’*Unicorns*. El resultat era bo, però els resums eren massa extensos: tot just la meitat que els originals. Amb un nou script, vaig demanar a ChatGPT que resumira cada resum en una sola frase.\n\nQuina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:\n\n\u003e La llista següent resumeix el contingut d'un conjunt de documents. Redacta un informe molt breu que avalue l'oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l'estil d'una agència d'intel·ligència.\n\nAquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del [fals informe](/contes/unicorns/report). Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.\n"
+			},
+			{
 				"title": "Informe de la CIA sobre ‘Unicorns’",
 				"date_published": "2023-03-31T21:55:49+02:00",
 				"url": "/2023/03/31/report/",
 				"tags": "retalls",
 				"content_text": "\n\u003e Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.\n"
-			},
-			{
-				"title": "Contes",
-				"date_published": "2023-03-30T23:30:05+00:00",
-				"url": "/contes/",
-				"tags": "",
-				"content_text": "\nAlguns contes solts.\n\n- [*Unicorns*](unicorns) (improvisacions en 1.024 caràcters)\n- [“Una història subterrània”](/tmp/32ec15b3dede/)\n- [“El drac i la garsa”](setsomnis/dunsanymorella) (d'*Un cel nou i una terra nova*)\n- [“La vista cansada”](lavistacansada) (de *La nit mil dos*)\n- [“L'automàtica”](automatica) (de *Parèntesi*)\n- [“Deteriorament general de la realitat”](deteriorament) (de *La vida canina*)\n- [“Història del Tombatossals”](tombatossals) (d'*El llibre de tòpics*)\n"
 			},
 			{
 				"title": "Informe de la CIA sobre ‘Unicorns’",
@@ -4128,6 +4128,13 @@
 				"url": "/2018/12/11/your-apps-know.html",
 				"tags": "retalls",
 				"content_text": "\n\nDiversos tipus d'aplicacions ens demanen permís per conèixer la nostra ubicació. Així ens poden oferir itineraris, notícies locals, informació meteorològica, ofertes comercials properes, etc. Però, a canvi, sense dir-nos-en res, ofereixen les dades a anunciants, bancs i altres empreses interessades a conèixer els nostres moviments: on anem, per on passem, on ens aturem més o menys temps… Aquestes dades són anònimes, però identificables:\n\n\u003e …els que tenen accés a les dades brutes, inclosos empleats o clients, poden identificar una persona sense el seu consentiment. Poden seguir algú que coneixen, localitzant un telèfon que sol estar a l'adreça d'aquesta persona. O, a l'inrevés, poden vincular un nom a un punt anònim, veient on passa les nits els dispositiu i utilitzant registres públics per esbrinar qui hi viu.\n\nTot açò és il·legal a Europa —no als EUA—, però caldria que es fes complir la llei! Els nostres mòbils s'han convertit en dispositius de vigilància i el NY Times ho il·lustra amb exemples reals en mapes interactius. En un altre article, ens recorden [com fer que les apps deixen de rastrejar la nostra ubicació](https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html).\n\n  - iPhone: Configuració → Privacitat → Localització\n  - Android: Configuració → Ubicació\n  \nUn dels problemes d'Android és que no pots impedir que una app accedeixi a la teua ubicació en segon pla, és a dir, quan no estàs utilitzant aquesta app.\n"
+			},
+			{
+				"title": "Contes",
+				"date_published": "2018-12-11T00:00:00+00:00",
+				"url": "/contes/",
+				"tags": "",
+				"content_text": "\nAlguns contes solts.\n\n- [*Unicorns*](unicorns) (improvisacions en 1.024 caràcters)\n- [“Una història subterrània”](/tmp/32ec15b3dede/)\n- [“El drac i la garsa”](setsomnis/dunsanymorella) (d'*Un cel nou i una terra nova*)\n- [“La vista cansada”](lavistacansada) (de *La nit mil dos*)\n- [“L'automàtica”](automatica) (de *Parèntesi*)\n- [“Deteriorament general de la realitat”](deteriorament) (de *La vida canina*)\n- [“Història del Tombatossals”](tombatossals) (d'*El llibre de tòpics*)\n"
 			},
 			{
 				"title": "Un ornitorrinc a l’armari",

@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://carlesbellver.net/</loc>
-    <lastmod>2023-03-31T21:55:49+02:00</lastmod>
+    <lastmod>2023-04-02T10:35:25+02:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://carlesbellver.net/2023/03/31/report/</loc>
-    <lastmod>2023-03-31T21:55:49+02:00</lastmod>
-  </url><url>
     <loc>https://carlesbellver.net/posts/</loc>
+    <lastmod>2023-04-02T10:35:25+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2023/04/02/tota-la-veritat/</loc>
+    <lastmod>2023-04-02T10:35:25+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/2023/03/31/report/</loc>
     <lastmod>2023-03-31T21:55:49+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tags/retalls/</loc>
@@ -17,9 +20,6 @@
   </url><url>
     <loc>https://carlesbellver.net/tags/</loc>
     <lastmod>2023-03-31T21:55:49+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/contes/</loc>
-    <lastmod>2023-03-30T23:30:05+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tags/contes/</loc>
     <lastmod>2023-03-30T23:30:05+00:00</lastmod>
@@ -1856,6 +1856,9 @@
   </url><url>
     <loc>https://carlesbellver.net/2018/12/11/your-apps-know.html</loc>
     <lastmod>2018-12-11T08:36:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/contes/</loc>
+    <lastmod>2018-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/contes/unicorns/unicorns29/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
