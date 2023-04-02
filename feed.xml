@@ -22,7 +22,7 @@ CIA sobre ‘Unicorns’&lt;/a&gt; és completament fals. Ficció i més ficció
 &lt;p&gt;És a dir, amb això ja tenia la idea i només faltava veure com portar-la a terme. Per a començar, vaig programar un script que demanava a ChatGPT un resum de cada un dels seixanta-quatre capítols d’&lt;em&gt;Unicorns&lt;/em&gt;. El resultat era bo, però els resums eren massa extensos: tot just la meitat que els originals. Amb un nou script, vaig demanar a ChatGPT que resumira cada resum en una sola frase.&lt;/p&gt;
 &lt;p&gt;Quina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;La llista següent resumeix el contingut d&#39;un conjunt de documents. Redacta un informe molt breu que avalue l&#39;oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l&#39;estil d&#39;una agència d&#39;intel·ligència.&lt;/p&gt;
+&lt;p&gt;La llista següent resumeix el contingut d’un conjunt de documents. Redacta un informe molt breu que avalue l’oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l’estil d’una agència d’intel·ligència.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Aquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del &lt;a href=&#34;https://carlesbellver.net/contes/unicorns/report&#34;&gt;fals informe&lt;/a&gt;. Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.&lt;/p&gt;
 </description>
