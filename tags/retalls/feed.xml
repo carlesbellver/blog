@@ -6,10 +6,27 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Fri, 31 Mar 2023 21:55:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 14:05:09 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2023/04/03/floridi-chatgpt/</link>
+      <pubDate>Mon, 03 Apr 2023 14:05:09 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2023/04/03/floridi-chatgpt/</guid>
+      <description>&lt;p&gt;Sobre la famosa &lt;a href=&#34;https://futureoflife.org/open-letter/pause-giant-ai-experiments/&#34;&gt;carta oberta&lt;/a&gt; dels autodeclarats experts en Intel·ligència Artificial:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La carta és una barreja de coses: algunes bones i una mica trivials, altres equivocades i de ciència-ficció. El passatge sobre ments digitals superpoderoses sembla tret d’un mal guió de Hollywood. Desinforma i espanta, distrau dels problemes reals. Una mica com donar l&#39;alarma per la possible arribada de zombis.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sobre la intel·ligència de ChapGPT i la seua prohibició a Itàlia:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No, no, un lloro és molt més intel·ligent. GPT-4 s&#39;assembla molt més a, diguem-ne, una “calculadora lingüística”. És una calculadora sintàctica, que tracta el llenguatge natural com si foren matemàtiques: no memoritza i repeteix una solució, sinó que la crea. La pregunta no és quines respostes pot donar, sinó què fem amb aquestes respostes. Ja ho va dir Plató: l&#39;expert és qui, sobretot, sap formular les preguntes correctes. És millor entendre com utilitzar-lo i ensenyar-ho, que prohibir-lo. Em sembla que l&#39;arribada d&#39;aquestes eines, en realitat, purifica la veritable essència de la intel·ligència humana, perquè la desvincula de qualsevol forma d&#39;enciclopedisme, la capacitat de recordar mil fets i la mera erudició. És la pregunta i el propòsit de la pregunta el que marca la diferència.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       
