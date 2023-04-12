@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/04/12/30738/",
+				
+				"content_html": "<p>Aquesta nit sent el soroll del mar a l’orella esquerra. Sense cap closca de caragol ni res.</p>\n<img alt=\"Imatge generada per DALLE·2 mitjançant el prompt següent: “An oil painting by Magritte of a man with a seashell head”\" src=\"/uploads/2023/2023-04-12-30738.jpg\">\n",
+				"date_published": "2023-04-12T22:19:24+02:00",
+				"url": "https://carlesbellver.net/2023/04/12/30738/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/04/03/floridi-chatgpt/",
 				"title": "Luciano Floridi: “Bloquejar ChatGPT és una mesura draconiana. Aprenguem a utilitzar-lo i legislem”",
 				"content_html": "<p>Sobre la famosa <a href=\"https://futureoflife.org/open-letter/pause-giant-ai-experiments/\">carta oberta</a> dels autodeclarats experts en Intel·ligència Artificial:</p>\n<blockquote>\n<p>La carta és una barreja de coses: algunes bones i una mica trivials, altres equivocades i de ciència-ficció. El passatge sobre ments digitals superpoderoses sembla tret d’un mal guió de Hollywood. Desinforma i espanta, distrau dels problemes reals. Una mica com donar l’alarma per la possible arribada de zombis.</p>\n</blockquote>\n<p>Sobre la intel·ligència de ChapGPT i la seua prohibició a Itàlia:</p>\n<blockquote>\n<p>No, no, un lloro és molt més intel·ligent. GPT-4 s’assembla molt més a, diguem-ne, una “calculadora lingüística”. És una calculadora sintàctica, que tracta el llenguatge natural com si foren matemàtiques: no memoritza i repeteix una solució, sinó que la crea. La pregunta no és quines respostes pot donar, sinó què fem amb aquestes respostes. Ja ho va dir Plató: l’expert és qui, sobretot, sap formular les preguntes correctes. És millor entendre com utilitzar-lo i ensenyar-ho, que prohibir-lo. Em sembla que l’arribada d’aquestes eines, en realitat, purifica la veritable essència de la intel·ligència humana, perquè la desvincula de qualsevol forma d’enciclopedisme, la capacitat de recordar mil fets i la mera erudició. És la pregunta i el propòsit de la pregunta el que marca la diferència.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>M'agradaria tenir una comprensió més perfecta de les coses, però no vull comprar-la tan cara com costa. La meva intenció és passar tranquil·lament, i no laboriosament, el que em queda de vida. Per res em veig trencant-me el cap: no per la ciència, per valuosa que sigui. No busco als llibres res que no sigui donar-me plaer amb una diversió honesta; o si estudio, només hi busco la ciència que tracti del coneixement de mi mateix i que m'instrueixi a morir bé i a viure bé.</p>\n</blockquote>\n<p>—Michel de Montaigne, <em>Essais</em> (1595), llibre II, capítol 10.</p>\n",
 				"date_published": "2022-12-26T13:26:30+01:00",
 				"url": "https://carlesbellver.net/2022/12/26/57574/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/12/22/30256/",
-				
-				"content_html": "<p>Bon Nadal.</p>\n<img alt=\"Felicitació de Nadal amb una imatge dels Reis d'Orient extreta de l'Atles Català de Cresques Abraham (1375).\" src=\"/uploads/2022/2022-12-22-30256.jpg\">\n",
-				"date_published": "2022-12-22T18:31:01+01:00",
-				"url": "https://carlesbellver.net/2022/12/22/30256/"
 			}
 	]
 }
