@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/05/01/the-bottle-imp/",
+				"title": "The Bootle Imp",
+				"content_html": "<p>📖 La primera vegada que vaig llegir <em><a href=\"https://en.wikipedia.org/wiki/The_Bottle_Imp\">“The Bottle Imp”</a></em> (“El dimoni de la botella”) de R. L. Stevenson, jo devia tenir vint anys i em van commoure les tribulacions de Keawe. A hores d’ara, el que em meravella del personatge és la seua curtesa tan masculina, tan ben retratada per l’autor: que haja de ser la humil Kokua qui li explique el canvi de moneda, que després no siga capaç d’adonar-se del sacrifici d’ella —en tot idèntic al seu—, que es lliure a la beguda i la maltracte i que només puguen deseixir-se’n els dos junts per sort, per la cobdícia i l’estupidesa encara més gran d’un altre mascle prototípic.</p>\n",
+				"date_published": "2023-05-01T19:31:38+02:00",
+				"url": "https://carlesbellver.net/2023/05/01/the-bottle-imp/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/04/23/angels-dimonis/",
 				
 				"content_html": "<blockquote>\n<p>Potser els àngels<br>\nem mostren el camí,<br>\nperò els meus dimonis<br>\nsón els que m’acompanyen.</p>\n</blockquote>\n<p>—<a href=\"https://twitter.com/tombatossalator/status/1333052124347977731\">Albert Garcia Pascual</a></p>\n<img src=\"/uploads/2023/2023-04-23-angels-dimonis.jpg\" alt=\"Imatge generada per intel·ligència artificial: pintura a l'oli d'un àngel i un dimoni, estil manuscrit medieval\">",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📖 <em>Un poco menos que ángeles</em>. No recorde com vaig descobrir <a href=\"https://en.wikipedia.org/wiki/Barbara_Pym\">Barbara Pym</a> (primera en la llista d’escriptores i escriptors britànics més injustament menystinguts, segons Philip Larkin i David Cecil). Més moderna que Jane Austen, més subtil que Evelyn Waugh. <em>Less Than Angels</em> és una de les novel·les més memorables que vaig llegir el 2022. Els alts i baixos de l’amor, molt d’humor i observació perspicaç de la vida d’homes i dones, a casa i a la facultat d’antropologia.</p>\n",
 				"date_published": "2023-01-03T20:08:04+01:00",
 				"url": "https://carlesbellver.net/2023/01/03/72876/"
-			},
-			{
-				"id": "https://carlesbellver.net/2022/12/31/06424/",
-				
-				"content_html": "<p>L’any que ve ja toca.</p>\n<img alt=\"Pintura a l'oli d'un ovni sobre un camp per DALLE·2\" src=\"/uploads/2022/2022-12-31-06424.jpg\">\n",
-				"date_published": "2022-12-31T18:07:14+01:00",
-				"url": "https://carlesbellver.net/2022/12/31/06424/"
 			}
 	]
 }
