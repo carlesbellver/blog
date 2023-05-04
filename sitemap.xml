@@ -3,8 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://carlesbellver.net/</loc>
-    <lastmod>2023-05-04T15:49:58+02:00</lastmod>
+    <lastmod>2023-05-04T22:10:05+02:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://carlesbellver.net/2023/05/04/tempesta-roques/</loc>
+    <lastmod>2023-05-04T22:10:05+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/posts/</loc>
+    <lastmod>2023-05-04T22:10:05+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/retalls/</loc>
+    <lastmod>2023-05-04T22:10:05+02:00</lastmod>
+  </url><url>
+    <loc>https://carlesbellver.net/tags/</loc>
+    <lastmod>2023-05-04T22:10:05+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/tmp/</loc>
     <lastmod>2023-05-04T15:49:58+02:00</lastmod>
@@ -15,13 +27,7 @@
     <loc>https://carlesbellver.net/2023/05/01/the-bottle-imp/</loc>
     <lastmod>2023-05-01T19:31:38+02:00</lastmod>
   </url><url>
-    <loc>https://carlesbellver.net/posts/</loc>
-    <lastmod>2023-05-01T19:31:38+02:00</lastmod>
-  </url><url>
     <loc>https://carlesbellver.net/tags/ressenyes/</loc>
-    <lastmod>2023-05-01T19:31:38+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/</loc>
     <lastmod>2023-05-01T19:31:38+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2023/04/23/angels-dimonis/</loc>
@@ -37,9 +43,6 @@
     <lastmod>2023-04-12T22:19:24+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2023/04/03/floridi-chatgpt/</loc>
-    <lastmod>2023-04-03T14:05:09+02:00</lastmod>
-  </url><url>
-    <loc>https://carlesbellver.net/tags/retalls/</loc>
     <lastmod>2023-04-03T14:05:09+02:00</lastmod>
   </url><url>
     <loc>https://carlesbellver.net/2023/04/02/tota-la-veritat/</loc>
