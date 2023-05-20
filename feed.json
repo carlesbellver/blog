@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/05/20/bees-artists/",
+				"title": "Bees can do so much more than you think – from dancing to being little art critics",
+				"content_html": "<p>📎 <a href=\"https://theconversation.com/bees-can-do-so-much-more-than-you-think-from-dancing-to-being-little-art-critics-204039\">Bees can do so much more than you think – from dancing to being little art critics</a></p>\n<blockquote>\n<p>La capacitat de memorització de les abelles no es limita a les flors. En un exemple, les abelles eren recompensades cada vegada que visitaven un quadre d’un artista &quot;amb premi” (o Monet o Picasso). Quan se’ls presentaven quadres que no havien vist abans, seguien encertant quin era el pintor que tenia premi, la qual cosa suggereix que poden discriminar estils pictòrics.</p>\n</blockquote>\n",
+				"date_published": "2023-05-20T19:37:30+02:00",
+				"url": "https://carlesbellver.net/2023/05/20/bees-artists/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/05/04/tempesta-roques/",
 				"title": "Presentació de LA TEMPESTA CONTRA LES ROQUES. POESIA I MEMÒRIA D’ALBERT GARCIA PASCUAL",
 				"content_html": "<img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/calendar.svg\" /> <a href=\"/uploads/2023/2023-05-07-invite.ics\" class=\"ical small\">Afegeix l’esdeveniment a l’agenda</a>\n<p>El pròxim diumenge 7 de maig, a les 18:30, presentarem en la Fira del Llibre de Castelló l’obra col·lectiva <em>La tempesta contra les roques. Poesia i memòria d’Albert Garcia Pascual</em>. A continuació, les companyes i companys d’El Pont recitaran alguns dels poemes del llibre.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>La <a href=\"https://maggieappleton.com/cozy-web\">teoria del bosc fosc</a> de la xarxa fa referència a l’estat del món en línia, cada vegada més semblant al món real i al mateix temps més mancat de realitat. La majoria d'espais web oberts i públicament accessibles estan ocupats per robots, anunciants, trolls, extractors de dades, pescaclics, &quot;creadors de contingut&quot; farcits de paraules clau i brossa manipulada algorítmicament.</p>\n</blockquote>\n<p>El nou repte, diu Maggie Appleton, és provar que no som algoritmes d’intel·ligència artificial: una mena de test de Turing invers. En aquest apunt del seu web esbossa cinc opcions, les més interessants de les quals serien les tres primeres:</p>\n<ol>\n<li><strong>Triangular la realitat objectiva</strong>. Com més específic i local siga el context, quant més contacte hi haja amb el món real, més inassolible seria el resultat per a una IA que no pot contrastar les dades amb cap font externa (ací, per cert, rau també la solució del pseudoproblema del plagi en els treballs acadèmics).</li>\n<li><strong>Ser originals, crítics i sofisticats</strong>. Fugir de la mediocritat: és a dir, de l’estadística que alimenta les IA. Els models probabilístics “escupen text que sona a treball de notable alt… Això apujarà el nivell d’exigència per a tothom”.</li>\n<li><strong>Desenvolupar un estil personal</strong>. En termes de lingüística clàssica: “Hem codificat <em>la langue</em> en un punt exacte del temps. El que ens queda per a jugar és <em>la parla</em>.” L’estil, recordem, <a href=\"/2019/12/10/i-know-jerry.html\">“és allò que fas <em>malament</em>”</a>, allò que no pots deixar de fer i et caracteritza, segons Neil Gaiman/Jerry Garcia.</li>\n</ol>\n",
 				"date_published": "2023-01-06T20:02:14+01:00",
 				"url": "https://carlesbellver.net/2023/01/06/dark-forest/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/01/05/panoli/",
-				"title": "panoli",
-				"content_html": "<blockquote>\n<p>Del valenciano <em>panoli</em>; propiamente ‘fruta de sartén’, contracc. de <em>pa en oli</em> ‘pan con aceite’, en cat. <em>pa amb oli</em>.</p>\n<ol>\n<li><em>adj. coloq.</em> Dicho de una persona: Simple y fácil de engañar. <em>U. t. c. s.</em></li>\n</ol>\n</blockquote>\n<p>—RAE</p>\n<img alt=\"Panoli a l'aparador d'una pastisseria\" src=\"/uploads/2023/2023-01-05-panoli.jpg\">\n",
-				"date_published": "2023-01-05T13:13:41+01:00",
-				"url": "https://carlesbellver.net/2023/01/05/panoli/"
 			}
 	]
 }
