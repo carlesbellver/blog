@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/05/28/impugnacio/",
+				"title": "Impugnació de Kavafis",
+				"content_html": "<blockquote>\n<p>El viatge mai s’acaba, ho hem de saber,<br>\ni és el camí el que desgasta,<br>\ndescantella l’ànima,<br>\nesgota els somnis.<br>\nTant que sembla que al final<br>\narribar no importa.</p>\n</blockquote>\n<p>—Albert Garcia Pascual, “Ítaca” (<em>Albes</em>, 2019)</p>\n<p>Sé que li va fer il·lusió que li diguera que havia impugnat Kavafis, ni més ni menys. I per això el títol de la meua col·laboració en <a href=\"https://www.elpontdeleslletres.cat/2023/05/09/la-tempesta-contra-les-roques/\"><em>La tempesta contra les roques</em></a>, el llibre que li vam dedicar des d’El Pont i que ara podeu baixar gratis en formats digitals o comprar en paper a les llibreries de Castelló.</p>\n<p><a href=\"/contes/impugnacio\">“Impugnació de Kavafis”</a> és, per tant, una resposta al poema d’Albert. Però igualment reprèn temes (i bromes) d’un parell dels seus <em>Contes inversos</em> amb què va guanyar el premi Josep Pascual Tirado l’any 2005. Crec que a ell li hauria fet gràcia.</p>\n<p>Vegeu també, o millor, la <a href=\"https://www.porcar.net/2023/05/28/filagarsa-poema-homenatge/\">“Filagarsa”</a> poètica de Josep Porcar.</p>\n",
+				"date_published": "2023-05-28T18:14:23+02:00",
+				"url": "https://carlesbellver.net/2023/05/28/impugnacio/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/05/28/workoftime/",
 				"title": "Great Work of Time",
 				"content_html": "<p>📖 John Crowley, <a href=\"https://en.wikipedia.org/wiki/Great_Work_of_Time\"><em>Great Work of Time</em></a> (1989). Subtil i intricat, possiblement el relat definitiu sobre viatges en el temps. El testament de Cecil Rhodes, certa societat secreta i una “lògica ortogonal” que connecta el passat amb futurs possibles. A la segona lectura crec que he entès tots els punts clau de la trama. (M’agraden els llibres en què no et pots saltar ni una paraula. La qual cosa em fa recordar aquell lector que <a href=\"/opinions/#2011.2\">es queixava dels meus contes</a>.)</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Últimament he fet bastants proves amb ChatGPT, he llegit sobre el tema i n’hem parlat molt a la feina, fins que hem arribat a plasmar algunes idees en un <a href=\"https://cent.uji.es/pub/chatgpt\">document</a> adreçat al professorat. Però em fa l’efecte que algunes persones que han opinat sobre aquesta tecnologia han tingut accés a una versió més potent i més fiable que la meua. No el ChatGPT Plus de 20 €/m, sinó un encara millor, potser exclusiu per a iniciats. Només així m’explique les seues aparents exageracions.</p>\n",
 				"date_published": "2023-02-16T16:32:49+01:00",
 				"url": "https://carlesbellver.net/2023/02/16/chatgpt/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/02/02/60696/",
-				"title": "Enshittification",
-				"content_html": "<p>En català, com en francès, no necessitem cap neologisme per expressar l’estat actual d’Internet.</p>\n<blockquote>\n<p>…<em>emmerder</em> already exists and has its own shades of meaning.</p>\n</blockquote>\n",
-				"date_published": "2023-02-02T18:59:11+01:00",
-				"url": "https://carlesbellver.net/2023/02/02/60696/"
 			}
 	]
 }
