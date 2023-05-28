@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/05/28/workoftime/",
+				"title": "Great Work of Time",
+				"content_html": "<p>📖 John Crowley, <a href=\"https://en.wikipedia.org/wiki/Great_Work_of_Time\"><em>Great Work of Time</em></a> (1989). Subtil i intricat, possiblement el relat definitiu sobre viatges en el temps. El testament de Cecil Rhodes, certa societat secreta i una “lògica ortogonal” que connecta el passat amb futurs possibles. A la segona lectura crec que he entès tots els punts clau de la trama (la qual cosa m’ha fet recordar aquell lector que <a href=\"/opinions/#2011.2\">es queixava dels meus contes</a>.</p>\n",
+				"date_published": "2023-05-28T09:30:29+02:00",
+				"url": "https://carlesbellver.net/2023/05/28/workoftime/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/05/23/hip-hop/",
 				"title": "The Future of Writing Is a Lot Like Hip-Hop",
 				"content_html": "<p>Stephen Marche ha escrit una novel·la utilitzant ChatGPT, Sudowrite i Cohere. Compara el procés al hip-hop: remesclar amb gràcia segments preexistents. Com més conegues el teu material —els estils, la història precedent de la música o de la literatura—, millors seran les teues (re)creacions.</p>\n<p>A mi no em sona tan diferent del que han fet fins ara els bons escriptors.</p>\n<blockquote>\n<p>En primer lloc, tenia un pla elaborat per al llibre. En segon lloc, tinc una familiaritat pregona amb la tecnologia i accés a algunes eines que altres no tenien, així que era més conscient de les limitacions i les possibilitats. Finalment, i amb diferència el més important, sé què és escriure bé. Sé qui ha d’imitar Sudowrite (i puc articular per què), i sé com són una frase polida i un paràgraf ben acabat. Necessites <em>més</em> comprensió de l'estil literari, no menys. L’analogia més propera a aquest procés és el hip-hop. Per a fer hip-hop, no cal saber tocar la bateria, però sí que cal poder fer referència a tota la història dels <em>beats</em> i <em>hooks</em>.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>En català, com en francès, no necessitem cap neologisme per expressar l’estat actual d’Internet.</p>\n<blockquote>\n<p>…<em>emmerder</em> already exists and has its own shades of meaning.</p>\n</blockquote>\n",
 				"date_published": "2023-02-02T18:59:11+01:00",
 				"url": "https://carlesbellver.net/2023/02/02/60696/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/01/21/catalunya-roja/",
-				"title": "Catalunya Roja",
-				"content_html": "<p>Ignacio Sánchez-Cuenca sobre les diferències ideològiques a l’UE i a Espanya. Segons l’<a href=\"https://www.europarl.europa.eu/at-your-service/es/be-heard/eurobarometer/2019-european-elections-entered-a-new-dimension\">Eurobaròmetre</a> posterior a les eleccions de 2019, Espanya és el país més esquerrà d’Europa (4,4) i Romania el més dretà (6,1). Catalunya (3,6) i Euskadi són les més <em>roges</em>, i Madrid (4,9) la que menys. L'escala va del zero (extrema esquerra) al deu (extrema dreta).</p>\n<p>Diversos factors poden explicar que la gent opine de mitjana d’una manera i vote (almenys aparentment) d’una altra manera. Però el que m’han fet evocar aquestes dades és una altra cosa. Allò que va dir Joan Fuster (<a href=\"https://elramellet.blogspot.com/2011/06/sera-desquerres-o-no-sera.html\">en una entrevista amb Amadeu Fabregat</a>): <em>que el País Valencià seria d’esquerres o no seria</em>. Si l’<em>statu quo</em> ja et va bé —i per això ets conservador—, per què hauries de voler canviar-lo?</p>\n<blockquote>\n<p>La percepción de una parte importante de las poblaciones catalana y vasca de que sus respectivas naciones no gozan del reconocimiento nacional que deberían tener, o la creencia de que sufren algún tipo de discriminación o maltrato, produce una tensión política entre centro y periferia que desplaza los valores ideológicos hacia la izquierda.</p>\n</blockquote>\n",
-				"date_published": "2023-01-21T13:40:51+01:00",
-				"url": "https://carlesbellver.net/2023/01/21/catalunya-roja/"
 			}
 	]
 }
