@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/05/29/beagle-boys/",
+				
+				"content_html": "<p>No he entès mai que es parle de les eleccions en termes de si ha guanyat aquest partit o ha perdut aquell altre, com si això fora una competició futbolística. Em pensava que es tractava de triar els nostres representats i els nostres governs. O no hem eixit mai del pati de l’escola?</p>\n<p>Qui guanya o perd, en tot cas, som nosaltres. El conjunt de la societat. Així que no crec que avui —ahir— haja guanyat quasi ningú, tret dels quaranta lladres ja coneguts.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Beagle_Boys\"><img src=\"/uploads/2023/2023-05-29-beagle-boys.jpg\" alt=\"Vinyeta dels Beagle Boys o Golfos Apandadores de Disney.\"></a></p>\n",
+				"date_published": "2023-05-29T22:35:52+02:00",
+				"url": "https://carlesbellver.net/2023/05/29/beagle-boys/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/05/28/impugnacio/",
 				"title": "Impugnació de Kavafis",
 				"content_html": "<blockquote>\n<p>El viatge mai s’acaba, ho hem de saber,<br>\ni és el camí el que desgasta,<br>\ndescantella l’ànima,<br>\nesgota els somnis.<br>\nTant que sembla que al final<br>\narribar no importa.</p>\n</blockquote>\n<p>—Albert Garcia Pascual, “Ítaca” (<em>Albes</em>, 2019)</p>\n<p>Sé que li va fer il·lusió que li diguera que havia impugnat Kavafis, ni més ni menys. I per això el títol de la meua col·laboració en <a href=\"https://www.elpontdeleslletres.cat/2023/05/09/la-tempesta-contra-les-roques/\"><em>La tempesta contra les roques</em></a>, el llibre que li vam dedicar des d’El Pont i que ara podeu baixar gratis en formats digitals o comprar en paper a les llibreries de Castelló.</p>\n<p><a href=\"/contes/impugnacio\">“Impugnació de Kavafis”</a> és, per tant, una resposta al poema d’Albert. Però igualment reprèn temes (i bromes) d’un parell dels seus <em>Contes inversos</em> amb què va guanyar el premi Josep Pascual Tirado l’any 2005. Crec que a ell li hauria fet gràcia.</p>\n<p>Vegeu també, o millor, la <a href=\"https://www.porcar.net/2023/05/28/filagarsa-poema-homenatge/\">“Filagarsa”</a> poètica de Josep Porcar.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una &quot;continuació raonable&quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.</p>\n<p>El que fa, bàsicament, és preguntar-se una vegada i una altra: &quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?&quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un <em>token</em>, que podria ser només una part d'una paraula, i per això de vegades pot &quot;inventar&quot; paraules noves.)</p>\n<p>A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa &quot;pla&quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l'atzar paraules amb menys probabilitat, obtenim un text més &quot;interessant&quot;.</p>\n</blockquote>\n",
 				"date_published": "2023-02-23T09:44:05+01:00",
 				"url": "https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/02/16/chatgpt/",
-				
-				"content_html": "<p>Últimament he fet bastants proves amb ChatGPT, he llegit sobre el tema i n’hem parlat molt a la feina, fins que hem arribat a plasmar algunes idees en un <a href=\"https://cent.uji.es/pub/chatgpt\">document</a> adreçat al professorat. Però em fa l’efecte que algunes persones que han opinat sobre aquesta tecnologia han tingut accés a una versió més potent i més fiable que la meua. No el ChatGPT Plus de 20 €/m, sinó un encara millor, potser exclusiu per a iniciats. Només així m’explique les seues aparents exageracions.</p>\n",
-				"date_published": "2023-02-16T16:32:49+01:00",
-				"url": "https://carlesbellver.net/2023/02/16/chatgpt/"
 			}
 	]
 }
