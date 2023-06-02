@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/06/01/riera/",
+				
+				"content_html": "<blockquote>\n<p>He fet moltes coses i he tractat molta gent estranya, però no havia estat mai a Castelló de la Plana.</p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Marcel_Riera_i_Bou\">Marcel Riera</a>, traductor, en la presentació de <a href=\"https://www.salze.cat/producte/la-claror-al-jardi-louis-macneice/\"><em>La claror al jardí</em></a>, antologia de poemes de <a href=\"https://en.wikipedia.org/wiki/Louis_MacNeice\">Louis MacNeice</a> (Salze Editorial).</p>\n",
+				"date_published": "2023-06-01T20:25:05+02:00",
+				"url": "https://carlesbellver.net/2023/06/01/riera/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/05/29/beagle-boys/",
 				
 				"content_html": "<p>No he entès mai que es parle de les eleccions en termes de si ha guanyat aquest partit o ha perdut aquell altre, com si això fora una competició futbolística. Em pensava que es tractava de triar els nostres representats i els nostres governs. O no hem eixit mai del pati de l’escola?</p>\n<p>Qui guanya o perd, en tot cas, som nosaltres. El conjunt de la societat. Així que no crec que avui —ahir— haja guanyat quasi ningú, tret dels quaranta lladres ja coneguts.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Beagle_Boys\"><img src=\"/uploads/2023/2023-05-29-beagle-boys.jpg\" alt=\"Vinyeta dels Beagle Boys o Golfos Apandadores de Disney.\"></a></p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>L’article de Manuel Castells sobre ChatGPT és una perfecta il·lustració d’on pot arribar avui en dia aquesta eina. Quan algú pensa que el nivell del text generat és bo, sol ser perquè ell mateix no domina el tema.</p>\n",
 				"date_published": "2023-02-25T16:04:14+01:00",
 				"url": "https://carlesbellver.net/2023/02/25/37429/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/",
-				"title": "What Is ChatGPT Doing… and Why Does It Work?",
-				"content_html": "<blockquote>\n<p>El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una &quot;continuació raonable&quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.</p>\n<p>El que fa, bàsicament, és preguntar-se una vegada i una altra: &quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?&quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un <em>token</em>, que podria ser només una part d'una paraula, i per això de vegades pot &quot;inventar&quot; paraules noves.)</p>\n<p>A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa &quot;pla&quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l'atzar paraules amb menys probabilitat, obtenim un text més &quot;interessant&quot;.</p>\n</blockquote>\n",
-				"date_published": "2023-02-23T09:44:05+01:00",
-				"url": "https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/"
 			}
 	]
 }
