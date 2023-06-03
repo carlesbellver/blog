@@ -6,6 +6,13 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2023/06/03/15301/",
+        "date_published": "2023-06-03T20:01:53+02:00",
+        "url": "/2023/06/03/15301/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-06-03-15301.jpg",
+        "content_text": "Sala Sant Miquel. Canvi de paradigma. Col·lecció Juan Redón.\n"
+    },
+    {
         "id": "/2023/04/23/angels-dimonis/",
         "date_published": "2023-04-23T23:30:50+02:00",
         "url": "/2023/04/23/angels-dimonis/",

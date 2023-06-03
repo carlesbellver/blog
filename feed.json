@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/06/03/15301/",
+				
+				"content_html": "<p>Sala Sant Miquel. <a href=\"https://www.fundacioncajacastellon.es/cambio-de-paradigma-coleccion-juan-redon/\">Canvi de paradigma. Col·lecció Juan Redón</a>.</p>\n<img alt=\"Foto de la sala d’exposicions Sant Miquel de la Fundació Caixa Castelló.\" src=\"/uploads/2023/2023-06-03-15301.jpg\">\n",
+				"date_published": "2023-06-03T20:01:53+02:00",
+				"url": "https://carlesbellver.net/2023/06/03/15301/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/06/01/riera/",
 				
 				"content_html": "<blockquote>\n<p>He fet moltes coses i he tractat molta gent estranya, però no havia estat mai a Castelló de la Plana.</p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Marcel_Riera_i_Bou\">Marcel Riera</a>, traductor, en la presentació de <a href=\"https://www.salze.cat/producte/la-claror-al-jardi-louis-macneice/\"><em>La claror al jardí</em></a>, antologia de poemes de <a href=\"https://en.wikipedia.org/wiki/Louis_MacNeice\">Louis MacNeice</a> (Salze Editorial).</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Dues coses que em feien sentir molta angúnia quan era menut: les misses i el flamenc. Encara procure evitar-les.</p>\n",
 				"date_published": "2023-02-26T09:30:11+01:00",
 				"url": "https://carlesbellver.net/2023/02/26/00207/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/02/25/37429/",
-				"title": "ChatGPT",
-				"content_html": "<p>L’article de Manuel Castells sobre ChatGPT és una perfecta il·lustració d’on pot arribar avui en dia aquesta eina. Quan algú pensa que el nivell del text generat és bo, sol ser perquè ell mateix no domina el tema.</p>\n",
-				"date_published": "2023-02-25T16:04:14+01:00",
-				"url": "https://carlesbellver.net/2023/02/25/37429/"
 			}
 	]
 }
