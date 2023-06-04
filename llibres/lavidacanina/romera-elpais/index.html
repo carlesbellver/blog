@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Contes de bojos</title>
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1685895323" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color: #cc3333; /* #599ada; */
+--link-state-color: #cc3333;
+--link-state-border-color: rgba(204, 51, 51, 0.5);
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1685895323" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1685895323" />
+
+
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="Contes de bojos"/>
+<meta property="og:description" content="Ressenya de “La vida canina” per Marc Romera. Publicada originalment en el suplement Quadern d’El País, 11 de maig de 2006." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/llibres/lavidacanina/romera-elpais/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2006-05-11T00:00:00+00:00" />
+<meta property="article:modified_time" content="2006-05-11T00:00:00+00:00" />
+
+<meta name="twitter:title" content="Contes de bojos"/>
+<meta name="twitter:description" content="Ressenya de “La vida canina” per Marc Romera. Publicada originalment en el suplement Quadern d’El País, 11 de maig de 2006."/>
+
+
+
+
+<meta name="page-source-path" content="llibres/lavidacanina/romera-elpais.md">
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net//about">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/" title="">Blog</a>
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Tema fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Tema clar" : "Tema fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li>
+          
+            <a href="https://carlesbellver.net/llibres/lavidacanina/" title="La vida canina">La vida canina</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header">
+        <h1 class="post-title">Contes de bojos</h1>
+      </header>      
+      
+      
+      
+      
+        <div class="author">
+          Marc Romera
+        </div>
+      
+      
+        <div class="note">
+          Ressenya de <a href="https://carlesbellver.net/llibres/lavidacanina/"><em>La vida canina</em></a> publicada originalment en el suplement Quadern d’<a href="http://elpais.com/diario/2006/05/11/quaderncat/1147308321_850215.html">El País, 11 de maig de 2006</a>.
+        </div>
+      
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Un dels relats més interessants, potser perquè és el primer i això fa que sigui el que ens agafi més atents a la novetat i més expectants, oberts a allò que ens podem trobar en aquest llibre, és el que actua com a pròleg. En ell, el narrador enceta el joc, ja de tots conegut i tan antic com <em>Les mil i una nits</em>, el <em>Decameró</em> o els <em>Contes de Canterbury</em>, joc que s'ha anat repetint al llarg de la història del relat curt fins als nostres dies, que consisteix a reunir un grup de persones cadascuna de les quals ha d'explicar una història i tot plegat. A diferència del que passa a <em>El bar sota la mar</em>, de Stefano Benni, on els narradors consecutius es reuneixen en un bar situat a les profunditats marines, a <em>La vida canina</em> Carles Bellver no reuneix els narradors dels seus contes sinó que, actuant de Cide Hamete, afirma haver trobat una carpeta que contenia &quot;narracions en primera persona, històries quotidianes de metges, de veïns, de problemes laborals, d'amors complicats o frustrats. Dèries i cabòries, confessions gairebé anecdòtiques, si no fos pel tomb absurd i inversemblant sempre present&quot;, i aquesta carpeta la troba en un gabinet psiquiàtric que ha estat tancat recentment. El narrador, a partir d'aquí, afirma que només s'ha limitat a reescriure els textos i a demanar permís, un per un, als autors-pacients per poder-los publicar. Fins aquí, la cosa promet molt. Però així com, per posar un exemple, els contes de Benni estan narrats per cada un dels personatges del bar i cada personatge té el seu estil i la seva veu narrativa pròpia, i fins i tot en el gènere es diferencien, en aquests relats de <em>La vida canina</em> no som capaços de discernir entre un narrador i un altre i ens és difícil, fins i tot, en molts casos, esbrinar quina és la possible malaltia mental que hauria pogut conduir aquest narrador a la consulta psiquiàtrica del doctor (impostor) que també ens regala un dels relats. Aquest, el de descobrir quina és la malaltia mental de cada narrador, hauria estat un joc interessant per al lector actiu, i hauria dotat el llibre d'un interès afegit als que ja té, però, deixant a part un complex d'inferioritat molt semblant al d'un anunci d'aire condicionat on un pseudo-Allen se sent ignorat a cal psicoanalista, que sembla afectar el narrador de <em>L'home invisible</em>, i alguns altres trastorns poc definits que deformen la realitat o creen monstres o veus inexistents en altres contes, el lector poques vegades es pot fer a la idea de qui és el narrador. A tot això hi contribueix el fet que tots els contes estan escrits en primera persona i cap diferenciació en la intenció envers el llenguatge no els singularitza, és a dir, que malgrat tota la intenció del pròleg ens trobem davant un llibre totalment unitari tant pel que fa a l'estil com pel que fa la temàtica de cada narració. I això no ho remarquem com a defecte, en absolut, que ja el mateix <em>Quixot</em>, malgrat les mans de Cide Hamete, és absolutament cervantí en totes les novel·letes narrades per personatges que conté i en tots els seus capítols i en cada una de les seves parts.</p>
+<p>Amb tot, aquesta unitat d'estil es pot afirmar que beneficia el conjunt i transporta el lector d'un a l'altre relat com empenyent-lo amb algun estrany mecanisme de continuïtat, mecanisme que podria haver estat trobat entre els estranys artefactes del gabinet psiquiàtric del fals doctor Beauvoir, autor, també, d'un dels relats. I aquesta necessitat de continuar la lectura d'un relat amb la del relat següent és en part deguda a la màgia que Carles Bellver sap imprimir als seus contes i a la capacitat de generar un interès lector sense haver d'arribar a finals conclusius i sorprenents. Molts dels contes creen una expectativa que no es resol al final i això manté l'atenció del lector i aquesta necessitat de passar al següent conte i la frustració final d'aquest conte et porta al següent i només en alguns dels finals hi ha una aparença de conclusió; conclusió que no acaba de ser possible donada la inversemblança i la irrealitat de moltes d'aquestes històries que podríem situar a cavall del relat fantàstic i del surrealisme, però que també són germanes de Calders o cosines de Cortázar i de l'escriptura patafísica i imaginativa del Boris Vian més delirant i líric.</p>
+
+
+        
+      </div>
+            
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/llibres/lavidacanina/romera-elpais/"><span class="post-date dt-published">2006-05-11</span></a></li>
+      
+      <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 4 minuts</span></li>
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+    
+    
+
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2023
+        </p>  
+        </div> 
+
+    </div>
+</footer>
+
+        
+    </div>
+</body>
+</html>
