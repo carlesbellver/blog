@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/06/07/internet-most-used-languages/",
+				"title": "What languages dominate the internet?",
+				"content_html": "<blockquote>\n<p>Si busqueu, podeu trobar centenars d'idiomes en línia, des de l'urdú fins al català. Però alguns idiomes són més difícils de trobar que altres […] Milions de parlants no nadius d'anglès i no angloparlants estan limitats a utilitzar la web en una llengua que no és la seua materna.</p>\n</blockquote>\n",
+				"date_published": "2023-06-07T22:29:13+02:00",
+				"url": "https://carlesbellver.net/2023/06/07/internet-most-used-languages/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/06/03/15301/",
 				
 				"content_html": "<p>Sala Sant Miquel. <a href=\"https://www.fundacioncajacastellon.es/cambio-de-paradigma-coleccion-juan-redon/\">Canvi de paradigma. Col·lecció Juan Redón</a>.</p>\n<img alt=\"Foto de la sala d’exposicions Sant Miquel de la Fundació Caixa Castelló.\" src=\"/uploads/2023/2023-06-03-15301.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Segons un tòpic sortosament anacrònic, el funcionari que pencava <em>massa</em> feia quedar malament els seus companys més parsimoniosos i els posava en un compromís. Aquesta nit he somniat que la institució pública on treballe regulava —vigilava i castigava— l’“excés de dedicació” (sic). Quina ànsia he passat.</p>\n",
 				"date_published": "2023-02-28T07:30:10+01:00",
 				"url": "https://carlesbellver.net/2023/02/28/65807/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/02/26/00207/",
-				
-				"content_html": "<p>Dues coses que em feien sentir molta angúnia quan era menut: les misses i el flamenc. Encara procure evitar-les.</p>\n",
-				"date_published": "2023-02-26T09:30:11+01:00",
-				"url": "https://carlesbellver.net/2023/02/26/00207/"
 			}
 	]
 }
