@@ -6,6 +6,14 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2023/07/14/roman/",
+        "title": "La novel·la de Wittgenstein",
+        "date_published": "2023-07-14T16:35:45+02:00",
+        "url": "/2023/07/14/roman/",
+        "image": "https://carlesbellver.net/uploads/2023/2023-07-13-roman.jpg",
+        "content_text": " Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein.\n"
+    },
+    {
         "id": "/2023/06/03/15301/",
         "date_published": "2023-06-03T20:01:53+02:00",
         "url": "/2023/06/03/15301/",
