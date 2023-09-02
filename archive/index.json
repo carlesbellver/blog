@@ -1,5 +1,12 @@
 [
       {
+        "title": "Don’t Fire Your Illustrator",
+        "date_published": "2023-08-28T12:37:28+02:00",
+        "url": "/2023/08/28/stable-diffusion/",
+        "tags": "retalls",
+        "content_text": "Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.\nEls usuaris juguen a un joc gacha, una màquina escurabutxaques de creació d’imatges. Escriuen els seus prompts amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.\nQuadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’Unicorns. Intents successius d’afinar el prompt cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.\n"
+      },
+      {
         "date_published": "2023-07-22T20:04:25+02:00",
         "url": "/2023/07/22/49043/",
         "tags": "fotos, Castelló",
@@ -2498,7 +2505,7 @@
         "date_published": "2019-09-03T20:48:00+00:00",
         "url": "/2019/09/03/all-these-prints.html",
         "tags": "retalls",
-        "content_text": "Impressions d\u0026#39;art modern generades en línia cada trenta segons. “Probablement tindreu només una oportunitat per a baixar-les”.\n"
+        "content_text": "Impressions d\u0026#39;art modern generades en línia cada trenta segons.\nProbablement tindreu només una oportunitat per a baixar-les.\n"
       },
       {
         "date_published": "2019-08-29T13:51:32+00:00",

@@ -6,10 +6,24 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Fri, 14 Jul 2023 16:35:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2023 12:37:28 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2023/08/28/stable-diffusion/</link>
+      <pubDate>Mon, 28 Aug 2023 12:37:28 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2023/08/28/stable-diffusion/</guid>
+      <description>&lt;p&gt;Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Els usuaris juguen a un joc &lt;a href=&#34;https://es.wikipedia.org/wiki/Videojuego_gacha&#34;&gt;gacha&lt;/a&gt;, una màquina escurabutxaques de creació d’imatges. Escriuen els seus &lt;em&gt;prompts&lt;/em&gt; amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Quadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;&lt;em&gt;Unicorns&lt;/em&gt;&lt;/a&gt;. Intents successius d’afinar el &lt;em&gt;prompt&lt;/em&gt; cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
@@ -361,7 +375,7 @@ arribar no importa.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2022/09/01/gorbachov/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro gangster global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.&lt;/p&gt;
+&lt;p&gt;En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro &lt;em&gt;gangster&lt;/em&gt; global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -2277,7 +2291,10 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Tue, 03 Sep 2019 20:48:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2019/09/03/all-these-prints.html</guid>
-      <description>&lt;p&gt;Impressions d&#39;art modern generades en línia cada trenta segons. “Probablement tindreu només una oportunitat per a baixar-les”.&lt;/p&gt;
+      <description>&lt;p&gt;Impressions d&#39;art modern generades en línia cada trenta segons.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Probablement tindreu només una oportunitat per a baixar-les.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

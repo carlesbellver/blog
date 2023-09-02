@@ -1,5 +1,12 @@
 [
 			{
+				"title": "Don’t Fire Your Illustrator",
+				"date_published": "2023-08-28T12:37:28+02:00",
+				"url": "/2023/08/28/stable-diffusion/",
+				"tags": "retalls",
+				"content_text": "\nSam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.\n\n\u003e Els usuaris juguen a un joc [gacha](https://es.wikipedia.org/wiki/Videojuego_gacha), una màquina escurabutxaques de creació d’imatges. Escriuen els seus *prompts* amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.\n\nQuadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’[*Unicorns*](https://carlesbellver.net/contes/unicorns). Intents successius d’afinar el *prompt* cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat."
+			},
+			{
 				"title": ,
 				"date_published": "2023-07-22T20:04:25+02:00",
 				"url": "/2023/07/22/49043/",
@@ -438,7 +445,7 @@
 				"date_published": "2022-09-01T19:07:53+02:00",
 				"url": "/2022/09/01/gorbachov/",
 				"tags": "retalls",
-				"content_text": "\n\n\u003e En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro gangster global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.\n"
+				"content_text": "\n\n\u003e En la operación de la reunificación alemana, cometió un error monumental sobre el que discutimos acaloradamente en varias ocasiones: podría haber condicionado la reunificación a la firma de un documento que excluyera la pertenencia de Alemania a la OTAN así como su ampliación al Este, aspecto que quedó en poco más que declaraciones verbales de buenas intenciones. Gorbachov no lo hizo pese a que la opinión pública alemana estaba claramente de acuerdo con ello. El oportunismo occidental, y en especial de Estados Unidos, que sin la OTAN perdía su control sobre Europa; el caos ruso de los años noventa, con tres golpes de Estado, y la ansiedad de los antiguos vasallos de Moscú por ser vasallos de Washington, pusieron el resto. Por todo ello, la retirada imperial de Rusia no contribuyó a la necesaria integración mundial, sino al avance y crecimiento del otro *gangster* global de la Guerra Fría que desde entonces va de una guerra a otra. Fue una gran ocasión perdida. Esperemos que no sea irremediable para la humanidad y el planeta.\n"
 			},
 			{
 				"title": ,
@@ -2650,7 +2657,7 @@
 				"date_published": "2019-09-03T20:48:00+00:00",
 				"url": "/2019/09/03/all-these-prints.html",
 				"tags": "retalls",
-				"content_text": "\n\nImpressions d'art modern generades en línia cada trenta segons. “Probablement tindreu només una oportunitat per a baixar-les”.\n"
+				"content_text": "\n\nImpressions d'art modern generades en línia cada trenta segons.\n\n\u003e Probablement tindreu només una oportunitat per a baixar-les.\n"
 			},
 			{
 				"title": ,

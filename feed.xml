@@ -6,8 +6,21 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Mon, 21 Aug 2023 16:33:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2023 12:37:28 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title>Don’t Fire Your Illustrator</title>
+      <link>https://carlesbellver.net/2023/08/28/stable-diffusion/</link>
+      <pubDate>Mon, 28 Aug 2023 12:37:28 +0200</pubDate>
+      <guid>https://carlesbellver.net/2023/08/28/stable-diffusion/</guid>
+      <description>&lt;p&gt;Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Els usuaris juguen a un joc &lt;a href=&#34;https://es.wikipedia.org/wiki/Videojuego_gacha&#34;&gt;gacha&lt;/a&gt;, una màquina escurabutxaques de creació d’imatges. Escriuen els seus &lt;em&gt;prompts&lt;/em&gt; amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Quadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;&lt;em&gt;Unicorns&lt;/em&gt;&lt;/a&gt;. Intents successius d’afinar el &lt;em&gt;prompt&lt;/em&gt; cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -291,35 +304,6 @@ CIA sobre ‘Unicorns’&lt;/a&gt; és completament fals. Ficció i més ficció
 &lt;li&gt;Xifrar-lo amb un algoritme suficientment segur, p. ex. AES-256.&lt;/li&gt;
 &lt;li&gt;Adreçar-lo a Recursos Humans per registre d’entrada, i mai no se’n sabrà res més.&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Generant històries amb ChatGPT</title>
-      <link>https://carlesbellver.net/2023/03/19/lofiwriter/</link>
-      <pubDate>Sun, 19 Mar 2023 10:19:24 +0100</pubDate>
-      <guid>https://carlesbellver.net/2023/03/19/lofiwriter/</guid>
-      <description>&lt;img src=&#34;https://carlesbellver.net/uploads/2023/2023-03-19-lofiwriter.jpg&#34; alt=&#34;Pintura a l&#39;oli d&#39;un robot escrivint en un quadern. Generada per DALL·E.&#34;&gt;
-&lt;p&gt;A última hora i per primera vegada en trenta-dos anys, l’UJI va decidir tancar el campus per &lt;a href=&#34;https://ca.m.wikipedia.org/wiki/Festes_de_la_Magdalena&#34;&gt;Magdalena&lt;/a&gt; i donar-nos vacances. Una part d’aquestes hores inesperades de lleure les he dedicat a continuar jugant amb l’API de ChatGPT i programar un petit bot (&lt;a href=&#34;https://mastodon.social/@lofiwriter&#34;&gt;@lofiwriter&lt;/a&gt;) que genera textos amb pretensions literàries.&lt;/p&gt;
-&lt;p&gt;El &lt;em&gt;prompt&lt;/em&gt; que envia el bot a l’API és d’aquest estil:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Draft a short story imitating the style of Jeanette Winterson. Mention or imply a mistake and a windstorm. Be imaginative and ironic. Avoid sentimentality and grandiloquence. Length: between two and five sentences. Language: English.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;L’autora o autor que cal imitar els trac d’una llista que vaig demanar al mateix ChatGPT (&lt;em&gt;“Give me a list of one hundred acclaimed modernist or postmodern writers, including international ones”&lt;/em&gt;), de manera que m’assegure que els coneix. Les paraules clau venen de diverses llistes del mateix tipus: llocs, objectes, etc.&lt;/p&gt;
-&lt;p&gt;A més a més d’un relat (&lt;em&gt;“short story”&lt;/em&gt;) el bot pot sol·licitar altres formes (l’extensió i el nombre de paraules clau depenen de la forma triada):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Una idea per a una novel·la.&lt;/li&gt;
-&lt;li&gt;Una idea per a una pel·lícula.&lt;/li&gt;
-&lt;li&gt;Un diàleg entre dos personatges.&lt;/li&gt;
-&lt;li&gt;Les frases inicials d’una novel·la.&lt;/li&gt;
-&lt;li&gt;Les frases finals d’una novel·la.&lt;/li&gt;
-&lt;li&gt;Un koan.&lt;/li&gt;
-&lt;li&gt;Un haiku (i altres tipus de poemes breus).&lt;/li&gt;
-&lt;li&gt;Un aforisme.&lt;/li&gt;
-&lt;li&gt;Una meditació.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Després d’obtenir una resposta, el bot demana a ChatGPT que la traduïsca al català i publica ambdues versions en &lt;a href=&#34;https://mastodon.social/@lofiwriter&#34;&gt;Mastodon&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Fins ara, havent assajat diferents variacions, diria que els resultats obtinguts són més prompte mediocres (en català, ni tan sols aconsegueix un nivell acceptable de correcció lingüística). Com a inspiració, em va funcionar millor l’aleatorietat pura dels &lt;a href=&#34;https://42.carlesbellver.net&#34;&gt;exemples del DIEC&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
