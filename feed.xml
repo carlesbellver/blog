@@ -6,8 +6,19 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Mon, 28 Aug 2023 12:37:28 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 18:21:13 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title>An AI capitalism primer</title>
+      <link>https://carlesbellver.net/2023/09/12/35637/</link>
+      <pubDate>Tue, 12 Sep 2023 18:21:13 +0200</pubDate>
+      <guid>https://carlesbellver.net/2023/09/12/35637/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;S’ha creat aquesta situació estranya en què els models s’entrenen amb el contingut que tots hem publicat i milloren amb les nostres preguntes i contingut nou, i tot seguit se’ns embolcalla com a producte i se’ns torna a vendre. Sens dubte, hi ha alguna invenció i valor propis en la metodologia d&#39;entrenament i les API que fan que tot funcione, però les dades subjacents de les quals s’aprèn pertanyen a nosaltres, no a ells. No funcionaria, en absolut, sense la nostra feina.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Don’t Fire Your Illustrator</title>
@@ -291,19 +302,6 @@ CIA sobre ‘Unicorns’&lt;/a&gt; és completament fals. Ficció i més ficció
       <guid>https://carlesbellver.net/2023/03/23/91111/</guid>
       <description>&lt;p&gt;Ser sempre feliç; no parar quiet; plorar per qualsevol cosa. Treballar de nit; una nit i una altra; ser solidari amb els companys de feina; arriscar la vida; no sobrevalorar els bens materials; suportar colps i tortures; creure en la teua feina.&lt;/p&gt;
 &lt;p&gt;Idealització de la infància i del lladronici?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2023/03/22/09417/</link>
-      <pubDate>Wed, 22 Mar 2023 19:23:47 +0100</pubDate>
-      <guid>https://carlesbellver.net/2023/03/22/09417/</guid>
-      <description>&lt;p&gt;Si voleu guardar un secret, teniu dues opcions:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Xifrar-lo amb un algoritme suficientment segur, p. ex. AES-256.&lt;/li&gt;
-&lt;li&gt;Adreçar-lo a Recursos Humans per registre d’entrada, i mai no se’n sabrà res més.&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     

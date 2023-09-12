@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/09/12/35637/",
+				"title": "An AI capitalism primer",
+				"content_html": "<blockquote>\n<p>S’ha creat aquesta situació estranya en què els models s’entrenen amb el contingut que tots hem publicat i milloren amb les nostres preguntes i contingut nou, i tot seguit se’ns embolcalla com a producte i se’ns torna a vendre. Sens dubte, hi ha alguna invenció i valor propis en la metodologia d'entrenament i les API que fan que tot funcione, però les dades subjacents de les quals s’aprèn pertanyen a nosaltres, no a ells. No funcionaria, en absolut, sense la nostra feina.</p>\n</blockquote>\n",
+				"date_published": "2023-09-12T18:21:13+02:00",
+				"url": "https://carlesbellver.net/2023/09/12/35637/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/08/28/stable-diffusion/",
 				"title": "Don’t Fire Your Illustrator",
 				"content_html": "<p>Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.</p>\n<blockquote>\n<p>Els usuaris juguen a un joc <a href=\"https://es.wikipedia.org/wiki/Videojuego_gacha\">gacha</a>, una màquina escurabutxaques de creació d’imatges. Escriuen els seus <em>prompts</em> amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.</p>\n</blockquote>\n<p>Quadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’<a href=\"https://carlesbellver.net/contes/unicorns\"><em>Unicorns</em></a>. Intents successius d’afinar el <em>prompt</em> cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Ser sempre feliç; no parar quiet; plorar per qualsevol cosa. Treballar de nit; una nit i una altra; ser solidari amb els companys de feina; arriscar la vida; no sobrevalorar els bens materials; suportar colps i tortures; creure en la teua feina.</p>\n<p>Idealització de la infància i del lladronici?</p>\n",
 				"date_published": "2023-03-23T18:05:31+01:00",
 				"url": "https://carlesbellver.net/2023/03/23/91111/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/03/22/09417/",
-				
-				"content_html": "<p>Si voleu guardar un secret, teniu dues opcions:</p>\n<ol>\n<li>Xifrar-lo amb un algoritme suficientment segur, p. ex. AES-256.</li>\n<li>Adreçar-lo a Recursos Humans per registre d’entrada, i mai no se’n sabrà res més.</li>\n</ol>\n",
-				"date_published": "2023-03-22T19:23:47+01:00",
-				"url": "https://carlesbellver.net/2023/03/22/09417/"
 			}
 	]
 }

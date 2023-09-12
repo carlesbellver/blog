@@ -1,5 +1,12 @@
 [
       {
+        "title": "An AI capitalism primer",
+        "date_published": "2023-09-12T18:21:13+02:00",
+        "url": "/2023/09/12/35637/",
+        "tags": "retalls",
+        "content_text": " S’ha creat aquesta situació estranya en què els models s’entrenen amb el contingut que tots hem publicat i milloren amb les nostres preguntes i contingut nou, i tot seguit se’ns embolcalla com a producte i se’ns torna a vendre. Sens dubte, hi ha alguna invenció i valor propis en la metodologia d\u0026#39;entrenament i les API que fan que tot funcione, però les dades subjacents de les quals s’aprèn pertanyen a nosaltres, no a ells. No funcionaria, en absolut, sense la nostra feina.\n"
+      },
+      {
         "title": "Don’t Fire Your Illustrator",
         "date_published": "2023-08-28T12:37:28+02:00",
         "url": "/2023/08/28/stable-diffusion/",
