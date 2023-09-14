@@ -13,6 +13,13 @@
 				"url": "https://carlesbellver.net/2023/09/12/35637/"
 			},
 			{
+				"id": "https://carlesbellver.net/2023/09/04/what-dreams-may-come/",
+				"title": "What dreams may come",
+				"content_html": "<p>📖 Richard Matheson, <em><a href=\"https://en.wikipedia.org/wiki/What_Dreams_May_Come_(Matheson_novel)\">What dreams may come</a></em>. Menys una novel·la que una dramatització de doctrines teosòfiques i <em>new age</em> sobre la vida després de la vida, inspirada parcialment en la <em>Divina Comèdia</em>. Conté escenes reeixides i memorables, com la baixada als inferns, el purgatori versió suburbi nord-americà o la sala de descans per a nouvinguts.</p>\n",
+				"date_published": "2023-09-04T08:37:00+00:00",
+				"url": "https://carlesbellver.net/2023/09/04/what-dreams-may-come/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/08/28/stable-diffusion/",
 				"title": "Don’t Fire Your Illustrator",
 				"content_html": "<p>Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.</p>\n<blockquote>\n<p>Els usuaris juguen a un joc <a href=\"https://es.wikipedia.org/wiki/Videojuego_gacha\">gacha</a>, una màquina escurabutxaques de creació d’imatges. Escriuen els seus <em>prompts</em> amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.</p>\n</blockquote>\n<p>Quadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’<a href=\"https://carlesbellver.net/contes/unicorns\"><em>Unicorns</em></a>. Intents successius d’afinar el <em>prompt</em> cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>A 24 de març, unes persones molt amables m’han portat una cistella de Nadal. És la cosa més coherent que m’ha passat avui a l’#UJI.</p>\n<img alt=\"Foto d'una cistella de Nadal damunt de la taula del despatx.\" src=\"/uploads/2023/2023-03-24-63432.jpg\">\n",
 				"date_published": "2023-03-24T14:10:48+01:00",
 				"url": "https://carlesbellver.net/2023/03/24/63432/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/03/23/91111/",
-				"title": "3 Things to Learn from a Child, 7 from a Thief: Bob Dylan’s Favorite Hasidic Teaching",
-				"content_html": "<p>Ser sempre feliç; no parar quiet; plorar per qualsevol cosa. Treballar de nit; una nit i una altra; ser solidari amb els companys de feina; arriscar la vida; no sobrevalorar els bens materials; suportar colps i tortures; creure en la teua feina.</p>\n<p>Idealització de la infància i del lladronici?</p>\n",
-				"date_published": "2023-03-23T18:05:31+01:00",
-				"url": "https://carlesbellver.net/2023/03/23/91111/"
 			}
 	]
 }
