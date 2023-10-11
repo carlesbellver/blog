@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/10/11/nit-mil-dos/",
+				
+				"content_html": "<p>Per circumstàncies del cicle vital dels llibres —i les llibreries—, aquesta setmana he tingut l’ocasió d’aconseguir dotze exemplars del número dotze de la col·lecció de narrativa de Tria: <a href=\"https://carlesbellver.net/llibres/lanitmildos/\"><em>La nit mil dos</em></a>. Una edició totalment descatalogada d’una <a href=\"https://ca.wikipedia.org/wiki/Editorial_Tria_Llibres\">editorial</a> misteriosament desapareguda.</p>\n<p>En el seu moment, aquest llibret es venia per quinze euros. Si el voleu, ara us el podria fer arribar gratis. Oferta fins acabar existències.</p>\n<img alt=\"Pila d’exemplars del llibre “La nit mil dos” de Carles Bellver Torlà\" src=\"/uploads/2023/2023-10-11-nit-mil-dos.jpg\">\n",
+				"date_published": "2023-10-11T18:30:26+02:00",
+				"url": "https://carlesbellver.net/2023/10/11/nit-mil-dos/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/09/12/35637/",
 				"title": "An AI capitalism primer",
 				"content_html": "<blockquote>\n<p>S’ha creat aquesta situació estranya en què els models s’entrenen amb el contingut que tots hem publicat i milloren amb les nostres preguntes i contingut nou, i tot seguit se’ns embolcalla com a producte i se’ns torna a vendre. Sens dubte, hi ha alguna invenció i valor propis en la metodologia d'entrenament i les API que fan que tot funcione, però les dades subjacents de les quals s’aprèn pertanyen a nosaltres, no a ells. No funcionaria, en absolut, sense la nostra feina.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Avui hem comprat mandarines amb patent israeliana.</p>\n<img alt=\"Foto zenital d'unes mandarines en un bol\" src=\"/uploads/2023/2023-03-25-69506.jpg\">\n",
 				"date_published": "2023-03-25T19:38:36+01:00",
 				"url": "https://carlesbellver.net/2023/03/25/69506/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/03/24/63432/",
-				
-				"content_html": "<p>A 24 de març, unes persones molt amables m’han portat una cistella de Nadal. És la cosa més coherent que m’ha passat avui a l’#UJI.</p>\n<img alt=\"Foto d'una cistella de Nadal damunt de la taula del despatx.\" src=\"/uploads/2023/2023-03-24-63432.jpg\">\n",
-				"date_published": "2023-03-24T14:10:48+01:00",
-				"url": "https://carlesbellver.net/2023/03/24/63432/"
 			}
 	]
 }
