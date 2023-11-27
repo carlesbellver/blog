@@ -137,7 +137,7 @@
 				"date_published": "2023-05-04T22:10:05+02:00",
 				"url": "/2023/05/04/tempesta-roques/",
 				"tags": "retalls",
-				"content_text": "\n{{\u003c ical \"/uploads/2023/2023-05-07-invite.ics\" \u003e}}\n\nEl pròxim diumenge 7 de maig, a les 18:30, presentarem en la Fira del Llibre de Castelló l’obra col·lectiva *La tempesta contra les roques. Poesia i memòria d’Albert Garcia Pascual*. A continuació, les companyes i companys d’El Pont recitaran alguns dels poemes del llibre.\n"
+				"content_text": "\n{{\u003c ical \"/uploads/2023/2023-05-07-invite.ics\" \u003e}}\n\nEl pròxim diumenge 7 de maig, a les 18:30, presentarem en la Fira del Llibre de Castelló l’obra col·lectiva [*La tempesta contra les roques*](https://www.elpontdeleslletres.cat/2023/05/09/tempesta-contra-les-roques/) (Poesia i memòria d’Albert Garcia Pascual). A continuació, les companyes i companys d’El Pont recitaran alguns dels poemes del llibre.\n"
 			},
 			{
 				"title": "The Bootle Imp",
@@ -886,7 +886,7 @@
 				"date_published": "2021-11-29T15:47:08+01:00",
 				"url": "/2021/11/29/97227/",
 				"tags": "fotos, Castelló",
-				"content_text": "\nEn companyia d'ànecs.\n\n\u003cimg src=\"/uploads/2021/2021-11-29-97227.jpg\" /\u003e"
+				"content_text": "\nEn companyia d’ànecs.\n\n\u003cimg src=\"/uploads/2021/2021-11-29-97227.jpg\" /\u003e"
 			},
 			{
 				"title": "En el futur res serà paella 🥘",
@@ -900,7 +900,7 @@
 				"date_published": "2021-11-25T16:18:07+01:00",
 				"url": "/2021/11/25/53487/",
 				"tags": "retalls",
-				"content_text": "\n\u003e El consum energètic de la mineria de Bitcoin a Suècia equival a hores d'ara al de 200.000 llars… En una carta oberta, els directors dels principals reguladors financers i mediambientals suecs van demanar que es prohibís a tota l'UE la mineria de criptomonedes basada en prova de treball, que Suècia impedís noves operacions de mineria criptogràfica i que les empreses que comercialitzen i inverteixen en actius criptogràfics no puguin descriure les seves activitats empresarials com a ambientalment sostenibles.\n\n—[Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators](https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators)\n\n\u003e Texas, que ja alberga la xarxa elèctrica més vulnerable dels Estats Units, està a punt de patir un augment de la demanda d'electricitat que seria el doble de la d'Austin. Es preveu que un exèrcit de miners de criptomoneda, atrets per l'energia barata i la regulació *laissez-faire*  d'aquest estat, augmenti la demanda fins a 5.000 megawatts durant els propers dos anys.\n\n—[Texas Plans To Become the Bitcoin Capital, Vulnerable Power Grid and All](https://hardware.slashdot.org/story/21/11/19/210228/texas-plans-to-become-the-bitcoin-capital-vulnerable-power-grid-and-all)\n"
+				"content_text": "\n\u003e El consum energètic de la mineria de Bitcoin a Suècia equival a hores d’ara al de 200.000 llars… En una carta oberta, els directors dels principals reguladors financers i mediambientals suecs van demanar que es prohibira a tota l'UE la mineria de criptomonedes basada en prova de treball, que Suècia impedira noves operacions de mineria criptogràfica i que les empreses que comercialitzen i inverteixen en actius criptogràfics no puguen descriure les seues activitats empresarials com a ambientalment sostenibles.\n\n—[Europe must ban Bitcoin mining to hit the 1.5C Paris climate goal, say Swedish regulators](https://www.euronews.com/next/2021/11/12/europe-must-ban-bitcoin-mining-to-hit-the-1-5c-paris-climate-goal-say-swedish-regulators)\n\n\u003e Texas, que ja alberga la xarxa elèctrica més vulnerable dels Estats Units, està a punt de patir un augment de la demanda d’electricitat que seria el doble de la d’Austin. Es preveu que un exèrcit de miners de criptomoneda, atrets per l’energia barata i la regulació *laissez-faire*  d’aquest estat, augmente la demanda fins a 5.000 megawatts durant els propers dos anys.\n\n—[Texas Plans To Become the Bitcoin Capital, Vulnerable Power Grid and All](https://hardware.slashdot.org/story/21/11/19/210228/texas-plans-to-become-the-bitcoin-capital-vulnerable-power-grid-and-all)\n"
 			},
 			{
 				"title": "Evolution Tells Us We Might Be the Only Intelligent Life in the Universe",
@@ -1467,7 +1467,7 @@
 				"date_published": "2020-11-29T19:45:33+00:00",
 				"url": "/2020/11/29/75533/",
 				"tags": "",
-				"content_text": "\nNi Word ni OpenOffice. El pròxim llibre, l'enviaré al meu editor [en format JSON](https://github.com/carlesbellver/etexts/blob/master/unicorns/unicorns.json).\n\nEn un món imaginari, és clar, on jo tindria enllestit un nou llibre i hi hauria un editor, digitalment competent, que voldria publicar-lo.\n\n"
+				"content_text": "\nNi Word ni OpenOffice. El pròxim llibre, l’enviaré al meu editor [en format JSON](https://github.com/carlesbellver/etexts/blob/master/unicorns/unicorns.json).\n\nEn un món imaginari, és clar, on jo tindria enllestit un nou llibre i hi hauria un editor, digitalment competent, que voldria publicar-lo.\n\n"
 			},
 			{
 				"title": "Killing Me Softly",
@@ -2293,14 +2293,14 @@
 				"date_published": "2019-11-27T08:29:18+00:00",
 				"url": "/2019/11/27/these-software-applications.html",
 				"tags": "retalls",
-				"content_text": "\n\nDividir les aplicacions: conservar la gestió de dades a casa —per seguretat— i pujar l'API al núvol —per agilitar-ne la gestió i les actualitzacions.\n"
+				"content_text": "\n\nDividir les aplicacions: conservar la gestió de dades a casa —per seguretat— i pujar l’API al núvol —per agilitar-ne la gestió i les actualitzacions.\n"
 			},
 			{
 				"title": "Poemaris virtuals d’Albert Garcia Pascual",
 				"date_published": "2019-11-26T19:20:00+00:00",
 				"url": "/2019/11/26/poemaris-virtuals-dalbert.html",
 				"tags": "",
-				"content_text": "\nA partir de juliol de 2015, [Albert Garcia Pascual](https://www.elpontdeleslletres.cat/2011/03/02/albert-garcia-i-pascual/), anteriorment novel·lista i contista, va publicar en els seus comptes de xarxes socials ([Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator)) centenars o milers de poemes, agrupats mitjançant els títols corresponents en una sèrie de *poemaris virtuals* que s’enumeren a continuació.\n\n1. *Línies roges* (a partir de juliol de 2015)\n2. *Fora límits*\n3. *Fi de trajecte*\n4. *Vent de tardor*\n5. *Camí clos*\n6. *Camins*\n7. *Empremtes*\n8. *Dreceres*\n9. *Albes* (març de 2017 a maig de 2018)\n10. *Platges de boira*\n11. *Vermell fosc*\n12. *Prop de la lluna*\n13. *Traficant l’eternitat* (maig a novembre de 2019)\n14. [*Breu Quadern de Blaves Solituds, Petites Desolacions i Rebel·lies Quotidianes*](https://www.elpontdeleslletres.cat/2021/11/05/breu-quadern-albert-garcia-pascual/) (novembre de 2019)\n15. *Reexilis* (gener de 2020)\n16. *Trànsits* (agost de 2020)\n17. *Pluja d’hivern* (desembre de 2020)\n18. *Clarors de Primavera* (gener de 2021)\n19. *Estius provisionals* (abril de 2021)\n20. *Camins dispersos* (juny de 2021)\n21. *Dispersions* (octubre de 2021)\n22. *Periples* (febrer de 2022)\n23. *Reincidències* (abril de 2022)\n24. *Espais ventats* (maig de 2022)\n25. *Absolut* (juliol de 2022)\n26. *Trossets* (agost de 2022)\n27. *Recuits* (agost de 2022)"
+				"content_text": "\nA partir de juliol de 2015, [Albert Garcia Pascual](https://www.elpontdeleslletres.cat/2011/03/02/albert-garcia-i-pascual/), anteriorment novel·lista i contista, va anar publicant en els seus comptes de xarxes socials ([Facebook](https://www.facebook.com/albert.garciapascual), [Instagram](https://www.instagram.com/albertgarciapascual/), [Twitter](https://twitter.com/tombatossalator)) centenars o milers de poemes, agrupats mitjançant els títols corresponents en una sèrie de *poemaris virtuals* que s’enumeren a continuació.\n\n1. *Línies roges* (a partir de juliol de 2015)\n2. *Fora límits*\n3. *Fi de trajecte*\n4. *Vent de tardor*\n5. *Camí clos*\n6. *Camins*\n7. *Empremtes*\n8. *Dreceres*\n9. *Albes* (març de 2017 a maig de 2018)\n10. *Platges de boira*\n11. *Vermell fosc*\n12. *Prop de la lluna*\n13. *Traficant l’eternitat* (maig a novembre de 2019)\n14. [*Breu Quadern de Blaves Solituds, Petites Desolacions i Rebel·lies Quotidianes*](https://www.elpontdeleslletres.cat/2021/11/05/breu-quadern-albert-garcia-pascual/) (novembre de 2019)\n15. *Reexilis* (gener de 2020)\n16. *Trànsits* (agost de 2020)\n17. *Pluja d’hivern* (desembre de 2020)\n18. *Clarors de Primavera* (gener de 2021)\n19. *Estius provisionals* (abril de 2021)\n20. *Camins dispersos* (juny de 2021)\n21. *Dispersions* (octubre de 2021)\n22. *Periples* (febrer de 2022)\n23. *Reincidències* (abril de 2022)\n24. *Espais ventats* (maig de 2022)\n25. *Absolut* (juliol de 2022)\n26. *Trossets* (agost de 2022)\n27. *Recuits* (agost de 2022)\n\n**Postdata 7 de maig de 2023**. Des d’[El Pont](https://www.elpontdeleslletres.cat/), hem recollit en format electrònic tots els poemes publicats per Albert en les xarxes a partir de setembre de 2022: [*Darrers poemes*](https://www.elpontdeleslletres.cat/2023/04/23/darrers-poemes-albert-garcia-pascual/). Així mateix, hem editat una obra col·lectiva dedicada a la seua memòria: [*La tempesta contra les roques*](https://www.elpontdeleslletres.cat/2023/05/09/tempesta-contra-les-roques/)."
 			},
 			{
 				"title": ,
@@ -4484,21 +4484,21 @@
 				"date_published": "2018-11-29T14:31:00+00:00",
 				"url": "/2018/11/29/a-very-concise.html",
 				"tags": "retalls",
-				"content_text": "\n\nDe les cartes d'amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en *Westworld* (1973). Amb unes reflexions finals sobre l'arqueologia digital:\n\n\u003e La història de la primera pàgina web és típica: publicada originalment l'agost de 1991, es va sobreescriure contínuament fins a març de 1992. Mentre que es coneixen quaranta-vuit còpies de la Bíblia de Gutenberg, impreses fa més de cinc-cents anys, no ha sobreviscut cap mostra de la primera pàgina web, ni tan sols una captura de pantalla […] Fins i tot quan s'han conservat el codi i els gràfics d'algun dels primers videojocs, aquests ja no es poden veure en el seu entorn original. Els arcaics ordinadors centrals i les primeres consoles ja no es poden fer funcionar. Aquí podem fer una distinció entre arqueologia i arxivística: l'arqueologia considera el problema de la visualització. Un llibre es mostra per ell mateix, però els gràfics d'ordinador, els videojocs i els llocs web són invisibles sense el programari i el maquinari adequats.\n\n"
+				"content_text": "\n\nDe les cartes d’amor escrites per un algoritme en un ordinador Mark 1 (1952) a les primeres pàgines web, passant pels primers videojocs o la primera imatge generada per ordinador en una pel·lícula: la visió pixelada de Yul Brynner en *Westworld* (1973). Amb unes reflexions finals sobre l’arqueologia digital:\n\n\u003e La història de la primera pàgina web és típica: publicada originalment l’agost de 1991, es va sobreescriure contínuament fins a març de 1992. Mentre que es coneixen quaranta-vuit còpies de la Bíblia de Gutenberg, impreses fa més de cinc-cents anys, no ha sobreviscut cap mostra de la primera pàgina web, ni tan sols una captura de pantalla […] Fins i tot quan s’han conservat el codi i els gràfics d’algun dels primers videojocs, aquests ja no es poden veure en el seu entorn original. Els arcaics ordinadors centrals i les primeres consoles ja no es poden fer funcionar. Aquí podem fer una distinció entre arqueologia i arxivística: l’arqueologia considera el problema de la visualització. Un llibre es mostra per ell mateix, però els gràfics d’ordinador, els videojocs i els llocs web són invisibles sense el programari i el maquinari adequats.\n\n"
 			},
 			{
 				"title": "YouTube and the music industry are both wrong on Article 13",
 				"date_published": "2018-11-29T11:43:00+00:00",
 				"url": "/2018/11/29/youtube-and-the.html",
 				"tags": "retalls",
-				"content_text": "\n\n[Julia Reda](https://ca.wikipedia.org/wiki/Julia_Reda), eurodiputada pel Partit Pirata d'Alemanya, esciu un nou article sobre els perills de l'infame [article 13](https://juliareda.eu/2018/10/copyright-trilogue-positions/#article13) de la directiva europea sobre drets d'autor. Considera dos possibles escenaris, ambdós inacceptables: A) que només les \"empreses fiables\" puguin penjar vídeos (el web com a \"televisió per cable 2.0\") i B) que s'acceptin com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar). En tots dos casos, els principals perjudicats seran els usuaris i creadors individuals.\n\n"
+				"content_text": "\n\n[Julia Reda](https://ca.wikipedia.org/wiki/Julia_Reda), eurodiputada pel Partit Pirata d’Alemanya, esciu un nou article sobre els perills de l'infame [article 13](https://juliareda.eu/2018/10/copyright-trilogue-positions/#article13) de la directiva europea sobre drets d’autor. Considera dos possibles escenaris, ambdós inacceptables:\n\n1. Que només les “empreses fiables” puguen penjar vídeos (el web com a \"televisió per cable 2.0\").\n2. Qe s’accepten com a mal menor els filtres de càrrega algorítmics (terreny en el qual Google té un avantatge competitiu clar).\n\nEn tots dos casos, els principals perjudicats seran els usuaris i creadors individuals.\n\n"
 			},
 			{
 				"title": "Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures",
 				"date_published": "2018-11-29T07:28:00+00:00",
 				"url": "/2018/11/29/nike-and-boeing.html",
 				"tags": "retalls",
-				"content_text": "\n\n\u003e Denominat alternativament prototipatge de ciència-ficció, predicció del futur o construcció de mons,  l'objectiu d'aquestes empreses generalment és el mateix: ajudar els clients a crear ficcions anticipatives per generar idees i propietat intel·lectual a fi de progressar o treure beneficis.\n"
+				"content_text": "\n\n\u003e Denominat alternativament prototipatge de ciència-ficció, predicció del futur o construcció de mons,  l’objectiu d’aquestes empreses generalment és el mateix: ajudar els clients a crear ficcions anticipatives per generar idees i propietat intel·lectual a fi de progressar o traure beneficis.\n"
 			},
 			{
 				"title": "Do you long for her, or for the way you were?",
@@ -4512,7 +4512,7 @@
 				"date_published": "2018-11-28T22:37:00+00:00",
 				"url": "/2018/11/28/six-myths-about.html",
 				"tags": "retalls",
-				"content_text": "\n\n  1. Els joves són *nadius digitals* i ho saben tot.\n  2. Els pares són *immigrants digitals* i no en saben res.\n  3. El temps que es passa amb aparells és temps perdut, en comparació amb converses *reals* o jugar al carrer.\n  4. El paper dels pares és controlar, restringir i prohibir, perquè els riscos digitals superen enormement les oportunitats.\n  5. Els nens no es preocupen per la seva privadesa en línia.\n  6. L’alfabetització mediàtica és *la* resposta als problemes de l’era digital.\n\n"
+				"content_text": "\n\n  1. Els joves són *nadius digitals* i ho saben tot.\n  2. Els pares són *immigrants digitals* i no en saben res.\n  3. El temps que es passa amb aparells és temps perdut, en comparació amb converses *reals* o jugar al carrer.\n  4. El paper dels pares és controlar, restringir i prohibir, perquè els riscos digitals superen enormement les oportunitats.\n  5. Els xiquets no es preocupen per la seua privadesa en línia.\n  6. L’alfabetització mediàtica és *la* resposta als problemes de l’era digital.\n\n"
 			},
 			{
 				"title": ,
@@ -4554,14 +4554,14 @@
 				"date_published": "2018-11-26T21:40:00+00:00",
 				"url": "/2018/11/26/people-who-buy.html",
 				"tags": "retalls",
-				"content_text": "\n\n\u003e Nihilisme de la privacitat: malgrat conèixer aquests riscos, molta gent diu que s'ha resignat a la idea que ens espiaran i que no hi ha res que hi puguem fer.\n"
+				"content_text": "\n\n\u003e Nihilisme de la privacitat: malgrat conèixer aquests riscos, molta gent diu que s’ha resignat a la idea que ens espiaran i que no hi ha res que hi puguem fer.\n"
 			},
 			{
 				"title": "Edward Snowden Explains Blockchain to His Lawyer — and the Rest of Us",
 				"date_published": "2018-11-26T21:23:00+00:00",
 				"url": "/2018/11/26/edward-snowden-explains.html",
 				"tags": "retalls",
-				"content_text": "\n\n\u003e Vaig voler entendre les cadenes de blocs per culpa del bombo incessant. Alguns governs creuen que Bitcoin és una amenaça existencial per a l'ordre mundial i alguns tipus de capital risc juren que les cadenes de blocs donaran lloc a una època daurada de la transparència. Però tu em dius que és bàsicament una base de dades sofisticada.\n\n"
+				"content_text": "\n\n\u003e Vaig voler entendre les cadenes de blocs per culpa del bombo incessant. Alguns governs creuen que Bitcoin és una amenaça existencial per a l’ordre mundial i alguns tipus de capital risc juren que les cadenes de blocs donaran lloc a una època daurada de la transparència. Però tu em dius que és bàsicament una base de dades sofisticada.\n\n"
 			},
 			{
 				"title": "Una vindicación del hombre moderno",
@@ -4582,7 +4582,7 @@
 				"date_published": "2018-11-25T12:39:00+00:00",
 				"url": "/2018/11/25/parliament-seizes-cache.html",
 				"tags": "retalls",
-				"content_text": "\n\n\u003e En una altra actuació excepcional, el parlament va enviar un sergent d'armes al seu hotel amb un avís final i un termini de dues hores per complir l'ordre. Quan el fundador de la firma de programari [Six4Three] no ho va fer, se suposa que va ser escortat al parlament. El van informar que s'arriscava a multes i fins i tot a presó si no lliurava els documents.\n\n"
+				"content_text": "\n\n\u003e En una altra actuació excepcional, el parlament va enviar un sergent d’armes al seu hotel amb un avís final i un termini de dues hores per complir l’ordre. Quan el fundador de la firma de programari \\[Six4Three] no ho va fer, se suposa que va ser escortat al parlament. El van informar que s’arriscava a multes i fins i tot a presó si no lliurava els documents.\n\n"
 			},
 			{
 				"title": "54",
@@ -7928,14 +7928,14 @@
 				"date_published": "2017-11-26T09:46:00+00:00",
 				"url": "/2017/11/26/104630.html",
 				"tags": "citacions",
-				"content_text": "\nAhir vaig [parafrasejar els evangelis](/2017/11/25/175911.html) (Mateu 7,1-6; Lluc 6,37-42). Aquesta nit, el meu bot m'ha citat Lawrence Durrell per denunciar el predicador que diu que jo porte dins.\n\n\u003e Dintre teu, en algun lloc, hi ha un desagradable predicador anglicà.\n"
+				"content_text": "\nAhir vaig [parafrasejar els evangelis](/2017/11/25/175911.html) (Mateu 7,1-6; Lluc 6,37-42). I aquesta nit, el meu bot m’ha citat Lawrence Durrell per denunciar el predicador que diu que jo porte dins.\n\n\u003e Dintre teu, en algun lloc, hi ha un desagradable predicador anglicà.\n"
 			},
 			{
 				"title": ,
 				"date_published": "2017-11-25T16:59:00+00:00",
 				"url": "/2017/11/25/175911.html",
 				"tags": "",
-				"content_text": "\nCom és que veus la boina al cap dels altres i no t'adones de la llosa pesant damunt del teu?\n\n"
+				"content_text": "\nCom és que veus la boina al cap dels altres i no t’adones de la llosa pesant damunt del teu?\n\n"
 			},
 			{
 				"title": ,
@@ -7949,7 +7949,7 @@
 				"date_published": "2017-11-24T10:32:00+00:00",
 				"url": "/2017/11/24/nuccio-ordine-el.html",
 				"tags": "retalls",
-				"content_text": "\n\nLa universitat en perill i el naufragi d'Europa.\n\n"
+				"content_text": "\n\nLa universitat en perill i el naufragi d’Europa.\n\n"
 			},
 			{
 				"title": "Choice of alcoholic drink 'determines different moods'",
@@ -8992,7 +8992,7 @@
 				"date_published": "2015-11-24T23:00:00+00:00",
 				"url": "/2015/11/24/vigila-quines-histries.html",
 				"tags": "citacions",
-				"content_text": "\n\u003e De manera que si hi havia un tema dominant en “True Detective”, diria que era que, com a éssers humans, no som res més que les històries amb què ens guiem per a viure i per a morir. Per tant, és millor que vigilis quines històries et contes a tu mateix.\n\n— [Nic Pizzolatto](http://www.hitfix.com/whats-alan-watching/true-detective-creator-nic-pizzolatto-looks-back-on-season-1)\n"
+				"content_text": "\n\u003e De manera que si hi havia un tema dominant en *True Detective*, diria que era que, com a éssers humans, no som res més que les històries amb què ens guiem per a viure i per a morir. Per tant, és millor que vigiles quines històries et contes a tu mateix.\n\n— [Nic Pizzolatto](http://www.hitfix.com/whats-alan-watching/true-detective-creator-nic-pizzolatto-looks-back-on-season-1)\n"
 			},
 			{
 				"title": "En un sentit plenament cortazarià",
@@ -9608,7 +9608,7 @@
 				"date_published": "2013-11-24T23:00:00+00:00",
 				"url": "/2013/11/24/la-vista-cansada.html",
 				"tags": "",
-				"content_text": "\nAhir, en la presentació de [La nit mil dos](https://carlesbellver.net/llibres/lanitmildos) a València, em vaig descuidar d’explicar el perquè del títol d’aquest blog. La solució —en vaig fer esment un altre dia— és a la pàgina 115 del llibre (6:43 de la matinada):\n\n\u003e Que tinc la vista cansada, em van diagnosticar l’altre dia en l’òptica com qui no diu res.\n\u003e \n\u003e De tantes coses que he vist?, em vaig demanar per a mi, en silenci. Potser sí. Però moltes, no cal dir-ho, pagaven la pena: la pena —tremenda— de viure. L’estany del Parc de Ribalta, *la basseta dels peixets*, buida; n’havien obert el desguàs per netejar-la i me’n recorde com si fos ara que em va parèixer fondíssima, perquè jo era un xiquet molt menut, tan menut que em podria perdre, em repetien dia sí dia també, si m’endinsava en les *maranyetes*, els caminets tortuosos i ombrívols del bosc dels contes. Una torre malmesa i un pou, en la Casa del Batle de Vilafamés, que van ser per a mi els arquetips de la torre i del pou, de les ruïnes romàntiques […]\n\nLa relació, evidentment, [segueix](https://carlesbellver.net/contes/lavistacansada.html), a la manera de les enumeracions que Borges diu que heretava de Walt Whitman i dels salms bíblics.\n"
+				"content_text": "\nAhir, en la presentació de [La nit mil dos](https://carlesbellver.net/llibres/lanitmildos) a València, em vaig descuidar d’explicar el perquè del títol d’aquest blog. La solució —en vaig fer esment un altre dia— és a la pàgina 115 del llibre (6:43 de la matinada):\n\n\u003e Que tinc la vista cansada, em van diagnosticar l’altre dia en l’òptica com qui no diu res.\n\u003e \n\u003e De tantes coses que he vist?, em vaig demanar per a mi, en silenci. Potser sí. Però moltes, no cal dir-ho, pagaven la pena: la pena —tremenda— de viure. L’estany del Parc de Ribalta, *la basseta dels peixets*, buida; n’havien obert el desguàs per netejar-la i me’n recorde com si fos ara que em va parèixer fondíssima, perquè jo era un xiquet molt menut, tan menut que em podria perdre, em repetien dia sí dia també, si m’endinsava en les *maranyetes*, els caminets tortuosos i ombrívols del bosc dels contes. Una torre malmesa i un pou, en la Casa del Batle de Vilafamés, que van ser per a mi els arquetips de la torre i del pou, de les ruïnes romàntiques […]\n\nLa relació, evidentment, [segueix](https://carlesbellver.net/contes/lavistacansada), a la manera de les enumeracions que Borges diu que heretava de Walt Whitman i dels salms bíblics.\n"
 			},
 			{
 				"title": "El paio pirat del Word",
