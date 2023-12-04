@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/12/04/generative-ai-energy/",
+				"title": "Making an image with generative AI uses as much energy as charging your phone",
+				"content_html": "<p>📎 <a href=\"https://ramaonhealthcare.com/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/\">Making an image with generative AI uses as much energy as charging your phone</a></p>\n<blockquote>\n<p>De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou <a href=\"https://arxiv.org/pdf/2311.16863.pdf\">estudi</a> realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d'un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.</p>\n</blockquote>\n",
+				"date_published": "2023-12-04T19:33:29+01:00",
+				"url": "https://carlesbellver.net/2023/12/04/generative-ai-energy/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/11/25/placa-del-llibre/",
 				
 				"content_html": "<p>Plaça del Llibre de Castelló.</p>\n<img alt=\"\" src=\"/uploads/2023/2023-11-25-placa-del-llibre.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<img src=\"/uploads/2023/2023-04-02-script.jpg\" alt=\"Captura de pantalla d'una parts de l'script en llenguatge Python que resumeix pàgines web.\">\n<p>No cal dir que l’<a href=\"/contes/unicorns/report\">informe de la\nCIA sobre ‘Unicorns’</a> és completament fals. Ficció i més ficció: un divertiment inofensiu.</p>\n<p>Fa uns quants dies, estava provant un <a href=\"https://github.com/whichlight/tldr-cl\">script</a> que resumeix pàgines web mitjançant l’API de ChatGPT. L’havia provat amb notícies d’actualitat i altres pàgines igualment prosaiques. En el navegador, tenia obert l’índex d’<a href=\"/contes/unicorns\"><em>Unicorns</em></a> i se’m va acudir intentar-ho amb l’enllaç d’un dels capítols.</p>\n<p>El resultat presentava un aire fred i distant, com si un testimoni imparcial i poc perceptiu explicara els fets desapassionadament. Per alguna raó, em va recordar els <em>cables</em> de Wikileaks i em va fer pensar, exactament, en un informe de la CIA sobre els meus microcontes.</p>\n<p>És a dir, amb això ja tenia la idea i només faltava veure com portar-la a terme. Per a començar, vaig programar un script que demanava a ChatGPT un resum de cada un dels seixanta-quatre capítols d’<em>Unicorns</em>. El resultat era bo, però els resums eren massa extensos: tot just la meitat que els originals. Amb un nou script, vaig demanar a ChatGPT que resumira cada resum en una sola frase.</p>\n<p>Quina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:</p>\n<blockquote>\n<p>La llista següent resumeix el contingut d’un conjunt de documents. Redacta un informe molt breu que avalue l’oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l’estil d’una agència d’intel·ligència.</p>\n</blockquote>\n<p>Aquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del <a href=\"/contes/unicorns/report\">fals informe</a>. Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.</p>\n",
 				"date_published": "2023-04-02T10:35:25+02:00",
 				"url": "https://carlesbellver.net/2023/04/02/tota-la-veritat/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/03/31/report/",
-				"title": "Informe de la CIA sobre ‘Unicorns’",
-				"content_html": "<blockquote>\n<p>Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.</p>\n</blockquote>\n",
-				"date_published": "2023-03-31T21:55:49+02:00",
-				"url": "https://carlesbellver.net/2023/03/31/report/"
 			}
 	]
 }

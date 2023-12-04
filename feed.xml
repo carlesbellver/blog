@@ -6,8 +6,20 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sat, 25 Nov 2023 19:58:57 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 19:33:29 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>Making an image with generative AI uses as much energy as charging your phone</title>
+      <link>https://carlesbellver.net/2023/12/04/generative-ai-energy/</link>
+      <pubDate>Mon, 04 Dec 2023 19:33:29 +0100</pubDate>
+      <guid>https://carlesbellver.net/2023/12/04/generative-ai-energy/</guid>
+      <description>&lt;p&gt;📎 &lt;a href=&#34;https://ramaonhealthcare.com/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/&#34;&gt;Making an image with generative AI uses as much energy as charging your phone&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou &lt;a href=&#34;https://arxiv.org/pdf/2311.16863.pdf&#34;&gt;estudi&lt;/a&gt; realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d&#39;un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -291,17 +303,6 @@ CIA sobre ‘Unicorns’&lt;/a&gt; és completament fals. Ficció i més ficció
 &lt;p&gt;La llista següent resumeix el contingut d’un conjunt de documents. Redacta un informe molt breu que avalue l’oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l’estil d’una agència d’intel·ligència.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Aquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del &lt;a href=&#34;https://carlesbellver.net/contes/unicorns/report&#34;&gt;fals informe&lt;/a&gt;. Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Informe de la CIA sobre ‘Unicorns’</title>
-      <link>https://carlesbellver.net/2023/03/31/report/</link>
-      <pubDate>Fri, 31 Mar 2023 21:55:49 +0200</pubDate>
-      <guid>https://carlesbellver.net/2023/03/31/report/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
