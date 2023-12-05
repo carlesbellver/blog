@@ -17,8 +17,7 @@
       <pubDate>Mon, 04 Dec 2023 11:33:29 +0100</pubDate>
       
       <guid>https://carlesbellver.net/2023/12/04/generative-ai-energy/</guid>
-      <description>&lt;p&gt;📎 &lt;a href=&#34;https://ramaonhealthcare.com/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/&#34;&gt;Making an image with generative AI uses as much energy as charging your phone&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
+      <description>&lt;blockquote&gt;
 &lt;p&gt;De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou &lt;a href=&#34;https://arxiv.org/pdf/2311.16863.pdf&#34;&gt;estudi&lt;/a&gt; realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d&#39;un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
@@ -726,9 +725,9 @@ arribar no importa.&lt;/p&gt;
       <pubDate>Tue, 07 Dec 2021 19:00:44 +0100</pubDate>
       
       <guid>https://carlesbellver.net/2021/12/07/peritext/</guid>
-      <description>&lt;p&gt;Un algorisme per a l&#39;edició col·laborativa &lt;em&gt;asíncrona&lt;/em&gt; de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&#39;edició síncrona). &lt;a href=&#34;https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type&#34;&gt;CRDT&lt;/a&gt; = Conflict-free Replicated Data Type.&lt;/p&gt;
+      <description>&lt;p&gt;Un algorisme per a l’edició col·laborativa &lt;em&gt;asíncrona&lt;/em&gt; de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l&#39;edició síncrona). &lt;a href=&#34;https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type&#34;&gt;CRDT&lt;/a&gt; = Conflict-free Replicated Data Type.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Els editors col·laboratius com Google Docs permeten que la gent treballi en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d&#39;un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d&#39;ús.&lt;/p&gt;
+&lt;p&gt;Els editors col·laboratius com Google Docs permeten que la gent treballe en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d’un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d’ús.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
