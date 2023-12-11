@@ -6,8 +6,19 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Mon, 04 Dec 2023 11:33:29 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 16:35:55 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>Waterloo, le ossa dei caduti in battaglia usate per raffinare lo zucchero</title>
+      <link>https://carlesbellver.net/2023/12/11/waterloo/</link>
+      <pubDate>Mon, 11 Dec 2023 16:35:55 +0100</pubDate>
+      <guid>https://carlesbellver.net/2023/12/11/waterloo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;L’enigma es resol ara amb l’estudi de dos historiadors autoritzats, el belga Bernard Wilkin i l’alemany Robin Schäfer, que juntament amb l’arqueòleg britànic Tony Pollard han documentat una veritat sensacional i esgarrifosa: els ossos dels morts a Waterloo van desaparèixer perquè van ser progressivament i il·legalment desenterrats entre 1834 i 1860 per a emprar-los massivament en la indústria sucrera belga com a filtre per a refinar i blanquejar el sucre. Segons els estudiosos, una part dels ossos també es va transformar en adobs.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Making an image with generative AI uses as much energy as charging your phone</title>
@@ -283,25 +294,6 @@ són els que m’acompanyen.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;No, no, un lloro és molt més intel·ligent. GPT-4 s’assembla molt més a, diguem-ne, una “calculadora lingüística”. És una calculadora sintàctica, que tracta el llenguatge natural com si foren matemàtiques: no memoritza i repeteix una solució, sinó que la crea. La pregunta no és quines respostes pot donar, sinó què fem amb aquestes respostes. Ja ho va dir Plató: l’expert és qui, sobretot, sap formular les preguntes correctes. És millor entendre com utilitzar-lo i ensenyar-ho, que prohibir-lo. Em sembla que l’arribada d’aquestes eines, en realitat, purifica la veritable essència de la intel·ligència humana, perquè la desvincula de qualsevol forma d’enciclopedisme, la capacitat de recordar mil fets i la mera erudició. És la pregunta i el propòsit de la pregunta el que marca la diferència.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tota la veritat sobre l’informe de la CIA</title>
-      <link>https://carlesbellver.net/2023/04/02/tota-la-veritat/</link>
-      <pubDate>Sun, 02 Apr 2023 10:35:25 +0200</pubDate>
-      <guid>https://carlesbellver.net/2023/04/02/tota-la-veritat/</guid>
-      <description>&lt;img src=&#34;https://carlesbellver.net/uploads/2023/2023-04-02-script.jpg&#34; alt=&#34;Captura de pantalla d&#39;una parts de l&#39;script en llenguatge Python que resumeix pàgines web.&#34;&gt;
-&lt;p&gt;No cal dir que l’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns/report&#34;&gt;informe de la
-CIA sobre ‘Unicorns’&lt;/a&gt; és completament fals. Ficció i més ficció: un divertiment inofensiu.&lt;/p&gt;
-&lt;p&gt;Fa uns quants dies, estava provant un &lt;a href=&#34;https://github.com/whichlight/tldr-cl&#34;&gt;script&lt;/a&gt; que resumeix pàgines web mitjançant l’API de ChatGPT. L’havia provat amb notícies d’actualitat i altres pàgines igualment prosaiques. En el navegador, tenia obert l’índex d’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;&lt;em&gt;Unicorns&lt;/em&gt;&lt;/a&gt; i se’m va acudir intentar-ho amb l’enllaç d’un dels capítols.&lt;/p&gt;
-&lt;p&gt;El resultat presentava un aire fred i distant, com si un testimoni imparcial i poc perceptiu explicara els fets desapassionadament. Per alguna raó, em va recordar els &lt;em&gt;cables&lt;/em&gt; de Wikileaks i em va fer pensar, exactament, en un informe de la CIA sobre els meus microcontes.&lt;/p&gt;
-&lt;p&gt;És a dir, amb això ja tenia la idea i només faltava veure com portar-la a terme. Per a començar, vaig programar un script que demanava a ChatGPT un resum de cada un dels seixanta-quatre capítols d’&lt;em&gt;Unicorns&lt;/em&gt;. El resultat era bo, però els resums eren massa extensos: tot just la meitat que els originals. Amb un nou script, vaig demanar a ChatGPT que resumira cada resum en una sola frase.&lt;/p&gt;
-&lt;p&gt;Quina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;La llista següent resumeix el contingut d’un conjunt de documents. Redacta un informe molt breu que avalue l’oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l’estil d’una agència d’intel·ligència.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Aquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del &lt;a href=&#34;https://carlesbellver.net/contes/unicorns/report&#34;&gt;fals informe&lt;/a&gt;. Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.&lt;/p&gt;
 </description>
     </item>
     
