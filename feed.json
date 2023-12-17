@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/12/17/work-while-sleeping/",
+				"title": "Lucid dream startup says you can work in your sleep",
+				"content_html": "<p>Malsons del capitalisme avançat. Una <em>startup</em> pretén comercialitzar un aparell que indueix somnis lúcids —mitjançant ultrasons— per poder treballar mentre dorms.</p>\n<blockquote>\n<p>La gent passa un terç de la vida dormint. I si els empleats pogueren treballar durant aquest temps… en somnis? Prophetic, una startup finançada per capital risc, fundada a principis d’aquest any, vol ajudar els treballadors a fer-ho. Mitjançant uns auriculars anomenats “Halo”, Prophetic diu que els consumidors poden induir un estat de somni lúcid, que es produeix quan la persona que té un somni és conscient que està dormint. L’objectiu és donar a les persones control sobre els seus somnis, de manera que puguen utilitzar aquest temps de manera productiva. Un CEO podria practicar per a la pròxima reunió, un esportista podria assajar jugades, un dissenyador web podria crear plantilles: “l’únic límit és la imaginació&quot;.</p>\n</blockquote>\n<blockquote>\n<p>Funcionarà alliberant feixos d’ultrasons enfocats a una regió del cervell implicada en els somnis lúcids. Els raigs activaran les parts del cervell que controlen la presa de decisions i la consciència. Per crear l’Halo, Prophetic treballa amb el fundador de Card79 Afshin Mehin, que va dissenyar el dispositiu Neuralink N1 per a l’empresa d’implants cerebrals d’Elon Musk.</p>\n</blockquote>\n",
+				"date_published": "2023-12-17T13:52:21+01:00",
+				"url": "https://carlesbellver.net/2023/12/17/work-while-sleeping/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/12/17/16395/",
 				
 				"content_html": "<p>Operación Ogro.</p>\n<img alt=\"Foto d'un periòdic obert damunt d'una taula amb el titular “El día que ETA pilló por sorpresa a Kissinger. Abocant-se damunt del periòdic amb posat amenaçador, un petit robot articulat.\" src=\"/uploads/2023/2023-12-17-16395.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>Potser els àngels<br>\nem mostren el camí,<br>\nperò els meus dimonis<br>\nsón els que m’acompanyen.</p>\n</blockquote>\n<p>—<a href=\"https://twitter.com/tombatossalator/status/1333052124347977731\">Albert Garcia Pascual</a></p>\n<img src=\"/uploads/2023/2023-04-23-angels-dimonis.jpg\" alt=\"Imatge generada per intel·ligència artificial: pintura a l'oli d'un àngel i un dimoni, estil manuscrit medieval\">",
 				"date_published": "2023-04-23T23:30:50+02:00",
 				"url": "https://carlesbellver.net/2023/04/23/angels-dimonis/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/04/12/30738/",
-				
-				"content_html": "<p>Aquesta nit sent el soroll del mar a l’orella esquerra. Sense cap closca de caragol ni res.</p>\n<img alt=\"Imatge generada per DALLE·2 mitjançant el prompt següent: “An oil painting by Magritte of a man with a seashell head”\" src=\"/uploads/2023/2023-04-12-30738.jpg\">\n",
-				"date_published": "2023-04-12T22:19:24+02:00",
-				"url": "https://carlesbellver.net/2023/04/12/30738/"
 			}
 	]
 }
