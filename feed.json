@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2023/12/20/nou-llibre/",
+				
+				"content_html": "<p>Aquelles frases que <a href=\"/2020/12/20/pop-art/\">fa tres anys</a> començaven a créixer orgànicament són ara el principi d’un relat molt més llarg, part d’un nou recull que l’any que ve intentaré publicar.</p>\n<img alt=\"Animació de l’evolució d’un document de text al llarg de versions successives\" src=\"/uploads/2020/2020-12-20-pop-art.gif\" style=\"max-height:560px\">\n",
+				"date_published": "2023-12-20T18:35:30+01:00",
+				"url": "https://carlesbellver.net/2023/12/20/nou-llibre/"
+			},
+			{
 				"id": "https://carlesbellver.net/2023/12/17/work-while-sleeping/",
 				"title": "Lucid dream startup says you can work in your sleep",
 				"content_html": "<p>Malsons del capitalisme avançat. Una <em>startup</em> pretén comercialitzar un aparell que indueix somnis lúcids —mitjançant ultrasons— per poder treballar mentre dorms.</p>\n<blockquote>\n<p>La gent passa un terç de la vida dormint. I si els empleats pogueren treballar durant aquest temps… en somnis? Prophetic, una startup finançada per capital risc, fundada a principis d’aquest any, vol ajudar els treballadors a fer-ho. Mitjançant uns auriculars anomenats “Halo”, Prophetic diu que els consumidors poden induir un estat de somni lúcid, que es produeix quan la persona que té un somni és conscient que està dormint. L’objectiu és donar a les persones control sobre els seus somnis, de manera que puguen utilitzar aquest temps de manera productiva. Un CEO podria practicar per a la pròxima reunió, un esportista podria assajar jugades, un dissenyador web podria crear plantilles: “l’únic límit és la imaginació&quot;.</p>\n<p>Funcionarà alliberant feixos d’ultrasons enfocats a una regió del cervell implicada en els somnis lúcids. Els raigs activaran les parts del cervell que controlen la presa de decisions i la consciència. Per crear l’Halo, Prophetic treballa amb el fundador de Card79 Afshin Mehin, que va dissenyar el dispositiu Neuralink N1 per a l’empresa d’implants cerebrals d’Elon Musk.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📖 La primera vegada que vaig llegir <em><a href=\"https://en.wikipedia.org/wiki/The_Bottle_Imp\">“The Bottle Imp”</a></em> (“El dimoni de la botella”) de R. L. Stevenson, jo devia tenir vint anys i em van commoure les tribulacions de Keawe. A hores d’ara, el que em meravella del personatge és la seua curtesa tan masculina, tan ben retratada per l’autor: que haja de ser la humil Kokua qui li explique el canvi de moneda, que després no siga capaç d’adonar-se del sacrifici d’ella —en tot idèntic al seu—, que es lliure a la beguda i la maltracte i que només puguen deseixir-se’n els dos junts per sort, per la cobdícia i l’estupidesa encara més gran d’un altre mascle prototípic.</p>\n",
 				"date_published": "2023-05-01T19:31:38+02:00",
 				"url": "https://carlesbellver.net/2023/05/01/the-bottle-imp/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/04/23/angels-dimonis/",
-				
-				"content_html": "<blockquote>\n<p>Potser els àngels<br>\nem mostren el camí,<br>\nperò els meus dimonis<br>\nsón els que m’acompanyen.</p>\n</blockquote>\n<p>—<a href=\"https://twitter.com/tombatossalator/status/1333052124347977731\">Albert Garcia Pascual</a></p>\n<img src=\"/uploads/2023/2023-04-23-angels-dimonis.jpg\" alt=\"Imatge generada per intel·ligència artificial: pintura a l'oli d'un àngel i un dimoni, estil manuscrit medieval\">",
-				"date_published": "2023-04-23T23:30:50+02:00",
-				"url": "https://carlesbellver.net/2023/04/23/angels-dimonis/"
 			}
 	]
 }
