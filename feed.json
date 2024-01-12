@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/01/12/ai-muse/",
+				
+				"content_html": "<blockquote>\n<p>ChatGPT és una musa, no un oracle.</p>\n</blockquote>\n<p>— <a href=\"https://youtu.be/oy7uMpPrGMA\">You Can Build an App in 60 Minutes with ChatGPT - Ep. 5 with Geoffrey Litt - YouTube</a></p>\n",
+				"date_published": "2024-01-12T11:38:38+01:00",
+				"url": "https://carlesbellver.net/2024/01/12/ai-muse/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/01/04/51693/",
 				"title": "Tech Billionaires Need to Stop Trying to Make the Science Fiction They Grew Up on Real",
 				"content_html": "<p>Els multimilionaris de Silicon Valley (Musk, Bezos, Thiel, etc.) han adoptat com a full de ruta els relats distòpics de la ciència-ficció de fa cinquanta anys.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Stephen Marche ha escrit una novel·la utilitzant ChatGPT, Sudowrite i Cohere. Compara el procés al hip-hop: remesclar amb gràcia segments preexistents. Com més conegues el teu material —els estils, la història precedent de la música o de la literatura—, millors seran les teues (re)creacions.</p>\n<p>A mi no em sona tan diferent del que han fet fins ara els bons escriptors.</p>\n<blockquote>\n<p>En primer lloc, tenia un pla elaborat per al llibre. En segon lloc, tinc una familiaritat pregona amb la tecnologia i accés a algunes eines que altres no tenien, així que era més conscient de les limitacions i les possibilitats. Finalment, i amb diferència el més important, sé què és escriure bé. Sé qui ha d’imitar Sudowrite (i puc articular per què), i sé com són una frase polida i un paràgraf ben acabat. Necessites <em>més</em> comprensió de l'estil literari, no menys. L’analogia més propera a aquest procés és el hip-hop. Per a fer hip-hop, no cal saber tocar la bateria, però sí que cal poder fer referència a tota la història dels <em>beats</em> i <em>hooks</em>.</p>\n</blockquote>\n",
 				"date_published": "2023-05-23T21:03:14+02:00",
 				"url": "https://carlesbellver.net/2023/05/23/hip-hop/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/05/20/bees-artists/",
-				"title": "Bees can do so much more than you think – from dancing to being little art critics",
-				"content_html": "<blockquote>\n<p>La capacitat de memorització de les abelles no es limita a les flors. En un exemple, les abelles eren recompensades cada vegada que visitaven un quadre d’un artista &quot;amb premi” (o Monet o Picasso). Quan se’ls presentaven quadres que no havien vist abans, seguien encertant quin era el pintor que tenia premi, la qual cosa suggereix que poden discriminar estils pictòrics.</p>\n</blockquote>\n",
-				"date_published": "2023-05-20T19:37:30+02:00",
-				"url": "https://carlesbellver.net/2023/05/20/bees-artists/"
 			}
 	]
 }
