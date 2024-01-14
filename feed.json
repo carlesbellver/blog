@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/01/14/53935/",
+				"title": "ALT redux",
+				"content_html": "<p>Una tipologia de prediccions enfocada a la tecnologia educativa, però generalitzable, potser, a altres àmbits.</p>\n<ol>\n<li>Prediccions de cotxes voladors: fum tecnològic amb objectius propagandístics, però sense base material.</li>\n<li>Extrapolacions estadístiques de tendències actuals: útils, almenys fins que arriba una crisi, un moviment imprevist, un canvi disruptiu, etc.</li>\n<li>Profecies apocalíptiques: basades en sensacions, desitjos o ideologia, més que en dades o fets.</li>\n</ol>\n",
+				"date_published": "2024-01-14T18:39:23+01:00",
+				"url": "https://carlesbellver.net/2024/01/14/53935/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/01/12/ai-muse/",
 				
 				"content_html": "<blockquote>\n<p>ChatGPT és una musa, no un oracle.</p>\n</blockquote>\n<p>— <a href=\"https://youtu.be/oy7uMpPrGMA\">You Can Build an App in 60 Minutes with ChatGPT - Ep. 5 with Geoffrey Litt - YouTube</a></p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>📖 John Crowley, <a href=\"https://en.wikipedia.org/wiki/Great_Work_of_Time\"><em>Great Work of Time</em></a> (1989). Subtil i intricat, possiblement el relat definitiu sobre viatges en el temps. El testament de Cecil Rhodes, certa societat secreta i una “lògica ortogonal” que connecta el passat amb futurs possibles. A la segona lectura crec que he entès tots els punts clau de la trama. (M’agraden els llibres en què no et pots saltar ni una paraula. La qual cosa em fa recordar aquell lector que <a href=\"/opinions/#2011.2\">es queixava dels meus contes</a>.)</p>\n",
 				"date_published": "2023-05-28T09:30:29+02:00",
 				"url": "https://carlesbellver.net/2023/05/28/workoftime/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/05/23/hip-hop/",
-				"title": "The Future of Writing Is a Lot Like Hip-Hop",
-				"content_html": "<p>Stephen Marche ha escrit una novel·la utilitzant ChatGPT, Sudowrite i Cohere. Compara el procés al hip-hop: remesclar amb gràcia segments preexistents. Com més conegues el teu material —els estils, la història precedent de la música o de la literatura—, millors seran les teues (re)creacions.</p>\n<p>A mi no em sona tan diferent del que han fet fins ara els bons escriptors.</p>\n<blockquote>\n<p>En primer lloc, tenia un pla elaborat per al llibre. En segon lloc, tinc una familiaritat pregona amb la tecnologia i accés a algunes eines que altres no tenien, així que era més conscient de les limitacions i les possibilitats. Finalment, i amb diferència el més important, sé què és escriure bé. Sé qui ha d’imitar Sudowrite (i puc articular per què), i sé com són una frase polida i un paràgraf ben acabat. Necessites <em>més</em> comprensió de l'estil literari, no menys. L’analogia més propera a aquest procés és el hip-hop. Per a fer hip-hop, no cal saber tocar la bateria, però sí que cal poder fer referència a tota la història dels <em>beats</em> i <em>hooks</em>.</p>\n</blockquote>\n",
-				"date_published": "2023-05-23T21:03:14+02:00",
-				"url": "https://carlesbellver.net/2023/05/23/hip-hop/"
 			}
 	]
 }
