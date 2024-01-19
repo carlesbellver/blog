@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/01/19/64196/",
+				"title": "6 Tenets of Postplagiarism: Writing in the Age of Artificial Intelligence",
+				"content_html": "<ol>\n<li>La hibridació de l’escriptura humana amb l’IA esdevindrà normal.</li>\n<li>La IA contribuirà a ampliar la creativitat humana.</li>\n<li>Es reduiran les barreres idiomàtiques.</li>\n<li>Les persones podem cedir control a l’IA, però no podem defugir la responsabilitat.</li>\n<li>L’atribució de l’autoria continuarà sent important.</li>\n<li>Les definicions tradicionals de plagi deixaran de ser vàlides i per tant no seran útils.</li>\n</ol>\n",
+				"date_published": "2024-01-19T12:36:56+01:00",
+				"url": "https://carlesbellver.net/2024/01/19/64196/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/01/14/53935/",
 				"title": "ALT redux",
 				"content_html": "<p>Una tipologia de prediccions enfocada a la tecnologia educativa, però generalitzable, potser, a altres àmbits.</p>\n<ol>\n<li>Prediccions de cotxes voladors: fum tecnològic amb objectius propagandístics, però sense base material.</li>\n<li>Extrapolacions estadístiques de tendències actuals: útils, almenys fins que arriba una crisi, un moviment imprevist, un canvi disruptiu, etc.</li>\n<li>Profecies apocalíptiques: basades en sensacions, desitjos o ideologia, més que en dades o fets.</li>\n</ol>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>El viatge mai s’acaba, ho hem de saber,<br>\ni és el camí el que desgasta,<br>\ndescantella l’ànima,<br>\nesgota els somnis.<br>\nTant que sembla que al final<br>\narribar no importa.</p>\n</blockquote>\n<p>—Albert Garcia Pascual, “Ítaca” (<em>Albes</em>, 2019)</p>\n<p>Sé que li va fer il·lusió que li diguera que havia impugnat Kavafis, ni més ni menys. I per això el títol de la meua col·laboració en <a href=\"https://www.elpontdeleslletres.cat/2023/05/09/la-tempesta-contra-les-roques/\"><em>La tempesta contra les roques</em></a>, el llibre que li vam dedicar des d’El Pont i que ara podeu baixar gratis en formats digitals o comprar en paper a les llibreries de Castelló.</p>\n<p><a href=\"/contes/impugnacio\">“Impugnació de Kavafis”</a> és, per tant, una resposta al poema d’Albert. Però igualment reprèn temes (i bromes) d’un parell dels seus <em>Contes inversos</em> amb què va guanyar el premi Josep Pascual Tirado l’any 2005. Crec que a ell li hauria fet gràcia.</p>\n<p>Vegeu també, o millor, la <a href=\"https://www.porcar.net/2023/05/28/filagarsa-poema-homenatge/\">“Filagarsa”</a> poètica de Josep Porcar.</p>\n",
 				"date_published": "2023-05-28T18:14:23+02:00",
 				"url": "https://carlesbellver.net/2023/05/28/impugnacio/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/05/28/workoftime/",
-				"title": "Great Work of Time",
-				"content_html": "<p>📖 John Crowley, <a href=\"https://en.wikipedia.org/wiki/Great_Work_of_Time\"><em>Great Work of Time</em></a> (1989). Subtil i intricat, possiblement el relat definitiu sobre viatges en el temps. El testament de Cecil Rhodes, certa societat secreta i una “lògica ortogonal” que connecta el passat amb futurs possibles. A la segona lectura crec que he entès tots els punts clau de la trama. (M’agraden els llibres en què no et pots saltar ni una paraula. La qual cosa em fa recordar aquell lector que <a href=\"/opinions/#2011.2\">es queixava dels meus contes</a>.)</p>\n",
-				"date_published": "2023-05-28T09:30:29+02:00",
-				"url": "https://carlesbellver.net/2023/05/28/workoftime/"
 			}
 	]
 }
