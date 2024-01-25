@@ -125,13 +125,6 @@
 				"url": "https://carlesbellver.net/2023/07/15/18434/"
 			},
 			{
-				"id": "https://carlesbellver.net/2023/07/14/roman/",
-				"title": "La novel·la de Wittgenstein",
-				"content_html": "<blockquote>\n<p>Vaig aprendre alemany per poder llegir la famosa <a href=\"/contes/roman/\">novel·la de Wittgenstein</a>.</p>\n</blockquote>\n<p><a href=\"/contes/roman/\"><img src=\"/uploads/2023/2023-07-13-roman.jpg\" alt=\"Portada d’una novel·la fictícia de Ludwig Wittgenstein. Títol en alemany: “Auswärtige Angelegenheiten”. Il·lustració: dibuix amb llapissos de colors d’una mosca molt grossa atrapada dins d’una botella. La botella porta impresa la bandera del Regne Unit.\"></a></p>\n",
-				"date_published": "2023-07-14T16:35:45+02:00",
-				"url": "https://carlesbellver.net/2023/07/14/roman/"
-			},
-			{
 				"id": "https://carlesbellver.net/2023/06/14/ana-maria-shua/",
 				"title": "Es pura literatura",
 				"content_html": "<blockquote>\n<p>¿Por qué la gente tiene menos ganas de leer cuentos? Hay varias razones. Los cuentos exigen un poco más del lector. Cuando se entra en una novela, en las primeras páginas uno conoce a los personajes, aprende los códigos y después puede entrar y salir con relativa facilidad. En cambio, en un libro de cuentos hay que hacer ese pequeño esfuerzo de volver a empezar con cada uno. También está el prestigio de lo auténtico. Muchos lectores sienten que leer una novela implica un acto de inmediata apropiación cultural. No es sólo ficción, les da información. Cuando terminan, sienten que «aprendieron» algo. En ese terreno, el cuento pierde: es pura literatura.</p>\n</blockquote>\n<p>—“Una conversación con Ana María Shua”, en <a href=\"https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Shua\">Ana María Shua</a>, <em>Contra el tiempo</em>.</p>\n",
@@ -179,6 +172,13 @@
 				"content_html": "<blockquote>\n<p>El viatge mai s’acaba, ho hem de saber,<br>\ni és el camí el que desgasta,<br>\ndescantella l’ànima,<br>\nesgota els somnis.<br>\nTant que sembla que al final<br>\narribar no importa.</p>\n</blockquote>\n<p>—Albert Garcia Pascual, “Ítaca” (<em>Albes</em>, 2019)</p>\n<p>Sé que li va fer il·lusió que li diguera que havia impugnat Kavafis, ni més ni menys. I per això el títol de la meua col·laboració en <a href=\"https://www.elpontdeleslletres.cat/2023/05/09/la-tempesta-contra-les-roques/\"><em>La tempesta contra les roques</em></a>, el llibre que li vam dedicar des d’El Pont i que ara podeu baixar gratis en formats digitals o comprar en paper a les llibreries de Castelló.</p>\n<p><a href=\"/contes/impugnacio\">“Impugnació de Kavafis”</a> és, per tant, una resposta al poema d’Albert. Però igualment reprèn temes (i bromes) d’un parell dels seus <em>Contes inversos</em> amb què va guanyar el premi Josep Pascual Tirado l’any 2005. Crec que a ell li hauria fet gràcia.</p>\n<p>Vegeu també, o millor, la <a href=\"https://www.porcar.net/2023/05/28/filagarsa-poema-homenatge/\">“Filagarsa”</a> poètica de Josep Porcar.</p>\n",
 				"date_published": "2023-05-28T18:14:23+02:00",
 				"url": "https://carlesbellver.net/2023/05/28/impugnacio/"
+			},
+			{
+				"id": "https://carlesbellver.net/2023/05/28/workoftime/",
+				"title": "Great Work of Time",
+				"content_html": "<p>📖 John Crowley, <a href=\"https://en.wikipedia.org/wiki/Great_Work_of_Time\"><em>Great Work of Time</em></a> (1989). Subtil i intricat, possiblement el relat definitiu sobre viatges en el temps. El testament de Cecil Rhodes, certa societat secreta i una “lògica ortogonal” que connecta el passat amb futurs possibles. A la segona lectura crec que he entès tots els punts clau de la trama. (M’agraden els llibres en què no et pots saltar ni una paraula. La qual cosa em fa recordar aquell lector que <a href=\"/opinions/#2011.2\">es queixava dels meus contes</a>.)</p>\n",
+				"date_published": "2023-05-28T09:30:29+02:00",
+				"url": "https://carlesbellver.net/2023/05/28/workoftime/"
 			}
 	]
 }

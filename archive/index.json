@@ -112,13 +112,6 @@
       },
       {
         "title": "La novel·la de Wittgenstein",
-        "date_published": "2023-07-14T16:35:45+02:00",
-        "url": "/2023/07/14/roman/",
-        "tags": "retalls, fotos",
-        "content_text": " Vaig aprendre alemany per poder llegir la famosa novel·la de Wittgenstein.\n"
-      },
-      {
-        "title": "La novel·la de Wittgenstein",
         "date_published": "2023-07-12T00:05:25+02:00",
         "url": "/contes/roman/",
         "tags": "contes",
@@ -237,13 +230,6 @@
         "url": "/2023/04/02/tota-la-veritat/",
         "tags": "",
         "content_text": " No cal dir que l’informe de la CIA sobre ‘Unicorns’ és completament fals. Ficció i més ficció: un divertiment inofensiu.\nFa uns quants dies, estava provant un script que resumeix pàgines web mitjançant l’API de ChatGPT. L’havia provat amb notícies d’actualitat i altres pàgines igualment prosaiques. En el navegador, tenia obert l’índex d’Unicorns i se’m va acudir intentar-ho amb l’enllaç d’un dels capítols.\nEl resultat presentava un aire fred i distant, com si un testimoni imparcial i poc perceptiu explicara els fets desapassionadament. Per alguna raó, em va recordar els cables de Wikileaks i em va fer pensar, exactament, en un informe de la CIA sobre els meus microcontes.\nÉs a dir, amb això ja tenia la idea i només faltava veure com portar-la a terme. Per a començar, vaig programar un script que demanava a ChatGPT un resum de cada un dels seixanta-quatre capítols d’Unicorns. El resultat era bo, però els resums eren massa extensos: tot just la meitat que els originals. Amb un nou script, vaig demanar a ChatGPT que resumira cada resum en una sola frase.\nQuina podia ser la conclusió d’un tal informe, si existira? Novament, ho vaig preguntar a ChatGPT:\nLa llista següent resumeix el contingut d’un conjunt de documents. Redacta un informe molt breu que avalue l’oportunitat de fer públics els documents tenint en compte els possibles riscos per a la seguretat nacional. Imita l’estil d’una agència d’intel·ligència.\nAquesta vegada, la resposta em va sorprendre. És la que podeu veure en la pàgina del fals informe. Jo m’havia imaginat que diria que no hi veia cap problema. I que aleshores m’hauria de concentrar a modificar les instruccions que li donava per encoratjar i alimentar la seua paranoia. Però no va caler. Almenys per a ChapGPT, pareix que la paranoia i les agències d’intel·ligència són alegres companys de viatge.\n"
-      },
-      {
-        "title": "Informe de la CIA sobre ‘Unicorns’",
-        "date_published": "2023-03-31T21:55:49+02:00",
-        "url": "/2023/03/31/report/",
-        "tags": "retalls",
-        "content_text": " Traspaperat en una pila de documents filtrats per Wikileaks el 2020 i redescobert casualment en un mercat de dades d’ocasió de la web fosca una nit de març de 2023.\n"
       },
       {
         "title": "Informe de la CIA sobre ‘Unicorns’",
@@ -6955,7 +6941,7 @@
         "date_published": "2018-01-27T20:11:53+00:00",
         "url": "/2018/01/27/211153.html",
         "tags": "ressenyes",
-        "content_text": "📖 Una novel·la curta que se m’ha fet una mica llarga: El diable al cos, de Raymond Radiguet. Tant de bo l’hagués llegida fa trenta-cinc anys. Impacta saber que l’autor la va escriure als divuit.\n"
+        "content_text": "📖 Una novel·la curta que se m’ha fet una mica llarga: El diable al cos, de Raymond Radiguet. Tant de bo l’haguera llegida fa trenta-cinc anys. Impacta saber que l’autor la va escriure als divuit.\n"
       },
       {
         "date_published": "2018-01-26T15:59:59+00:00",
@@ -8635,7 +8621,7 @@
         "date_published": "2016-01-27T23:00:00+00:00",
         "url": "/2016/01/27/per-allusions-lapocalipsi.html",
         "tags": "fotos",
-        "content_text": "\nVaig demanar a Maria Folch que presentés el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria parlar gaire. Tan sols uns pocs minuts, com vaig dir, per al·lusions. No repetiré ací cada observació que vaig fer, però sí que deixaré constància de dos o tres detalls que m’interessen particularment.\nUn. Certament no era cap secret que en “Un cel nou i una terra nova” —el conte que dóna títol al llibre— s’esdevé una mena d’apocalipsi. El relat dels fets, com va assenyalar Maria, comença sota un epígraf que no pot ser més explícit: “Just abans de la fi del món”. Amb la qual cosa tampoc pretenia resultar gens original. No mancàvem de proclames apocalíptiques, mentre jo escrivia. I segurament amb raó. Almenys a mi també m’ho pareixia, que la realitat se’ns estava ensorrant i que ens queia damunt a trossos. I encara m’ho pareix, és clar. No hi ha dia que no ens assabentem d’una altra calamitat. Però era optimista, i per això hi havia una segona part: “Quinze anys després”. És a dir, que s’acabava un món, però tot seguit en començava un altre. Més estrany encara, potser. Nou de trinca.\nDos. Hi havia una pregunta ineludible: per què l’acció transcorre a València? Era conscient que se’m podia acusar, fins i tot, de pocavergonya i de traïdor, atesa la meva inclinació a exercir d’escriptor castellonenc. Però, siguem sincers, si venia l’apocalipsi, on volíem que passés? Recorde que Manuel Vázquez Montalbán, molt irònicament, va advertir alguna vegada que a Barcelona podien estar tranquils, perquè si tiraven la bomba atòmica la tirarien a Madrid, que per això era la capital. Ho va escriure a les pàgines d’El País i se li va enfadar més d’un lector. Eren els anys llunyans de la guerra freda i l’autonomia, però la idea continua sent vàlida. Les coses importants passen als llocs importants. L’apocalipsi de debò, al nostre entorn de país o regne, només podia ocórrer a València. A Castelló, on no tenim més que una subdelegació del Govern, amb prou feines ens …"
+        "content_text": "\nVaig demanar a Maria Folch que presentara el meu llibre perquè sabia que s’explicaria tan bé que a mi ja no em caldria parlar gaire. Tan sols uns pocs minuts, com vaig dir, per al·lusions. No repetiré ací cada observació que vaig fer, però sí que deixaré constància de dos o tres detalls que m’interessen particularment.\nUn. Certament, no era cap secret que en “Un cel nou i una terra nova” —el conte que dóna títol al llibre— s’esdevé una mena d’apocalipsi. El relat dels fets, com va assenyalar Maria, comença sota un epígraf que no pot ser més explícit: “Just abans de la fi del món”. Amb la qual cosa tampoc pretenia resultar gens original. No mancàvem de proclames apocalíptiques, mentre jo escrivia. I segurament amb raó. Almenys a mi també m’ho pareixia, que la realitat se’ns estava ensorrant i que ens queia damunt a trossos. I encara m’ho pareix, és clar. No hi ha dia que no ens assabentem d’una altra calamitat. Però era optimista, i per això hi havia una segona part: “Quinze anys després”. És a dir, que s’acabava un món, però tot seguit en començava un altre. Més estrany encara, potser. Nou de trinca.\nDos. Hi havia una pregunta ineludible: per què l’acció transcorre a València? Era conscient que se’m podia acusar, fins i tot, de pocavergonya i de traïdor, atesa la meua inclinació a exercir d’escriptor castellonenc. Però, siguem sincers, si venia l’apocalipsi, on volíem que passara? Recorde que Manuel Vázquez Montalbán, molt irònicament, va advertir alguna vegada que a Barcelona podien estar tranquils, perquè si tiraven la bomba atòmica la tirarien a Madrid, que per això era la capital. Ho va escriure a les pàgines d’El País i se li va enfadar més d’un lector. Eren els anys llunyans de la guerra freda i l’autonomia, però la idea continua sent vàlida. Les coses importants passen als llocs importants. L’apocalipsi de debò, al nostre entorn de país o regne, només podia ocórrer a València. A Castelló, on no tenim més que una subdelegació del Govern, amb prou feines ens …"
       },
       {
         "title": "Un cel nou i una terra nova, i set somnis, etc., segons Maria Folch",
