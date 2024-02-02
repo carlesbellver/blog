@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/02/02/botshit/",
+				"title": "I assure you, an AI didn't write a terrible “George Carlin” routine",
+				"content_html": "<blockquote>\n<p>…no estem ni de bon tros a punt que una IA puga fer la teua feina, però ja estem molt més enllà del punt en què el teu cap pot ser enganyat i acomiadar-te per reemplaçar-te amb un robot que farà malament la teua feina.</p>\n</blockquote>\n<p>—<a href=\"https://pluralistic.net/2024/01/29/pay-no-attention/\">Cory Doctorow</a></p>\n",
+				"date_published": "2024-02-02T14:22:32+01:00",
+				"url": "https://carlesbellver.net/2024/02/02/botshit/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/01/31/arora-goyal/",
 				"title": "New Theory Suggests Chatbots Can Understand Text",
 				"content_html": "<p>Explicació entenedora de l’<a href=\"https://arxiv.org/abs/2307.15936\">article</a> d’Arora i Goyal. A mesura que s’incrementa la complexitat dels models es perfecciona l’emulació del llenguatge natural, de manera que les proferències (frases) artificials es fan més i més indistingibles d’aquelles que en les persones impliquen la comprensió dels significats.</p>\n<blockquote>\n<p>“El que l’equip ha demostrat teòricament, i ha confirmat empíricament, és que hi ha generalització compositiva, és a dir, que els LLM són capaços de combinar blocs de construcció com mai s’havien combinat abans. Això, per a mi, és l’essència de la creativitat.”</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>He fet moltes coses i he tractat molta gent estranya, però no havia estat mai a Castelló de la Plana.</p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Marcel_Riera_i_Bou\">Marcel Riera</a>, traductor, en la presentació de <a href=\"https://www.salze.cat/producte/la-claror-al-jardi-louis-macneice/\"><em>La claror al jardí</em></a>, antologia de poemes de <a href=\"https://en.wikipedia.org/wiki/Louis_MacNeice\">Louis MacNeice</a> (Salze Editorial).</p>\n",
 				"date_published": "2023-06-01T20:25:05+02:00",
 				"url": "https://carlesbellver.net/2023/06/01/riera/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/05/29/beagle-boys/",
-				
-				"content_html": "<p>No he entès mai que es parle de les eleccions en termes de si ha guanyat aquest partit o ha perdut aquell altre, com si això fora una competició futbolística. Em pensava que es tractava de triar els nostres representats i els nostres governs. O no hem eixit mai del pati de l’escola?</p>\n<p>Qui guanya o perd, en tot cas, som nosaltres. El conjunt de la societat. Així que no crec que avui —ahir— haja guanyat quasi ningú, tret dels quaranta lladres ja coneguts.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Beagle_Boys\"><img src=\"/uploads/2023/2023-05-29-beagle-boys.jpg\" alt=\"Vinyeta dels Beagle Boys o Golfos Apandadores de Disney.\"></a></p>\n",
-				"date_published": "2023-05-29T22:35:52+02:00",
-				"url": "https://carlesbellver.net/2023/05/29/beagle-boys/"
 			}
 	]
 }
