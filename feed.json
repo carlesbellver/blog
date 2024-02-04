@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/02/04/65511/",
+				"title": "Los índices de lectura de los españoles se mantienen estables tras la pandemia y crecen cinco puntos respecto a 2012",
+				"content_html": "<p>Nova edició del <em>Barómetro de Hábitos de Lectura y Compra de Libros en España</em>. Els percentatges de població lectora varien depenent de l’edat, el nivell educatiu i el gènere.</p>\n",
+				"date_published": "2024-02-04T17:52:20+01:00",
+				"url": "https://carlesbellver.net/2024/02/04/65511/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/02/02/botshit/",
 				"title": "I assure you, an AI didn't write a terrible “George Carlin” routine",
 				"content_html": "<blockquote>\n<p>…no estem ni de bon tros a punt que una IA puga fer la teua feina, però ja estem molt més enllà del punt en què el teu cap pot ser enganyat i acomiadar-te per reemplaçar-te amb un robot que farà malament la teua feina.</p>\n</blockquote>\n<p>—<a href=\"https://pluralistic.net/2024/01/29/pay-no-attention/\">Cory Doctorow</a></p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Sala Sant Miquel. <a href=\"https://www.fundacioncajacastellon.es/cambio-de-paradigma-coleccion-juan-redon/\">Canvi de paradigma. Col·lecció Juan Redón</a>.</p>\n<img alt=\"Foto de la sala d’exposicions Sant Miquel de la Fundació Caixa Castelló.\" src=\"/uploads/2023/2023-06-03-15301.jpg\">\n",
 				"date_published": "2023-06-03T20:01:53+02:00",
 				"url": "https://carlesbellver.net/2023/06/03/15301/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/06/01/riera/",
-				
-				"content_html": "<blockquote>\n<p>He fet moltes coses i he tractat molta gent estranya, però no havia estat mai a Castelló de la Plana.</p>\n</blockquote>\n<p>—<a href=\"https://ca.wikipedia.org/wiki/Marcel_Riera_i_Bou\">Marcel Riera</a>, traductor, en la presentació de <a href=\"https://www.salze.cat/producte/la-claror-al-jardi-louis-macneice/\"><em>La claror al jardí</em></a>, antologia de poemes de <a href=\"https://en.wikipedia.org/wiki/Louis_MacNeice\">Louis MacNeice</a> (Salze Editorial).</p>\n",
-				"date_published": "2023-06-01T20:25:05+02:00",
-				"url": "https://carlesbellver.net/2023/06/01/riera/"
 			}
 	]
 }
