@@ -1844,7 +1844,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://carlesbellver.net/2020/02/15/in-the-long.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;A la llarga, una &amp;quot;IA forta&amp;quot;, o intel·ligència artificial general, és possible en principi però no desitjable. L&#39;IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!&lt;/p&gt;
+&lt;p&gt;A la llarga, una “IA forta”, o intel·ligència artificial general, és possible en principi però no desitjable. L’IA molt més restringida que és possible avui a la pràctica no és necessàriament dolenta. Però presenta els seus propis perills, principalment que es pot confondre amb una IA forta!&lt;/p&gt;
 &lt;p&gt;La bretxa entre els sistemes actuals i els sistemes de ciència-ficció que dominen la imaginació popular és encara gran, tot i que molta gent, tant llega com experta, aconsegueix subestimar-la.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
@@ -7019,7 +7019,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <description>&lt;blockquote&gt;
 &lt;p&gt;Jo sempre dic que tenim una literatura autista, de gent que escriu per a l’espai sideral…&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Si ets autista, és normal que escriguis literatura autista, o marciana. La gent normal no sol escriure literatura.&lt;/p&gt;
+&lt;p&gt;Si ets autista, és normal que escrigues literatura autista, o marciana. La gent normal no sol escriure literatura.&lt;/p&gt;
 </description>
     </item>
     
@@ -7030,14 +7030,14 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://carlesbellver.net/2018/02/15/why-rss-still.html</guid>
       <description>&lt;p&gt;Informar-se mitjançant les xarxes socials privades (Facebook, Twitter) implica cedir el control a uns nous intermediaris, diferents dels anteriors (els mitjans de comunicació de masses tradicionals: premsa, ràdio, televisió), però molt semblants en un aspecte essencial: són ells qui trien —ara amb algorismes, més o menys sofisticats— quins continguts mostrar-te en funció dels seus interessos, no dels teus.&lt;/p&gt;
-&lt;p&gt;Jo, per això, continue utilitzant l&#39;RSS. I després de pegar moltes voltes a la millor manera d’organitzar les meves fonts, fa temps que vaig deixar estar les classificacions temàtiques i les tinc agrupades en només tres carpetes:&lt;/p&gt;
+&lt;p&gt;Jo, per això, continue utilitzant l’RSS. I després de pegar moltes voltes a la millor manera d’organitzar les meues fonts, fa temps que vaig deixar estar les classificacions temàtiques i les tinc agrupades en només tres carpetes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Important&lt;/strong&gt;: per a les novetats de blogs, webs de notícies, etc., que no em voldria perdre.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Interessant&lt;/strong&gt;: les que m’agrada llegir (però no passa res si tinc poc temps i me’m perd un grapat).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Obligatori&lt;/strong&gt;: les que em cal llegir per raó de la meva feina.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;addenda&#34;&gt;Addenda&lt;/h3&gt;
-&lt;p&gt;Com a agregador, ara mateix, utilitze &lt;a href=&#34;http://reederapp.com&#34;&gt;Reeder&lt;/a&gt; sincronitzat amb &lt;a href=&#34;https://feedly.com&#34;&gt;Feedly&lt;/a&gt; (he estat usuari de &lt;a href=&#34;https://miniflux.net&#34;&gt;Miniflux&lt;/a&gt;, i abans, és clar, de &lt;a href=&#34;http://www.google.es/search?q=google+reader+is+dead&#34;&gt;Google Reader&lt;/a&gt;). Però també faig servir, amb una selecció de les fonts que considere &lt;em&gt;importants&lt;/em&gt; (les &lt;em&gt;realment&lt;/em&gt; importants, podríem dir-ne), el meravellós &lt;a href=&#34;https://github.com/rss2email/rss2email&#34;&gt;rss2email&lt;/a&gt;, un script d’&lt;a href=&#34;https://ca.wikipedia.org/wiki/Aaron_Swartz&#34;&gt;Aaron Swartz&lt;/a&gt; que et pot enviar per correu electrònic les novetats d’un canal de continguts. Incloent el text complet dins del missatge, a més més. El tinc programat amb el &lt;code&gt;cron&lt;/code&gt; en una Raspberry Pi i, d’aquesta manera, quan apareix un article nou en &lt;a href=&#34;http://blocs.mesvilaweb.cat/vicent/&#34;&gt;Mails per a Hipàtia&lt;/a&gt;, per exemple, o en &lt;a href=&#34;http://blocs.mesvilaweb.cat/marieta/&#34;&gt;Un altre país&lt;/a&gt; —no hi ha somnis impossibles—, és com si Vicent o Maria m’escriguessin personalment.&lt;/p&gt;
+&lt;p&gt;Com a agregador, ara mateix, utilitze &lt;a href=&#34;http://reederapp.com&#34;&gt;Reeder&lt;/a&gt; sincronitzat amb &lt;a href=&#34;https://feedly.com&#34;&gt;Feedly&lt;/a&gt; (he estat usuari de &lt;a href=&#34;https://miniflux.net&#34;&gt;Miniflux&lt;/a&gt;, i abans, és clar, de &lt;a href=&#34;http://www.google.es/search?q=google+reader+is+dead&#34;&gt;Google Reader&lt;/a&gt;). Però també faig servir, amb una selecció de les fonts que considere &lt;em&gt;importants&lt;/em&gt; (les &lt;em&gt;realment&lt;/em&gt; importants, podríem dir-ne), el meravellós &lt;a href=&#34;https://github.com/rss2email/rss2email&#34;&gt;rss2email&lt;/a&gt;, un script d’&lt;a href=&#34;https://ca.wikipedia.org/wiki/Aaron_Swartz&#34;&gt;Aaron Swartz&lt;/a&gt; que et pot enviar per correu electrònic les novetats d’un canal de continguts. Incloent el text complet dins del missatge, a més més. El tinc programat amb el &lt;code&gt;cron&lt;/code&gt; en una Raspberry Pi i, d’aquesta manera, quan apareix un article nou en &lt;a href=&#34;http://blocs.mesvilaweb.cat/vicent/&#34;&gt;Mails per a Hipàtia&lt;/a&gt;, per exemple, o en &lt;a href=&#34;http://blocs.mesvilaweb.cat/marieta/&#34;&gt;Un altre país&lt;/a&gt; —no hi ha somnis impossibles—, és com si Vicent o Maria m’escrigueren personalment.&lt;/p&gt;
 </description>
     </item>
     
@@ -7047,7 +7047,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Thu, 15 Feb 2018 08:51:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/02/15/el-negocio-de.html</guid>
-      <description>&lt;p&gt;Consultors privats atribueixen el seu auge a &amp;quot;les deficiències en el sector sanitari públic, que continua patint les mesures restrictives preses el 2012&amp;quot;.&lt;/p&gt;
+      <description>&lt;p&gt;Consultors privats atribueixen el seu auge a “les deficiències en el sector sanitari públic, que continua patint les mesures restrictives preses el 2012”.&lt;/p&gt;
 </description>
     </item>
     
