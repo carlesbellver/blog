@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/02/14/39544/",
+				"title": "The Berkeley Hotel hostage",
+				"content_html": "<p>L’editorial comptava amb el seu nou llibre, però a Douglas Adams li costava posar-s’hi. Així que l’editor es va tancar amb ell en una suite d’hotel fins que el va enllestir.</p>\n<blockquote>\n<p>Douglas gaudia de ser un escriptor famós, però n’odiava el procediment. Implicava escriure. Ell detestava fer-ho. Era una feina dura i solitària.</p>\n</blockquote>\n",
+				"date_published": "2024-02-14T20:39:37+01:00",
+				"url": "https://carlesbellver.net/2024/02/14/39544/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/02/04/65511/",
 				"title": "Los índices de lectura de los españoles se mantienen estables tras la pandemia y crecen cinco puntos respecto a 2012",
 				"content_html": "<p>Nova edició del <em>Barómetro de Hábitos de Lectura y Compra de Libros en España</em>. Els percentatges de població lectora varien depenent de l’edat, el nivell educatiu i el gènere.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>Si busqueu, podeu trobar centenars d'idiomes en línia, des de l'urdú fins al català. Però alguns idiomes són més difícils de trobar que altres […] Milions de parlants no nadius d'anglès i no angloparlants estan limitats a utilitzar la web en una llengua que no és la seua materna.</p>\n</blockquote>\n",
 				"date_published": "2023-06-07T22:29:13+02:00",
 				"url": "https://carlesbellver.net/2023/06/07/internet-most-used-languages/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/06/03/15301/",
-				
-				"content_html": "<p>Sala Sant Miquel. <a href=\"https://www.fundacioncajacastellon.es/cambio-de-paradigma-coleccion-juan-redon/\">Canvi de paradigma. Col·lecció Juan Redón</a>.</p>\n<img alt=\"Foto de la sala d’exposicions Sant Miquel de la Fundació Caixa Castelló.\" src=\"/uploads/2023/2023-06-03-15301.jpg\">\n",
-				"date_published": "2023-06-03T20:01:53+02:00",
-				"url": "https://carlesbellver.net/2023/06/03/15301/"
 			}
 	]
 }
