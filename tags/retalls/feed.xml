@@ -6,10 +6,27 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Wed, 14 Feb 2024 20:39:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 19:19:53 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2024/02/19/algorithm-warfare/</link>
+      <pubDate>Mon, 19 Feb 2024 19:19:53 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/02/19/algorithm-warfare/</guid>
+      <description>&lt;p&gt;L’any 2017, Lakoff va categoritzar l’ús que feia de Twitter Donald Trump en el seu intent de controlar els fluxos d’informació “i controlar així els nostres cervells”. Ara, Elon Musk replica i amplia l’abast d’aquestes mateixes tàctiques des de la seua posició privilegiada d’amo de la plataforma i l’algoritme.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Enquadrar el marc de discussió a la seua conveniència abans que puguen fer-ho altres.&lt;/li&gt;
+&lt;li&gt;Distraure l’atenció amb informació falsa i enganyosa.&lt;/li&gt;
+&lt;li&gt;Reorientar les discussions cap a on li interessa.&lt;/li&gt;
+&lt;li&gt;Enviar globus sonda per avaluar les reaccions de l’opinió pública.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theframelab.org/p/algorithm-warfare-how-elon-musk-uses&#34; title=&#34;How Elon Musk uses Twitter to control brains&#34;&gt;&lt;img src=&#34;https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2756d8bc-6566-4b67-a209-6da94062743f_936x1200.jpeg&#34; alt=&#34;Infographic: a taxonomy of Trump Tweets by George Lakoff&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
@@ -352,9 +369,9 @@ arribar no importa.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2023/02/23/stephen-wolfram-chatgpt/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una &amp;quot;continuació raonable&amp;quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.&lt;/p&gt;
-&lt;p&gt;El que fa, bàsicament, és preguntar-se una vegada i una altra: &amp;quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?&amp;quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un &lt;em&gt;token&lt;/em&gt;, que podria ser només una part d&#39;una paraula, i per això de vegades pot &amp;quot;inventar&amp;quot; paraules noves.)&lt;/p&gt;
-&lt;p&gt;A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa &amp;quot;pla&amp;quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l&#39;atzar paraules amb menys probabilitat, obtenim un text més &amp;quot;interessant&amp;quot;.&lt;/p&gt;
+&lt;p&gt;El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una “continuació raonable” del text, on per raonable entenem el que es podria esperar que algú escriga després de veure el que la gent ha escrit en milers de milions de pàgines web.&lt;/p&gt;
+&lt;p&gt;El que fa, bàsicament, és preguntar-se una vegada i una altra: “tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?” I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un &lt;em&gt;token&lt;/em&gt;, que podria ser només una part d&#39;una paraula, i per això de vegades pot “inventar” paraules noves.)&lt;/p&gt;
+&lt;p&gt;A cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però ací és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa “pla”, que no mostrarà cap creativitat… Però si de vegades escollim a l’atzar paraules amb menys probabilitat, obtenim un text més “interessant”.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -642,7 +659,7 @@ arribar no importa.&lt;/p&gt;
       
       <guid>https://carlesbellver.net/2022/02/23/challenging-neoliberalism/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l&#39;economia i la societat actuals:&lt;/p&gt;
+&lt;p&gt;Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seua convicció que el neoliberalisme no és adequat per a l’economia i la societat actuals:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Aquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1185,10 +1202,10 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://carlesbellver.net/2021/02/24/software-bug-arizona-prisons/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Segons filtracions del departament de presons d&#39;Arizona, centenars de presos que podrien optar a ser alliberats romanen a la presó perquè el programari de gestió de reclusos no sap interpretar la legislació vigent.&lt;/p&gt;
+&lt;p&gt;Segons filtracions del departament de presons d’Arizona, centenars de presos que podrien optar a ser alliberats romanen a la presó perquè el programari de gestió de reclusos no sap interpretar la legislació vigent.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;El programari va costar vint-i-quatre milions de dòlars, però no s&#39;ha adaptat als canvis normatius. Mentre miren d&#39;actualitzar-lo, l&#39;administració intenta identificar un a un els presos que podrien eixir al carrer. A hores d&#39;ara ja en són set-cents trenta-tres, però se suposa que n&#39;hi ha molts més. De moment només s&#39;estan beneficiant d&#39;aquestes mesures aquells que ja sabien ells mateixos que hi tenien dret, o els qui tenen famílies que reclamen.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://genius.com/Marc-andreessen-why-software-is-eating-the-world-annotated&#34;&gt;&amp;quot;Software is eating the world&amp;quot;&lt;/a&gt;, va escriure Marc Andreessen, no sense gola. Els processos se simplifiquen per mor de l&#39;automatització, l&#39;eficiència i raons més obscures, i tot això &lt;a href=&#34;https://carlesbellver.net/2019/09/19/software-didnt-adapt.html&#34;&gt;sovint té un cost&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El programari va costar vint-i-quatre milions de dòlars, però no s’ha adaptat als canvis normatius. Mentre miren d’actualitzar-lo, l’administració intenta identificar un a un els presos que podrien eixir al carrer. A hores d’ara ja en són set-cents trenta-tres, però se suposa que n’hi ha molts més. De moment, només s’estan beneficiant d’aquestes mesures aquells que ja sabien ells mateixos que hi tenien dret, o els qui tenen famílies que reclamen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://genius.com/Marc-andreessen-why-software-is-eating-the-world-annotated&#34;&gt;“Software is eating the world”&lt;/a&gt;, va escriure Marc Andreessen, no sense gola. Els processos se simplifiquen per mor de l’automatització, l’eficiència i raons més obscures, i això &lt;a href=&#34;https://carlesbellver.net/2019/09/19/software-didnt-adapt.html&#34;&gt;sovint té un cost&lt;/a&gt;, perquè la realitat és sempre més complicada.&lt;/p&gt;
 </description>
     </item>
     
@@ -1198,7 +1215,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Tue, 23 Feb 2021 19:49:05 +0100</pubDate>
       
       <guid>https://carlesbellver.net/2021/02/23/roman-roads/</guid>
-      <description>&lt;p&gt;Mapes de les carreteres romanes amb l&#39;estil visual dels plànols de línies de metro. L&#39;Imperi complet, la Gran Bretanya, Itàlia, Ibèria i la Gàl·lia.&lt;/p&gt;
+      <description>&lt;p&gt;Mapes de les carreteres romanes amb l’estil visual dels plànols de línies de metro. L’Imperi complet, la Gran Bretanya, Itàlia, Ibèria i la Gàl·lia.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://sashamaps.net/docs/maps/roman-roads-of-iberia/&#34;&gt;&lt;img src=&#34;https://sashamaps.net/images/roman_roads_iberia_v2.5_140.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -6952,7 +6969,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://carlesbellver.net/2018/02/24/blockchain-bitcoin-and.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Hi ha pocs precedents d&#39;aquests experiments. Per si serveix de res, els dòlars Disney, tot i estar cancel·lats, es poden comprar avui en eBay per un import entre un i 14.300 dòlars per un full en perfecte estat.&lt;/p&gt;
+&lt;p&gt;Hi ha pocs precedents d’aquests experiments. Per si serveix de res, els dòlars Disney, tot i estar cancel·lats, es poden comprar avui en eBay per un import entre un i 14.300 dòlars per un full en perfecte estat.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Disney_Dollars&#34;&gt;Dòlars Disney&lt;/a&gt;: la versió ianqui dels &lt;a href=&#34;https://carlesbellver.net/2018/01/11/113011.html&#34;&gt;mortadel·los&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -6964,8 +6981,8 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Sat, 24 Feb 2018 07:44:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/02/24/084420.html</guid>
-      <description>&lt;p&gt;El presidente de RTVE: &lt;a href=&#34;http://vertele.eldiario.es/noticias/presidente-RTVE-hora-cervantes_0_1985501452.html&#34;&gt;&amp;quot;El español es una lengua maravillosa, Carlos I la usaba para hablar con Dios&amp;quot;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Pero lo pronunciaba mal, con un marcado acento germánico, Dios le contestaba en hebreo (como el catalán, pero más raro) y no se entendían.&lt;/p&gt;
+      <description>&lt;p&gt;El president de RTVE: &lt;a href=&#34;http://vertele.eldiario.es/noticias/presidente-RTVE-hora-cervantes_0_1985501452.html&#34;&gt;“El español es una lengua maravillosa, Carlos I la usaba para hablar con Dios”&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Però el pronunciava malament, amb un marcat accent germànic, Déu li contestava en hebreu (com el català, pero més estrany) i no s’entenien.&lt;/p&gt;
 </description>
     </item>
     

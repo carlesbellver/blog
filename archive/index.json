@@ -1,5 +1,12 @@
 [
       {
+        "title": "Algorithm Warfare: How Elon Musk uses Twitter to control brains — Gil Duran \u0026 George Lakoff",
+        "date_published": "2024-02-19T19:19:53+01:00",
+        "url": "/2024/02/19/algorithm-warfare/",
+        "tags": "retalls",
+        "content_text": "L’any 2017, Lakoff va categoritzar l’ús que feia de Twitter Donald Trump en el seu intent de controlar els fluxos d’informació “i controlar així els nostres cervells”. Ara, Elon Musk replica i amplia l’abast d’aquestes mateixes tàctiques des de la seua posició privilegiada d’amo de la plataforma i l’algoritme.\nEnquadrar el marc de discussió a la seua conveniència abans que puguen fer-ho altres. Distraure l’atenció amb informació falsa i enganyosa. Reorientar les discussions cap a on li interessa. Enviar globus sonda per avaluar les reaccions de l’opinió pública. "
+      },
+      {
         "title": "The Berkeley Hotel hostage",
         "date_published": "2024-02-14T20:39:37+01:00",
         "url": "/2024/02/14/39544/",
@@ -355,7 +362,7 @@
         "date_published": "2023-02-23T09:44:05+01:00",
         "url": "/2023/02/23/stephen-wolfram-chatgpt/",
         "tags": "retalls",
-        "content_text": " El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una \u0026amp;quot;continuació raonable\u0026amp;quot; del text, on per raonable entenem el que es podria esperar que algú escrigui després de veure el que la gent ha escrit en milers de milions de pàgines web.\nEl que fa, bàsicament, és preguntar-se una vegada i una altra: \u0026amp;quot;tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?\u0026amp;quot; I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un token, que podria ser només una part d\u0026#39;una paraula, i per això de vegades pot \u0026amp;quot;inventar\u0026amp;quot; paraules noves.)\nA cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però aquí és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa \u0026amp;quot;pla\u0026amp;quot;, que no mostrarà cap creativitat … Però si de vegades escollim a l\u0026#39;atzar paraules amb menys probabilitat, obtenim un text més \u0026amp;quot;interessant\u0026amp;quot;.\n"
+        "content_text": " El primer que cal explicar és que el que ChatGPT intenta fer és, fonamentalment, produir una “continuació raonable” del text, on per raonable entenem el que es podria esperar que algú escriga després de veure el que la gent ha escrit en milers de milions de pàgines web.\nEl que fa, bàsicament, és preguntar-se una vegada i una altra: “tenint en compte el text que tinc fins ara, quina hauria de ser la paraula següent?” I cada vegada hi afegeix una paraula. (Més exactament, hi afegeix un token, que podria ser només una part d\u0026#39;una paraula, i per això de vegades pot “inventar” paraules noves.)\nA cada pas obté una llista de paraules amb diferents probabilitats. Però, quina hauria de triar per afegir-la al text que està escrivint? Es podria pensar que hauria de ser la paraula amb la probabilitat més alta. Però ací és on comença a introduir-se una mica de vudú. Perquè, per alguna raó —que potser algun dia podrem entendre de manera científica— si sempre escollim la paraula més ben valorada, normalment obtindrem un text massa “pla”, que no mostrarà cap creativitat… Però si de vegades escollim a l’atzar paraules amb menys probabilitat, obtenim un text més “interessant”.\n"
       },
       {
         "date_published": "2023-02-16T16:32:49+01:00",
@@ -697,7 +704,7 @@
         "date_published": "2022-02-23T09:08:04+01:00",
         "url": "/2022/02/23/challenging-neoliberalism/",
         "tags": "retalls",
-        "content_text": " Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seva convicció que el neoliberalisme no és adequat per a l\u0026#39;economia i la societat actuals:\nAquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.\n"
+        "content_text": " Larry Kramer, president de la Fundació William i Flora Hewlett, ha dit el següent en un comunicat de premsa on explica la seua convicció que el neoliberalisme no és adequat per a l’economia i la societat actuals:\nAquest esforç conjunt reflecteix el nostre interès compartit en substituir el pensament obsolet del segle XX —individualista versus col·lectivisme, control central versus mercats lliures, llibertat versus igualtat, etc.— amb noves idees que poden conduir a una justícia econòmica més àmplia i una prosperitat per a la gent de tot el món.\n"
       },
       {
         "date_published": "2022-02-22T19:30:14+01:00",
@@ -1320,14 +1327,14 @@
         "date_published": "2021-02-24T07:25:35+01:00",
         "url": "/2021/02/24/software-bug-arizona-prisons/",
         "tags": "retalls",
-        "content_text": " Segons filtracions del departament de presons d\u0026#39;Arizona, centenars de presos que podrien optar a ser alliberats romanen a la presó perquè el programari de gestió de reclusos no sap interpretar la legislació vigent.\nEl programari va costar vint-i-quatre milions de dòlars, però no s\u0026#39;ha adaptat als canvis normatius. Mentre miren d\u0026#39;actualitzar-lo, l\u0026#39;administració intenta identificar un a un els presos que podrien eixir al carrer. A hores d\u0026#39;ara ja en són set-cents trenta-tres, però se suposa que n\u0026#39;hi ha molts més. De moment només s\u0026#39;estan beneficiant d\u0026#39;aquestes mesures aquells que ja sabien ells mateixos que hi tenien dret, o els qui tenen famílies que reclamen.\n\u0026amp;quot;Software is eating the world\u0026amp;quot;, va escriure Marc Andreessen, no sense gola. Els processos se simplifiquen per mor de l\u0026#39;automatització, l\u0026#39;eficiència i raons més obscures, i tot això sovint té un cost.\n"
+        "content_text": " Segons filtracions del departament de presons d’Arizona, centenars de presos que podrien optar a ser alliberats romanen a la presó perquè el programari de gestió de reclusos no sap interpretar la legislació vigent.\nEl programari va costar vint-i-quatre milions de dòlars, però no s’ha adaptat als canvis normatius. Mentre miren d’actualitzar-lo, l’administració intenta identificar un a un els presos que podrien eixir al carrer. A hores d’ara ja en són set-cents trenta-tres, però se suposa que n’hi ha molts més. De moment, només s’estan beneficiant d’aquestes mesures aquells que ja sabien ells mateixos que hi tenien dret, o els qui tenen famílies que reclamen.\n“Software is eating the world”, va escriure Marc Andreessen, no sense gola. Els processos se simplifiquen per mor de l’automatització, l’eficiència i raons més obscures, i això sovint té un cost, perquè la realitat és sempre més complicada.\n"
       },
       {
         "title": "Roman Roads Index | Sasha Trubetskoy",
         "date_published": "2021-02-23T19:49:05+01:00",
         "url": "/2021/02/23/roman-roads/",
         "tags": "retalls",
-        "content_text": "Mapes de les carreteres romanes amb l\u0026#39;estil visual dels plànols de línies de metro. L\u0026#39;Imperi complet, la Gran Bretanya, Itàlia, Ibèria i la Gàl·lia.\n"
+        "content_text": "Mapes de les carreteres romanes amb l’estil visual dels plànols de línies de metro. L’Imperi complet, la Gran Bretanya, Itàlia, Ibèria i la Gàl·lia.\n"
       },
       {
         "date_published": "2021-02-18T07:40:53+01:00",
@@ -6667,19 +6674,19 @@
         "date_published": "2018-02-24T08:54:00+00:00",
         "url": "/2018/02/24/blockchain-bitcoin-and.html",
         "tags": "retalls",
-        "content_text": " Hi ha pocs precedents d\u0026#39;aquests experiments. Per si serveix de res, els dòlars Disney, tot i estar cancel·lats, es poden comprar avui en eBay per un import entre un i 14.300 dòlars per un full en perfecte estat.\nDòlars Disney: la versió ianqui dels mortadel·los.\n"
+        "content_text": " Hi ha pocs precedents d’aquests experiments. Per si serveix de res, els dòlars Disney, tot i estar cancel·lats, es poden comprar avui en eBay per un import entre un i 14.300 dòlars per un full en perfecte estat.\nDòlars Disney: la versió ianqui dels mortadel·los.\n"
       },
       {
         "date_published": "2018-02-24T07:44:00+00:00",
         "url": "/2018/02/24/084420.html",
         "tags": "retalls",
-        "content_text": "El presidente de RTVE: \u0026amp;quot;El español es una lengua maravillosa, Carlos I la usaba para hablar con Dios\u0026amp;quot;.\nPero lo pronunciaba mal, con un marcado acento germánico, Dios le contestaba en hebreo (como el catalán, pero más raro) y no se entendían.\n"
+        "content_text": "El president de RTVE: “El español es una lengua maravillosa, Carlos I la usaba para hablar con Dios”.\nPerò el pronunciava malament, amb un marcat accent germànic, Déu li contestava en hebreu (com el català, pero més estrany) i no s’entenien.\n"
       },
       {
         "date_published": "2018-02-23T16:57:00+00:00",
         "url": "/2018/02/23/175700.html",
         "tags": "fotos",
-        "content_text": "Quan vaig comprar aquesta versió del cub de Rubik, amb cares de senyores i senyors, no imaginava que resultaria tan difícil. Les peces centrals poden quedar girades i això no sabia resoldre-ho. Però ara ja me n\u0026#39;he informat. Només calia aprendre dues seqüències noves. 🙂\n"
+        "content_text": "Quan vaig comprar aquesta versió del cub de Rubik, amb cares de senyores i senyors, no imaginava que resultaria tan difícil. Les peces centrals poden quedar girades i això no sabia resoldre-ho. Però ara ja me n’he informat. Només calia aprendre dues seqüències noves. 🙂\n"
       },
       {
         "title": "El Gobierno, sobre la retirada de ARCO de la exposición de Santiago Sierra: “En España no hay presos políticos”",
@@ -9154,7 +9161,7 @@
         "date_published": "2014-02-23T23:00:00+00:00",
         "url": "/2014/02/23/sunday-morning.html",
         "tags": "",
-        "content_text": "\nQui ens ho havia de dir, que l’inventor d’aquests croissants amb què ens desdejunem avui va ser un exoficial d’artilleria austríac, un tal August Zang, introductor de les viennoiseries a París en la seva Boulangerie viennoise de la rue de Richelieu, núm. 92, abans de tornar a Viena per esdevenir, successivament, magnat de la premsa, regidor i banquer. “Entrepreneur, inventeur, éditeur et homme politique”, així el descriu la Wikipédia francesa.\n"
+        "content_text": "\nQui ens ho havia de dir, que l’inventor d’aquests croissants amb què ens desdejunem avui va ser un exoficial d’artilleria austríac, un tal August Zang, introductor de les viennoiseries a París en la seua Boulangerie viennoise de la rue de Richelieu, núm. 92, abans de tornar a Viena per esdevenir, successivament, magnat de la premsa, regidor i banquer. “Entrepreneur, inventeur, éditeur et homme politique”, així el descriu la Wikipédia francesa.\n"
       },
       {
         "title": "Les dues cultures",
@@ -10449,7 +10456,7 @@
         "date_published": "2004-02-23T23:00:00+00:00",
         "url": "/2004/02/23/lautomtica.html",
         "tags": "",
-        "content_text": "Entre els tiquets de les compres que vaig fer el mes passat amb la targeta de crèdit, n’hi ha un que no puc recordar de cap manera a què correspon. No reconec el nom del comerç, ni l’adreça, i la data tampoc no em diu pas res. Vaig a donar-hi una ullada. Jo no he estat mai en aquest establiment, una botiga petita sense cap senyal que mostri clarament a quina activitat es dedica. Però quan entro a preguntar, la dependenta em fa bona cara, com si em conegués, i em lliura un paquet. “Vet aquí, ja l’hem rebut”. Me l’emporto i l’obro a casa. Dins hi ha una pistola automàtica.\n"
+        "content_text": "Entre els tiquets de les compres que vaig fer el mes passat amb la targeta de crèdit, n’hi ha un que no puc recordar de cap manera a què correspon. No reconec el nom del comerç, ni l’adreça, i la data tampoc no em diu pas res. Vaig a donar-hi una ullada. Jo no he estat mai en aquest establiment, una botiga petita sense cap senyal que mostre clarament a quina activitat es dedica. Però quan entre a preguntar, la dependenta em fa bona cara, com si em coneguera, i em lliura un paquet. “Ací el teniu, ja l’hem rebut”. Me l’emporte i l’òbric a casa. Dins hi ha una pistola automàtica.\n"
       },
       {
         "title": "La qualitat dels pinsos",
@@ -10616,6 +10623,30 @@
         "url": "/llibres/elllibredetopics/",
         "tags": "",
         "content_text": " EPUB PDF\nLa inesperada aparició d’un manuscrit que connecta Lovecraft amb l’inventor de la bomba atòmica. Els riscos de casar-se per catàleg. A un professor de Miskatonic li ixen tentacles al cap. Un altre tipus, un dia es desperta en una habitació desconeguda. En una casa de Castelló hi ha una entrada a l’infern. En un museu de Vilafamés s’exhibeix cada dia un objecte impossible. Una bestiola quasi humana, o fins i tot massa humana. Un aparell per veure a distància. La història secreta del Tombatossals… Vint relats breus de Carles Bellver, calculadament ambigus uns o francament fantàstics uns altres. Inquietants o còmics segons com es miri: això ja depèn del lector.\nText de la presentació conjunta d\u0026#39;El llibre de tòpics i Aquell matí era perfecte d\u0026#39;Albert Garcia Pascual. Sebastià Roig, BarnaCon, 1 de novembre de 2002. Ressenyes \u0026amp;quot;L\u0026#39;inquietant i la llengua\u0026amp;quot; (Josep A. Mas, Levante). \u0026amp;quot;Lovecraft a la Plana\u0026amp;quot; (Albert Toldrà, Lletres Valencianes, núm. 7). \u0026amp;quot;Lovecraft!\u0026amp;quot; (Joan Josep Camacho Grau, Avui, 2003-05-15). "
+      },
+      {
+        "date_published": "0001-01-01T00:00:00+00:00",
+        "url": "/taller/24horeschb/",
+        "tags": "",
+        "content_text": "\u0026lt;!DOCTYPE html PUBLIC \u0026#34;-//W3C//DTD XHTML 1.0 Transitional//EN\u0026#34; \u0026#34;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\u0026#34;\u0026gt; 24 hores Ch. B. 24 hores Ch. B. Carles Bellver Torlà\nPublicat originalment en twitter.com/chbeauvoir en temps real entre el divendres 6 i el dissabte 7 de febrer de 2009.\nNo vull anar, aniré, no aniré. Ha estat una ximplesa confiar en no trobar bitllet a última hora. Renfe no es permet fallar a un vell client.\nDivendres 6 de febrer de 2009 18:18.\nCom vol que li digui que no vull conversa, senyora? Seients enfrontats, redéu. On para el revisor? Doncs ara sí que m\u0026amp;rsquo;està fotent, la Renfe.\nDivendres 6 de febrer de 2009 19:14.\nEntrem al túnel. Literal, però pareix una metàfora. Que la realitat de vegades es comporte simbòlicament vol dir alguna cosa? Segurament no.\nDivendres 6 de febrer de 2009 20:06.\nL\u0026amp;rsquo;habitació: pulcra, còmoda, correcta. Un espai de trànsit. Una sala d\u0026amp;rsquo;espera. No molt diferent del tanatori, supose. Us ho confirmaré demà.\nDivendres 6 de febrer de 2009 21:05.\nÉs una sensació estranya tornar a xafar aquests carrers. Però què em fa sentir tanta basarda exactament? En tot cas preferia arribar de nit.\nDivendres 6 de febrer de 2009 22:03.\nUn bon començament per a un conte, ara mateix. És el moment més dolç: la idea, el potencial, el projecte. Després ja sé que tot es complica.\nDivendres 6 de febrer de 2009 23:01.\nFour on Six. No sé què vol dir el nom però el cantant sobretot m\u0026amp;rsquo;agrada. No sols les versions, les cançons seues també. Rythm \u0026amp;amp; blues \u0026amp;amp; gin.\nDissabte 7 de febrer de 2009 00:13.\nUna altra copa per dormir més bé. I un comentari estúpid a la noia de la barra que tot seguit em sap greu d\u0026amp;rsquo;haver fet. Bocamoll, poca traça.\nDissabte 7 de febrer de 2009 01:00.\nEl bar de l\u0026amp;rsquo;hotel és depriment. El minibar de l\u0026amp;rsquo;habitació pareix una alternativa molt adequada. Ambient agradable, companyia ideal. Anem-hi.\nDissabte 7 de febrer de 2009 02:05.\nJim Carrey, safareig i televenda. Jo aquesta nit …"
+      },
+      {
+        "date_published": "0001-01-01T00:00:00+00:00",
+        "url": "/taller/stfsw-summary/ca/",
+        "tags": "",
+        "content_text": "2012-06-06 19:03:19\nEl meu resum personal de la qüestió, en text net, després de la trobada. Gràcies novament a @xbelanch per donar-me l’ocasió de compartir, debatre i continuar aprenent.\nDefinició del problema Continuem utilitzant processadors de textos del segle passat, pensats per al paper i amb el full de paper com a unitat lògica de mesura i de destí, quan la majoria dels textos que escrivim ja no tenen el seu punt final a la impressora: els enviem per correu electrònic, els publiquen en blogs, en revistes electròniques, en les xarxes socials, en entorns virtuals d’aprenentatge, etc. Els formats de fitxer dels processadors de textos tradicionals són fills d’aquesta concepció heretada. Són formats finalistes: defineixen allò que s’ha d’imprimir i aspiren al control complet de la pàgina. D’aquesta manera, dificulten la inserció del document en altres cicles de treball: publicació web, ebook, etc.1 Finalment, però no per això menys important, la interfície d’usuari dels processadors de textos tradicionals ha esdevingut innecessàriament complexa i confusa. Propostes de solució El renaixement del text net (.txt). A l’hora d’escriure, en el 90% dels casos no necessitem res més. El text net garanteix: La màxima compatibilitat entre aplicacions i entre sistemes operatius. La màxima portabilitat entre dispositius: ordinadors, tauletes, telèfons… La màxima lleugeresa dels documents i de les aplicacions. I sobretot: la preservació dels documents! Primer la semàntica: Markdown (i altres llenguatges de marques lleugers). WYSIWYG: What You See Is What You Get (el que veus és el que obtens). Avui no sabem on ni com s’obtindrà el document: utilitzem una multiplicitat de mitjans i dispositius per a llegir i escriure. L’“autoedició” només tenia sentit amb els documents que m’imprimia jo mateix. WYSIWYM: What You See Is What You Mean (el que veus és el que vols dir). Itàlica i negreta, llistes, seccions i encapçalaments, enllaços, notes al peu…: en el 99% dels casos no necessitem …"
+      },
+      {
+        "date_published": "0001-01-01T00:00:00+00:00",
+        "url": "/taller/stfsw-summary/en/",
+        "tags": "",
+        "content_text": "2012-06-06 19:03:19\nMy personal summary on the topic, in plain text, after the meeting. Thanks again to @xbelanch for giving me the opportunity to share, discuss and continue learning.\nDefining the problem We keep using word processors from the past century, which were designed for paper and with the paper sheet as a logical unit of measure and unit of destiny, when most of the texts we write no longer have their end point in the printer: they are emailed, posted in blogs, in ezines, in the social networks, in virtual learning environments, etc. Traditional word processors’ file formats are the offspring of this received view. They are end formats that define what to print and aspire to the full control of the page. In this way, they hinder the insertion of the documents in other workflows: web publihing, ebooks, etc.1 Last, but not least, the user interface of traditional word processors have become unnecessarily complex and confusing. Proposed solutions The plain text (.txt) revival. When writing, in 90% of the cases we don’t need anything else. Plain text ensures: Maximum compatibility between applications and operating systems. Maximum portability between devices: computers, tablets, smartphones… Maximum lightness of documents and applications. And above all: document preservation! Semantics first: Markdown (and other lightweight markup languages). WYSIWYG: What You See Is What You Get. Today we don’t know where/how you will get the document: we use a multiplicity of media and devices to read and write. “Desktop publishing” only made sense for documents that I was to print by myself! WYSIWYM: What You See Is What You Mean. Italics and bold, lists, sections and headings, links, footnotes…: in 99% of the cases we don’t need anything else. It’s just text! Markdown Markdown keeps all the advantages of plain text. Create Once, Publish Everywhere: export to all formats 2 required to insert the document in different editing and publishing ecosystems. A time to write, a …"
+      },
+      {
+        "date_published": "0001-01-01T00:00:00+00:00",
+        "url": "/taller/stfsw-summary/es/",
+        "tags": "",
+        "content_text": "\nMi resumen personal de la cuestión, en texto simple, después del encuentro. Gracias nuevamente a @xbelanch por darme la ocasión de compartir, debatir y continuar aprendiendo.\nDefinición del problema Seguimos utilizando procesadores de textos del siglo pasado, pensados para el papel y con la hoja de papel com a unidad lógica de medida y de destino, cuando la mayoría de los textos que escribimos ya no tienen su punto final en la impresora: los enviamos por correo electrónico, los publicamos en blogs, en revistas electrónicas, en las redes sociales, en entornos virtuales de aprendizaje, etc. Los formatos de fichero de los procesadores de textos tradicionales son hijos de esta concepción heredada. Son formatos finalistas: definen lo que hay que imprimir y aspiran al control completo de la página. De este modo, dificultan la inserción de los documentos en otros ciclos de trabajo: publicación web, ebook, etc.1 Por último, pero no por ello menos importante, la interfaz de usuario de los procesadores de textos tradicionales se ha hecho innecesariamente compleja y confusa. Propuestas de solución El renacimiento del text simple (.txt). A la hora de escribir, en el 90% de los casos no necesitamos nada más. El texto simple garantiza: La máxima compatibilidad entre aplicaciones y entre sistemas operativos. La máxima portabilidad entre dispositivos: ordenadores, tabletas, teléfonos… La máxima ligereza de los documentos y de las aplicaciones. Y sobre todo: ¡la preservación de los documentos! Primero la semántica: Markdown (y otros lenguajes de marcas ligeros). WYSIWYG: What You See Is What You Get (lo que ves es lo que obtienes). Hoy no sabemos dónde ni cómo se obtendrá el documento: utilizamos una multiplicidad de medios y dispositivos para leer y escribir. ¡La autoedición sólo tenía sentido para los documentos que me imprimía yo mismo! WYSIWYM: What You See Is What You Mean (lo que ves es lo que quieres decir). Itálica y negrita, listas, secciones y encabezados, enlaces, notas …"
       },
       {
         "title": "100 % Charles Beauvoir",
