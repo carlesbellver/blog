@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/02/27/flextv/",
+				"title": "China's next cultural export could be TikTok-style short soap operas",
+				"content_html": "<p>Telesèries en episodis de dos minuts? Però fa un parell d’anys ens deien que venia una allau de novel·les web per entregues: <a href=\"https://www.protocol.com/china/chinese-web-novels-china\">“China is reinventing the way the world reads”</a>.</p>\n",
+				"date_published": "2024-02-27T22:07:46+01:00",
+				"url": "https://carlesbellver.net/2024/02/27/flextv/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/02/23/75500/",
 				
 				"content_html": "<p>El nostre PA de cada dia.</p>\n<img alt=\"Foto d’un blíster de medicaments, amb la llegenda “PA”\" src=\"/uploads/2024/2024-02-23-75500.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Després de tindre la COVID (desembre de 2022) vaig perdre l’olfacte quasi completament. Sis mesos després vaig començar a recuperar-lo. Però amb alguns canvis i sorpreses: no totes les coses fan les olors que feien abans. Per exemple, ara mateix jo faig l’olor de suat d’una altra persona. I això és ben estrany.</p>\n",
 				"date_published": "2023-07-15T12:54:23+02:00",
 				"url": "https://carlesbellver.net/2023/07/15/18434/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/06/14/ana-maria-shua/",
-				"title": "Es pura literatura",
-				"content_html": "<blockquote>\n<p>¿Por qué la gente tiene menos ganas de leer cuentos? Hay varias razones. Los cuentos exigen un poco más del lector. Cuando se entra en una novela, en las primeras páginas uno conoce a los personajes, aprende los códigos y después puede entrar y salir con relativa facilidad. En cambio, en un libro de cuentos hay que hacer ese pequeño esfuerzo de volver a empezar con cada uno. También está el prestigio de lo auténtico. Muchos lectores sienten que leer una novela implica un acto de inmediata apropiación cultural. No es sólo ficción, les da información. Cuando terminan, sienten que «aprendieron» algo. En ese terreno, el cuento pierde: es pura literatura.</p>\n</blockquote>\n<p>—“Una conversación con Ana María Shua”, en <a href=\"https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Shua\">Ana María Shua</a>, <em>Contra el tiempo</em>.</p>\n",
-				"date_published": "2023-06-14T18:56:28+02:00",
-				"url": "https://carlesbellver.net/2023/06/14/ana-maria-shua/"
 			}
 	]
 }
