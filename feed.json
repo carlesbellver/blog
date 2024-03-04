@@ -7,7 +7,7 @@
 	"items": [
 			{
 				"id": "https://carlesbellver.net/2024/02/27/flextv/",
-				"title": "China's next cultural export could be TikTok-style short soap operas",
+				"title": "China’s next cultural export could be TikTok-style short soap operas",
 				"content_html": "<p>Telesèries en episodis de dos minuts? Però fa un parell d’anys ens deien que venia una allau de novel·les web per entregues: <a href=\"https://www.protocol.com/china/chinese-web-novels-china\">“China is reinventing the way the world reads”</a>.</p>\n",
 				"date_published": "2024-02-27T22:07:46+01:00",
 				"url": "https://carlesbellver.net/2024/02/27/flextv/"
@@ -42,7 +42,7 @@
 			},
 			{
 				"id": "https://carlesbellver.net/2024/02/02/botshit/",
-				"title": "I assure you, an AI didn't write a terrible “George Carlin” routine",
+				"title": "I assure you, an AI didn’t write a terrible “George Carlin” routine",
 				"content_html": "<blockquote>\n<p>…no estem ni de bon tros a punt que una IA puga fer la teua feina, però ja estem molt més enllà del punt en què el teu cap pot ser enganyat i acomiadar-te per reemplaçar-te amb un robot que farà malament la teua feina.</p>\n</blockquote>\n<p>—Cory Doctorow</p>\n",
 				"date_published": "2024-02-02T14:22:32+01:00",
 				"url": "https://carlesbellver.net/2024/02/02/botshit/"
@@ -113,7 +113,7 @@
 			{
 				"id": "https://carlesbellver.net/2023/12/17/16395/",
 				
-				"content_html": "<p>Operación Ogro.</p>\n<img alt=\"Foto d'un periòdic obert damunt d'una taula amb el titular “El día que ETA pilló por sorpresa a Kissinger. Abocant-se damunt del periòdic amb posat amenaçador, un petit robot articulat.\" src=\"/uploads/2023/2023-12-17-16395.jpg\">\n",
+				"content_html": "<p>Operación Ogro.</p>\n<img alt=\"Foto d’un periòdic obert damunt d’una taula amb el titular “El día que ETA pilló por sorpresa a Kissinger. Abocant-se damunt del periòdic amb posat amenaçador, un petit robot articulat.\" src=\"/uploads/2023/2023-12-17-16395.jpg\">\n",
 				"date_published": "2023-12-17T13:33:29+01:00",
 				"url": "https://carlesbellver.net/2023/12/17/16395/"
 			},
@@ -127,7 +127,7 @@
 			{
 				"id": "https://carlesbellver.net/2023/12/04/generative-ai-energy/",
 				"title": "Making an image with generative AI uses as much energy as charging your phone",
-				"content_html": "<blockquote>\n<p>De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou <a href=\"https://arxiv.org/pdf/2311.16863.pdf\">estudi</a> realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d'un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.</p>\n</blockquote>\n",
+				"content_html": "<blockquote>\n<p>De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou <a href=\"https://arxiv.org/pdf/2311.16863.pdf\">estudi</a> realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d’un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.</p>\n</blockquote>\n",
 				"date_published": "2023-12-04T11:33:29+01:00",
 				"url": "https://carlesbellver.net/2023/12/04/generative-ai-energy/"
 			},
@@ -148,7 +148,7 @@
 			{
 				"id": "https://carlesbellver.net/2023/09/12/35637/",
 				"title": "An AI capitalism primer",
-				"content_html": "<blockquote>\n<p>S’ha creat aquesta situació estranya en què els models s’entrenen amb el contingut que tots hem publicat i milloren amb les nostres preguntes i contingut nou, i tot seguit se’ns embolcalla com a producte i se’ns torna a vendre. Sens dubte, hi ha alguna invenció i valor propis en la metodologia d'entrenament i les API que fan que tot funcione, però les dades subjacents de les quals s’aprèn pertanyen a nosaltres, no a ells. No funcionaria, en absolut, sense la nostra feina.</p>\n</blockquote>\n",
+				"content_html": "<blockquote>\n<p>S’ha creat aquesta situació estranya en què els models s’entrenen amb el contingut que tots hem publicat i milloren amb les nostres preguntes i contingut nou, i tot seguit se’ns embolcalla com a producte i se’ns torna a vendre. Sens dubte, hi ha alguna invenció i valor propis en la metodologia d’entrenament i les API que fan que tot funcione, però les dades subjacents de les quals s’aprèn pertanyen a nosaltres, no a ells. No funcionaria, en absolut, sense la nostra feina.</p>\n</blockquote>\n",
 				"date_published": "2023-09-12T18:21:13+02:00",
 				"url": "https://carlesbellver.net/2023/09/12/35637/"
 			},
