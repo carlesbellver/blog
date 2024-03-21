@@ -6,8 +6,25 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Thu, 21 Mar 2024 17:25:58 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 17:42:29 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2024/03/21/quine/</link>
+      <pubDate>Thu, 21 Mar 2024 17:42:29 +0100</pubDate>
+      <guid>https://carlesbellver.net/2024/03/21/quine/</guid>
+      <description>
+      &lt;blockquote&gt;
+&lt;p&gt;Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error científic creure el contrari. Però pel que fa a la base epistemològica, els objectes físics i els déus només difereixen en grau i no en espècie. Ambdós tipus d’entitats entren en la nostra concepció només com a postulats culturals. El mite dels objectes físics és epistemològicament superior a la majoria, ja que ha demostrat ser més eficaç que altres mites com a recurs per a bastir una estructura manejable en el flux de l’experiència.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Willard V. O. Quine, “Dos dogmes de l’empirisme”.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;https://carlesbellver.net/uploads/2024/2024-03-21-autor.jpg&#34; alt=&#34;Foto d’un home de mitjana edat amb ulleres, assegut en una butaca, llegint un llibre amb cara d’interès.&#34;&gt;
+  &lt;figcaption&gt;L’autor d’aquest blog, rellegint “Two Dogmas of Empiricism” de Willard V. O. Quine en la traducció al castellà de Manuel Sacristán (“Dos dogmas del empirismo“, dins de “Desde un punto de vista lógico”).&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>Terrence Malick’s introduction to ‘The Essence Of Reasons’ By Martin Heidegger</title>
@@ -301,20 +318,6 @@
       <guid>https://carlesbellver.net/2023/09/04/what-dreams-may-come/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Richard Matheson, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/What_Dreams_May_Come_%28Matheson_novel%29&#34;&gt;What dreams may come&lt;/a&gt;&lt;/em&gt;. Menys una novel·la que una dramatització de doctrines teosòfiques i &lt;em&gt;new age&lt;/em&gt; sobre la vida després de la vida, inspirada parcialment en la &lt;em&gt;Divina Comèdia&lt;/em&gt;. Conté escenes reeixides i memorables, com la baixada als inferns, el purgatori versió suburbi nord-americà o la sala de descans per a nouvinguts.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Don’t Fire Your Illustrator</title>
-      <link>https://sambleckley.com/writing/dont-fire-your-illustrator.html</link>
-      <pubDate>Mon, 28 Aug 2023 12:37:28 +0200</pubDate>
-      <guid>https://carlesbellver.net/2023/08/28/stable-diffusion/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://sambleckley.com/writing/dont-fire-your-illustrator.html&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2023/08/28/stable-diffusion/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Els usuaris juguen a un joc &lt;a href=&#34;https://es.wikipedia.org/wiki/Videojuego_gacha&#34;&gt;gacha&lt;/a&gt;, una màquina escurabutxaques de creació d’imatges. Escriuen els seus &lt;em&gt;prompts&lt;/em&gt; amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Quadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’&lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;&lt;em&gt;Unicorns&lt;/em&gt;&lt;/a&gt;. Intents successius d’afinar el &lt;em&gt;prompt&lt;/em&gt; cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.&lt;/p&gt;
 </description>
     </item>
     

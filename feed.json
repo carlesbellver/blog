@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/03/21/quine/",
+				
+				"content_html": "<blockquote>\n<p>Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error científic creure el contrari. Però pel que fa a la base epistemològica, els objectes físics i els déus només difereixen en grau i no en espècie. Ambdós tipus d’entitats entren en la nostra concepció només com a postulats culturals. El mite dels objectes físics és epistemològicament superior a la majoria, ja que ha demostrat ser més eficaç que altres mites com a recurs per a bastir una estructura manejable en el flux de l’experiència.</p>\n</blockquote>\n<p>—Willard V. O. Quine, “Dos dogmes de l’empirisme”.</p>\n<figure>\n  <img src=\"/uploads/2024/2024-03-21-autor.jpg\" alt=\"Foto d’un home de mitjana edat amb ulleres, assegut en una butaca, llegint un llibre amb cara d’interès.\">\n  <figcaption>L’autor d’aquest blog, rellegint “Two Dogmas of Empiricism” de Willard V. O. Quine en la traducció al castellà de Manuel Sacristán (“Dos dogmas del empirismo“, dins de “Desde un punto de vista lógico”).</figcaption>\n</figure>\n",
+				"date_published": "2024-03-21T17:42:29+01:00",
+				"url": "https://carlesbellver.net/2024/03/21/quine/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/03/21/malick/",
 				"title": "Terrence Malick’s introduction to ‘The Essence Of Reasons’ By Martin Heidegger",
 				"content_html": "<p>Abans de dedicar-se al cinema, <a href=\"https://en.wikipedia.org/wiki/Terrence_Malick\">Terrence Malick</a> —<em>Badlands</em>, <em>The Thin Red Line</em>, <em>The Tree of Life</em>, etc.— va estudiar filosofia. Primer a Harvard i després a Oxford, on pareix que no es va entendre amb el seu tutor, el famós <a href=\"https://en.wikipedia.org/wiki/Gilbert_Ryle\">Gilbert Ryle</a>, autor de la influent obra <em>The Concept of Mind</em>. I per això no va acabar la seua tesi sobre el concepte de món en Kierkegaard, Heidegger i Wittgenstein. És a dir, precisament allò que Manuel Jiménez <a href=\"/2018/02/16/treuren-lentrellat.html\">identificava</a> com un dels temes de fons d’una bona part de la filosofia del segle XX:</p>\n<blockquote>\n<p>En <em>La crisis de las ciencias europeas</em> de Husserl, en <em>Ser y Tiempo</em>de Heidegger, en las <em>Investigaciones filosóficas</em> y en <em>Sobre la certeza</em> de Wittgenstein y en <em>Dos dogmas del empirismo</em> de Quine, de forma inmediata o mediata, damos con algo que es común […]”</p>\n</blockquote>\n<p>Llàstima que Malick no acabara la tesi. Però, almenys, el 1969 va publicar la seua traducció de <em>Vom Wesen des Grundes</em> (<em>The Essence of Reasons</em>) de Martin Heidegger. I a través de l’Internet Archive podem llegir-ne <a href=\"https://archive.org/details/MALICK1969IntroductionCriticalNotesEssenceOfReasons\">la introducció del mateix Malick i les seues notes crítiques</a>, que intenten dilucidar uns quants dels sempre ardus conceptes heideggerians.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> Richard Matheson, <em><a href=\"https://en.wikipedia.org/wiki/What_Dreams_May_Come_%28Matheson_novel%29\">What dreams may come</a></em>. Menys una novel·la que una dramatització de doctrines teosòfiques i <em>new age</em> sobre la vida després de la vida, inspirada parcialment en la <em>Divina Comèdia</em>. Conté escenes reeixides i memorables, com la baixada als inferns, el purgatori versió suburbi nord-americà o la sala de descans per a nouvinguts.</p>\n",
 				"date_published": "2023-09-04T08:37:00+00:00",
 				"url": "https://carlesbellver.net/2023/09/04/what-dreams-may-come/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/08/28/stable-diffusion/",
-				"title": "Don’t Fire Your Illustrator",
-				"content_html": "<p>Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.</p>\n<blockquote>\n<p>Els usuaris juguen a un joc <a href=\"https://es.wikipedia.org/wiki/Videojuego_gacha\">gacha</a>, una màquina escurabutxaques de creació d’imatges. Escriuen els seus <em>prompts</em> amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.</p>\n</blockquote>\n<p>Quadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’<a href=\"https://carlesbellver.net/contes/unicorns\"><em>Unicorns</em></a>. Intents successius d’afinar el <em>prompt</em> cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.</p>\n",
-				"date_published": "2023-08-28T12:37:28+02:00",
-				"url": "https://carlesbellver.net/2023/08/28/stable-diffusion/"
 			}
 	]
 }

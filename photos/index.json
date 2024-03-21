@@ -6,6 +6,13 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2024/03/21/quine/",
+        "date_published": "2024-03-21T17:42:29+01:00",
+        "url": "/2024/03/21/quine/",
+        "image": "https://carlesbellver.net/uploads/2024/2024-03-21-autor.jpg",
+        "content_text": " Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error …"
+    },
+    {
         "id": "/2024/02/23/75500/",
         "date_published": "2024-02-23T09:05:15+01:00",
         "url": "/2024/02/23/75500/",
