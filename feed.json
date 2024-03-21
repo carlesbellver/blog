@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/03/21/malick/",
+				"title": "Terrence Malick’s introduction to ‘The Essence Of Reasons’ By Martin Heidegger",
+				"content_html": "<p>Abans de dedicar-se al cinema, <a href=\"https://en.wikipedia.org/wiki/Terrence_Malick\">Terrence Malick</a> —<em>Badlands</em>, <em>The Thin Red Line</em>, <em>The Tree of Life</em>, etc.— va estudiar filosofia. Primer a Harvard i després a Oxford, on pareix que no es va entendre amb el seu tutor, el famós <a href=\"https://en.wikipedia.org/wiki/Gilbert_Ryle\">Gilbert Ryle</a>, autor de la influent obra <em>The Concept of Mind</em>. I per això no va acabar la seua tesi sobre el concepte de món en Kierkegaard, Heidegger i Wittgenstein. És a dir, precisament allò que Manuel Jiménez <a href=\"/2018/02/16/treuren-lentrellat.html\">identificava</a> com un dels temes de fons d’una bona part de la filosofia del segle XX:</p>\n<blockquote>\n<p>En <em>La crisis de las ciencias europeas</em> de Husserl, en <em>Ser y Tiempo</em>de Heidegger, en las <em>Investigaciones filosóficas</em> y en <em>Sobre la certeza</em> de Wittgenstein y en <em>Dos dogmas del empirismo</em> de Quine, de forma inmediata o mediata, damos con algo que es común […]”</p>\n</blockquote>\n<p>Llàstima que Malick no acabara la tesi. Però, almenys, el 1969 va publicar la seua traducció de <em>Vom Wesen des Grundes</em> (<em>The Essence of Reasons</em>) de Martin Heidegger. I a través de l’Internet Archive podem llegir-ne <a href=\"https://archive.org/details/MALICK1969IntroductionCriticalNotesEssenceOfReasons\">la introducció del mateix Malick i les seues notes crítiques</a>, que intenten dilucidar uns quants dels sempre ardus conceptes heideggerians.</p>\n",
+				"date_published": "2024-03-21T17:25:58+01:00",
+				"url": "https://carlesbellver.net/2024/03/21/malick/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/03/13/feromones/",
 				"title": "Feromonas humanas: ¿de verdad existen?",
 				"content_html": "<p>El terme “feromona” es va utilitzar per primera vegada el 1959, però fins al segle XXI no es va poder identificar aquestes substàncies en mamífers. En els humans, s’han buscat en les glàndules sudorípares axil·lars i en l’arèola mamària.</p>\n<blockquote>\n<p>Si identificáramos la feromona de las glándulas areolares, tal vez podríamos usarla para conseguir más fácilmente el milagro de la lactancia materna. Un interesante reto para la ciencia futura.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.</p>\n<blockquote>\n<p>Els usuaris juguen a un joc <a href=\"https://es.wikipedia.org/wiki/Videojuego_gacha\">gacha</a>, una màquina escurabutxaques de creació d’imatges. Escriuen els seus <em>prompts</em> amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.</p>\n</blockquote>\n<p>Quadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’<a href=\"https://carlesbellver.net/contes/unicorns\"><em>Unicorns</em></a>. Intents successius d’afinar el <em>prompt</em> cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.</p>\n",
 				"date_published": "2023-08-28T12:37:28+02:00",
 				"url": "https://carlesbellver.net/2023/08/28/stable-diffusion/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/07/22/49043/",
-				
-				"content_html": "<p>Ascensor parroquial. ↑ cel ↓ infern però sempre amb la màxima comoditat.</p>\n<img alt=\"Porta de l’ascensor d’un garatge en un carrer, coberta de grafits de colors. Damunt de la porta, en lletres de motle: “PARROQUIA STA. MARIA”\" src=\"/uploads/2023/2023-07-22-49043.jpg\">\n",
-				"date_published": "2023-07-22T20:04:25+02:00",
-				"url": "https://carlesbellver.net/2023/07/22/49043/"
 			}
 	]
 }
