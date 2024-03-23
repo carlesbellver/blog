@@ -6680,15 +6680,15 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Sun, 25 Mar 2018 11:32:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/03/25/la-informaci-que.html</guid>
-      <description>&lt;p&gt;Després de l’&lt;a href=&#34;http://www.guerraeterna.com/facebook-y-cambridge-analytica-nos-ofrecen-la-ultima-evolucion-de-la-democracia/&#34;&gt;escàndol de Cambridge Analytica&lt;/a&gt;, l’última notícia que he llegit sobre les llibertats que Facebook es pren —i ens treu— és que &lt;a href=&#34;https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/&#34;&gt;ha recollit i mantingut un registre amb les nostres trucades&lt;/a&gt;, en els telèfons amb sistema operatiu Android, mentre tècnicament li ha estat possible (fins que Google ha anat ajustant i endurint els permisos de les aplicacions).&lt;/p&gt;
-&lt;p&gt;Aqueix mateix article que acabe d’enllaçar animava a &lt;a href=&#34;https://www.facebook.com/help/131112897028467&#34;&gt;baixar l’arxiu d’informació&lt;/a&gt; que Facebook diu que té de tu. Ho he fet aquest matí. És un fitxer &lt;code&gt;.zip&lt;/code&gt; que, una vegada descomprimit, es pot visualitzar en el navegador web. Us puc dir que conté dades realment notables. Entre altres (a més a més de totes les teves fotos, vídeos, publicacions i &lt;em&gt;m’agrada&lt;/em&gt;):&lt;/p&gt;
+      <description>&lt;p&gt;Després de l’&lt;a href=&#34;http://www.guerraeterna.com/facebook-y-cambridge-analytica-nos-ofrecen-la-ultima-evolucion-de-la-democracia/&#34;&gt;escàndol de Cambridge Analytica&lt;/a&gt;, l’última notícia que he llegit sobre les llibertats que Facebook es pren —i ens lleva— és que &lt;a href=&#34;https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/&#34;&gt;ha recollit i mantingut un registre amb les nostres trucades&lt;/a&gt;, en els telèfons amb sistema operatiu Android, mentre tècnicament li ha estat possible (fins que Google ha anat ajustant i endurint els permisos de les aplicacions).&lt;/p&gt;
+&lt;p&gt;Aqueix mateix article que acabe d’enllaçar animava a &lt;a href=&#34;https://www.facebook.com/help/131112897028467&#34;&gt;baixar l’arxiu d’informació&lt;/a&gt; que Facebook diu que té de tu. Ho he fet aquest matí. És un fitxer &lt;code&gt;.zip&lt;/code&gt; que, una vegada descomprimit, es pot visualitzar en el navegador web. Us puc dir que conté dades realment notables. Entre altres (a més a més de totes les teues fotos, vídeos, publicacions i &lt;em&gt;m’agrada&lt;/em&gt;):&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;La teva llista d’amistats, les sol·licituds que has declinat i la gent que et segueix sense demanar-te amistat.&lt;/li&gt;
+&lt;li&gt;La teua llista d’amistats, les sol·licituds que has declinat i la gent que et segueix sense demanar-te amistat.&lt;/li&gt;
 &lt;li&gt;Els temes dels quals et mostra publicitat perquè calcula que et poden interessar (en el meu cas, encapçalats per &lt;em&gt;Ice Hockey&lt;/em&gt;: poques coses puc pensar que m’interessen menys).&lt;/li&gt;
 &lt;li&gt;L’historial d’anuncis en què has fet clic.&lt;/li&gt;
-&lt;li&gt;La llista d’anunciants a què ha proporcionat la teva informació de contacte (n’he comptat cent vuitanta-quatre).&lt;/li&gt;
+&lt;li&gt;La llista d’anunciants a què ha proporcionat la teua informació de contacte (n’he comptat cent vuitanta-quatre).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Segur que Facebook sap de mi, o s’imagina, moltes més coses que no confessa. Seria ben ingenu creure’s que no hi connecta, per exemple, les dades de les seves altres aplicacions (WhatsApp, Instagram). Però per a començar ja està prou bé el resum o recull que envia.&lt;/p&gt;
+&lt;p&gt;Segur que Facebook sap de mi, o s’imagina, moltes més coses que no confessa. Seria ben ingenu creure’s que no hi connecta, per exemple, les dades de les seues altres aplicacions (WhatsApp, Instagram). Però per a començar ja està prou bé el resum o recull que envia.&lt;/p&gt;
 </description>
     </item>
     
@@ -6698,7 +6698,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Sun, 25 Mar 2018 09:09:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2018/03/25/facebook-scraped-call.html</guid>
-      <description>&lt;p&gt;Si vau donar permís a Facebook per a accedir als vostres contactes abans de la versió d’Android 4.1, amb això també vau autoritzar l’accés al registre de trucades i missatges.&lt;/p&gt;
+      <description>&lt;p&gt;Si vau donar permís a Facebook per a accedir als vostres contactes abans de la versió d’Android 4.1, amb això també vau autoritzar de fet, sense saber-ho, l’accés al registre de trucades i missatges.&lt;/p&gt;
 </description>
     </item>
     
@@ -9291,6 +9291,9 @@ El que recordava de la visita és revelador. Se li va quedar gravada en la memò
       
       <guid>https://carlesbellver.net/2015/03/24/the-contagious-thought.html</guid>
       <description>&lt;p&gt;Nocebo vs. placebo.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“L’efecte nocebo mostra el poder del cervell.”&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
