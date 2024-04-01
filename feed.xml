@@ -6,8 +6,20 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Thu, 21 Mar 2024 17:42:29 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 16:44:27 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title>There is no EU cookie banner law</title>
+      <link>https://www.bitecode.dev/p/there-is-no-eu-cookie-banner-law</link>
+      <pubDate>Mon, 01 Apr 2024 16:44:27 +0200</pubDate>
+      <guid>https://carlesbellver.net/2024/04/01/cookie-banner-law/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.bitecode.dev/p/there-is-no-eu-cookie-banner-law&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2024/04/01/cookie-banner-law/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;El Reglament General de Protecció de Dades (RGPD) europeu no obliga a col·locar un avís de cookies davant de cada web, blocant l’accés a la pàgina. En realitat, ni tan sols menciona les famoses galetes.&lt;/p&gt;
+&lt;p&gt;Però sí que fa obligatori demanar autorització a l’usuari per a qualsevol tractament de dades que comporte identificar-lo, o que puga permetre identificar-lo. Per això seria més prudent desconfiar de totes les pàgines que ens presenten l’avís, ja que estan implicant que volen utilitzar les nostres dades, i ens hauríem de preguntar per a què. La majoria de les vegades, no per a prestar-nos cap servei, sinó per al negoci de la publicitat.&lt;/p&gt;
+&lt;p&gt;De fet, la manera més habitual de presentar l’avís pot ser il·legal, moltes vegades, en virtut del mateix RGPD. Com a poc, sempre que se’ns convida a acceptar totes les galetes, no se’ns facilita rebutjar-les o no se’ns informa clarament de l’ús que se’n farà. Perquè el consentiment ha de ser lliure i informat, i això no són, o no haurien de ser, només paraules buides.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -308,16 +320,6 @@
       &lt;blockquote&gt;
 &lt;p&gt;S’ha creat aquesta situació estranya en què els models s’entrenen amb el contingut que tots hem publicat i milloren amb les nostres preguntes i contingut nou, i tot seguit se’ns embolcalla com a producte i se’ns torna a vendre. Sens dubte, hi ha alguna invenció i valor propis en la metodologia d’entrenament i les API que fan que tot funcione, però les dades subjacents de les quals s’aprèn pertanyen a nosaltres, no a ells. No funcionaria, en absolut, sense la nostra feina.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What dreams may come</title>
-      <link>https://carlesbellver.net/2023/09/04/what-dreams-may-come/</link>
-      <pubDate>Mon, 04 Sep 2023 08:37:00 +0000</pubDate>
-      <guid>https://carlesbellver.net/2023/09/04/what-dreams-may-come/</guid>
-      <description>
-      &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Richard Matheson, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/What_Dreams_May_Come_%28Matheson_novel%29&#34;&gt;What dreams may come&lt;/a&gt;&lt;/em&gt;. Menys una novel·la que una dramatització de doctrines teosòfiques i &lt;em&gt;new age&lt;/em&gt; sobre la vida després de la vida, inspirada parcialment en la &lt;em&gt;Divina Comèdia&lt;/em&gt;. Conté escenes reeixides i memorables, com la baixada als inferns, el purgatori versió suburbi nord-americà o la sala de descans per a nouvinguts.&lt;/p&gt;
 </description>
     </item>
     

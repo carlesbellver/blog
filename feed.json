@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/04/01/cookie-banner-law/",
+				"title": "There is no EU cookie banner law",
+				"content_html": "<p>El Reglament General de Protecció de Dades (RGPD) europeu no obliga a col·locar un avís de cookies davant de cada web, blocant l’accés a la pàgina. En realitat, ni tan sols menciona les famoses galetes.</p>\n<p>Però sí que fa obligatori demanar autorització a l’usuari per a qualsevol tractament de dades que comporte identificar-lo, o que puga permetre identificar-lo. Per això seria més prudent desconfiar de totes les pàgines que ens presenten l’avís, ja que estan implicant que volen utilitzar les nostres dades, i ens hauríem de preguntar per a què. La majoria de les vegades, no per a prestar-nos cap servei, sinó per al negoci de la publicitat.</p>\n<p>De fet, la manera més habitual de presentar l’avís pot ser il·legal, moltes vegades, en virtut del mateix RGPD. Com a poc, sempre que se’ns convida a acceptar totes les galetes, no se’ns facilita rebutjar-les o no se’ns informa clarament de l’ús que se’n farà. Perquè el consentiment ha de ser lliure i informat, i això no són, o no haurien de ser, només paraules buides.</p>\n",
+				"date_published": "2024-04-01T16:44:27+02:00",
+				"url": "https://carlesbellver.net/2024/04/01/cookie-banner-law/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/03/21/quine/",
 				
 				"content_html": "<blockquote>\n<p>Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error científic creure el contrari. Però pel que fa a la base epistemològica, els objectes físics i els déus només difereixen en grau i no en espècie. Ambdós tipus d’entitats entren en la nostra concepció només com a postulats culturals. El mite dels objectes físics és epistemològicament superior a la majoria, ja que ha demostrat ser més eficaç que altres mites com a recurs per a bastir una estructura manejable en el flux de l’experiència.</p>\n</blockquote>\n<p>—Willard V. O. Quine, “Dos dogmes de l’empirisme”.</p>\n<figure>\n  <img src=\"/uploads/2024/2024-03-21-autor.jpg\" alt=\"Foto d’un home de mitjana edat amb ulleres, assegut en una butaca, llegint un llibre amb cara d’interès.\">\n  <figcaption>L’autor d’aquest blog, rellegint “Two Dogmas of Empiricism” de Willard V. O. Quine en la traducció al castellà de Manuel Sacristán (“Dos dogmas del empirismo“, dins de “Desde un punto de vista lógico”).</figcaption>\n</figure>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>S’ha creat aquesta situació estranya en què els models s’entrenen amb el contingut que tots hem publicat i milloren amb les nostres preguntes i contingut nou, i tot seguit se’ns embolcalla com a producte i se’ns torna a vendre. Sens dubte, hi ha alguna invenció i valor propis en la metodologia d’entrenament i les API que fan que tot funcione, però les dades subjacents de les quals s’aprèn pertanyen a nosaltres, no a ells. No funcionaria, en absolut, sense la nostra feina.</p>\n</blockquote>\n",
 				"date_published": "2023-09-12T18:21:13+02:00",
 				"url": "https://carlesbellver.net/2023/09/12/35637/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/09/04/what-dreams-may-come/",
-				"title": "What dreams may come",
-				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> Richard Matheson, <em><a href=\"https://en.wikipedia.org/wiki/What_Dreams_May_Come_%28Matheson_novel%29\">What dreams may come</a></em>. Menys una novel·la que una dramatització de doctrines teosòfiques i <em>new age</em> sobre la vida després de la vida, inspirada parcialment en la <em>Divina Comèdia</em>. Conté escenes reeixides i memorables, com la baixada als inferns, el purgatori versió suburbi nord-americà o la sala de descans per a nouvinguts.</p>\n",
-				"date_published": "2023-09-04T08:37:00+00:00",
-				"url": "https://carlesbellver.net/2023/09/04/what-dreams-may-come/"
 			}
 	]
 }

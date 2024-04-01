@@ -6,10 +6,22 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Thu, 21 Mar 2024 17:25:58 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 16:44:27 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>There is no EU cookie banner law</title>
+      <link>https://carlesbellver.net/2024/04/01/cookie-banner-law/</link>
+      <pubDate>Mon, 01 Apr 2024 16:44:27 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/04/01/cookie-banner-law/</guid>
+      <description>&lt;p&gt;El Reglament General de Protecció de Dades (RGPD) europeu no obliga a col·locar un avís de cookies davant de cada web, blocant l’accés a la pàgina. En realitat, ni tan sols menciona les famoses galetes.&lt;/p&gt;
+&lt;p&gt;Però sí que fa obligatori demanar autorització a l’usuari per a qualsevol tractament de dades que comporte identificar-lo, o que puga permetre identificar-lo. Per això seria més prudent desconfiar de totes les pàgines que ens presenten l’avís, ja que estan implicant que volen utilitzar les nostres dades, i ens hauríem de preguntar per a què. La majoria de les vegades, no per a prestar-nos cap servei, sinó per al negoci de la publicitat.&lt;/p&gt;
+&lt;p&gt;De fet, la manera més habitual de presentar l’avís pot ser il·legal, moltes vegades, en virtut del mateix RGPD. Com a poc, sempre que se’ns convida a acceptar totes les galetes, no se’ns facilita rebutjar-les o no se’ns informa clarament de l’ús que se’n farà. Perquè el consentiment ha de ser lliure i informat, i això no són, o no haurien de ser, només paraules buides.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Terrence Malick’s introduction to ‘The Essence Of Reasons’ By Martin Heidegger</title>
@@ -3237,7 +3249,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Wed, 03 Apr 2019 08:15:00 +0000</pubDate>
       
       <guid>https://carlesbellver.net/2019/04/03/com-autentica-banksy.html</guid>
-      <description>&lt;p&gt;Com autentica Banksy les serigrafies que ven per Internet? Sorprenentment (ironia) no utilitza blockchain, sinó que ha creat la seva autoritat central certificadora i un enginyós mecanisme criptogràfic d’allò més analògic.&lt;/p&gt;
+      <description>&lt;p&gt;Com autentica Banksy les serigrafies que ven per Internet? Sorprenentment (ironia) no utilitza blockchain, sinó que ha creat la seua autoritat central certificadora i un enginyós mecanisme criptogràfic d’allò més analògic.&lt;/p&gt;
 </description>
     </item>
     
