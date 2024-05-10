@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/05/10/dead-deepfakes/",
+				"title": "Deepfakes of your dead loved ones are a booming Chinese business",
+				"content_html": "<p>El dol —i el culte als ancestres— en l’era de la IA. A la Xina, mitja dotzena d’empreses ofereixen el servei a milers de clients.</p>\n<blockquote>\n<p>Una vegada per setmana, Sun Kai té una videotrucada amb sa mare. Comença parlant de la feina, de les pressions a què s'enfronta com a home de mitjana edat i li fa confidències que no comparteix ni amb la seua dona. De tant en tant sa mare fa un comentari, com ara dir-li que es cuide: és el seu únic fill. Però sobretot escolta. Perquè la mare de Sun va morir fa cinc anys. I la persona amb qui parla no és en realitat una persona, sinó una rèplica digital…</p>\n</blockquote>\n",
+				"date_published": "2024-05-10T13:37:46+02:00",
+				"url": "https://carlesbellver.net/2024/05/10/dead-deepfakes/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/05/03/46602/",
 				
 				"content_html": "<p>La meua oficina bancària té dos caixers. Avui un no funciona. L’altre sí. El que no funciona em recomana que busque el caixer més pròxim, que segons ell no seria el del costat, a dos pams, sinó un en un altre municipi, a una distància de trenta-quatre quilòmetres. Sent flaquejar per moments la meua fe cibernètica.</p>\n<img alt=\"Pantalla d’un caixer amb el text següent: “El cajero se encuentra fuera de servicio. Para su comodidad, le rogamos acuda a uno de nuestros cajeros más próximos: PZ ESPANA,2. 12591 LA LLOSA”\" src=\"/uploads/2024/2024-05-03-46602.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>L’enigma es resol ara amb l’estudi de dos historiadors autoritzats, el belga Bernard Wilkin i l’alemany Robin Schäfer, que juntament amb l’arqueòleg britànic Tony Pollard han documentat una veritat sensacional i esgarrifosa: els ossos dels morts a Waterloo van desaparèixer perquè van ser progressivament i il·legalment desenterrats entre 1834 i 1860 per a emprar-los massivament en la indústria sucrera belga com a filtre per a refinar i blanquejar el sucre. Segons els estudiosos, una part dels ossos també es va transformar en adobs.</p>\n</blockquote>\n",
 				"date_published": "2023-12-11T16:35:55+01:00",
 				"url": "https://carlesbellver.net/2023/12/11/waterloo/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/12/04/generative-ai-energy/",
-				"title": "Making an image with generative AI uses as much energy as charging your phone",
-				"content_html": "<blockquote>\n<p>De fet, generar una imatge amb un model d’IA potent requereix tanta energia com carregar completament un telèfon intel·ligent, segons un nou <a href=\"https://arxiv.org/pdf/2311.16863.pdf\">estudi</a> realitzat per investigadors de la startup d’IA Hugging Face i la Carnegie Mellon University. Tanmateix, van descobrir que l’ús d’un model d’IA per a generar text consumeix molt menys d’energia. La creació de text 1.000 vegades només utilitza una energia equivalent al 16% de la càrrega completa d’un telèfon intel·ligent.</p>\n</blockquote>\n",
-				"date_published": "2023-12-04T11:33:29+01:00",
-				"url": "https://carlesbellver.net/2023/12/04/generative-ai-energy/"
 			}
 	]
 }
