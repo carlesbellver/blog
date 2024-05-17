@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/05/12/virgin-suicides/",
+				
+				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> <a href=\"https://en.wikipedia.org/wiki/The_Virgin_Suicides\"><em>The Virgin Suicides</em></a>. Un conte de fades sinistre sota l’aparença del realisme (supose que l’ambientació dels contes de fades clàssics també degué ser realista en el seu moment). Tant l’heroi com l’heroïna són subjectes col·lectius, però ací ningú pot salvar ningú, ni tan sols a si mateix. L’ombra de <a href=\"https://ca.wikipedia.org/wiki/John_Cheever\">John Cheever</a> s’estenia damunt de <a href=\"https://en.wikipedia.org/wiki/Grosse_Pointe%2C_Michigan\">Grosse Pointe</a> a mesura que <a href=\"https://ca.wikipedia.org/wiki/Jeffrey_Eugenides\">Jeffrey Eugenides</a> anava escrivint la seua primera novel·la.</p>\n<blockquote>\n<p>S’havien matat pels nostres boscos moribunds, pels manatís que  les hèlices mutilaven quan emergien a beure de les mànegues dels jardins; s’havien matat en veure les muntanyes de pneumàtics usats, més altes que les piràmides; s’havien matat per la impossibilitat de trobar un amor que no podia ser cap de nosaltres. Al capdavall, la tortura que havia esquinçat les germanes Lisbon assenyalava una renúncia simple i raonada a acceptar el món tal com se’ls havia donat, tan ple de defectes.</p>\n</blockquote>\n",
+				"date_published": "2024-05-12T16:55:55+02:00",
+				"url": "https://carlesbellver.net/2024/05/12/virgin-suicides/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/05/10/dead-deepfakes/",
 				"title": "Deepfakes of your dead loved ones are a booming Chinese business",
 				"content_html": "<p>El dol —i el culte als ancestres— en l’era de la IA. A la Xina, mitja dotzena d’empreses ofereixen el servei a milers de clients.</p>\n<blockquote>\n<p>Una vegada per setmana, Sun Kai té una videotrucada amb sa mare. Comença parlant de la feina, de les pressions a què s'enfronta com a home de mitjana edat i li fa confidències que no comparteix ni amb la seua dona. De tant en tant sa mare fa un comentari, com ara dir-li que es cuide: és el seu únic fill. Però sobretot escolta. Perquè la mare de Sun va morir fa cinc anys. I la persona amb qui parla no és en realitat una persona, sinó una rèplica digital…</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Operación Ogro.</p>\n<img alt=\"Foto d’un periòdic obert damunt d’una taula amb el titular “El día que ETA pilló por sorpresa a Kissinger. Abocant-se damunt del periòdic amb posat amenaçador, un petit robot articulat.\" src=\"/uploads/2023/2023-12-17-16395.jpg\">\n",
 				"date_published": "2023-12-17T13:33:29+01:00",
 				"url": "https://carlesbellver.net/2023/12/17/16395/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/12/11/waterloo/",
-				"title": "Waterloo, le ossa dei caduti in battaglia usate per raffinare lo zucchero",
-				"content_html": "<blockquote>\n<p>L’enigma es resol ara amb l’estudi de dos historiadors autoritzats, el belga Bernard Wilkin i l’alemany Robin Schäfer, que juntament amb l’arqueòleg britànic Tony Pollard han documentat una veritat sensacional i esgarrifosa: els ossos dels morts a Waterloo van desaparèixer perquè van ser progressivament i il·legalment desenterrats entre 1834 i 1860 per a emprar-los massivament en la indústria sucrera belga com a filtre per a refinar i blanquejar el sucre. Segons els estudiosos, una part dels ossos també es va transformar en adobs.</p>\n</blockquote>\n",
-				"date_published": "2023-12-11T16:35:55+01:00",
-				"url": "https://carlesbellver.net/2023/12/11/waterloo/"
 			}
 	]
 }
