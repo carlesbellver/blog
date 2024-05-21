@@ -6,8 +6,15 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/05/21/problema-tres-cossos/",
+				"title": "The Three-Body Problem",
+				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> He llegit en alguna ressenya que el millor episodi de l’adaptació de Netflix d’<a href=\"https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)\"><em>El problema dels tres cossos</em></a> és el primer. Casualment —o no— la millor part del llibre són també els primers capítols. Després continua presentant —i desenvolupant— molt bones idees de ciència-ficció, originals i perspicaces, amb una realització novel·lística que a mi em va parèixer tècnicament deficient, tant pel que fa als personatges com pel que fa a la trama.</p>\n",
+				"date_published": "2024-05-21T19:38:37+02:00",
+				"url": "https://carlesbellver.net/2024/05/21/problema-tres-cossos/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/05/12/virgin-suicides/",
-				
+				"title": "The Virgin Suicides",
 				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> <a href=\"https://en.wikipedia.org/wiki/The_Virgin_Suicides\"><em>The Virgin Suicides</em></a>. Un conte de fades sinistre sota l’aparença del realisme (supose que l’ambientació dels contes de fades clàssics també degué ser realista en el seu moment). Tant l’heroi com l’heroïna són subjectes col·lectius, però ací ningú pot salvar ningú, ni tan sols a si mateix. L’ombra de <a href=\"https://ca.wikipedia.org/wiki/John_Cheever\">John Cheever</a> s’estenia damunt de <a href=\"https://en.wikipedia.org/wiki/Grosse_Pointe%2C_Michigan\">Grosse Pointe</a> a mesura que <a href=\"https://ca.wikipedia.org/wiki/Jeffrey_Eugenides\">Jeffrey Eugenides</a> anava escrivint la seua primera novel·la.</p>\n<blockquote>\n<p>S’havien matat pels nostres boscos moribunds, pels manatís que  les hèlices mutilaven quan emergien a beure de les mànegues dels jardins; s’havien matat en veure les muntanyes de pneumàtics usats, més altes que les piràmides; s’havien matat per la impossibilitat de trobar un amor que no podia ser cap de nosaltres. Al capdavall, la tortura que havia esquinçat les germanes Lisbon assenyalava una renúncia simple i raonada a acceptar el món tal com se’ls havia donat, tan ple de defectes.</p>\n</blockquote>\n",
 				"date_published": "2024-05-12T16:55:55+02:00",
 				"url": "https://carlesbellver.net/2024/05/12/virgin-suicides/"
@@ -172,13 +179,6 @@
 				"content_html": "<p>Malsons del capitalisme avançat. Una <em>startup</em> pretén comercialitzar un aparell que indueix somnis lúcids —mitjançant ultrasons— per poder treballar mentre dorms.</p>\n<blockquote>\n<p>La gent passa un terç de la vida dormint. I si els empleats pogueren treballar durant aquest temps… en somnis? Prophetic, una startup finançada per capital risc, fundada a principis d’aquest any, vol ajudar els treballadors a fer-ho. Mitjançant uns auriculars anomenats “Halo”, Prophetic diu que els consumidors poden induir un estat de somni lúcid, que es produeix quan la persona que té un somni és conscient que està dormint. L’objectiu és donar a les persones control sobre els seus somnis, de manera que puguen utilitzar aquest temps de manera productiva. Un CEO podria practicar per a la pròxima reunió, un esportista podria assajar jugades, un dissenyador web podria crear plantilles: “l’únic límit és la imaginació”.</p>\n<p>Funcionarà alliberant feixos d’ultrasons enfocats a una regió del cervell implicada en els somnis lúcids. Els raigs activaran les parts del cervell que controlen la presa de decisions i la consciència. Per crear l’Halo, Prophetic treballa amb el fundador de Card79 Afshin Mehin, que va dissenyar el dispositiu Neuralink N1 per a l’empresa d’implants cerebrals d’Elon Musk.</p>\n</blockquote>\n",
 				"date_published": "2023-12-17T13:52:21+01:00",
 				"url": "https://carlesbellver.net/2023/12/17/work-while-sleeping/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/12/17/16395/",
-				
-				"content_html": "<p>Operación Ogro.</p>\n<img alt=\"Foto d’un periòdic obert damunt d’una taula amb el titular “El día que ETA pilló por sorpresa a Kissinger. Abocant-se damunt del periòdic amb posat amenaçador, un petit robot articulat.\" src=\"/uploads/2023/2023-12-17-16395.jpg\">\n",
-				"date_published": "2023-12-17T13:33:29+01:00",
-				"url": "https://carlesbellver.net/2023/12/17/16395/"
 			}
 	]
 }

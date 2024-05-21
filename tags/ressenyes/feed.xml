@@ -6,13 +6,23 @@
     <description>La vista cansada (Ressenyes)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 12 May 2024 16:55:55 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 19:38:37 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/ressenyes/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The Three-Body Problem</title>
+      <link>https://carlesbellver.net/2024/05/21/problema-tres-cossos/</link>
+      <pubDate>Tue, 21 May 2024 19:38:37 +0200</pubDate>
       
+      <guid>https://carlesbellver.net/2024/05/21/problema-tres-cossos/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; He llegit en alguna ressenya que el millor episodi de l’adaptació de Netflix d’&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)&#34;&gt;&lt;em&gt;El problema dels tres cossos&lt;/em&gt;&lt;/a&gt; és el primer. Casualment —o no— la millor part del llibre són també els primers capítols. Després continua presentant —i desenvolupant— molt bones idees de ciència-ficció, originals i perspicaces, amb una realització novel·lística que a mi em va parèixer tècnicament deficient, tant pel que fa als personatges com pel que fa a la trama.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Virgin Suicides</title>
       <link>https://carlesbellver.net/2024/05/12/virgin-suicides/</link>
       <pubDate>Sun, 12 May 2024 16:55:55 +0200</pubDate>
       
