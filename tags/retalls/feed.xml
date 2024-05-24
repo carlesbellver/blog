@@ -6,10 +6,23 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Fri, 10 May 2024 13:37:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 13:26:11 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Grand Unified Theory of the AI Hype Cycle</title>
+      <link>https://carlesbellver.net/2024/05/24/ai-hype-cycle/</link>
+      <pubDate>Fri, 24 May 2024 13:26:11 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/05/24/ai-hype-cycle/</guid>
+      <description>&lt;p&gt;Un patró que s’ha repetit periòdicament des de 1950. Avanços científico-tècnics prometedors que requereixen potència informàtica extra i condueixen a inflar la bombolla de la IA, fins que aquesta inevitablement es desinfla. Com a resultat, una gran frustració i al mateix temps aplicacions reals, útils, més restringides del que es deia. La IA general continua tan lluny com sempre.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No us puc dir quan s’acabarà la mania actual i esclatarà aquesta bombolla. Si poguera, ho estaríeu llegint en el meu butlletí d&#39;estratègia comercial per 100.000 dòlars mensuals només per a subscriptors i no en un blog públic. El que us puc dir és que els ordinadors no poden pensar, i que els problemes de la instància actual del camp nebulosament definit de la “IA” no es resoldran tots en un període de “cinc a vint anys”.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Deepfakes of your dead loved ones are a booming Chinese business</title>

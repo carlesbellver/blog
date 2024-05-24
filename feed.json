@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/05/24/ai-hype-cycle/",
+				"title": "A Grand Unified Theory of the AI Hype Cycle",
+				"content_html": "<p>Un patró que s’ha repetit periòdicament des de 1950. Avanços científico-tècnics prometedors que requereixen potència informàtica extra i condueixen a inflar la bombolla de la IA, fins que aquesta inevitablement es desinfla. Com a resultat, una gran frustració i al mateix temps aplicacions reals, útils, més restringides del que es deia. La IA general continua tan lluny com sempre.</p>\n<blockquote>\n<p>No us puc dir quan s’acabarà la mania actual i esclatarà aquesta bombolla. Si poguera, ho estaríeu llegint en el meu butlletí d'estratègia comercial per 100.000 dòlars mensuals només per a subscriptors i no en un blog públic. El que us puc dir és que els ordinadors no poden pensar, i que els problemes de la instància actual del camp nebulosament definit de la “IA” no es resoldran tots en un període de “cinc a vint anys”.</p>\n</blockquote>\n",
+				"date_published": "2024-05-24T13:26:11+02:00",
+				"url": "https://carlesbellver.net/2024/05/24/ai-hype-cycle/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/05/21/problema-tres-cossos/",
 				"title": "The Three-Body Problem",
 				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> He llegit en alguna ressenya que el millor episodi de l’adaptació de Netflix d’<a href=\"https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)\"><em>El problema dels tres cossos</em></a> és el primer. Casualment —o no— la millor part del llibre són també els primers capítols. Després continua presentant —i desenvolupant— molt bones idees de ciència-ficció, originals i perspicaces, amb una realització novel·lística que a mi em va parèixer tècnicament deficient, tant pel que fa als personatges com pel que fa a la trama.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Aquelles frases que <a href=\"/2020/12/20/pop-art/\">fa tres anys</a> començaven a créixer orgànicament són ara el principi d’un relat molt més llarg, part d’un nou recull que l’any que ve intentaré publicar.</p>\n<img alt=\"Animació de l’evolució d’un document de text al llarg de versions successives\" src=\"/uploads/2020/2020-12-20-pop-art.gif\" style=\"max-height:560px\">\n",
 				"date_published": "2023-12-20T18:35:30+01:00",
 				"url": "https://carlesbellver.net/2023/12/20/nou-llibre/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/12/17/work-while-sleeping/",
-				"title": "Lucid dream startup says you can work in your sleep",
-				"content_html": "<p>Malsons del capitalisme avançat. Una <em>startup</em> pretén comercialitzar un aparell que indueix somnis lúcids —mitjançant ultrasons— per poder treballar mentre dorms.</p>\n<blockquote>\n<p>La gent passa un terç de la vida dormint. I si els empleats pogueren treballar durant aquest temps… en somnis? Prophetic, una startup finançada per capital risc, fundada a principis d’aquest any, vol ajudar els treballadors a fer-ho. Mitjançant uns auriculars anomenats “Halo”, Prophetic diu que els consumidors poden induir un estat de somni lúcid, que es produeix quan la persona que té un somni és conscient que està dormint. L’objectiu és donar a les persones control sobre els seus somnis, de manera que puguen utilitzar aquest temps de manera productiva. Un CEO podria practicar per a la pròxima reunió, un esportista podria assajar jugades, un dissenyador web podria crear plantilles: “l’únic límit és la imaginació”.</p>\n<p>Funcionarà alliberant feixos d’ultrasons enfocats a una regió del cervell implicada en els somnis lúcids. Els raigs activaran les parts del cervell que controlen la presa de decisions i la consciència. Per crear l’Halo, Prophetic treballa amb el fundador de Card79 Afshin Mehin, que va dissenyar el dispositiu Neuralink N1 per a l’empresa d’implants cerebrals d’Elon Musk.</p>\n</blockquote>\n",
-				"date_published": "2023-12-17T13:52:21+01:00",
-				"url": "https://carlesbellver.net/2023/12/17/work-while-sleeping/"
 			}
 	]
 }
