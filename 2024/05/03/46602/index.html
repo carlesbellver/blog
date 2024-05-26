@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1716713876" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1716715690" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,12 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1716713876" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1716715690" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1716713876" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1716715690" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1716713876" />
-<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1716713876"></script>
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1716715690" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1716715690"></script>
 
 
 
@@ -281,6 +281,12 @@
 
 <p>Podeu utilitzar Mastodon (o qualsevol altra aplicació compatible amb el Fedivers) per a respondre a <a href="https://mastodon.social/@carlesbellver/112377635571824436">aquest missatge</a>.</p>
 
+<div id="comments-count">
+  <img class="icon" src="https://carlesbellver.net//svg.icons/star.svg" alt="star"> <a href="https://mastodon.social/@carlesbellver/112377635571824436"><span id="favourites_count"></span></a>
+  <img class="icon" src="https://carlesbellver.net//svg.icons/repeat.svg" alt="repeat"> <a href="https://mastodon.social/@carlesbellver/112377635571824436"><span id="boosts_count"></span></a>
+  <img class="icon" src="https://carlesbellver.net//svg.icons/message-square.svg" alt="message"> <a href="https://mastodon.social/@carlesbellver/112377635571824436"><span id="comments_count"></span></a>
+</div>
+
 <div id="comments-list"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.5/purify.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -362,14 +368,16 @@
         return response.json();
       })
       .then(function(data) {
-        console.log("Comments: " + data['descendants'].length);
-        if(data['descendants'] && Array.isArray(data['descendants']) && data['descendants'].length > 0) {
-          document.getElementById('comments-list').innerHTML = "";
-          render_toots(data['descendants'], id, 0)
-        } else {
-          document.getElementById('comments-list').innerHTML = "";
+        if(data['descendants'] && Array.isArray(data['descendants'])) {
+          console.log("Comments: " + data['descendants'].length);
+          document.getElementById('comments_count').innerHTML = data['descendants'].length;
+          if( data['descendants'].length > 0) {
+            document.getElementById('comments-list').innerHTML = "";
+            render_toots(data['descendants'], id, 0)
+          } else {
+            document.getElementById('comments-list').innerHTML = "";
+          }
         }
-
         commentsLoaded = true;
       });
     loadFavourites();
@@ -385,6 +393,7 @@
       })
       .then(function(data) {
         console.log("Favourites: " + data.length);
+        document.getElementById('favourites_count').innerHTML = data.length;
       });
   }
 
@@ -397,6 +406,7 @@
       })
       .then(function(data) {
         console.log("Boosts: " + data.length);
+        document.getElementById('boosts_count').innerHTML = data.length;
       });
   }
 
