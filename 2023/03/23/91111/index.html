@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1716712939" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1716713876" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,12 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1716712939" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1716713876" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1716712939" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1716713876" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1716712939" />
-<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1716712939"></script>
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1716713876" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1716713876"></script>
 
 
 
@@ -362,14 +362,41 @@ Idealització de la infància i del lladronici?"/>
         return response.json();
       })
       .then(function(data) {
+        console.log("Comments: " + data['descendants'].length);
         if(data['descendants'] && Array.isArray(data['descendants']) && data['descendants'].length > 0) {
-            document.getElementById('comments-list').innerHTML = "";
-            render_toots(data['descendants'], id, 0)
+          document.getElementById('comments-list').innerHTML = "";
+          render_toots(data['descendants'], id, 0)
         } else {
           document.getElementById('comments-list').innerHTML = "";
         }
 
         commentsLoaded = true;
+      });
+    loadFavourites();
+    loadBoosts();
+  }
+
+  function loadFavourites() {
+    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/favourited_by';
+    console.log(apiUrl);
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log("Favourites: " + data.length);
+      });
+  }
+
+  function loadBoosts() {
+    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/reblogged_by';
+    console.log(apiUrl);
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log("Boosts: " + data.length);
       });
   }
 
