@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1716793156" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1716803870" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,12 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1716793156" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1716803870" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1716793156" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1716803870" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1716793156" />
-<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1716793156"></script>
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1716803870" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1716803870"></script>
 
 
 
@@ -284,7 +284,7 @@
 
 <div id="comments-list"></div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.5/purify.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://carlesbellver.net/js/purify.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
   var host = 'mastodon.social';
   var user = 'carlesbellver';
@@ -302,6 +302,8 @@
       .replace(/'/g, "&#039;");
   }
 
+  var favouritesLoaded = false;
+  var boostsLoaded = false;
   var commentsLoaded = false;
 
   function toot_active(toot, what) {
@@ -352,10 +354,44 @@
     render_toots(toots, toot.id, depth + 1)
   }
 
-  function loadComments() {
-    if (commentsLoaded) return;
+  function loadReactions() {
+    if (!favouritesLoaded || !boostsLoaded || !commentsLoaded) {
+      document.getElementById("comments-list").innerHTML = "S'estan carregant les reaccions…";
+      if (!favouritesLoaded) loadFavourites();
+      if (!boostsLoaded) loadBoosts();
+      if (!commentsLoaded) loadComments();
+    }
+  }
 
-    document.getElementById("comments-list").innerHTML = "S'estan carregant els comentaris…";
+  function loadFavourites() {
+    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/favourited_by';
+    console.log(apiUrl);
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log("Favourites: " + data.length);
+        document.getElementById('favourites_count').innerHTML = data.length;
+        favouritesLoaded = true;
+      });
+  }
+
+  function loadBoosts() {
+    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/reblogged_by';
+    console.log(apiUrl);
+    fetch(apiUrl)
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        console.log("Boosts: " + data.length);
+        document.getElementById('boosts_count').innerHTML = data.length;
+        boostsLoaded = true;
+      });
+  }
+
+  function loadComments() {
     apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/context';
     console.log(apiUrl);
     fetch(apiUrl)
@@ -374,34 +410,6 @@
           }
         }
         commentsLoaded = true;
-      });
-    loadFavourites();
-    loadBoosts();
-  }
-
-  function loadFavourites() {
-    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/favourited_by';
-    console.log(apiUrl);
-    fetch(apiUrl)
-      .then(function(response) {
-        return response.json();
-      })
-      .then(function(data) {
-        console.log("Favourites: " + data.length);
-        document.getElementById('favourites_count').innerHTML = data.length;
-      });
-  }
-
-  function loadBoosts() {
-    apiUrl = 'https://' + host + '/api/v1/statuses/' + id + '/reblogged_by';
-    console.log(apiUrl);
-    fetch(apiUrl)
-      .then(function(response) {
-        return response.json();
-      })
-      .then(function(data) {
-        console.log("Boosts: " + data.length);
-        document.getElementById('boosts_count').innerHTML = data.length;
       });
   }
 
@@ -422,7 +430,7 @@
   }
 
   var comments = document.getElementById("comments-list");
-  respondToVisibility(comments, loadComments);
+  respondToVisibility(comments, loadReactions);
 </script>
 
 </div>
