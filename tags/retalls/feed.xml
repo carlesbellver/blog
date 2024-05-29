@@ -6,10 +6,20 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Fri, 24 May 2024 13:26:11 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 14:30:57 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say</title>
+      <link>https://carlesbellver.net/2024/05/29/85839/</link>
+      <pubDate>Wed, 29 May 2024 14:30:57 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/05/29/85839/</guid>
+      <description>&lt;p&gt;Els models de llenguatge no aprenen de les converses amb els usuaris. Cada vegada que interactuem amb ChatGPT, Copilot, Gemini, etc., la conversa s’inicia de nou des de zero. L’entrenament d’aquests models s’ha esdevingut abans i consisteix a processar matemàticament (estadísticament) milions i milions de textos: la Wikipedia, llibres, una bona part del web… Aquest procés pot durar mesos i consumeix molta potència computacional.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Grand Unified Theory of the AI Hype Cycle</title>

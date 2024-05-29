@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/05/29/85839/",
+				"title": "Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say",
+				"content_html": "<p>Els models de llenguatge no aprenen de les converses amb els usuaris. Cada vegada que interactuem amb ChatGPT, Copilot, Gemini, etc., la conversa s’inicia de nou des de zero. L’entrenament d’aquests models s’ha esdevingut abans i consisteix a processar matemàticament (estadísticament) milions i milions de textos: la Wikipedia, llibres, una bona part del web… Aquest procés pot durar mesos i consumeix molta potència computacional.</p>\n",
+				"date_published": "2024-05-29T14:30:57+02:00",
+				"url": "https://carlesbellver.net/2024/05/29/85839/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/05/24/ai-hype-cycle/",
 				"title": "A Grand Unified Theory of the AI Hype Cycle",
 				"content_html": "<p>Un patró que s’ha repetit periòdicament des de 1950. Avanços científico-tècnics prometedors que requereixen potència informàtica extra i condueixen a inflar la bombolla de la IA, fins que aquesta inevitablement es desinfla. Com a resultat, una gran frustració i al mateix temps aplicacions reals, útils, més restringides del que es deia. La IA general continua tan lluny com sempre.</p>\n<blockquote>\n<p>No us puc dir quan s’acabarà la mania actual i esclatarà aquesta bombolla. Si poguera, ho estaríeu llegint en el meu butlletí d'estratègia comercial per 100.000 dòlars mensuals només per a subscriptors i no en un blog públic. El que us puc dir és que els ordinadors no poden pensar, i que els problemes de la instància actual del camp nebulosament definit de la “IA” no es resoldran tots en un període de “cinc a vint anys”.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Avui fa dia de rellegir <a href=\"https://ciudadseva.com/texto/la-loteria-en-babilonia/\">“La lotería en Babilonia”</a> de J. L. Borges.</p>\n",
 				"date_published": "2023-12-22T07:38:09+01:00",
 				"url": "https://carlesbellver.net/2023/12/22/27075/"
-			},
-			{
-				"id": "https://carlesbellver.net/2023/12/20/nou-llibre/",
-				
-				"content_html": "<p>Aquelles frases que <a href=\"/2020/12/20/pop-art/\">fa tres anys</a> començaven a créixer orgànicament són ara el principi d’un relat molt més llarg, part d’un nou recull que l’any que ve intentaré publicar.</p>\n<img alt=\"Animació de l’evolució d’un document de text al llarg de versions successives\" src=\"/uploads/2020/2020-12-20-pop-art.gif\" style=\"max-height:560px\">\n",
-				"date_published": "2023-12-20T18:35:30+01:00",
-				"url": "https://carlesbellver.net/2023/12/20/nou-llibre/"
 			}
 	]
 }
