@@ -17,7 +17,10 @@
       <pubDate>Wed, 29 May 2024 14:30:57 +0200</pubDate>
       
       <guid>https://carlesbellver.net/2024/05/29/85839/</guid>
-      <description>&lt;p&gt;Els models de llenguatge no aprenen de les converses amb els usuaris. Cada vegada que interactuem amb ChatGPT, Copilot, Gemini, etc., la conversa s’inicia de nou des de zero. L’entrenament d’aquests models s’ha esdevingut abans i consisteix a processar matemàticament (estadísticament) milions i milions de textos: la Wikipedia, llibres, una bona part del web… Aquest procés pot durar mesos i consumeix molta potència computacional.&lt;/p&gt;
+      <description>&lt;p&gt;Els models de llenguatge no aprenen de les converses amb els usuaris. Cada vegada que interactuem amb ChatGPT, Copilot, Gemini, etc., la conversa s’inicia de nou des de zero.&lt;/p&gt;
+&lt;p&gt;L’entrenament d’aquests models s’ha esdevingut abans i consisteix a processar matemàticament (estadísticament) milions i milions de textos: la Wikipedia, llibres, una bona part del web… Aquest procés pot durar mesos i consumeix molta potència computacional, així que no és una cosa que es puga continuar fent en temps real tal com xarrem amb una IA.&lt;/p&gt;
+&lt;p&gt;Però això, evidentment, no vol dir que puguem estar tranquils respecte a l’ús de les nostres converses que puguen estar fent aquestes empreses. Haurien de complir la llei, per descomptat, i les lleis europees ens protegeixen raonablement, però l’historial d’incompliments és llarg i no sempre és fàcil posar-hi remei.&lt;/p&gt;
+&lt;p&gt;Poden estar guardant les dades, encara que siga només durant un temps, encara que siga només per la seua pròpia seguretat. I això pot conduir en algun moment a filtracions, entre altres conseqüències dolentes. Millor, per tant, pensar bé el que escrivim.&lt;/p&gt;
 </description>
     </item>
     
