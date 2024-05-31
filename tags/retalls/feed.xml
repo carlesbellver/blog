@@ -6,10 +6,23 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Wed, 29 May 2024 14:30:57 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 19:17:42 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aumentan las ejecuciones y alcanzan la cifra más alta en casi un decenio</title>
+      <link>https://carlesbellver.net/2024/05/31/stop-executions/</link>
+      <pubDate>Fri, 31 May 2024 19:17:42 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/05/31/stop-executions/</guid>
+      <description>&lt;p&gt;1.153 execucions en 2023, la xifra més alta des de 2015. Però, al mateix temps, el nombre de països que les porten a terme és el més baix que ha registrat mai Amnistia Internacional: només setze a tot el món. Quins són els estats que han executat més persones? Xina, Iran, Aràbia Saudita i a certa distància Somàlia i els Estats Units d’Amèrica. L’augment es deu sobretot a Iran.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A pesar de la actuación de una minoría, continuaron los avances. En la actualidad, 112 países son totalmente abolicionistas y 144 han abolido la pena de muerte en la ley o en la práctica.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say</title>
