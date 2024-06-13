@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/06/13/13274/",
+				"title": "Business owners are buying into a bogus myth about driving",
+				"content_html": "<blockquote>\n<p>Estudi rere estudi, ciutat rere ciutat arreu del món, els investigadors han descobert que els comerciants exageren la proporció de clients que arriben en cotxe i subestimen els que van a peu, en bicicleta o en transport públic. Aquesta percepció errònia els porta a oposar-se a reformes que limitarien la presència de cotxes i farien els barris més nets, més agradables i menys contaminats.</p>\n</blockquote>\n",
+				"date_published": "2024-06-13T23:14:41+02:00",
+				"url": "https://carlesbellver.net/2024/06/13/13274/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/06/12/elephant-names/",
 				"title": "Elephants Have Names for Each Other, Study Finds",
 				"content_html": "<blockquote>\n<p>Els elefants es criden pel nom i responen quan escolten que els altres diuen el seu nom […] Els nous <a href=\"https://dx.doi.org/10.1038/s41559-024-02420-w\">descobriments</a> publicats a <em>Nature Ecology and Evolution</em> suggereixen que els elefants poden ser capaços de pensament abstracte i poden tenir un vocabulari que va més enllà dels noms.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Una tipologia de prediccions enfocada a la tecnologia educativa, però generalitzable, potser, a altres àmbits.</p>\n<ol>\n<li>Prediccions de cotxes voladors: fum tecnològic amb objectius propagandístics, però sense base material.</li>\n<li>Extrapolacions estadístiques de tendències actuals: útils, almenys fins que arriba una crisi, un moviment imprevist, un canvi disruptiu, etc.</li>\n<li>Profecies apocalíptiques: basades en sensacions, desitjos o ideologia, més que en dades o fets.</li>\n</ol>\n",
 				"date_published": "2024-01-14T18:39:23+01:00",
 				"url": "https://carlesbellver.net/2024/01/14/53935/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/01/12/ai-muse/",
-				
-				"content_html": "<blockquote>\n<p>ChatGPT és una musa, no un oracle.</p>\n</blockquote>\n<p>— <a href=\"https://youtu.be/oy7uMpPrGMA\">You Can Build an App in 60 Minutes with ChatGPT - Ep. 5 with Geoffrey Litt - YouTube</a></p>\n",
-				"date_published": "2024-01-12T11:38:38+01:00",
-				"url": "https://carlesbellver.net/2024/01/12/ai-muse/"
 			}
 	]
 }
