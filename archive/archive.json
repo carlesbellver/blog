@@ -6821,7 +6821,7 @@
         "date_published": "2018-06-21T20:00:24+00:00",
         "url": "/2018/06/21/210024.html",
         "tags": "",
-        "content_text": "\nLes deixalles de l’antic règim rematant la seva pròpia transició. Cada dia."
+        "content_text": "\nLes deixalles de l’antic règim rematant la seua pròpia transició. Cada dia."
       },
       {
         "id": 855,
@@ -11325,7 +11325,7 @@
         "date_published": "2013-06-22T22:00:00+00:00",
         "url": "/2013/06/22/la-diferncia-entre.html",
         "tags": "",
-        "content_text": "\nLa diferència entre Android i iOS es fa palesa en casos com aquest, quan, al final, els problemes amb la wifi no es resolen reiniciant, ni instal·lant cap actualització, etc., sinó que cal esborrar el fitxer `wpa_supplicant_bgscan.db` en `/data/misc/wifi`, esperar que es torni a crear i llavors canviar-li els permisos a *read only*. Tot això, després d’haver aconseguit privilegis de superusuari, és clar.\n\nÉs a dir, si et compres un telèfon Android t’estalvies uns centenars d’euros i, en canvi, guanyes moltes hores d’entreteniment i aprenentatge *geek*.\n\n  - [talk.sonymobile.com/message/350299#350299](http://talk.sonymobile.com/message/350299#350299)\n  - [forum.xda-developers.com/showpost.php?p=36678863](http://forum.xda-developers.com/showpost.php?p=36678863)\n\n"
+        "content_text": "\nLa diferència entre Android i iOS es fa palesa en casos com aquest, quan, al final, els problemes amb la wifi no es resolen reiniciant, ni instal·lant cap actualització, etc., sinó que cal esborrar el fitxer `wpa_supplicant_bgscan.db` en `/data/misc/wifi`, esperar que es torne a generar automàticament i aleshores canviar-li els permisos a *read only*. Tot això, després d’haver aconseguit privilegis de superusuari, és clar.\n\nÉs a dir, si et compres un telèfon Android t’estalvies uns centenars d’euros i, en canvi, guanyes moltes hores d’entreteniment i aprenentatge *geek*.\n\n  - [talk.sonymobile.com/message/350299#350299](http://talk.sonymobile.com/message/350299#350299)\n  - [forum.xda-developers.com/showpost.php?p=36678863](http://forum.xda-developers.com/showpost.php?p=36678863)\n\n"
       },
       {
         "id": 1419,
