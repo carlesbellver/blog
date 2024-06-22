@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/06/22/67286/",
+				
+				"content_html": "<p>Foto apaïsada, en color, d’un carrer estret, amb cases d’aspecte antic i altres més modernes alternant-se als dos costats. A l’esquerra, pròxim al primer pla, un rètol lluminós amb el logotip de Bitcoin. A continuació, en segon pla, entre altres rètols no il·luminats, un de “Pensión La Corte” i un de “Colchones Pikolin”.</p>\n<img alt=\"Carrer de la Trinitat de #Castelló. Caixer Bitcoin, pensió La Corte i matalassos Pikolin.\" src=\"/uploads/2024/2024-06-22-67286.jpg\">\n",
+				"date_published": "2024-06-22T16:41:52+02:00",
+				"url": "https://carlesbellver.net/2024/06/22/67286/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/06/13/13274/",
 				"title": "Business owners are buying into a bogus myth about driving",
 				"content_html": "<blockquote>\n<p>Estudi rere estudi, ciutat rere ciutat arreu del món, els investigadors han descobert que els comerciants exageren la proporció de clients que arriben en cotxe i subestimen els que van a peu, en bicicleta o en transport públic. Aquesta percepció errònia els porta a oposar-se a reformes que limitarien la presència de cotxes i farien els barris més nets, més agradables i menys contaminats.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<ol>\n<li>La hibridació de l’escriptura humana amb l’IA esdevindrà normal.</li>\n<li>La IA contribuirà a ampliar la creativitat humana.</li>\n<li>Es reduiran les barreres idiomàtiques.</li>\n<li>Les persones podem cedir control a l’IA, però no podem defugir la responsabilitat.</li>\n<li>L’atribució de l’autoria continuarà sent important.</li>\n<li>Les definicions tradicionals de plagi deixaran de ser vàlides i per tant no seran útils.</li>\n</ol>\n",
 				"date_published": "2024-01-19T12:36:56+01:00",
 				"url": "https://carlesbellver.net/2024/01/19/64196/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/01/14/53935/",
-				"title": "ALT redux",
-				"content_html": "<p>Una tipologia de prediccions enfocada a la tecnologia educativa, però generalitzable, potser, a altres àmbits.</p>\n<ol>\n<li>Prediccions de cotxes voladors: fum tecnològic amb objectius propagandístics, però sense base material.</li>\n<li>Extrapolacions estadístiques de tendències actuals: útils, almenys fins que arriba una crisi, un moviment imprevist, un canvi disruptiu, etc.</li>\n<li>Profecies apocalíptiques: basades en sensacions, desitjos o ideologia, més que en dades o fets.</li>\n</ol>\n",
-				"date_published": "2024-01-14T18:39:23+01:00",
-				"url": "https://carlesbellver.net/2024/01/14/53935/"
 			}
 	]
 }
