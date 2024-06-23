@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/06/23/life-is-dormant/",
+				"title": "Most Life on Earth Is Dormant, After Pulling an ‘Emergency Brake’",
+				"content_html": "<p>Segons estimacions, un 60 % de microbis estarien en hibernació, esperant les condicions per a reactivar-se. Passaria el mateix amb parts d’organismes pluricel·lulars com els mamífers.</p>\n<blockquote>\n<p>“Vivim en un planeta dorment”, diu Sergey Melnikov, biòleg molecular evolutiu de la Universitat de Newcastle. “La vida consisteix principalment a dormir”.</p>\n</blockquote>\n<img src=\"/uploads/2024/2024-06-23-calderon.jpg\" alt=\"Portada d’una edició antiga de “La vida es sueño”, de Calderón de la Barca.\">",
+				"date_published": "2024-06-23T10:05:02+02:00",
+				"url": "https://carlesbellver.net/2024/06/23/life-is-dormant/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/06/22/67286/",
 				
 				"content_html": "<p>Carrer de la Trinitat de #Castelló. Caixer Bitcoin, pensió La Corte i matalassos Pikolin.</p>\n<img alt=\"Foto apaïsada, en color, d’un carrer estret, amb cases d’aspecte antic i altres més modernes alternant-se als dos costats. A l’esquerra, pròxim al primer pla, un rètol lluminós amb el logotip de Bitcoin. A continuació, en segon pla, entre altres rètols no il·luminats, un de “Pensión La Corte” i un de “Colchones Pikolin”.\" src=\"/uploads/2024/2024-06-22-67286.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Perdem facultats. O si més no alguna lletra.</p>\n<img alt=\"Cartell indicatiu de la Facultat de Ciències de la Salut de la Universitat Jaume I de Castelló, on falta la lletra ela en la paraula “Facultat”\" src=\"/uploads/2024/2024-01-25-05933.jpg\">\n",
 				"date_published": "2024-01-25T19:05:51+01:00",
 				"url": "https://carlesbellver.net/2024/01/25/05933/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/01/19/64196/",
-				"title": "6 Tenets of Postplagiarism: Writing in the Age of Artificial Intelligence",
-				"content_html": "<ol>\n<li>La hibridació de l’escriptura humana amb l’IA esdevindrà normal.</li>\n<li>La IA contribuirà a ampliar la creativitat humana.</li>\n<li>Es reduiran les barreres idiomàtiques.</li>\n<li>Les persones podem cedir control a l’IA, però no podem defugir la responsabilitat.</li>\n<li>L’atribució de l’autoria continuarà sent important.</li>\n<li>Les definicions tradicionals de plagi deixaran de ser vàlides i per tant no seran útils.</li>\n</ol>\n",
-				"date_published": "2024-01-19T12:36:56+01:00",
-				"url": "https://carlesbellver.net/2024/01/19/64196/"
 			}
 	]
 }
