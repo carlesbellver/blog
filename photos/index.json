@@ -6,14 +6,6 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
-        "id": "/2024/06/23/life-is-dormant/",
-        "title": "Most Life on Earth Is Dormant, After Pulling an ‘Emergency Brake’",
-        "date_published": "2024-06-23T10:05:02+02:00",
-        "url": "/2024/06/23/life-is-dormant/",
-        "image": "https://carlesbellver.net/uploads/2024/2024-06-23-calderon.jpg",
-        "content_text": "Segons estimacions, un 60 % de microbis estarien en hibernació, esperant les condicions per a reactivar-se. Passaria el …"
-    },
-    {
         "id": "/2024/06/22/67286/",
         "date_published": "2024-06-22T16:41:52+02:00",
         "url": "/2024/06/22/67286/",
@@ -89,13 +81,6 @@
         "url": "/2023/06/03/15301/",
         "image": "https://carlesbellver.net/uploads/2023/2023-06-03-15301.jpg",
         "content_text": "Sala Sant Miquel. Canvi de paradigma. Col·lecció Juan Redón.\n"
-    },
-    {
-        "id": "/2023/04/23/angels-dimonis/",
-        "date_published": "2023-04-23T23:30:50+02:00",
-        "url": "/2023/04/23/angels-dimonis/",
-        "image": "https://carlesbellver.net/uploads/2023/2023-04-23-angels-dimonis.jpg",
-        "content_text": " Potser els àngels\nem mostren el camí,\nperò els meus dimonis\nsón els que m’acompanyen.\n—Albert Garcia Pascual\n"
     },
     {
         "id": "/2023/04/12/30738/",
@@ -426,14 +411,6 @@
         "url": "/2021/06/12/orxata-boisei/",
         "image": "https://carlesbellver.net/uploads/2021/2021-06-12-orxata-boisei.jpg",
         "content_text": " S’ha suggerit que l’hominini extingit Paranthropus boisei (l’“home trencanous”) subsistia a base de xufes.\n—Cyperus …"
-    },
-    {
-        "id": "/2021/04/21/un-llibre-efimer/",
-        "title": "Un llibre efímer",
-        "date_published": "2021-04-21T18:30:00+02:00",
-        "url": "/2021/04/21/un-llibre-efimer/",
-        "image": "https://carlesbellver.net/uploads/2021/2021-04-21-unicorns-8bit.jpg",
-        "content_text": "\nMalgrat la seua materialitat aparent, més qüestionable que mai, els llibres tendeixen a derivar en una experiència …"
     },
     {
         "id": "/2021/03/27/unicorns/",
@@ -1383,14 +1360,6 @@
         "url": "/2003/06/03/bbedit/",
         "image": "https://carlesbellver.net/uploads/2003/2003-06-03-bbedit-anthology.jpg",
         "content_text": " Fa quasi deu anys vaig programar un conjunt d’extensions per a BBEdit —el millor editor de textos per a Mac, llavors i …"
-    },
-    {
-        "id": "/2003/02/14/correo-euclides/",
-        "title": "Versions sobre la creació del món i les raons de la confusió",
-        "date_published": "2003-02-14T21:00:00+00:00",
-        "url": "/2003/02/14/correo-euclides/",
-        "image": "https://carlesbellver.net/uploads/2003/2003-02-14-correo-euclides.jpg",
-        "content_text": "Monterroso pensa que Déu encara no ha creat realment el món, i per això és tot tan confús: “sólo está imaginándolo, como …"
     },
     {
         "id": "/2002/12/15/catalan-sf-authors/",
