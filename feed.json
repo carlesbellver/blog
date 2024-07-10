@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/07/06/robot-skin/",
+				"title": "Researchers craft smiling robot face from living human skin cells",
+				"content_html": "<p>Robots amb pell humana cultivada al laboratori.</p>\n<blockquote>\n<p>Com a prova de concepte, l’equip va dissenyar una petita cara robòtica capaç de somriure, coberta completament amb una capa de teixit viu rosat. Els investigadors assenyalen que l'ús de teixit de pell viva com a recobriment d’un robot té avantatges, ja que és prou flexible per a transmetre emocions i potencialment es pot reparar a si mateix.</p>\n</blockquote>\n",
+				"date_published": "2024-07-06T20:24:33+02:00",
+				"url": "https://carlesbellver.net/2024/07/06/robot-skin/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/06/23/life-is-dormant/",
 				"title": "Most Life on Earth Is Dormant, After Pulling an ‘Emergency Brake’",
 				"content_html": "<p>Segons estimacions, un 60 % de microbis estarien en hibernació, esperant les condicions per a reactivar-se. Passaria el mateix amb parts d’organismes pluricel·lulars com els mamífers.</p>\n<blockquote>\n<p>“Vivim en un planeta dorment”, diu Sergey Melnikov, biòleg molecular evolutiu de la Universitat de Newcastle. “La vida consisteix principalment a dormir”.</p>\n</blockquote>\n<img src=\"/uploads/2024/2024-06-23-calderon.jpg\" alt=\"Portada d’una edició antiga de “La vida es sueño”, de Calderón de la Barca.\">",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Explicació entenedora de l’<a href=\"https://arxiv.org/abs/2307.15936\">article</a> d’Arora i Goyal. A mesura que s’incrementa la complexitat dels models es perfecciona l’emulació del llenguatge natural, de manera que les proferències (frases) artificials es fan més i més indistingibles d’aquelles que en les persones impliquen la comprensió dels significats.</p>\n<blockquote>\n<p>“El que l’equip ha demostrat teòricament, i ha confirmat empíricament, és que hi ha generalització compositiva, és a dir, que els LLM són capaços de combinar blocs de construcció com mai s’havien combinat abans. Això, per a mi, és l’essència de la creativitat.”</p>\n</blockquote>\n",
 				"date_published": "2024-01-31T15:18:11+01:00",
 				"url": "https://carlesbellver.net/2024/01/31/arora-goyal/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/01/25/05933/",
-				
-				"content_html": "<p>Perdem facultats. O si més no alguna lletra.</p>\n<img alt=\"Cartell indicatiu de la Facultat de Ciències de la Salut de la Universitat Jaume I de Castelló, on falta la lletra ela en la paraula “Facultat”\" src=\"/uploads/2024/2024-01-25-05933.jpg\">\n",
-				"date_published": "2024-01-25T19:05:51+01:00",
-				"url": "https://carlesbellver.net/2024/01/25/05933/"
 			}
 	]
 }

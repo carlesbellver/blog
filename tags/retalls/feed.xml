@@ -6,10 +6,23 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 23 Jun 2024 10:05:02 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 20:24:33 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Researchers craft smiling robot face from living human skin cells</title>
+      <link>https://carlesbellver.net/2024/07/06/robot-skin/</link>
+      <pubDate>Sat, 06 Jul 2024 20:24:33 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/07/06/robot-skin/</guid>
+      <description>&lt;p&gt;Robots amb pell humana cultivada al laboratori.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Com a prova de concepte, l’equip va dissenyar una petita cara robòtica capaç de somriure, coberta completament amb una capa de teixit viu rosat. Els investigadors assenyalen que l&#39;ús de teixit de pell viva com a recobriment d’un robot té avantatges, ja que és prou flexible per a transmetre emocions i potencialment es pot reparar a si mateix.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Most Life on Earth Is Dormant, After Pulling an ‘Emergency Brake’</title>
@@ -2755,7 +2768,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       
       <guid>https://carlesbellver.net/2019/07/12/its-one-of.html</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;És un dels mites urbans més persistents de tots: si tens problemes, no comptes que ningú que passi prop t’ajudarà.&lt;/p&gt;
+&lt;p&gt;És un dels mites urbans més persistents de tots: si tens problemes, no comptes que ningú que passe prop t’ajudarà.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Però l’experiència prova el contrari.&lt;/p&gt;
 </description>
