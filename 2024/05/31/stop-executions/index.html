@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1720682982" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1720771448" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,12 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1720682982" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1720771448" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1720682982" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1720771448" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1720682982" />
-<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1720682982"></script>
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1720771448" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1720771448"></script>
 
 
 
@@ -280,14 +280,14 @@
         <div class="comments">
 <h2 class="comments-heading">Comentaris?</h2>
 
-<p>Podeu utilitzar Mastodon (o qualsevol altra aplicació compatible amb el Fedivers) per a respondre a <a href="https://mastodon.social/@carlesbellver/112536827603910059">aquest missatge</a>.</p>
+<p>Podeu utilitzar Mastodon (o qualsevol altra aplicació compatible amb el Fedivers) per a respondre a <a href="">aquest missatge</a>.</p>
 
 
 
 <div id="comments-count">
-  <img class="icon" src="https://carlesbellver.net//svg.icons/star.svg" alt="star"> <a href="https://mastodon.social/@carlesbellver/112536827603910059"><span id="favourites_count"></span></a>
-  <img class="icon" src="https://carlesbellver.net//svg.icons/repeat.svg" alt="repeat"> <a href="https://mastodon.social/@carlesbellver/112536827603910059"><span id="boosts_count"></span></a>
-  <img class="icon" src="https://carlesbellver.net//svg.icons/message-square.svg" alt="message"> <a href="https://mastodon.social/@carlesbellver/112536827603910059"><span id="comments_count"></span></a>
+  <img class="icon" src="https://carlesbellver.net//svg.icons/star.svg" alt="star"> <a href=""><span id="favourites_count"></span></a>
+  <img class="icon" src="https://carlesbellver.net//svg.icons/repeat.svg" alt="repeat"> <a href=""><span id="boosts_count"></span></a>
+  <img class="icon" src="https://carlesbellver.net//svg.icons/message-square.svg" alt="message"> <a href=""><span id="comments_count"></span></a>
 </div>
 
 <div id="comments-list">S’estan carregant les reaccions…</div>
@@ -296,9 +296,10 @@
 <script type="text/javascript">
   var host = 'mastodon.social';
   var user = 'carlesbellver';
-  var postUrl = 'https:\/\/mastodon.social\/@carlesbellver\/112536827603910059'
+  var id = '112536827603910059';
+  var postUrl = 'https://'+host+'/@'+user+'/'+id;
   console.log(postUrl)
-  var id = postUrl.match(/(\d+)$/)[1];
+  
   console.log(id);
 
   function escapeHtml(unsafe) {
@@ -337,6 +338,21 @@
           
         </div>
         <div class="content">${toot.content}</div>
+        <div class="attachments">
+          ${toot.media_attachments.map(attachment => {
+            if (attachment.type === 'image') {
+              return `<a href="${toot.url}" rel="nofollow"><img src="${attachment.preview_url}" alt="${attachment.description}" /></a>`;
+            } else if (attachment.type === 'video') {
+              return `<video controls><source src="${attachment.url}" type="${attachment.mime_type}"></video>`;
+            } else if (attachment.type === 'gifv') {
+              return `<video autoplay loop muted playsinline><source src="${attachment.url}" type="${attachment.mime_type}"></video>`;
+            } else if (attachment.type === 'audio') {
+              return `<audio controls><source src="${attachment.url}" type="${attachment.mime_type}"></audio>`;
+            } else {
+              return `<a href="${toot.url}" rel="nofollow">${attachment.type}</a>`;
+            }
+          }).join('')}
+        </div>
       </div>`;
     document.getElementById('comments-list').appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
     render_toots(toots, toot.id, depth + 1)
