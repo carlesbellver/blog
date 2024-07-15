@@ -11833,6 +11833,38 @@
       },
       {
         "id": 1545,
+        "title": "Smart tools for smart writers [ca]",
+        "date_published": "2012-06-06T19:03:19+00:00",
+        "url": "/taller/stfsw-summary/ca/",
+        "tags": "",
+        "content_text": " El meu resum personal de la qüestió, en text net, després de la trobada. Gràcies novament a @xbelanch per donar-me l’ocasió de compartir, debatre i continuar aprenent.\nDefinició del problema Continuem utilitzant processadors de textos del segle passat, pensats per al paper i amb el full de paper com a unitat lògica de mesura i de destí, quan la majoria dels textos que escrivim ja no tenen el seu punt final a la impressora: els enviem per correu electrònic, els publiquen en blogs, en revistes electròniques, en les xarxes socials, en entorns virtuals d’aprenentatge, etc. Els formats de fitxer dels processadors de textos tradicionals són fills d’aquesta concepció heretada. Són formats finalistes: defineixen allò que s’ha d’imprimir i aspiren al control complet de la pàgina. D’aquesta manera, dificulten la inserció del document en altres cicles de treball: publicació web, ebook, etc.1 Finalment, però no per això menys important, la interfície d’usuari dels processadors de textos tradicionals ha esdevingut innecessàriament complexa i confusa. Propostes de solució El renaixement del text net (.txt). A l’hora d’escriure, en el 90% dels casos no necessitem res més. El text net garanteix: La màxima compatibilitat entre aplicacions i entre sistemes operatius. La màxima portabilitat entre dispositius: ordinadors, tauletes, telèfons… La màxima lleugeresa dels documents i de les aplicacions. I sobretot: la preservació dels documents! Primer la semàntica: Markdown (i altres llenguatges de marques lleugers). WYSIWYG: What You See Is What You Get (el que veus és el que obtens). Avui no sabem on ni com s’obtindrà el document: utilitzem una multiplicitat de mitjans i dispositius per a llegir i escriure. L’“autoedició” només tenia sentit amb els documents que m’imprimia jo mateix. WYSIWYM: What You See Is What You Mean (el que veus és el que vols dir). Itàlica i negreta, llistes, seccions i encapçalaments, enllaços, notes al peu…: en el 99% dels casos no necessitem res més. It’s just …"
+      },
+      {
+        "id": 1546,
+        "title": "Smart tools for smart writers [en]",
+        "date_published": "2012-06-06T19:03:19+00:00",
+        "url": "/taller/stfsw-summary/en/",
+        "tags": "",
+        "content_text": " My personal summary on the topic, in plain text, after the meeting. Thanks again to @xbelanch for giving me the opportunity to share, discuss and continue learning.\nDefining the problem We keep using word processors from the past century, which were designed for paper and with the paper sheet as a logical unit of measure and unit of destiny, when most of the texts we write no longer have their end point in the printer: they are emailed, posted in blogs, in ezines, in the social networks, in virtual learning environments, etc. Traditional word processors’ file formats are the offspring of this received view. They are end formats that define what to print and aspire to the full control of the page. In this way, they hinder the insertion of the documents in other workflows: web publihing, ebooks, etc.1 Last, but not least, the user interface of traditional word processors have become unnecessarily complex and confusing. Proposed solutions The plain text (.txt) revival. When writing, in 90% of the cases we don’t need anything else. Plain text ensures: Maximum compatibility between applications and operating systems. Maximum portability between devices: computers, tablets, smartphones… Maximum lightness of documents and applications. And above all: document preservation! Semantics first: Markdown (and other lightweight markup languages). WYSIWYG: What You See Is What You Get. Today we don’t know where/how you will get the document: we use a multiplicity of media and devices to read and write. “Desktop publishing” only made sense for documents that I was to print by myself! WYSIWYM: What You See Is What You Mean. Italics and bold, lists, sections and headings, links, footnotes…: in 99% of the cases we don’t need anything else. It’s just text! Markdown Markdown keeps all the advantages of plain text. Create Once, Publish Everywhere: export to all formats 2 required to insert the document in different editing and publishing ecosystems. A time to write, a time to edit and a …"
+      },
+      {
+        "id": 1547,
+        "title": "Smart tools for smart writers [es]",
+        "date_published": "2012-06-06T19:03:19+00:00",
+        "url": "/taller/stfsw-summary/es/",
+        "tags": "",
+        "content_text": " Mi resumen personal de la cuestión, en texto simple, después del encuentro. Gracias nuevamente a @xbelanch por darme la ocasión de compartir, debatir y continuar aprendiendo.\nDefinición del problema Seguimos utilizando procesadores de textos del siglo pasado, pensados para el papel y con la hoja de papel com a unidad lógica de medida y de destino, cuando la mayoría de los textos que escribimos ya no tienen su punto final en la impresora: los enviamos por correo electrónico, los publicamos en blogs, en revistas electrónicas, en las redes sociales, en entornos virtuales de aprendizaje, etc. Los formatos de fichero de los procesadores de textos tradicionales son hijos de esta concepción heredada. Son formatos finalistas: definen lo que hay que imprimir y aspiran al control completo de la página. De este modo, dificultan la inserción de los documentos en otros ciclos de trabajo: publicación web, ebook, etc.1 Por último, pero no por ello menos importante, la interfaz de usuario de los procesadores de textos tradicionales se ha hecho innecesariamente compleja y confusa. Propuestas de solución El renacimiento del text simple (.txt). A la hora de escribir, en el 90% de los casos no necesitamos nada más. El texto simple garantiza: La máxima compatibilidad entre aplicaciones y entre sistemas operativos. La máxima portabilidad entre dispositivos: ordenadores, tabletas, teléfonos… La máxima ligereza de los documentos y de las aplicaciones. Y sobre todo: ¡la preservación de los documentos! Primero la semántica: Markdown (y otros lenguajes de marcas ligeros). WYSIWYG: What You See Is What You Get (lo que ves es lo que obtienes). Hoy no sabemos dónde ni cómo se obtendrá el documento: utilizamos una multiplicidad de medios y dispositivos para leer y escribir. ¡La autoedición sólo tenía sentido para los documentos que me imprimía yo mismo! WYSIWYM: What You See Is What You Mean (lo que ves es lo que quieres decir). Itálica y negrita, listas, secciones y encabezados, enlaces, notas …"
+      },
+      {
+        "id": 1548,
+        "title": "Taller",
+        "date_published": "2012-06-06T19:03:19+00:00",
+        "url": "/taller/",
+        "tags": "",
+        "content_text": "Experiments i divagacions entre la tecnologia i la literatura.\nLo-fi writer (2023) Inspiració (2022) Sant Jordi digital (2022) (no)nft (2022) unicorns.png (un llibre dins d\u0026#39;una imatge en format PNG) (2021) ab-oblique (Oblique Strategies Arduboy app) (2020) Unicorns (improvisacions en 1.024 caràcters) (2018) Escriure —breument— en temps d\u0026#39;Internet (2017) After Word(s) (més enllà del processador de textos) (2013) Smart tools for smart writers [ca][es][en] (2012) 100% Charles Beauvoir (2012) 24 hores Ch. B. (2009) Petit Wilbur Contes per a extraterrestres (1993-2000) "
+      },
+      {
+        "id": 1549,
         "title": "L'home del calendari",
         "date_published": "2011-11-22T00:00:00+00:00",
         "url": "/llibres/parentesi/josepporcar-homecalendari/",
@@ -11840,7 +11872,7 @@
         "content_text": "Bona vesprada.\nUna de les qüestions que un es planteja quan ha de parlar públicament d\u0026#39;un llibre com el de Carles, que ens conta una història plena d\u0026#39;històries, és quines coses explicar i quines ometre. Tot és gra, hi ha poca molt poca palla, i això m\u0026#39;exigia retriar, d\u0026#39;antuvi, els continguts que puc comentar i els que haig amagar, sobretot perquè, per a mantindre l\u0026#39;expectació, és indispensable no descobrir cap assumpte rellevant de la trama que puga minar l\u0026#39;interés dels qui encara no l\u0026#39;heu llegit i, fins i tot, dels qui l\u0026#39;heu llegit només una vegada. No podré, doncs, esplaiar-me amb l\u0026#39;argument. Com a molt, puc mostrar —després ho faré—, un breu repertori d\u0026#39;escenes enganxoses i inconnexes, poc desxifrables: un tràiler, com dirien en l\u0026#39;argot cinematogràfic.\nExplique això, que pot semblar evident —i no ho és tant— perquè, en un altre nivell, en el nivell literari, aquesta mateixa qüestió, la continència i la cautela en l\u0026#39;exposició, és segurament molt pareguda a la que es va plantejar Carles Bellver en el moment d\u0026#39;afaiçonar l\u0026#39;estructura narrativa de L\u0026#39; home del calendari. Com ara en aquesta presentació, l\u0026#39;autor es preguntà, en aquells primers moments de la forja argumental, de l\u0026#39;ordit narratiu, quines parts de la seua història ens contaria, és a dir, quines deixaria escrites i quines no, quines destaparia i quines silenciaria. De fet, és significatiu que Carles, que premeditadament elideix —o, millor dit, abandona entre parèntesi— certes parts de la història, no ens amague, en canvi, aquest propòsit narratiu; ben al contrari, de bon principi ens alerta, a l\u0026#39;encapçalament del llibre, amb una citació de Voltarie, el filòsof, que és tota una declaració d\u0026#39;intencions: «El secret d\u0026#39;avorrir és dir-ho tot».\nCom que està relacionat amb això que us estic explicant, haig de confessar que em va sorprendre que Carles volguera encarregar-me a mi, que sóc poeta —o això diuen—, la posada en escena d\u0026#39;aquest nou llibre seu, així que li vaig preguntar per què confiava la presentació de …"
       },
       {
-        "id": 1546,
+        "id": 1550,
         "title": "Reivindicació de l’amateurisme",
         "date_published": "2011-06-07T22:00:00+00:00",
         "url": "/2011/06/07/reivindicaci-de-lamateurisme.html",
@@ -11848,7 +11880,7 @@
         "content_text": " Jo em considere per damunt de tot un amateur. És a dir, m’agrada fer les coses en primer lloc per plaer —pel plaer de fer-les bé i d’aprendre a fer-les bé—, tant en l’exercici de la meua professió com en altres activitats que m’interessen. Particularment en aquesta d’escriure.\nPel que fa a la dicotomia amateur/professional, no és que crega que els diners, un salari, embruten una feina, però em pareix igualment obvi que cobrar o pagar no garanteixen per se una bona execució. Trobe, doncs, injustificat parlar elogiosament d’algú com a professional, o usar pejorativament aficionat, com es fa sovint. El món va ple de contraexemples: professionals ben pagats amb molta barra i afeccionats de qui podem enorgullir-nos. I la Internet no ha fet més que reforçar aquesta evidència, perquè, en reduir-se els filtres —informatius o creatius—, a tothom ens llueix més el treball o se’ns veu més el llautó, segons els casos.\nD’altra banda, reconec que en aquesta opció que prenc —l’art per amor a l’art— estic fent de la necessitat virtut. Vaig entendre aviat que seria difícil que la dèria d’imitar la mena d’obres que em complaïa llegir —els meus models, els llibres que voldria inconfessablement haver escrit— poguera constituir en un horitzó probable un ofici reconegut i remunerat. La Metamorfosi de Kafka, suposem, o Diana i la Mar Morta de Perucho, o els Nou contes de Salinger… en quina mena d’empresa —o ministeri— et comptarien com a mèrit? Sí, ho sé, que Salinger cobrava sumes elevades per cada relat venut al New Yorker, però els mercats són tan volàtils, i a més a més açò no és Amèrica. (Em pregunte si hi ha hagut mai de debò cap Amèrica.) En altres temps o latituds més d’anar per casa, Kafka treballava per a una asseguradora, Perucho era jutge, i Kavafis funcionari d’Obres Públiques. Etc., etc. Aficionats, tots ells. Escriptors de fèrtils vesprades i caps de setmana.\nNo es podria, llavors, viure d’escriure? És cert que alguns —molt pocs— literats tenen la sort d’ingressar uns bons …"
       },
       {
-        "id": 1547,
+        "id": 1551,
         "title": "Les faltes de Teilhard",
         "date_published": "2011-05-16T22:00:00+00:00",
         "url": "/2011/05/16/les-faltes-de.html",
@@ -11856,14 +11888,14 @@
         "content_text": "Llegisc en el blog de la Petite Claudine “Los ocho crímenes de Giordano Bruno” i em recorde d’aquesta llista de les faltes comeses per Teilhard de Chardin que la Wikipedia en castellà atribueix al capellà argentí Leonardo Castellani:\nEl transformismo darwiniano dado como verdad cierta. La negación de la Parusía o Segunda Venida de Cristo tal como la entiende la Iglesia. La negación de la Redención por la obra personal de Cristo. La negación del pecado original, a la manera de Pelagio. Monismo materialista evolucionista parecido al de Spencer y Haeckel. Panteísmo sutil a la manera de Bergson. Interpretación modernista de todos los Sacramentos, empezando por la Eucaristía, a la manera de Guenther. Negación del fin primario del Matrimonio y constitución del fin primario del matrimonio en la “ayuda espiritual mutua de los esposos”. Aprobación de los medios contraconcepcionistas en el matrimonio, a la manera de Malthus. Negativa implícita de la autoridad de la Iglesia para definir, a la manera de Loisy, Tyrrel y otros. "
       },
       {
-        "id": 1548,
+        "id": 1552,
         "date_published": "2011-04-24T23:00:00+00:00",
         "url": "/2011/04/24/lhome-del-calendari.html",
         "tags": "",
         "content_text": "📎 Notes de l’autor sobre Parèntesi (L’home del calendari).\n"
       },
       {
-        "id": 1549,
+        "id": 1553,
         "title": "Parèntesi. Notes de l’autor",
         "date_published": "2011-04-23T00:00:00+00:00",
         "url": "/llibres/parentesi/parentesi-notes/",
@@ -11871,7 +11903,7 @@
         "content_text": "Pròleg: Frankfurt, Beauvoir, Tristero, etc. L’any 2007 va ser, per fi, el de la meva consagració com a escriptor… L’editorial on havia publicat els darrers llibres va saber treure, sens dubte, el màxim profit al metre quadrat d’estand de què va disposar a la Fira de Frankfurt.\nLa Fira del Llibre de Frankfurt (Frankfurter Buchmesse) és la fira comercial de llibres més gran del món. Cada any, l’organització sol convidar un país o una regió a presentar-hi la seva producció editorial. L’any 2007 aquest honor va correspondre a la cultura catalana. Pretendre haver-hi estat, entre la flor i nata dels nostres escriptors, em pareixia un acudit d’allò més graciós. (Evidentment, “la meva consagració com a escriptor” no ha arribat mai, ni hom l’espera.)\nJa s’ha explicat també en un altre lloc com em volgueren entrevistar per a una revista dedicada a l’entranyable món dels gats i els gossos…\nPel que fa a La vida canina, no em consta que el títol hagi donat lloc a aquesta confusió sobre el contingut o la classificació del llibre. Però no m’estranyaria gens que això passés. Crec que no he demostrat fins ara tenir molta traça a triar els títols dels meus llibres. Per a L’home del calendari vaig acceptar de bon grat el suggeriment del meu editor.\n…la meva editorial magiar m’enlairava des del text de la solapa…\nTampoc no és veritat que hagi estat traduït a l’hongarès. Però l’Istvan Örkeny que esmento tot seguit sí que és un autor real. En octubre de 2001 vaig tenir l’ocasió de comprar les seves One Minute Stories (traducció anglesa) en una llibreria de Budapest.\nMalgrat la funció acomplerta per Beauvoir en la gestació de La vida canina, aquesta era la primera vegada que ens posàvem directament en contacte.\nCharles Beauvoir: em vaig inventar aquest personatge, aquest altre jo, en un dels contes d’El llibre de tòpics, però llavors encara no sabia ben bé qui era. Vaig començar a perfilar-lo en el llibre següent, La vida canina, en el qual ja s’apuntava el seu caràcter demiürgic i una …"
       },
       {
-        "id": 1550,
+        "id": 1554,
         "title": "L’automàtica",
         "date_published": "2011-03-17T00:00:00+00:00",
         "url": "/contes/automatica/",
@@ -11879,7 +11911,7 @@
         "content_text": " El punt de partida d’aquesta història és un fet enutjós però aparentment trivial. Som al començament del mes. En arribar a casa —a baix he retirat el correu— reviso els càrrecs de la targeta de crèdit i m’aturo a la segona línia: ECCE XXX.XX PTA, que no recordo a quina compra correspon. L’import és considerable. Precisament per això guardo sempre els rebuts al calaix de la tauleta de nit, no sigui cas que una martingala o una badada d’algú em deixin escurat.\nS’obre així aquest drama grotesc. Desplegues amb un gest casual un paperet rebregat, aconsegueixes desxifrar una impressió ja mig esvaïda i estàs signant sense saber-ho una sentència de mort. Un dels meus tiquets coincidia amb l’apunt misteriós. La quantitat era idèntica i la data una mica anterior, d’uns dies abans. Tanmateix l’adreça o raó social, Ecce Homo 1A, no em deia res. Vaig intentar fer memòria, remuntar-me fins aquell 15 de gener. Això era un dimarts, un dia com un altre tres setmanes enrere. En eixir de la feina, potser aquell vespre vaig fer una passejada pel centre i em vaig entretenir en alguna botiga o en una llibreria, ho solc fer de tant en tant. Però no me’n recordava pas. Vaig consultar les pàgines grogues. No hi constava cap negoci amb un nom similar. Sí que vaig trobar al plànol un carrer Ecce Homo, l’existència del qual jo ignorava per complet: un carreró, una mena d’atzucac amb l’embocadura al carrer Major, a la vora de l’església de Santa Maria.\nVaig decidir, com és lògic, anar-hi immediatament. En un quart d’hora o menys podia resoldre el malentès, desempallegar-me d’aquesta inconveniència. Amb una llambregada, vaig tenir prou i de sobres per confirmar que jo no havia estat abans en aquell indret. Ni tan sols no hi havia parat mai compte: es tractava d’un passatge angost, d’un metre i mig escàs d’amplada, amb una capelleta en un recolze nou o deu metres més endavant. M’hi vaig endinsar i em vaig adonar que el carreró no s’acabava allí, sinó que continuava en angle recte. Al final, a …"
       },
       {
-        "id": 1551,
+        "id": 1555,
         "title": "Pensament masculí, pensament femení",
         "date_published": "2011-01-23T23:00:00+00:00",
         "url": "/2011/01/23/pensament-mascul-pensament.html",
@@ -11887,14 +11919,14 @@
         "content_text": " Fins que no estàs ferit no et pots convertir en un home.\n—Paul Auster, Sunset Park.\nEl sufrimiento enseña, pero sólo si sobrevives; porque lo malo es que el sufrimiento suele matar.\n—Ana María Matute, citada per Alfredo Llopico.\n"
       },
       {
-        "id": 1552,
+        "id": 1556,
         "date_published": "2011-01-15T08:24:59+02:00",
         "url": "/2011/01/15/vigilia/",
         "tags": "",
         "content_text": "La vigília és la continuació dels somnis per altres mitjans.\n"
       },
       {
-        "id": 1553,
+        "id": 1557,
         "title": "La veu de la meua inconsciència",
         "date_published": "2010-12-14T23:00:15+00:00",
         "url": "/2010/12/14/la-veu-de.html",
@@ -11902,21 +11934,21 @@
         "content_text": " Wilbur és un bot nocturn que regira els meus arxius i en va publicant fragments en el meu compte de Twitter @carlesbellver (abans ho feia en el seu propi: @petitwilbur). Molt de tant en tant profereix alguna imprecació a l’estil d’Archibald Haddock.\nWilbur és el guardià del meu son. No sempre sé per què diu el que diu. Schopenhauer va escriure en alguna ocasió que la vigília i els somnis són fulls d’un mateix llibre. De nit el fullegem sense ordre ni concert.\nAl matí em desperta amb el pronòstic del temps.\nPD. En la seua infantesa, Wilbur funcionava —vivia— en el meu Chumby, un despertador Linux connectat a Internet. Malauradament, Chumby és gairebé història. Ara Wilbur viu en un ordinador convencional. Com que és essencialment software es pot transmigrar sense immutar-se.\n"
       },
       {
-        "id": 1554,
+        "id": 1558,
         "date_published": "2010-11-04T20:47:51+00:00",
         "url": "/2010/11/04/correus/",
         "tags": "",
         "content_text": "Avui he rebut un avís de correus amb data límit de recollida 11/7/2007. De debò. Crec que algun conte meu començava d’una manera semblant.\n"
       },
       {
-        "id": 1555,
+        "id": 1559,
         "date_published": "2010-02-15T22:35:00+00:00",
         "url": "/2010/02/15/moment-cortazar/",
         "tags": "fotos",
         "content_text": " Tinc el llibre d’inèdits de Cortázar a la tauleta, al costat del llit, i al damunt s’havia quedat el Chumby, el despertador connectat a Internet que, entre altres coses meravellosament inútils, ens va mostrant fotos a l’atzar del nostre àlbum familiar i de la carpeta de retalls. Anit, de sobte, em vaig adonar que Julio mirava cap amunt des de la portada i pareixia que estiguera observant la pantalleta de tres polzades i mitja. Això em va fer gràcia i se\u0026#39;m va acudir que podria “captar l’instant” amb la càmera del mòbil. Llavors, quan estava a punt de prémer el botó —la imatge canvia cada deu segons— el Chumby trau justament aquesta il·lustració de Norah Borges per a “Casa tomada”, un dels primers contes que va publicar ell, Cortázar, l\u0026#39;any 1946, en Los anales de Buenos Aires. L’instant que jo volia captar, en realitat, encara no hi era, però s’estava preparant sense que jo ho sabera ben bé.\n"
       },
       {
-        "id": 1556,
+        "id": 1560,
         "title": "Estructures de condensació onírica",
         "date_published": "2009-08-24T22:00:00+00:00",
         "url": "/2009/08/24/estructures-de-condensaci.html",
@@ -11924,7 +11956,7 @@
         "content_text": " Arkham és, en el sentit precís del terme, una estructura de condensació onírica al voltant de la qual es basteix i s’organitza tot un univers d’indicibles meravelles i horrors blasfems. Arkham i la seva regió són, en la topografia lovecraftiana, la falla per on penetren l’insòlit, l’escandalós, l’inquietant, el morbós, l’immund: al cor del món nord-americà, a una distància ridícula dels grans centres industrials, de les universitats més prestigioses, de les ciutats turístiques —en plena civilització del somriure— Lovecraft instal·la un espai abominable, on s’exerceixen increïbles maleficis.\n—Maurice Lévy, Lovecraft ou du fantastique\nEl concepte és interessant i es podria traslladar. Coneixeu o podeu imaginar altres estructures de condensació onírica més pròximes? Potser prop de casa vostra?\n"
       },
       {
-        "id": 1557,
+        "id": 1561,
         "title": "Estalinistes",
         "date_published": "2009-04-14T22:00:00+00:00",
         "url": "/2009/04/14/estalinistes.html",
@@ -11932,7 +11964,7 @@
         "content_text": "De tant en tant, se senten brams o remucs en defensa de la puresa, la immutabilitat i la neutralitat absoluta de les normes gramaticals. Però, darrerament, quasi sempre sol ser davant d’algun intent d’ús no sexista del llenguatge. Que si aquest substantiu no té ni ha tingut (ni tindrà?) mai gènere, que si no cal i els sembla ridícul, o pesat, explicitar cada vegada la referència a homes i dones per separat, que si el gènere és gramatical i en les persones es diu sexe, etc.\nDavant d’aquests casos, solc pensar en els meus estudis de filosofia del llenguatge, cap als anys vuitanta i tants i noranta i pocs, i somric sense ganes en recordar aquella intervenció de Iósif Stalin en el debat sobre aquest tema, quan va pontificar des de les pàgines de Pravda, contra la ciència i contra el pobre Nikolai Marr, que la llengua russa, i per extensió qualsevol altra, no són supraestructura, no tenen el més mínim caràcter de classe i estan més enllà de les ideologies. Unes afirmacions tan de “sentit comú”, tan naïfs i burgeses, tan poc marxistes, que feien vergonya. Però a veure qui li replicava, justament a ell.\nAixí que —potser sense saber-ho— tota aquesta gent que brama, o remuga, s’alinea decididament amb Stalin.\n(Més informació sobre Stalin vs. Marr en l’apèndix dels Principios de Filosofía del Lenguaje de José Hierro S. Pescador, Alianza Universidad Textos, 1986.)\n"
       },
       {
-        "id": 1558,
+        "id": 1562,
         "title": "Ghost Wilkie",
         "date_published": "2008-08-21T22:00:00+00:00",
         "url": "/2008/08/21/ghost-wilkie.html",
@@ -11940,7 +11972,7 @@
         "content_text": " Wilkie Collins va fundar la novel·la policíaca amb La dona de blanc i La pedra lunar. També va escriure relats de misteri i d’intenció social. Una dada que esmenten totes les seves biografies és que va compartir la seva vida amb dues dones alhora durant molt de temps, de fet fins que es va morir l’any 1889. Una altra qüestió ben coneguda és que va prendre grans quantitats d’opi com a pal·liatiu de l’artritis i que s’hi va fer addicte. Com a conseqüència del consum d’aquesta droga, va patir la síndrome del doble subjectiu: sovint creia que l’acompanyava un individu físicament igual que ell. Li deia, tot fent broma, “Ghost Wilkie”: el Wilkie fantasma.\nDe tant en tant, aquest doble seu acostumava a fer-li la guitza. Passava a veure en Charles Dickens i li lliurava un manuscrit fals que havia preparat. Però Dickens, amic i mentor de l’autèntic Wilkie, reconeixia tot d’un plegat l’estil molt més descurat i imperfecte del sòsia i el despatxava sense contemplacions. O bé es presentava amb un ram de flors al domicili de Caroline Graves, quan l’altre, el de debò, era amb Martha Rudd. I viceversa.\nL’any 1886, Wilkie Collins va atendre finalment el consell dels seus amics més íntims i acudí a la consulta d’un metge famós, el doctor Jekyll, a fi de cercar guariment. Però no podem saber de cert si era ell o el seu doble. Sigui com vulgui, es va trobar a la sala d’espera un tal senyor Hyde que marxava, es van caure bé mútuament i es va deixar convèncer per anar tots dos plegats de gresca en algun tuguri dels baixos fons de Londres. L’assistenta de Jekyll se’n feia creus, davant de les seves amigues, de les ganyotes i les grolleries que van dedicar-li en aquella ocasió aquest parell de brètols. Pregava a Déu i al seu amo no tornar-los a veure mai junts.\n"
       },
       {
-        "id": 1559,
+        "id": 1563,
         "title": "Lovecraft en París: “Con Poe, en sueños”",
         "date_published": "2008-04-01T00:00:00+00:00",
         "url": "/llibres/lovecraftycia/05-lovecraftenparis/",
@@ -11948,7 +11980,7 @@
         "content_text": "Este episodio figura en casi todas las biografías de Lovecraft. Tras resumir el argumento de “La música de Erich Zann”, Sprague de Camp añade: “Cuando alguien le preguntó a Lovecraft, que nunca había salido al extranjero, cómo pudo describir tan bien la atmósfera de París, él contestó que sí había estado allí: en un sueño, en compañía de Poe.”\nEl misterioso interlocutor que interrogaba a Lovecraft no es otro que Jacques Bergier, y la fuente de la anécdota era precisamente el prefacio que este autor francés, experto en ciencia-ficción, escribió para una de las primeras antologías de relatos de Lovecraft que se publicaban en Francia (Démons et merveilles, 1955). El texto en cuestión se titulaba “H. P. Lovecraft, ese gran genio venido de otra parte” y se reeditó posteriormente, ampliado, en el primer número de la revista Planète (1961).\nLeamos lo que decía Bergier literalmente:\nCuando le escribí [a Lovecraft] para felicitarlo por haber descrito un barrio poco conocido de París en “La música de Erich Zann” (un cuento que, desgraciadamente, aún no ha sido traducido al francés), al preguntarle si había visitado alguna vez París, él me respondió: “Con Poe, en sueños” (With Poe, in a dream).\nEn realidad, Lovecraft no hace nunca explícita la localización geográfica del susodicho relato, sino que habla en él en todo momento de “la ciudad”, en abstracto. Solamente alguna alusión al idioma, y el nombre de la calle donde se desarrolla la trama, la “Rue d’Auseil”, apuntan a una urbe francófona. Pero difícilmente aquel río tenebroso de “hedores malignos” le trae a uno a la mente el Sena. Algunos lectores han creído ver más bien en la descripción de las callejuelas angostas y empinadas, surcadas por raíles, una referencia a Ginebra. La información proporcionada por Bergier sería, pues, el origen único de la conexión de “Erich Zann” con París.\nEl caso es que el otro biógrafo canónico de Lovecraft, S. T. Joshi, encuentra muy poco creíble todo este asunto, básicamente porque la …"
       },
       {
-        "id": 1560,
+        "id": 1564,
         "title": "Lovecraft y cía",
         "date_published": "2008-04-01T00:00:00+00:00",
         "url": "/llibres/lovecraftycia/",
@@ -11956,7 +11988,7 @@
         "content_text": " EPUB PDF\nH. P. Lovecraft y su círculo están presentes en la mitad de las páginas de este libro. En la otra mitad nos encontramos a Robert W. Chambers (El rey de amarillo), a J. R. R. Tolkien y a su amigo C. S. Lewis, a un pintor y místico ruso llamado Nikolai Roerich, al Jacques Bergier de El retorno de los brujos y a Julius Schwartz, que fue agente literario de Lovecraft y Ray Bradbury y luego editor de tebeos en DC.\nFantasía, terror y ciencia ficción en distintas variedades y proporciones. Una miscelánea de artículos de Carles Bellver Torlà, en su mayoría publicados originalmente en Lovecraft Magazine entre los años 2000 y 2004.\n"
       },
       {
-        "id": 1561,
+        "id": 1565,
         "title": "Per Tots Sants, potser",
         "date_published": "2007-10-22T22:00:00+00:00",
         "url": "/2007/10/22/per-tots-sants.html",
@@ -11964,7 +11996,7 @@
         "content_text": "Segons els càlculs de l’ínclit James Ussher (1581-1656), arquebisbe anglicà d’Armagh i primat d’Irlanda, el món va ser creat per Déu Nostre Senyor tal dia com avui, 22 d’octubre, l’any 4.004 abans de Crist. Basava aquesta tesi, és clar, en la Bíblia: en les genealogies de l’Antic i del Nou Testament. Va comptar els anys d’Adam i dels fills d’Adam, dels néts, de Noè, de cada rei i profeta. Quan les dades biogràfiques eren incompletes, aprofitava el que tenia, feia inferències i treia conclusions. Va emprar també auxiliarment les Taules Rudolfines de Johannes Kepler, molt superiors a les prussianes i a les alfonsines. La ciència, com ha de ser, per a servir a Déu i a vós.\nAra mateix, aquest món només tindria, doncs, sis mil i pocs anys d’edat, exactament sis mil onze. I a mi, que tot plegat em pareixia molt més antic: gastat i espatllat inclús. Quan es degué començar a malmetre? En quin moment de la història s’accelerà d’una manera fatídica el seu envelliment? Aviat, això segur. No molt més tard del setè dia. Per Tots Sants, potser.\n"
       },
       {
-        "id": 1562,
+        "id": 1566,
         "title": "L’esperit modern de la pressa",
         "date_published": "2007-09-14T22:00:00+00:00",
         "url": "/2007/09/14/lesperit-modern-de.html",
@@ -11972,7 +12004,7 @@
         "content_text": " Si a uno le gustan las novelas, escribe novelas; si le gustan los cuentos, uno escribe cuentos. Como a mí me ocurre lo último, escribo cuentos. Pero no tantos: seis en nueve años, ocho en doce. Y así.\nLos cuentos que uno escribe no pueden ser muchos. Existen tres, cuatro o cinco temas; algunos dicen que siete. Con ésos debe trabajarse.\n—Augusto Monterroso, en “Breve, brevísimo” (Literatura y vida).\nDe tant en tant, hi ha algú que et pregunta si no has pensat a escriure una novel·la, o contes per a xiquets, o qualsevol altra cosa que, de fet, no hages escrit. O et retrauen que la teua producció siga tan curta, que vages tan lentament. No has escrit res més? Tot just tres llibres, i tan prims!\nPerò crec que és natural que com a escriptor un vulga seguir el seu camí i que vulga portar el seu pas. En vista d’això que deia Monterroso —recordem que la seua obra narrativa completa, d’una qualitat extraordinària, cap dins d’un sol volum— fins i tot tinc la sensació que darrerament, si més no els darrers quinze anys, l’ansietat m’ha fet escriure massa i amb massa presses. M’agradaria encetar en qualsevol moment una fase de calma i lentitud.\n(“L’esperit modern de la pressa”: un fragment d’una frase que vaig subratllar quan vaig llegir La línia d’ombra de Joseph Conrad.)\n"
       },
       {
-        "id": 1563,
+        "id": 1567,
         "title": "L’idil·li del tramvia",
         "date_published": "2007-01-10T23:00:00+00:00",
         "url": "/2007/01/10/lidilli-del-tramvia.html",
@@ -11980,7 +12012,7 @@
         "content_text": "S’han escrit contes sobre aquest tema fins i tot des d’abans que els publicistes descobriren el filó. Recorde, ara, els següents:\n“Una faula”, de Robert Fox, en Sudden Fiction o Ficción súbita (Anagrama). Un xic agafa el metro el primer dia de feina, coneix una xica i el revisor es disposa a casar-los a punt d’arribar a la parada. “Ómnibus”, de Julio Cortázar, en Bestiario (Alfaguara). El xic i la xica aconsegueixen baixar abans que el trajecte, que ha esdevingut un malson, acabe malament. “Idil·li en tramvia”, de Josep Carner, en Contes del noucentisme (Granica). En baixar la jove estrangera i rossa, el narrador s’adona que és coixa, pobreta. M’ha fet pensar-hi la relació amorosa de les nostres autoritats amb aqueix fals tramvia, que ells es complauen a anomenar emfàticament “transport de via reservada”, o també “bus guiat”, tot i que no pareix que siga res més que una versió poc actualitzada del vell troleibús que ja va recórrer Castelló el mil nou-cents seixanta i tants.\nSiga com vulga, la primera línia anirà des de l’Àgora de la Universitat fins al Parc de Ribalta. Abans, però, caldrà construir un nou pont sobre el Riu Sec, i això retardarà la inauguració almenys fins a setembre. Diuen, tanmateix, que l’avinentesa de les eleccions pot fer convenient que al maig circule ja “en proves”, encara que s’haja d’aturar en arribar al riu.\nEm represente, doncs, uns viatgers —entre els quals, potser, una parella de nous enamorats— que són amablement convidats a baixar del vehicle en una mena d’atzucac, davant d’un riu sense aigua d’allò més semblant a la fi del món. I aquesta atmosfera grotesca, irreal, em convenç una vegada més que la vida imita l’art. Sens dubte, els guionistes d’alguns polítics d’aquestes contrades són genis no reconeguts de la literatura imaginativa.\n"
       },
       {
-        "id": 1564,
+        "id": 1568,
         "title": "La confabulació del cocodril",
         "date_published": "2006-12-16T23:00:00+00:00",
         "url": "/2006/12/16/la-confabulaci-del.html",
@@ -11988,7 +12020,7 @@
         "content_text": "Un dels jurats va arribar tard i es va disculpar tot explicant que venia d’un curs de voluntats anticipades. El premi d’assaig havia quedat desert. El de poesia va anar a parar a Castelló (en trucar-li, la guanyadora va rebre la notícia amb un crit d’alegria). El de narrativa a Nova York: per a un senyor de Blanes, metge, que està treballant a l’Hospital Mount Sinai.\nEls escriptors són gent de bon apetit, de gustos senzills i de conversa fàcil. Una mica abans de les deu vam deixar que ens portessin cap a un restaurant, en un carrer que s’allunyava d’Almassora per endinsar-se en la nit i en el fred. Vam demanar cocodril, però no en tenien prou per a tothom i alguns van preferir peix: rèmol. O potser em confonc: no devia ser una varietat de palaia? El cocodril, en tot cas, era mexicà, de granja, no el cocodril siamès —il·legal, furtiu— que té propietats secretes, conegudes només dels iniciats, i que ens havia estat suggerit prèviament en veu baixa, de manera enganyosa.\nVam parlar del menjar i del beure, del cos i de l’ànima, de la voluntat, anticipada o ajornada, d’arbres, de filologia, dels noms dels peixos, dels noms misteriosos de les coses, d’una ciutat habitada per gossos… De llocs remots on uns han estat i on uns altres no anirem mai.\nA la mitjanit vam tornar cadascun al nostre cau, a colgar-nos sota les mantes i a continuar fabulant en solitud i silenci, indistintament vers el son, vers el somni.\n(Fabular: aquest verb no es troba en el DIEC ni en el DGLC, però sí en el Català-Valencià-Balear, que li dóna aquesta etimologia: del llatí fabulari: “parlar, contar, dir faules”.)\n"
       },
       {
-        "id": 1565,
+        "id": 1569,
         "title": "Besnét d’un terrorista",
         "date_published": "2006-11-21T23:00:00+00:00",
         "url": "/2006/11/21/besnt-dun-terrorista.html",
@@ -11996,7 +12028,7 @@
         "content_text": "Llegisc al Levante d’avui que l’Ajuntament de Morella ha convidat alguns descendents de Ramon Cabrera a visitar la ciutat, en ocasió del bicentenari del general que se celebra enguany. Un dels que han confirmat la participació als actes és l’escriptor i viatger anglès Simon Gandolfi. En el seu blog feia esment de la cita el 15 de juliol passat:\nPer família, sóc tan britànic com hispànic. El meu besavi, Ramon Cabrera, era un terrorista espanyol. Va transformar la seua banda terrorista en un exèrcit, va guanyar batalles i va esdevenir marquès del Ter, comte de Morella. He de fer una xarrada a Morella el 6 [en realitat és el 8] de desembre en commemoració del seu bicentenari. En fer això, lloaré un terrorista i em convertiré en un criminal d’acord amb les estúpides lleis proposades per l’actual govern britànic i aprovades pel Parlament. Al govern, tristament, li manquen historiadors. La majoria són advocats. Si foren historiadors s’haurien guardat d’enviar les tropes a la guerra a l’Iraq i a l’Afganistan.\nJa pot ben dir-ho. Qui es pense que no puga ser un dia o altre besnet, o besavi, d’un terrorista, que tire la primera bomba. I que tinga sort i que no li explote a les mans.\nGandolfi era a Panamà quan anotava aquestes frases. Fa menys d’un mes va arribar a la Tierra del Fuego, el punt final d’un viatge en moto per tot el pati de darrere d’en George W. Bush que ha anat enregistrant al seu blog. Té setanta anys i admet que aquesta aventura li feia una mica de respecte, però diu que podien més les ganes de saber què pensen els joves d’Amèrica de la situació dels seus països i de la política dels EUA i del seu aliat, el Regne Unit.\n"
       },
       {
-        "id": 1566,
+        "id": 1570,
         "title": "Pneumàtica",
         "date_published": "2006-08-22T22:00:00+00:00",
         "url": "/2006/08/22/pneumtica.html",
@@ -12004,7 +12036,7 @@
         "content_text": " A cadascú li plau l’olor dels seus pets.\nAlberto Manguel cita aquest proverbi islandès, citat per William H. Auden. Amb això fan referència, ambdós, als nombrosos diaris o dietaris de la literatura universal: la passió pel jo, l’obsessió de parlar de mi, de mi, de mi. L’egotisme.\nSi jo m’invente un diari d’una altra persona com estic fent en el meu proper llibre —Parèntesi, pretesament escrit per un tal Charles Beauvoir entre l’any 2001 i el 2002—, m’estic tirant uns pets seus imaginaris, o són els meus pets de debò i faig com si se’ls haguera tirat un altre jo fictici? Crec que la resposta correcta és la segona.\n(Deu ser l’agost, aquesta calor de merda.)\n"
       },
       {
-        "id": 1567,
+        "id": 1571,
         "title": "Agermanats pel totxo i la pala?",
         "date_published": "2006-07-18T22:00:00+00:00",
         "url": "/2006/07/18/agermanats-pel-totxo.html",
@@ -12012,7 +12044,7 @@
         "content_text": "Fa una vintena d’anys, l’Ajuntament de Castelló de la Plana es va agermanar amb el de Châtellerault. A les entrades de la ciutat hi ha plaques indicadores d’aquesta unió quasi mística, i prop d’on jo visc tenim una avinguda de Châtellerault amb totes les lletres i l’accent circumflex.\nNi jo ni ningú que jo conega en sabem quasi res, d’aquella vila francesa, més que les coordenades geogràfiques aproximades. Fa uns dies, però, el Diario de lecturas d’Alberto Manguel em va descobrir un tret compartit i un possible motiu del conveni adés esmentat, llevat que ací el punt de partida segurament no era tan formós. I que no vam allotjar mai el cèlebre filòsof racionalista:\nDesgraciadamente, la avaricia de las autoridades locales ha convertido Châtellerault en un inhóspito centro comercial, para lo cual han hecho caso omiso de los hermosos edificios del siglo XVI (la casa donde vivió Descartes, por ejemplo) y del elegante puente sobre el río Vienne, y han construido un enorme aparcamiento después de cortar todos los árboles.\n"
       },
       {
-        "id": 1568,
+        "id": 1572,
         "title": "Dimarts: Lobsang",
         "date_published": "2006-07-05T22:00:00+00:00",
         "url": "/2006/07/05/dimarts-lobsang.html",
@@ -12020,7 +12052,7 @@
         "content_text": "Ahir, algú va esmentar Lobsang Rampa (El tercer ull, El metge de Lhasa, etc.) i algú altre va puntualitzar el nom de plume complet del fals lama: T. Lobsang Rampa. Arribats en aquest punt, el de la ‘T.’, la pregunta es feia ineludible: què significava la inicial? Jo creia recordar-ho: Tuesday, dimarts. Després, la Wikipedia m’ho va confirmar: es veu que, segons ell, a tots els tibetans de classe alta els posaven el nom del dia de la setmana en què havien nascut.\nVaig aprofitar l’ocasió per repassar algunes altres dades més o menys conegudes. Per exemple, que un detectiu dit Clifford Burgess va descobrir la identitat real d’en Tuesday Lobsang: a saber, Cyril Henry Hoskins, anglès, nascut a Plympton el 1911 i afeccionat des de jove a les lectures teosòfiques. Va resultar que ni tan sols havia estat mai al Tibet ni en coneixia l’idioma. Quan aquesta informació es va fer pública, ell no va negar les circumstàncies del seu naixement, però argüí que un cert dia, temps enrere, l’esperit del veritable monjo tibetà havia ocupat el seu cos i hi havia restat allotjat.\nEl que em costa molt i molt entendre és per què diversos articles que denuncien la seua impostura remarquen que el senyor Hoskins no era un lama tibetà sinó “el fill d’un lampista”. Què coi hi té a veure la professió de son pare? Ja hi tenim el fotut classisme de sempre, tan hegemònic com ací, o encara amb més intensitat, a les illes britàniques. Segurament li hauria anat més bé, pel que fa a aquestes valoracions, si en lloc d’un proletari haguera estat un d’aquells elitistes excèntrics, com els arxifamosos del grupet de Bloomsbury, que es complaïen a disfressar-se de prínceps abissinis per burlar-se de l’imperi, i aleshores tothom els reia l’acudit. No tinc cap dubte que si haguera estat un d’ells, hom li hauria tolerat qualsevol vel·leïtat orientalista, i fins i tot que es proclamara posseït per l’esperit de qui ell preferira.\n"
       },
       {
-        "id": 1569,
+        "id": 1573,
         "title": "Xiclets Santa Anna",
         "date_published": "2006-07-05T22:00:00+00:00",
         "url": "/2006/07/05/xiclets-santa-anna.html",
@@ -12028,7 +12060,7 @@
         "content_text": "Quan jo era menut, el general Santa Anna era el dolent de la pel·lícula d’El Álamo: l’autoritat mexicana amb mostatxo que passava a degolla uns rebels idealistes liderats per Davy Crockett. O per John Wayne, o com li digueren al tipus aquell que es calava el barret de castor.\nDesprés, quan ets gran, t’assabentes que un dels motius de la rebel·lió dels texans era que Mèxic havia abolit l’esclavitud. I aleshores ja no et pareix que els del nord foren tan i tan idealistes. En això devia consistir la pèrdua de la innocència: ens havien enganyat, tots sense excepció eren dolents. Perquè de López de Santa Anna tampoc no te’n podries refiar. Va presidir el seu país sis o set vegades en una època convulsa, va participar en mil conspiracions, va rebre el títol de generalísimo i va perdre gairebé totes les batalles. Els aduladors li deien “Padre de la Patria”, “Visible instrumento de Dios” i “Napoleón del Oeste”, entre altres floretes. Fins que el van fer fora i es va exiliar a Cuba i a Nova York.\nPerò si tens sort i continues creixent —si no et mors, ni t’atures— potser t’adones que la realitat no és unidimensional, que del blanc al negre hi va una gamma de grisos. John Wayne ho feia molt bé en La diligència, i quan li van proposar d’entrar en política, evidentment com a candidat del Partit Republicà, va contestar que seria ridícul que un actor pretenguera fer tal cosa. I ara llegisc que a Santa Anna se li pot atribuir la invenció del xiclet. Diuen que, quan vivia a Nova York, li va donar la idea a un industrial conegut seu, en Thomas Adams, el qual la va patentar —coi de gringos— i va començar a vendre l’“Adams New York Chewing Gum” a partir de 1871. No sé si aquesta nimietat el redimeix o no, però almenys a mi em fa gràcia.\n"
       },
       {
-        "id": 1570,
+        "id": 1574,
         "title": "Facècies i apotegmes",
         "date_published": "2006-05-22T22:00:00+00:00",
         "url": "/2006/05/22/faccies-i-apotegmes.html",
@@ -12036,7 +12068,7 @@
         "content_text": "“Eugenesia” és un dels més de cent Cuentos breves y extraordinarios reunits per Borges i Bioy l’any 1955:\nUna dama de calidad se enamoró con tanto frenesí de un tal señor Dodd, predicador puritano, que rogó a su marido que les permitiera usar de la cama para procrear un ángel o un santo; pero, concedida la venia, el parto fue normal.\n—Drummond, Ben Ionsiana (c. 1618).\nEl títol, tanmateix —tot i que s’ha mantingut en reculls posteriors, per exemple en La mano de la hormiga. Los cuentos más breves del mundo y de las literaturas hispánicas, Universidad de Alcalá de Henares, 1991— va ser, òbviament, una aportació dels il·lustres antologistes. De fet, l’anècdota o miracle invers del predicador i la seua dama enamorada, com moltes altres peces del llibre, no era a l’origen un text independent, sinó tan sols unes frases extretes d’un relat més extens. En aquest cas, es tractava de les notes preses pel poeta escocès William Drummond quan Ben Jonson va fer cap a sa casa pel Nadal de 1618. Gràcies a l’Internet Archive, que ens dóna accés al llibre complet, podem trobar el seductor mossèn Dod a la secció “Jeasts and Apothegms” (facècies i apotegmes). En l’anglès renaixentista de Drummond, la cosa anava així:\nA Gentlewoman fell in such a phantasie or phrensie with one Mr. Dod, a puritan preacher, that she requested her Husband that, for the procreation of ane Angel or Saint, he might lye with her; which having obtained, it was but an ordinarie birth.\nAquestes Notes de les converses de Drummond i Jonson han estat reivindicades com a antecedent directe de l’entrevista periodística: Drummond feia les preguntes i es limitava a registrar les respostes del seu convidat. Però caldria tenir en compte que allò eren apunts privats d’una conversa privada. Són plens de xafardeigs i de paraules aspres contra altres autors. Diuen que, quan les va publicar per primera vegada la Shakespeare Society en 1842, la reputació dels dos autors involucrats es va deteriorar: la d’un per anar-se’n de la …"
       },
       {
-        "id": 1571,
+        "id": 1575,
         "title": "La (mala) memòria",
         "date_published": "2006-05-17T22:00:00+00:00",
         "url": "/2006/05/17/la-mala-memria.html",
@@ -12044,7 +12076,7 @@
         "content_text": "Anit, en acabant del partit del Barça, mirava a TV3 unes imatges de la Rambla i barrejava records. L’any 1994 vaig anar un dissabte al Saló del Còmic de Barcelona. Devia ser al començament de maig, la data habitual d’aquest esdeveniment fins no fa molt. Hi vaig tenir l’oportunitat de conèixer personalment Max (Peter Pank, Nosotros somos los muertos, Bardín el superrealista), amb qui ja havia intercanviat un parell de cartes i alguna dedicatòria.\nAquell vespre, Max em va presentar un amic seu, un periodista mallorquí que crec que em va dir que escrivia per a La Vanguardia sobre temes culturals. A hores d’ara aquesta persona té un càrrec important —és director de l’Institut Ramon Llull— i ha estat una mica controvertit per unes declaracions en un periòdic anglès. Diuen que va dir que les subvencions al llibre en català han fet que s’imprimisca qualsevol cosa i que això és contraproduent.\nRecorde que aquella nit vam anar a sopar a un restaurant pakistanès. Potser pel Born, però llavors jo no coneixia gens aquella part de Barcelona i no puc estar segur d’on era. Pel camí vam presenciar les celebracions populars d’un gol del Barça al Bernabéu. Més tard, cap a les dues, com que sóc de poble em va sorprendre enormement que els quioscos de la Rambla estigueren oberts i que ja tingueren els periòdics de diumenge, amb les cròniques del matx i la foto del gol a la portada. No sé si va marcar Romário o Guillem Amor.\nAbans o després de sopar —ja aneu veient que mala memòria— vam fer unes copes en un bar, en un racó de la plaça Reial. Entre cervesa i cervesa, el periodista mallorquí —un xicot d’allò més afable i civilitzat, a qui Max havia tingut l’amabilitat de fotocopiar el meu primer llibre: recordeu sempre que fotocopiar no és delicte, ans al contrari— m’explicava fil per randa la trobada de Jorge Luis Borges amb Robert Graves a Deià, tots dos ja ancians. Una ocasió sens dubte excepcional, de la qual ell havia estat testimoni. Me’l devia escoltar embadalit.\nEls records …"
       },
       {
-        "id": 1572,
+        "id": 1576,
         "title": "Contes de bojos",
         "date_published": "2006-05-11T00:00:00+00:00",
         "url": "/llibres/lavidacanina/romera-elpais/",
@@ -12052,7 +12084,7 @@
         "content_text": "Un dels relats més interessants, potser perquè és el primer i això fa que sigui el que ens agafi més atents a la novetat i més expectants, oberts a allò que ens podem trobar en aquest llibre, és el que actua com a pròleg. En ell, el narrador enceta el joc, ja de tots conegut i tan antic com Les mil i una nits, el Decameró o els Contes de Canterbury, joc que s\u0026#39;ha anat repetint al llarg de la història del relat curt fins als nostres dies, que consisteix a reunir un grup de persones cadascuna de les quals ha d\u0026#39;explicar una història i tot plegat. A diferència del que passa a El bar sota la mar, de Stefano Benni, on els narradors consecutius es reuneixen en un bar situat a les profunditats marines, a La vida canina Carles Bellver no reuneix els narradors dels seus contes sinó que, actuant de Cide Hamete, afirma haver trobat una carpeta que contenia “narracions en primera persona, històries quotidianes de metges, de veïns, de problemes laborals, d\u0026#39;amors complicats o frustrats. Dèries i cabòries, confessions gairebé anecdòtiques, si no fos pel tomb absurd i inversemblant sempre present”, i aquesta carpeta la troba en un gabinet psiquiàtric que ha estat tancat recentment. El narrador, a partir d\u0026#39;aquí, afirma que només s\u0026#39;ha limitat a reescriure els textos i a demanar permís, un per un, als autors-pacients per poder-los publicar. Fins aquí, la cosa promet molt. Però així com, per posar un exemple, els contes de Benni estan narrats per cada un dels personatges del bar i cada personatge té el seu estil i la seva veu narrativa pròpia, i fins i tot en el gènere es diferencien, en aquests relats de La vida canina no som capaços de discernir entre un narrador i un altre i ens és difícil, fins i tot, en molts casos, esbrinar quina és la possible malaltia mental que hauria pogut conduir aquest narrador a la consulta psiquiàtrica del doctor (impostor) que també ens regala un dels relats. Aquest, el de descobrir quina és la malaltia mental de cada narrador, hauria estat un joc …"
       },
       {
-        "id": 1573,
+        "id": 1577,
         "title": "El tigre, el fantàstic i la multiplicitat de lectures",
         "date_published": "2006-04-25T22:00:00+00:00",
         "url": "/2006/04/25/el-tigre-el.html",
@@ -12060,7 +12092,7 @@
         "content_text": "Pel que fa a la meua idea del fantàstic, crec que el deute amb Julio Cortázar és més que evident. En una entrevista que va emetre Televisión Española en 1977, Cortázar insistia a explicar que no concebia el fantàstic com un altre món a banda del món real, sinó com una part constituent de l’experiència quotidiana. Fantàstic, així, no s’oposaria a realitat, ni a realisme, sinó que s’hi uneix en un tot, s’hi entrellaça.\nTot seguit, en aquell mateix programa, l’entrevistador –Joaquín Soler Serrano– esmentava Bestiario (1951), el primer recull de contes de Cortázar, i feia referència al relat que dóna títol al volum: “Hi apareixen aquestes històries realment fascinants, començant per la de la senyoreta sensitiva que creu que té un tigre”, afirmava, tot intercalant alguna rialleta. L’escriptor, d’esquena, assentia discretament.\n“Bestiario”, el relat, és al meu parer un dels millors que va escriure Cortázar. L’he llegit unes quantes vegades, però a mi sempre em va semblar —vaig entendre— que hi havia de debò un tigre en aquella casa de camp. Ni tan sols em vaig arribar a plantejar que poguera no ser-hi. Deu ser que existeixen diferents maneres de llegir cada història, o d’entendre el món, algunes més fantàstiques que altres. No ens prenem tots igualment, per exemple, les coincidències o sincronicitats que ens esdevenen.\n(En Calvin i Hobbes, la tira còmica de Bill Watterson, Hobbes sol aparèixer com un tigre: sempre que ell i Calvin, que és un xiquet menut, es queden sols. Però quan hi són els pares de Calvin, Hobbes és només un ninot de peluix. Això vol dir que realment no existeix el tigre? No necessàriament. Watterson prefereix parlar de dues versions de la realitat. Calvin hi veu un tigre, però els seus pares no. Soler Serrano tampoc no el veia.)\nDesprés de “Bestiario”, l’entrevistador i l’entrevistat abordaven explícitament aquesta qüestió de la multiplicitat de lectures a propòsit de “Casa tomada”. Cortázar deia que va ser la transcripció d’un somni, d’un malson en el …"
       },
       {
-        "id": 1574,
+        "id": 1578,
         "title": "El temps no em condeix",
         "date_published": "2006-02-07T23:00:00+00:00",
         "url": "/2006/02/07/el-temps-no.html",
@@ -12068,7 +12100,7 @@
         "content_text": "En el cèlebre conte “El perseguidor” de Julio Cortázar, el saxofonista boig i genial —personatge inspirat en Charlie Parker— explica al narrador que entre la parada de metro d’Odéon i la següent —un trajecte d’un minut— ha estat capaç de rememorar amb morositat, amb tots els detalls, diversos episodis de la seua vida, inclosa mot a mot, nota a nota, una llarga cançó que li cantava la mare quan era petit. Tot plegat en un minut. Aquesta paradoxa temporal és una de tantes experiències estranyes que l’obsessionen.\nJo, molt més vulgar, avui he tancat els ulls a la parada de la Farola —en l’autobús: a Castelló encara no tenim metro— i en tornar a obrir-los, al cap d’un segon, ja érem dues parades més enllà, a l’avinguda de Borriana. És a dir, a l’inrevés que el saxofonista: a mi el temps no em condeix. O que passe molta son.\n"
       },
       {
-        "id": 1575,
+        "id": 1579,
         "title": "Contes de bojos",
         "date_published": "2006-01-20T00:00:00+00:00",
         "url": "/llibres/lavidacanina/garcia-emv/",
@@ -12076,7 +12108,7 @@
         "content_text": "Carles Bellver Torlà (Castelló, 1967) ens presenta els trenta-dos relats breus d’aquest llibre com si els hagueren escrit els pacients d’un gabinet psiquiàtric. Aquesta obra, la quarta de la seua producció, no ve sinó a confirmar el que alguns estudiosos de la literatura en català, en un recent estudi d’abast local, l’anomenaven —amb total justícia— com el millor escriptor de narrativa curta en català nascut a Castelló el darrer terç del segle XX. Tres llibres anteriors que ens feien entreveure com les seues preferències literàries, com es pot comprovar fàcilment a La vida canina, tendeixen al fantàstic i al surrealisme, allò que l’autor anomenà com una “poètica del deliri”, connectada expressament amb la follia, el tràngol i la incapacitat de comprendre totalment aquest món en què vivim.\nEl llibre s’inicia amb un pròleg del propi autor en què se’ns ‘explica’ la raó per la qual ha decidit recollir tots aqiuests relats: una ‘suposada’ notícia apareguda en un diari sobre el descobriment d’un centre psiquiàtric il·legal i dirigit per un misteriós doctor Beauvoir. I acaba amb un epíleg, escrit també en primera persona per l’autor, on se’ns transcriu una suposada carta enviada per un lector anònim que dóna dades per desxifrar —o atorgar pistes— el misteri de l’esmentat doctor. El resultat de tot plegat és una sucosa antologia d’històries fantàstiques i una crònica de casos clínics a la manera, com ens diu l’autor, del doctor Oliver Sacks.\nUnes històries en què ens assabentem d’aparicions i desaparicions, de trobades improbables, confusions inversemblants, persones que de sobte es posen a parlar en hongarès i unes altres que s’enyoren de viure com gossos, ja que cadascun dels contes ens narren situacions extretes o bé de la vida privada de cada pacient o bé de reflexions —o fets coneguts de la història— amb què cadascun d’aquests ens parla de la seua particular visió de la vida.\nEsmentar, per exemple, per la seua capacitat de jugar sempre amb la ironia i un pèl de …"
       },
       {
-        "id": 1576,
+        "id": 1580,
         "title": "Les forces ocultes",
         "date_published": "2005-11-23T00:00:00+00:00",
         "url": "/llibres/lavidacanina/uso-avui/",
@@ -12084,7 +12116,7 @@
         "content_text": "Carles Bellver és un dels autors més constants i rigorosos en el conreu de la narració fantàstica. La vida canina, el seu darrer recull, no suposarà una novetat per als seus lectors. Es tracta d’un aplec de relats breus (alguns molt breus) on es descobreix sense dificultat el mestratge de Lovecraft o Poe, escrits amb una prosa austera que deixa entreveure més coses que no mostra. El llibre parteix d’una peculiar versió de la ficció del manuscrit trobat, segons la qual les narracions han estat escrites, a manera de teràpia, pels pacients d’un psiquiatre impostor. L’aire, doncs, es torna irreal des de bon principi.\nLa intenció de Bellver no és crear móns regits per regles pròpies, sinó mostrar-nos que, més enllà del que poden veure els nostres ulls, hi ha una zona fosca, inexplicable segons el paràmetres de la raó. Que la subversió és a casa nostra, potser encarnada en qui menys esperem. D’ací que s’incline per localitzacions pròximes: Castelló i els seus vorals, com podria ser qualsevol de les nostres ciutats. Urbs grises i avorrides on la rutina s’ha ensenyorit dels carrers. D’ací també que els personatges que li interessen, si més no d’entrada, no es diferencien massa del nostre veí o de la nostra parella: de nosaltres mateixos. A partir d’aquest punt, una simple anècdota, un petit matís ens revelarà que res no és com sembla, que sota la capa grisa de la normalitat s’amaguen forces ocultes, àmbits misteriosos, secrets que ni tan sols podem arribar a imaginar que existeixen.\n"
       },
       {
-        "id": 1577,
+        "id": 1581,
         "title": "Déu abandona Calatrava",
         "date_published": "2005-10-11T22:00:00+00:00",
         "url": "/2005/10/11/du-abandona-calatrava.html",
@@ -12092,7 +12124,7 @@
         "content_text": "Avui la premsa es fa ressò d’unes paraules de Santiago Calatrava, l’arquitecte oficial del règim, pronunciades en ocasió de rebre l’Alta Distinció, en majúscules, de la Generalitat Valenciana, també en majúscules. Diuen que va dir que ell es concep “com un obrer que guia altres obrers per, a través de la tècnica, intentar concloure art amb l’ajuda de Déu”.\nEn una altra pàgina del mateix diari on llegisc aquesta oda carrinclona, m’assabente que des d’algunes files del Palau de les Arts ni tan sols no es pot veure l’escenari. Recordem-ho: dissenyat per Calatrava i inaugurat dissabte. “Butaques cegues” és la denominació tècnica d’aquest curiós fenomen i n’hi ha més en aquest teatre que en gairebé cap altre del món, d’antics o de moderns. No pareix que Déu, malauradament, haja pogut fer-hi res.\nEls projectes de Calatrava solen ser espectaculars, cridaners, però resulta molt més dubtós que siguen útils, funcionals, o ni tan sols raonables. O que estiguen ben fets.\n(Ja vaig entenent per què relacione sempre aquest senyor amb aquells dos germans, igualment famosos, que passejaven pels entaulats el mateix cognom que ell.)\nPD 2006-12-03. Una altra notícia sobre el Palau de les Arts: l’escenari s’ha esfondrat. Per sort no hi ha hagut ferits. Déu ho ha volgut així. S’han cancel·lat les representacions previstes i els tècnics no creuen que es puga tornar a obrir prompte.\n"
       },
       {
-        "id": 1578,
+        "id": 1582,
         "title": "Sota l’epidermis de la realitat",
         "date_published": "2005-09-25T00:00:00+00:00",
         "url": "/llibres/lavidacanina/uso-epm/",
@@ -12100,7 +12132,7 @@
         "content_text": "Carles Bellver (Castelló de la Plana, 1967) va guanyar amb La vida canina. Contes de bojos el premi de Narrativa Vila d’Almassora 2004. Amb aquest llibre, que ha publicat Edicions Brosquil, Bellver continua fidel a la narrativa curta (extremament curta, en algun cas) i, en general, als paràmetres temàtics i estilístics en què ja se situava El llbre de tòpics’, el seu recull anterior. Influències d’H.P. Lovecraft, d’Edgar Allan Poe i, en general, dels mestres de la novel·la gòtica, així com dels filòsofs que s’han interessat pels àmbits més inquietants de l’espècie humana. La vida canina, ens diu l’aufor a la presentació, és un conjunt de relats trobats en una carpeta, al gabinet del psiquiatre Charles Beauvoir. El resultat, doncs, d’una teràpia per curar malalties mentals. Arran d’una denúncia, la intervenció d’un inspector provoca la fugida del doctor, que resulta ser un impòstor, i facilita que els relats arriben a mans de l’autor, que ara els fa públics.\nA La vida canina Carles Bellver parteix d’una ambientació pròxima —Castelló i comarques, en la majoria dels casos— i d’uns personatges que, aparentment, no són massa diferents de qualsevol de les persones amb què éns podem creuar pel carrer. Gent normal vivint en una ciutat menuda i anodina: un material que sembla més propi de la novel·la realista. I no és casualitat que així siga. Però ben aviat es veu que les intencions de l’autor van més enllà del realisme. A partir d’un matís, d’un episodi, Bellver —sense abandonar una prosa escassament procliu als escarafalls— s’aplica a desvetllar-nos que les aparences enganyen, que, sota l’epidermis d’aquesta aparent normalitat, s’amaguen forces ocultes, àmbits misteriosos, secrets insondables.\nA Bellver, doncs, no li interessen els ensurts d’arrel cinematogràfica, els sobresalts que alcen el lector de la cadira però que, ben aviat, deixen veure que eren únicament efectes sense més transcendència. Ben al contrari, el seu estil és auster i prefereix la subtilesa, l’apunt …"
       },
       {
-        "id": 1579,
+        "id": 1583,
         "title": "Cal·ligrafies vs. tipografies (simple minds)",
         "date_published": "2005-09-11T22:00:00+00:00",
         "url": "/2005/09/11/calligrafies-vs-tipografies.html",
@@ -12108,7 +12140,7 @@
         "content_text": "Article d’Esther Tusquets en Babelia, ahir: “Heidegger y el correo electrónico”. L’escriptora i editora confessa que, tot i conèixer-ne els avantatges, el correu electrònic no li agrada i s’hi ha resistit. “Inútilmente”, perquè el progrés va així. Fins ara, però, diu que no havia argumentat la seva posició contrària. Ni ara tampoc, pense jo després de llegir l’article complet. En la darrera frase el resumeix com un “réquiem por la escritura a mano”: un comiat i una lamentació, no un argument.\nEm faig algunes reflexions ràpides.\nÉs una llàstima que persones intel·ligents no percebin res més que avantatges “pràctics” en el correu electrònic. En realitat volen dir instrumentals: velocitat, estalvi. Costa tant adonar-se de les possibilitats comunicatives que obren el correu i altres tecnologies emergents? Quantes converses, quants intercanvis no podrien tenir lloc mai d’una altra manera per condicionaments de distància o de temps. L’objecció principal d’Esther Tusquets contra el correu electrònic sembla que és la despersonalització. És aleshores que cita Heidegger: “En la escritura a máquina todos los hombres parecen iguales”. I tot seguit ella rebla: “[en] los e-mail lo son sin paliativos”. Que potser no en llegeix el contingut? Sembla que pateixi una fascinació per la cal·ligrafia, tan nefasta sens dubte com la fascinació per la velocitat que atribueix als partidaris del correu electrònic. D’altra banda, no es deu fixar gaire en els llibres que publica la seva editorial, o els trobaria també tots iguals. Si no és que té el rar privilegi de llegir-los manuscrits, de la pròpia mà dels autors. No és tan senzill. No s’han deixat d’usar els bolis (o les plomes) i els quaderns. Ni els serveis de correus han tancat, ni les impremtes. El vídeo tampoc no va matar l’estrella de la ràdio. Potser la culpa és de les comparances: comencem a entendre les coses noves assimilant-les a aquelles que ja coneixíem i parlem de correu, de blogs, però això no vol dir que s’imposi reemplaçar …"
       },
       {
-        "id": 1580,
+        "id": 1584,
         "title": "Deteriorament general de la realitat",
         "date_published": "2005-09-01T00:00:00+00:00",
         "url": "/contes/deteriorament/",
@@ -12116,7 +12148,7 @@
         "content_text": "Aquest matí he trobat grans esquerdes i taques d’humitat en el sostre i en les parets del corredor. Primer he fet intenció de vestir-me i anar a avisar el veí de dalt, però mirant-ho millor he comprès que no era simplement humitat, sinó algun tipus de malaltia degenerativa dels materials, que els dilatava i els deformava per dins fins rompre’ls. Unes passes més enllà he constatat que el procés afectava també la fusta de les portes. Llavors, la meva dona, que em sentia caminar per casa, s’ha llevat i hem descobert junts, aterrits davant del mirall del bany, que una pel·lícula grisa, un vague embrutiment, se’ns escampava per la cara i les mans. Als nens, era espantós, els passava el mateix. Hem provat de rentar-nos, però l’aigua sortia tèrbola de l’aixeta i no netejava.\nHan informat per la ràdio que es tracta d’un brusc deteriorament general de la realitat i que ja s’han pres les mesures adequades al cas. Però la meva dona i jo pensem que ho diuen per tranquil·litzar-nos: segur que deuen estar tots tan desconcertats com nosaltres. Val més que ens hi resignem. Ens hem assegut en el sofà del menjador, sense saber què fer, només esperar que passi alguna cosa.\n"
       },
       {
-        "id": 1581,
+        "id": 1585,
         "title": "L’asma com a maledicció",
         "date_published": "2005-08-20T22:00:00+00:00",
         "url": "/2005/08/20/lasma-com-a.html",
@@ -12124,7 +12156,7 @@
         "content_text": "Divendres passat, fullejant el diari, vaig topar dues vegades amb el Che Guevara en dues pàgines diferents. La primera era un article d’un periodista nord-americà, una mena d’anecdotari de l’horror bèl·lic, on s’esmentava breument un ex-agent de la CIA involucrat en la captura i execució del Che a Bolívia. L’altra era l’obituari del fotògraf que va retratar el Che mort.\nCom que on n’hi ha dos n’hi ha tres, en això que plegue el diari, torne al llibret que porte entre mans aquestes darreres setmanes (In Patagonia, de Bruce Chatwin) i heus ací que l’ubic revolucionari també hi és, tot just al cap d’un parell de frases (capítol 22).\nDe coincidències, però, ja en parlarem en un altre moment. Ara només volia aturar-me en una cosa que diuen que va dir el tipus aquell de la CIA: que pateix asma des d’uns moments després de morir el Che Guevara, el qual era, com sap tothom, asmàtic crònic.\nJo també sóc asmàtic, però, ara que hi pense, fa molts anys que no n’he patit cap crisi seriosa. Potser vaig transferir la malaltia, en tot cas de forma inconscient, a algú que no se’m va portar gaire bé?\n"
       },
       {
-        "id": 1582,
+        "id": 1586,
         "title": "Impressions de Sant Cugat",
         "date_published": "2005-06-08T22:00:00+00:00",
         "url": "/2005/06/08/impressions-de-sant.html",
@@ -12132,7 +12164,7 @@
         "content_text": "Referents a unes jornades sobre “El dietarisme i el nou dietarisme dels blocs”.\n…\nDe la primera època d’El Temps, recorde especialment els articles de Ramon Barnils i els de Biel Mesquida. Fa poc vaig llegir que Mesquida, mallorquí de mena, va nàixer “casualment” a Castelló. Com Julio Cortázar, vaig pensar. Deu ser molt literari nàixer lluny d’on et tocava. Les biografies de Cortázar solen dir que va nàixer a Brussel·les “accidentalmente”, però un dels seus biògrafs, Montes Bradley, ha argumentat d’una manera inapel·lable que ningú naix enlloc accidentalment, sinó perquè la seua mare hi és. Aquests dies he conegut Biel Mesquida, un escriptor d’una presència física, verbal i literària que imposa. Una coneixença d’aquestes —poques— que t’alegren l’esperit. I m’ha confirmat en un apart que va nàixer en aquest tros de província perquè la seua mare, mestra rural, hi era. Quan va ser l’hora, un camió la va dur des del Mas d’en Sales, dins el terme de Culla, fins a alguna clínica de la capital. Joan Josep Isern diu que aquest invent dels blogs funciona, que hi ha gent a l’altra banda de la pantalla. Que Partal i Maresma, Maresma i Partal, són els darrers representants de la cultura hippie. Jo no crec que siguen els darrers. Moltes vegades ens pensem que el món s’acaba amb nosaltres i els nostres amics, però res bo acaba del tot. Vicenç Villatoro, al meu costat, fa notar que els escriptors de llibres porten ploma i els de blogs gastem boli. Una diferència d’estatus, més que evident en el cas de qui parlava i de qui escriu açò. Que el dia que el facen fora de l’Avui obrirà un bloc. Que a ell només li interessen aquells dietaris els autors dels quals han viscut fets excepcionals, o tenen una intel·ligència excepcional, o una mirada excepcional. Que escriure dietaris és una malaltia. Que ell en té uns d’inèdits que no pensa publicar mai, guardats “en uns discos” perquè no es perden. Potser sí que sembla una malaltia. Àlex Susanna, tot i declarar-se “un diplodocus”, confessa …"
       },
       {
-        "id": 1583,
+        "id": 1587,
         "title": "Els darrers moments de Primo Levi",
         "date_published": "2004-06-28T22:00:00+00:00",
         "url": "/2004/06/28/els-darrers-moments.html",
@@ -12140,7 +12172,7 @@
         "content_text": "El número de juny de 2004 de la Revista de Occidente publica la reconstrucció de “Los últimos momentos de Primo Levi” realitzada per Diego Gambetta, professor de Sociologia a Oxford.\nD’entrada, em va xocar el plantejament de l’article, perquè tenia entès que Levi es va suicidar i perquè, havent llegit Si això és un home, em costa entendre que ningú es puga preguntar “¿Cómo pudo perder Levi esa fuerza y lanzarse de un salto a la muerte?”. És clar que cadascú mira les coses des del seu punt de vista, però hi ha una citació de Leo Wieseltier, segons la qual el suïcidi de Primo Levi refutaria el missatge de fortalesa i d’esperança dels seus llibres, que em sembla, més que injusta, injustificable i perversa.\nAl capdavall, però, el quid de la qüestió és un altre. Si les dades que exposa Gambetta són certes, i no tenim per què dubtar que ho són, simplement no hi havia proves que permeteren afirmar que Levi es va suïcidar. Ni tan sols pareix probable que ho fera. De cap manera hauria estat, en tot cas, un acte premeditat, i els indicis apunten més aviat a un accident que a una crisi sobtada. Per què, aleshores, es va acceptar i es va difondre tan ràpidament la versió de la mort voluntària? Potser perquè quadrava massa bé amb els clixés: la figura romàntica de l’escriptor suïcida i la maledicció del supervivent d’Auschwitz. Això que Gambetta anomena “trampa cognitiva” ens enlluerna i ja no parem compte als fets, a les coses com s’hagen esdevingut realment. Sens dubte passa sovint. Un cas molt semblant va ser el de José Agustín Goytisolo.\nL’article es va publicar originalment en Boston Review i s’hi pot llegir en anglès: “Primo Levi’s Last Moments”. La Revista de Occidente hi afegeix un “Post Scriptum” amb nous testimonis i arguments que tornen a contradir la tesi oficial del suïcidi.\n"
       },
       {
-        "id": 1584,
+        "id": 1588,
         "title": "El món de la construcció",
         "date_published": "2004-05-25T22:00:00+00:00",
         "url": "/2004/05/25/el-mn-de.html",
@@ -12148,7 +12180,7 @@
         "content_text": "“This is a man’s man’s world”, cantava James Brown l’any 1966. Però fins i tot dins del gènere dominant sempre hi ha hagut classes. Bàsicament dues: els constructors i la resta. El món és dels constructors. Des de la torre de Babel ençà, tots els grans projectes de la humanitat que es coneixen han estat vertebrats per l’argamassa i han tingut la teulada com a únic fi.\nEm diuen ara que davant de l’escàndol de les tortures, en aquelles mateixes terres de Mesopotàmia, l’emperador Bush ha promès que demolirà la presó d’Abu Graib, un dels escenaris de la infàmia, i que n’edificarà una altra de més gran i més moderna. Es reparteixen les llicències d’obres, aquesta per a tu i aquesta per a mi, i s’ha acabat el bròquil. Al nostre país de circumstàncies, el virrei local o president de la Generalitat Valenciana acaba d’anunciar que es construirà una biblioteca virtual (sic) al centre de Castelló.\nLa qüestió, ja ho veieu, és construir, un verb que de vegades no sembla antònim sinó sinònim de destruir. Si no hi ha solars ja faran una passada les aplanadores, o els bombarders. Els problemes no se solucionen, les mancances perduren i els conflictes s’agreugen. Però no cal patir perquè els diners públics circulen, tot i que siga en una sola direcció. I l’economia, per tant, va bé: la d’ells, és clar, la de la classe constructora, o destructora, que el seu Déu els la guarde molts anys.\n"
       },
       {
-        "id": 1585,
+        "id": 1589,
         "title": "El caragol",
         "date_published": "2004-05-22T22:00:00+00:00",
         "url": "/2004/05/22/el-caragol.html",
@@ -12156,14 +12188,14 @@
         "content_text": "L’altre dia vam comprar una planta, i després d’instal·lar-la en la minúscula galeria on tenim la rentadora i els fils d’estendre, Imma va descobrir que hi havia un caragol, gros i redó, amagat entre les tiges. “Pareix mort”, em va dir. El vam desenganxar i el vam deixar damunt de l’ampit de la finestra.\nAl cap d’una estona, però, vam observar com treia el cap, les banyes i la panxa. Es va tornar a arrossegar a poc a poc fins al test, es va enfilar amunt cap al verd i finalment es va col·locar si fa no fa en el mateix punt i en la mateixa posició d’abans.\nEncara hi és.\n"
       },
       {
-        "id": 1586,
+        "id": 1590,
         "date_published": "2004-04-24T23:00:00+00:00",
         "url": "/2004/04/24/histria-del-tombatossals.html",
         "tags": "",
         "content_text": "📎 Història del Tombatossals\n"
       },
       {
-        "id": 1587,
+        "id": 1591,
         "title": "Darreres converses amb Wittgenstein",
         "date_published": "2004-04-04T22:00:00+00:00",
         "url": "/2004/04/04/wittgenstein-bouwsma.html",
@@ -12171,7 +12203,7 @@
         "content_text": " El martes de esta semana fuimos a Syracuse para reunirnos con Norman Malcolm y Wittgenstein, que acababa de llegar desde Europa. Después de todas las historias que había oído contar acerca de él, lo cierto es que me pareció un hombre muy atractivo, con una manera de ser fácil y amigable.\nAixí comencen els fragments del diari d’Oets K. Bouwsma sobre les seues converses amb Wittgenstein, convertits després de la mort de l’autor en un llibre. I així obre la seua introducció Miguel Ángel Quintana, traductor de l’edició espanyola (Últimas conversaciones, Sígueme, 2004):\nHoy parece por fin claro que Ludwig Wittgenstein ha sido, junto con Martin Heidegger, el pensador europeo que ha marcado más hondamente el quehacer filosófico del siglo XX.\nWittgenstein (Viena 1889, Cambridge 1951) tenia fama de geni esquerp, difícilment accessible excepte per a un cercle reduït d’estudiants i amics. És ben conegut que només va publicar en vida un llibre de filosofia: el famós Tractatus Logico-Philosophicus, enllestit en 1918, al començament de la seua carrera. Quan va morir, feia molts anys que estava preparant un nou llibre i n’havia descartat successives versions i revisions. Una obra que es va editar pòstumament en 1953, amb el títol d’Investigacions filosòfiques, en la qual pareixia refutar una bona part de les tesis de l’anterior. D’aleshores ençà, s’han anat publicant també tota mena de materials preliminars sota diversos títols, així com els seus diaris privats, apunts de classes dels seus alumnes i notes de col·legues com aquestes d’O. K. Bouwsma. Wittgenstein, com diu Quintana, és un dels filòsofs més eminents del segle XX. És natural que davant de l’escassetat d’escrits sancionats per ell mateix, s’haja acollit com a mínim amb interès cada una d’aquestes iniciatives editorials.\nQuè aporta de nou, a hores d’ara, el diari de Bouwsma? Quintana ho raona molt bé. En primer lloc, correspon al període 1949-1951, els darrers anys de Wittgenstein, quan ja se li ha diagnosticat un …"
       },
       {
-        "id": 1588,
+        "id": 1592,
         "title": "L’automàtica",
         "date_published": "2004-02-23T23:00:00+00:00",
         "url": "/2004/02/23/lautomtica.html",
@@ -12179,7 +12211,7 @@
         "content_text": "Entre els tiquets de les compres que vaig fer el mes passat amb la targeta de crèdit, n’hi ha un que no puc recordar de cap manera a què correspon. No reconec el nom del comerç, ni l’adreça, i la data tampoc no em diu pas res. Vaig a donar-hi una ullada. Jo no he estat mai en aquest establiment, una botiga petita sense cap senyal que mostre clarament a quina activitat es dedica. Però quan entre a preguntar, la dependenta em fa bona cara, com si em coneguera, i em lliura un paquet. “Ací el teniu, ja l’hem rebut”. Me l’emporte i l’òbric a casa. Dins hi ha una pistola automàtica.\n"
       },
       {
-        "id": 1589,
+        "id": 1593,
         "title": "La qualitat dels pinsos",
         "date_published": "2004-02-18T23:00:00+00:00",
         "url": "/2004/02/18/la-qualitat-dels.html",
@@ -12187,7 +12219,7 @@
         "content_text": "L’any passat, en una revisió rutinària, els metges de la mútua em van descobrir que tinc l’estructura genètica d’un porc espí. Els resultats de les anàlisis, em deien, són inequívocs, i m’ensenyaven uns llargs llistats de xifres que no podien esperar pas que entenguera. Evidentment, vaig demanar una segona opinió, una tercera i encara una altra. Cada especialista que vaig consultar va ratificar el diagnòstic. L’origen del trastorn, tanmateix, els era desconegut. Algun va atribuir-lo a les hormones o a les carns dubtoses que d’un temps ençà s’introdueixen en els pinsos.\nEl pitjor de tot és que ara en la Seguretat Social ja no em volen atendre i he hagut de buscar una clínica veterinària de pagament.\n"
       },
       {
-        "id": 1590,
+        "id": 1594,
         "title": "Sorted for ease of scribbling",
         "date_published": "2003-12-05T23:00:00+00:00",
         "url": "/2003/12/05/sorted-for-ease.html",
@@ -12195,7 +12227,7 @@
         "content_text": " Necessiten narcòtics els artistes, més fins i tot que la gent normal? Richard Davenport-Hines examina els hàbits dels autors.\nThe Independent ens ofereix una breu introducció històrica a l’ús de les drogues pels escriptors. Wilkie Collins va escriure La pedra lunar sota els efectes del làudanum. W. H. Auden esmorzava amfetamines. Allen Ginsberg va veure Déu mentre es masturbava i va decidir potenciar aquest tipus d’experiències per mitjà de l’LSD. Que això millorés la seva ment o la seva poesia, opina l’autor de l’article, resulta dubtós.\n"
       },
       {
-        "id": 1591,
+        "id": 1595,
         "title": "L’home esventat o una escletxa en el temps",
         "date_published": "2003-10-02T22:00:00+00:00",
         "url": "/2003/10/02/lhome-esventat-o.html",
@@ -12203,7 +12235,7 @@
         "content_text": "Avui tornàvem a casa en cotxe i davant de l’Hospital Provincial, plantat a la vorera, hem vist un home la roba del qual es remenava com si la fes voleiar el vent. Però no bufava gairebé gens d’aire. Portàvem les finestretes abaixades, per la calor, i no notàvem més que una briseta mesquina. Tan bé que ens hauria vingut per refrescar-nos! Ni els altres vianants, ni els arbres, no exhibien cap senyal d’un vent inexistent.\nImma ha conjecturat:\n–Potser eixe home s’ha equivocat de dia.\n"
       },
       {
-        "id": 1592,
+        "id": 1596,
         "title": "Les bombes i el bombarder",
         "date_published": "2003-09-10T22:00:00+00:00",
         "url": "/2003/09/10/les-bombes-i.html",
@@ -12211,7 +12243,7 @@
         "content_text": "Ahir i avui, els mitjans d’arreu del món ens assabenten de la mort d’Edward Teller, aquell físic hongarès, jueu, que va emigrar als EUA i va treballar a les ordres de Julius Robert Oppenheimer en la fabricació de les primeres bombes atòmiques. Més endavant va testificar contra el seu ex cap en un d’aquells processos de la guerra freda, en els quals valia tot: acusacions de filocomunisme i d’homosexualitat incloses. I va aconseguir així finançament per a crear ell mateix la superbomba d’hidrogen.\nParadoxalment, l’any 1945, quan es trobaven a la base secreta de Los Álamos i quedaven pocs dies per a la prova decisiva de la bomba al desert de New Mexico, Teller va advertir Oppenheimer que segons certs càlculs seus una reacció en cadena podria incendiar l’atmosfera i destruir tota la Terra. Oppenheimer no se’l va creure i va tirar endavant. Potser un dels dos, o tots dos, pretenien precisament això: destruir el món sencer. Com que van fracassar a la primera, Teller ho va tornar a intentar una segona vegada amb la bomba H. (Vaig utilitzar aquest estrany episodi en el conte que donava títol a El llibre de tòpics.)\nPer cert: diuen que Edward Teller era un dels models en què va basar Kubrick el personatge del Dr. Strangelove, el científic boig de la pel·lícula Teléfono Rojo.\n"
       },
       {
-        "id": 1593,
+        "id": 1597,
         "title": "BBEdit antològic",
         "date_published": "2003-06-03T21:00:00+00:00",
         "url": "/2003/06/03/bbedit/",
@@ -12219,14 +12251,14 @@
         "content_text": " Fa quasi deu anys vaig programar un conjunt d’extensions per a BBEdit —el millor editor de textos per a Mac, llavors i ara— que facilitaven l’edició d’HTML. Més avant, aquestes extensions, i un altre paquet alternatiu desenvolupat per Lindsay Davies, van ser incloses en la distribució oficial de BBEdit.\nJa ho he contat moltes vegades. Tot allò va comportar per a mi una petita dosi —uns minuts warholians— de fama. El meu nom i el meu programari circulaven per Internet i s’imprimien en llibres i CD-ROM. Eren els primers temps del Web i tot era nou i apassionant. Aquesta setmana, la gent de Bare Bones Software m’han enviat el disc BBEdit Anthology, una edició limitada amb totes les versions de BBEdit des de la 2.5. També hi havia una nota d’agraïment signada per Rich Siegel i unes calcomanies.\nThe company soon discovered that two Europeans —Carles Bellver in Spain and Lindsay Davies in the UK— had written BBEdit plug-ins that automated the process of generating text with HTML markup…\n📎 Apple - Hot News - Bare Bones\nBBEdit, from Bare Bones Software, became a popular HTML editing tool before it had HTML features, in part because it is an excellent text editor, and in part because Carles Bellver and Lindsay Davies both released reasonably complete sets of BBEdit extensions for HTML.\n📎 TidBITS#385/23-Jun-97\n"
       },
       {
-        "id": 1594,
+        "id": 1598,
         "date_published": "2003-03-27T21:00:00+00:00",
         "url": "/2003/03/27/escriptors/",
         "tags": "citacions",
         "content_text": " El conocimiento directo de los escritores es nocivo… En cuanto uno conoce directamente a un escritor al que admiró de lejos, deja de leer sus obras.\n—Augusto Monterroso, Movimiento perpetuo.\nHe sido afortunado, no he tratado personalmente a casi ningún escritor. Sé que son vanidosos, mezquinos, intrigantes, egocéntricos, intratables. Y si son españoles, encima son vanidosos y miedosos.\n—Enrique Vila-Matas, Bartleby y compañía.\n"
       },
       {
-        "id": 1595,
+        "id": 1599,
         "title": "Nebaud amb Lovecraft",
         "date_published": "2003-03-08T21:00:00+00:00",
         "url": "/2003/03/08/nebaud-lovecraft/",
@@ -12234,7 +12266,7 @@
         "content_text": "En la seua biografia d’H. P. Lovecraft, l’erudit S. T. Joshi nega tres vegades que Jacques Bergier haguera conegut realment el solitari de Providence. No cal que ens estranyem, doncs, que ni tan sols esmente l’ubic i elusiu B. J. Nebaud.\nPerò Nebaud va conèixer Lovecraft en el seu primer —i darrer— viatge a Amèrica, l’any 1924. Farnsworth Wright, l’editor de la cèlebre revista d’històries de por Weird Tales, va facilitar la trobada. Nebaud hi fa referència en l’anotació següent del seu diari:\nM’ha vingut a veure a l’hotel en Howard Lovecraft. F. W. em va deixar llegir ahir un parell de contes seus: “Dagon” i “La declaració de Randolph Carter”. El senyor Lovecraft juga amb monstres, dimonis, civilitzacions desaparegudes i realitats velades. M’ha ensenyat un llibre antic, l’anomenat Necronomicon. El tacte de la coberta de pell (humana?) era repugnant. Ell m’indicava una pàgina, assenyalava un paràgraf i jo recitava en veu alta. Feia falta posar-hi molta atenció, perquè es tractava d’un llatí medieval, impur. Amb admirable paciència, m’ha ajudat a desxifrar una profecia i calcular una data: 29 de febrer de 1924. Avui, el dia de la fi del món. A través de la finestra, he vist omplir-se d’animàlies voladores el carrer Carlton. Semblants a rates-penades, però més grans, més folles, més terrorífiques.\n"
       },
       {
-        "id": 1596,
+        "id": 1600,
         "title": "Versions sobre la creació del món i les raons de la confusió",
         "date_published": "2003-02-14T21:00:00+00:00",
         "url": "/2003/02/14/correo-euclides/",
@@ -12242,7 +12274,7 @@
         "content_text": "Monterroso pensa que Déu encara no ha creat realment el món, i per això és tot tan confús: “sólo está imaginándolo, como entre sueños”.\nSupose que això contradiu el relat bíblic. Segons el Gènesi, la creació del món es va esdevenir ja fa moltes generacions, va durar set dies i va consistir bàsicament a posar ordre en el caos. Sant Joan aclareix que al principi hi era la Paraula, que és traducció del grec logos: raó, llenguatge. Però aquells mots que tenien per missió convertir la confusió en ordre ben bé podien ser mots errats, enganyosos. Almenys aquesta era la hipòtesi avançada per Max Aub en un cartell de l’any 1968: que Déu va crear la terra per culpa d’un mal informe de la CIA.\n"
       },
       {
-        "id": 1597,
+        "id": 1601,
         "title": "La finestra de William Blake",
         "date_published": "2003-02-01T23:00:00+00:00",
         "url": "/2003/02/01/la-finestra-de.html",
@@ -12250,7 +12282,7 @@
         "content_text": "L’any 1761, quan William Blake tenia tot just quatre anys, una nit se li va aparèixer Déu a través de la finestra de la seua cambra. El petit William va veure-hi una llum i després una cara.\nAnys més tard, Blake explicava aquesta història a un amic i li va mostrar, des del carrer, que el seu pare va tapiar aquella finestra i altres de l’edifici, perquè les autoritats municipals havien creat un impost nou que gravava les finestres. L’amic es va escandalitzar:\n—Déu va ficar el cap per la teua finestra i va ser aparedada… Hauria de ser una capella!\nBlake li va replicar:\n—No patisques. Déu devia mirar per totes les finestres de Londres.\n"
       },
       {
-        "id": 1598,
+        "id": 1602,
         "title": "Jo passava per allí ",
         "date_published": "2002-12-15T22:00:00+00:00",
         "url": "/2002/12/15/catalan-sf-authors/",
@@ -12258,7 +12290,7 @@
         "content_text": " El dia 1 de novembre, just abans de presentar El llibre de tòpics a la Barnacon, em van convidar a posar per a una foto amb una sèrie de persones del món de la ciència-ficció catalana. Ara m’he assabentat que la instantània il·lustrarà un article de la revista americana Locus (“News, Reviews, Resources, and Perspectives of Science Fiction, Fantasy and Horror”).\nEm sap greu i tot, perquè m’ho vaig passar estupendament, però em sentia una miqueta un intrús en una convenció d’aquell tipus. Probablement m’haurien d’esborrar de la imatge. En tot cas, deixe constància que d’esquerra a dreta som: Toni Segarra, Rosa Fabregat, Carles Bellver Torlà, Antoni Munnè-Jordà, Albert Garcia Pascual, Miquel Barceló, Sebastià Roig, Montse Cerdà, Jordi Solé Camardons i Isidor Bernabé.\nPer cert, els contertulians de la llista de correu de la Societat Catalana de Ciència-Ficció i Fantasia s’han divertit fent bromes sobre el fet que van quedar tots al costat fosc, menys l’Albert, que hi és a mitges, i jo, que encara sóc al costat lluminós.\n"
       },
       {
-        "id": 1599,
+        "id": 1603,
         "title": "L’home amb barba i l’home sense barba",
         "date_published": "2002-11-01T00:00:00+00:00",
         "url": "/llibres/elllibredetopics/barnacon/",
@@ -12266,7 +12298,7 @@
         "content_text": " Bona tarda.\nAbans de res, voldria agrair la gentilesa de l’organització de la Barnacon i, per descomptat, la vostra assistència. Per si hi ha algun despistat entre el públic, us recordaré que som a punt de presentar dos volums: El llibre de Tòpics, de Carles Bellver (l’home sense barba), i Aquell matí era perfecte, d’Albert García (l’home amb barba).\nA Carles Bellver i Albert García, ja us ho dic ara, només els puc felicitar. Perquè tenen més valor que els insectes de Starship Troopers. Escriuen ciència-ficció i fantasia a les terres de Zaplana, i, per postres, ho fan en la llengua més bescantada pel ministre de Treball i els seus acòlits.\nAbans d’introduir-vos a les seves obres, però, m’agradaria exposar-vos una obvietat. Imaginem-nos que remenem la famosa Enciclopèdia del senyor John Clute i anem seguint la cronologia de la ciència-ficció internacional. Fem una llista de les seves revolucions internes, tant estilístiques com temàtiques, i després ho comparem amb la marxa del gènere als Països Catalans… ¿Què ens passarà? En el millor dels casos, només ens cauran els elàstics.\n¿Què algú vol llegir ciberpunk d’autors catalans? Ja se’l pot començar a escriure ¿Què algú té ganes de tastar el hard autòcton? Bé, tenim la novel·la d’en Miquel Barceló, les de la Rosa Fabregat i els contes de Pere Puigdomènech… Per fer-ho curt: tenim més forats que un camp de golf on els caddies berenen formatge de gruyère.\nMalgrat això, des dels seus orígens, la nostra ciència-ficció ha comptat sempre amb un corrent que no ha decaigut: una branca literària que acostuma a contemplar el futur amb humor i el satiritza. Aquest corrent humorístic ha estat practicat arreu d’Europa, pels germans Capek, Stanislaw Lem i Douglas Adams… I aquí al costat, per Pompeu Gener, Pere Calders, Pere Verdaguer i Llorenç Villalonga…\n¿Per què els catalanoparlants estem tant acostumats a barrejar els planetes perduts, els avenços tecnològics i els astronautes amb la crítica mordaç o els acudits poca-soltes? Per …"
       },
       {
-        "id": 1600,
+        "id": 1604,
         "title": "Història del Tombatossals",
         "date_published": "2002-10-01T00:00:00+00:00",
         "url": "/contes/tombatossals/",
@@ -12274,7 +12306,7 @@
         "content_text": "Tramesa pel professor F. Esteve de l’Institut Francesc Ribalta de Castelló al professor A. B. Danvers de la Universitat de Miskatonic, Massachusetts\n«Tombatossals»: denominació popular del cicle mític de la Plana de Castelló. Els seus elements principals són un elenc de gegants i altres éssers primigenis i un catàleg de procediments de màgia negra. «Tombatossals» és en realitat el nom d’un dels gegants. Uns altres es deien Bufanúvols i Arrancapins: les típiques personalitzacions de forces naturals i sobrenaturals. Fragments inconnexos d’aquest retaule sobreviuen encara avui a la memòria de determinades famílies de la soca de Castelló.\nL’origen de les llegendes es perd en l’antigor. La primera menció es troba a l’historiador romà Caelius Rufus (c.55?-116): «Gigantes autem erant super planitiam in diebus illis...» [en aquells dies hi havia gegants sobre la Plana]. S’ignora a partir de quin moment es van posar en escrit i qui en va ser l’autor. Cap al Renaixement existeix un text llatí imprès a València amb el títol Magnum Innominandum. S’ha atribuït generalment a en Joseph Blay (1460-c.1520?), un mag de Vila-real. El peu d’impremta és de 1489. Aquesta no pot ser l’edició original, perquè Sant Vicent Ferrer (1350-1419) ja blasmava l’obra en un sermó cent anys abans. S’ha de tractar, per tant, d’una transcripció de documents més antics, o potser fins i tot d’una traducció o una versió diferent.\nEn tot cas, comptem amb altres dues referències coetànies: el Llibre del Bé i el Mal, cremat a València, i el Llibre Verd que encara es conserva a l’Arxiu Municipal de Castelló. D’acord amb aquestes fonts, el text de Blay recolliria el corpus d’una tradició precristiana: el naixement dels gegants a les muntanyes; la seva hegemonia a la Plana, a la Mar i a les Illes Columbretes; l’enfrontament amb els primers llauradors; l’ús de la màgia negra per part d’aquests i, finalment, l’expulsió i el confinament dels gegants.\nEs diu que aquesta lectura resultava particularment …"
       },
       {
-        "id": 1601,
+        "id": 1605,
         "title": "Joan Francesc Mira, Sant Vicent i el miracle de Morella",
         "date_published": "2002-09-29T22:00:00+00:00",
         "url": "/2002/09/29/joan-francesc-mira.html",
@@ -12282,14 +12314,14 @@
         "content_text": " El Magazine de La Vanguardia de diumenge passat incloïa un article de Joan Francesc Mira titulat “San Vicente Ferrer en el tiempo de los milagros”. Mira hi esbossava breument el perfil del sant com a taumaturg (“autor de meravelles”) i de pas promocionava el seu propi llibre Sant Vicent Ferrer. Vida i llegenda d’un predicador, premi Nacional de la Crítica.\nL’enquesta de canonització de Sant Vicent, el 1455, va donar per bons un total de 873 miracles. No sé si un dels més xocants, el que va tenir lloc a Morella, figurava en aquella llista. Supose que sí. A mi, i a tota la classe de primer d’EGB, ens el va contar donya Paquita. Diu que una vegada van convidar a dinar el sant a una casa de la capital dels Ports. La mestressa, en veure que no tenia carn i ofuscada pel compromís, va decidir sacrificar el seu fill, un xiquet menut. El va matar, el va trossejar i el va guisar. Sant Vicent, però, es va ensumar la malifeta i va recompondre immediatament la criatura. Els artistes la representen dreta i nua damunt de la taula del menjador, entre plats i perols. Li mancava un dit, perquè sa mare l’havia mossegat per tastar-ne la tendror.\nMira opina, amb raó, que aquesta proesa és difícilment superable. La compara amb guariments i amb altres ressurreccions menys meritòries i conclou que “…no hay duda de que ganaría el premio de honor en cualquier competición universal de milagros.” Crec, tanmateix, que comet una exageració, víctima, potser, d’un excés patriòtic. Un professor tan sabut, d’erudició reconeguda, sens dubte no ignora que aquest miracle és còpia d’un altre anterior atribuït a Sant Nicolau de Bari, qui el va executar, a més a més, per triplicat: els seus beneficiaris van ser tres infants esquarterats per un carnisser. Amb la qual cosa, a dreta llei hauria d’endur-se ell el premi.\nAquesta dada referent a Sant Nicolau, la sé per un article de mossèn Alanyà publicat en el butlletí d’AMIC (Amics de Morella i Comarca), però es pot comprovar consultant qualsevol …"
       },
       {
-        "id": 1602,
+        "id": 1606,
         "date_published": "2002-04-30T22:00:00+00:00",
         "url": "/2002/04/30/quaoar/",
         "tags": "",
         "content_text": "La setmana passada, els astrònoms Chad Trujillo i Mike Brown del Caltech, o Institut de Tecnologia de Califòrnia, van fer públic el descobriment d’un nou cos celeste més enllà de Plutó, a la zona de l’anomenat cinturó de Kuiper, que diuen que és d’on vénen els cometes. Això són, aproximadament, 6.500 milions de quilòmetres des de casa nostra: la llum del sol tarda cinc hores a arribar-hi. Aquest món llunyà, negre i glaçat, l’han anomenat Quaoar, que és la força de la creació en la llengua dels indis Tongva que vivien abans a Los Angeles, on hi ha el Caltech.\nTrujillo ha publicat una FAQ amb dades i imatges. Podríem pensar que Quaoar és el llegendari planeta X. Més informació sobre aquest i altres planetes i satèl·lits esquívols a la plana Hypothetical Planets, inclòs el segon satèl·lit de la Terra que apareixia a la novel·la de Jules Verne De la Terra a la Lluna.\nEl descobriment de Plutó l’any 1930 va inspirar a Lovecraft l’esplèndid relat de ciència ficció The Whisperer in Darkness (El que susurra en la oscuridad, en la traducció d’Aurelio Martínez Benito per a Alianza Editorial). La imaginació de Lovecraft convertia Plutó-Yuggoth en el darrer cap de pont dels Exteriors, els esgarrifosos fongs de Yuggoth, abans d’arribar a la Terra.\nPel que fa a viatges interplanetaris i invasions extraterrestres, estic escrivint un article per a Lovecraft Magazine sobre les novel·les còsmiques de C. S. Lewis. Concretament en Out of the Silent Planet (Lejos del planeta silencioso) les coses s’esdevenen a l’inrevés. Són els terraqüis, alguns terraqüis, els que després d’espoliar el seu planeta se’n van a Mart a veure què en poden traure. I els ingenus habitants del Planeta Roig que es facen fotre.\n"
       },
       {
-        "id": 1603,
+        "id": 1607,
         "title": "Microcontes. Una mica d’història",
         "date_published": "2002-04-30T22:00:00+00:00",
         "url": "/2002/04/30/microcontes/",
@@ -12297,7 +12329,7 @@
         "content_text": "L’any 1996, Josep M. Chordà i jo mateix vam crear una llista de correu, completament oberta a tothom, per intercanviar i compartir relats breus. En vam dir microcontes, i amb aquest neologisme ens referíem a “històries de tres a tres mil paraules que es poden escriure, enviar i llegir còmodament dins d’un missatge de correu electrònic”. Ni la forma narrativa ni la denominació que li aplicàvem tenien llavors tanta difusió com ara.\nAvui, una mica casualment, hem recuperat els arxius complets de la llista i n’hem fet memòria. Resulta que la vaig inaugurar jo l’u d’octubre de 1996 amb dues versiones alternatives d’una història d’astronautes i ovelles extraterrestres. Quan la vam tancar, el 18 d’abril de 1998, feia una temporada que els habituals participaven menys i, d’altra banda, ja començava a fer nosa aquest fenonem d’inundació de publicitat no sol·licitada (spam) que avui ens preocupa a tothom. Després de l’anunci d’un “SERVICIO RAPIDO DE COPIAS DE CD-ROM”, el darrer missatge de tots els que es van distribuir deia profèticament:\nFAVOR NO ENVIAR CORREO A MI BUZON.\n"
       },
       {
-        "id": 1604,
+        "id": 1608,
         "title": "L’obligació de ser antiliterari",
         "date_published": "2002-04-13T22:00:00+00:00",
         "url": "/2002/04/13/antiliterari/",
@@ -12305,7 +12337,7 @@
         "content_text": " La obligación del escritor es ser antiliterario. Oficio implica amaneramiento. He oído de algunos pintores que cuando han alcanzado alguna maestría comienzan a pintar con la mano izquierda para no amanerarse y para explorar nuevos territorios… Eso implica escribir desde el lado desde el que no se sabe escribir. Esto te lo tienes que plantear cada día cuando te sientas a escribir. Siempre está el peligro de aplicar el oficio, y así sólo puedes aspirar a hacer más de lo mismo.\n—Juan José Millás en El País.\n"
       },
       {
-        "id": 1605,
+        "id": 1609,
         "title": "La nostra situació respecte al temps",
         "date_published": "2002-03-23T22:00:00+00:00",
         "url": "/2002/03/23/temps/",
@@ -12313,7 +12345,7 @@
         "content_text": " No deixa de tenir plena actualitat la famosa pregunta formulada, “en to molt fatigat, propi d’un home molt vell”, per Arthur Cravan a André Gide: “Monsieur Gide, en quin punt del temps ens trobem?”. Gide va contestar, sense segona intenció: “Tres quarts de sis”. Sí, cal fer-ho constar, molt dolenta és la nostra situació respecte al temps.\n—André Breton, prefaci a la reimpressió del Manifest del Surrealisme, 1929.\n"
       },
       {
-        "id": 1606,
+        "id": 1610,
         "title": "Cinc minuts en hongarès",
         "date_published": "2002-02-17T22:00:00+00:00",
         "url": "/2002/02/17/cinc-minuts/",
@@ -12321,7 +12353,7 @@
         "content_text": "Avui, durant el dinar —és diumenge i hi érem tota la família, reunits al voltant de la taula—, he deixat d’entendre el que deien els altres. Em semblava reconèixer vagament les paraules que empraven, però no en copsava el sentit, com si tot d’una haguera oblidat la meua llengua materna. Quan he intentat parlar encara ha estat pitjor: feia basarda sentir, eixint de la meva boca, aquells modismes inintel·ligibles, aparentment estrangers.\nL’estranya síndrome ha durat tot just cinc minuts. M’han fet beure aigua i m’han indicat amb gestos que respirara fondo. A poc a poc he retornat a la normalitat. Toni, el meu germà, m’ha preguntat si anit em vaig deixar la ràdio sintonitzada amb alguna emissora internacional. Li he contestat que no. Ell diu que el que xarrava podia ser hongarès o lapó. Ens ha contat també que una vegada es va publicar que els americans tenien un extraterrestre en un soterrani del Pentàgon i que van aconseguir comunicar-se amb ell per mitjà d’un dialecte del magiar.\nJo estava una mica capficat i pensava si no caldria que m’ho mirara un metge. El meu germà m’ha donat aquest consell:\n—Si ara et trobes bé i això no es repeteix, jo de tu ho deixaria córrer. Pensa que et podries col·locar en el punt de mira de la CIA, dels espiritistes, de la premsa i les televisions locals i dels psiquiatres de la seguretat social.\n"
       },
       {
-        "id": 1607,
+        "id": 1611,
         "title": "Set somnis d'escriptors i un d'una escriptora",
         "date_published": "1970-01-01T00:33:35+00:00",
         "url": "/contes/setsomnis/",
@@ -12329,7 +12361,7 @@
         "content_text": "Contes inclosos en Un cel nou i una terra nova, XVIè premi de narrativa breu Josep Pascual Tirado (Unaria, 2015).\n“La mida de Kong” (El crepuscle del cinema segons Jean Ferry) “Mas de les tortugues” (Augusto Monterroso a Castelló) “El drac i la garsa” (Lord Dunsany a Morella) “Puaka enata” (Stevenson en la carnisseria). “L’alegre nit de cap d’any del trenta-tres” (Eufòria i ressaca d’H. P. Lovecraft) “L’extraterrestre” (Ray Bradbury en la Generalitat Valenciana) “Restitució” (Giovanni Papini a Barcelona) “La ràbia roja” (Maria Folch i la basarda del general) "
       },
       {
-        "id": 1608,
+        "id": 1612,
         "title": "Un cel nou i una terra nova",
         "date_published": "1970-01-01T00:33:35+00:00",
         "url": "/llibres/uncelnouiunaterranova/",
@@ -12337,7 +12369,7 @@
         "content_text": " EPUB PDF\nPremi de narrativa breu Josep Pascual Tirado 2015.\nUn cel nou i una terra nova. Un jove funcionari —“home de negre”— arriba a una ciutat que podria ser València, intervinguda pel govern central. Des d’aquell primer vespre començaran a passar-li coses sorprenents. Un títol extret de l’Apocalipsi per a una història d’amor amanida amb fortes dosis de surrealisme i crítica social.\nSet somnis d’escriptors i un d’una escriptora. Vuit proses breus que evoquen els mons i les sensibilitats literàries de Jean Ferry, Augusto Monterroso, Lord Dunsany, R. L. Stevenson, H. P. Lovecraft, Ray Bradbury, Giovanni Papini i Maria Folch.\nText de la presentació en la llibreria Fòrum Babel. Maria Folch, 18 de desembre de 2015. Per al·lusions: l’apocalipsi i València El somni atribuït a una escriptora: Maria Folch i la basarda del general Ressenyes Un cel nou i una terra nova, Carles Bellver Torlà (Unària, 2015) (Carme Pinyana, Descriu, 2018). "
       },
       {
-        "id": 1609,
+        "id": 1613,
         "title": "La nit mil dos",
         "date_published": "1970-01-01T00:33:33+00:00",
         "url": "/llibres/lanitmildos/",
@@ -12345,7 +12377,7 @@
         "content_text": " EPUB PDF\n«Posa’t al costat dret del vagó i estigues alerta un minut després de Jaume I». Aquest cop, l’enigmàtic Charles Beauvoir ha citat Carles Bellver en una estació fantasma del metro de Barcelona, la de Correus, tancada des de 1972. Tot i que el metro no s’hi atura, Bellver té la sensació d’haver-hi vist algú. Un cop al carrer, un noiet vestit de grum li dóna un missatge amb instruccions i l’adreça d’un bar. Allà el cambrer li lliurarà una memòria USB amb una nota enganxada: «No pense escriure més. T’ho vaig dir i t’ho repetisc. Açò és tot el que tinc. Pots fer-ne el que vulguis.» La memòria conté una seqüència de fitxers de so numerats, etiquetats amb data i hora: els soliloquis d’una nit d’insomni, entre la mitjanit i les set del matí, al llarg de la qual Beauvoir, a manera de Xahrazad, explica en veu baixa les històries de La nit mil dos.\nRessenyes “Lectures de mar i muntanya: ‘La nit mil dos’” (Vilaweb, 2014) “Intensitat narrativa” (Francesc Pérez i Moragón, Caràcters núm. 68, 2014) “Relat d’una llarga nit farcida d’històries” (Joan Queralt, 2023) "
       },
       {
-        "id": 1610,
+        "id": 1614,
         "title": "Parèntesi",
         "date_published": "1970-01-01T00:33:31+00:00",
         "url": "/llibres/parentesi/",
@@ -12353,7 +12385,7 @@
         "content_text": " EPUB PDF\nEl 4 de novembre de 2007, Charles Beauvoir escriu a Carles Bellver per encomanar-li la publicació dels seus diaris. Tot i que l’escriptor no se sent obligat, ni de bon tros, a executar l’excèntrica voluntat de Beauvoir, hi farà un cop d’ull, en llegirà les primeres frases i, en un tres i no res, la curiositat el vençerà. Les anotacions s\u0026#39;iniciem el setembre de 2001, quan Beauvoir va marxar de París a Szohôd, capital de la república imaginària de Bordúria, per exercir com a professor visitant en una denominada “Escola d\u0026#39;Alts Estudis”. I acaben el maig de l\u0026#39;any següent, quan va fugir del país a corre-cuita, esglaiat per la situació d\u0026#39;amenaça bèl·lica que s\u0026#39;hi vivia. Parèntesi és també el nou llibre de relats de Carles Bellver Torlà, en el qual la potència narrativa del castellonenc —que evoca els noms de Pere Calders, Joan Perucho, H. P. Lovecraft o Boris Vian— arriba a la seva cota més alta. En els contes de Bellver, s’entrellacen elements de realitat i de ficció i es juga constantment amb el caràcter fantàstic dels personatges i de les històries (aquesta vegada unides de manera que el llibre sembli una novel·la, gairebé una Bildungsroman). Et convidem a la descoberta d’una de les veus més singulars de la nostra narrativa actual.\nText de la presentació en la llibreria Fòrum Babel. Josep Porcar, 22 de novembre de 2011. Notes de l\u0026#39;autor sobre el llibre. Ressenyes “L’home del calendari, reloaded” (El Llibreter, 31 d\u0026#39;agost de 2011). "
       },
       {
-        "id": 1611,
+        "id": 1615,
         "title": "La vida canina",
         "date_published": "1970-01-01T00:33:25+00:00",
         "url": "/llibres/lavidacanina/",
@@ -12361,7 +12393,7 @@
         "content_text": " EPUB PDF\nPremi de narrativa Vila d’Almassora 2004.\nL’autor ens presenta els relats que componen aquest llibre com si els haguessin escrit els pacients d’un gabinet psiquiàtric. Podríem dir que el resultat se situa a mitjan camí entre una petita antologia d’històries fantàstiques i una crònica de casos clínics a la manera del doctor Sacks. Ens hi assabentem d’aparicions i desaparicions, trobades improbables, confusions inversemblants, persones que de sobte es posen a parlar en hongarès i altres que s’enyoren d’haver viscut un dia com a gossos. Els lectors, sens dubte, hi reconeixeran l’empremta de Perucho o de Calders. Però, també, potser, la de Boris Vian o la de Julio Cortázar.\nRessenyes “Sota l’epidermis de la realitat” (Vicent Usó, El Periódico Mediterráneo, 25 de setembre de 2005). “Les forces ocultes” (Vicent Usó, Avui, 23 de novembre de 2005). “Contes de bojos” (Manel Garcia Grau, Levante-EMV, 27 de gener de 2006). “Contes de bojos” (Marc Romera, El País, 11 de maig de 2006). "
       },
       {
-        "id": 1612,
+        "id": 1616,
         "title": "El llibre de tòpics",
         "date_published": "1970-01-01T00:33:22+00:00",
         "url": "/llibres/elllibredetopics/",
@@ -12369,28 +12401,7 @@
         "content_text": " EPUB PDF\nLa inesperada aparició d’un manuscrit que connecta Lovecraft amb l’inventor de la bomba atòmica. Els riscos de casar-se per catàleg. A un professor de Miskatonic li ixen tentacles al cap. Un altre tipus, un dia es desperta en una habitació desconeguda. En una casa de Castelló hi ha una entrada a l’infern. En un museu de Vilafamés s’exhibeix cada dia un objecte impossible. Una bestiola quasi humana, o fins i tot massa humana. Un aparell per veure a distància. La història secreta del Tombatossals… Vint relats breus de Carles Bellver, calculadament ambigus uns o francament fantàstics uns altres. Inquietants o còmics segons com es miri: això ja depèn del lector.\nText de la presentació conjunta d\u0026#39;El llibre de tòpics i Aquell matí era perfecte d\u0026#39;Albert Garcia Pascual. Sebastià Roig, BarnaCon, 1 de novembre de 2002. Ressenyes “L\u0026#39;inquietant i la llengua” (Josep A. Mas, Levante). “Lovecraft a la Plana” (Albert Toldrà, Lletres Valencianes, núm. 7). “Lovecraft!” (Joan Josep Camacho Grau, Avui, 2003-05-15). "
       },
       {
-        "id": 1613,
-        "date_published": "0001-01-01T00:00:00+00:00",
-        "url": "/taller/stfsw-summary/ca/",
-        "tags": "",
-        "content_text": "2012-06-06 19:03:19\nEl meu resum personal de la qüestió, en text net, després de la trobada. Gràcies novament a @xbelanch per donar-me l’ocasió de compartir, debatre i continuar aprenent.\nDefinició del problema Continuem utilitzant processadors de textos del segle passat, pensats per al paper i amb el full de paper com a unitat lògica de mesura i de destí, quan la majoria dels textos que escrivim ja no tenen el seu punt final a la impressora: els enviem per correu electrònic, els publiquen en blogs, en revistes electròniques, en les xarxes socials, en entorns virtuals d’aprenentatge, etc. Els formats de fitxer dels processadors de textos tradicionals són fills d’aquesta concepció heretada. Són formats finalistes: defineixen allò que s’ha d’imprimir i aspiren al control complet de la pàgina. D’aquesta manera, dificulten la inserció del document en altres cicles de treball: publicació web, ebook, etc.1 Finalment, però no per això menys important, la interfície d’usuari dels processadors de textos tradicionals ha esdevingut innecessàriament complexa i confusa. Propostes de solució El renaixement del text net (.txt). A l’hora d’escriure, en el 90% dels casos no necessitem res més. El text net garanteix: La màxima compatibilitat entre aplicacions i entre sistemes operatius. La màxima portabilitat entre dispositius: ordinadors, tauletes, telèfons… La màxima lleugeresa dels documents i de les aplicacions. I sobretot: la preservació dels documents! Primer la semàntica: Markdown (i altres llenguatges de marques lleugers). WYSIWYG: What You See Is What You Get (el que veus és el que obtens). Avui no sabem on ni com s’obtindrà el document: utilitzem una multiplicitat de mitjans i dispositius per a llegir i escriure. L’“autoedició” només tenia sentit amb els documents que m’imprimia jo mateix. WYSIWYM: What You See Is What You Mean (el que veus és el que vols dir). Itàlica i negreta, llistes, seccions i encapçalaments, enllaços, notes al peu…: en el 99% dels casos no necessitem …"
-      },
-      {
-        "id": 1614,
-        "date_published": "0001-01-01T00:00:00+00:00",
-        "url": "/taller/stfsw-summary/en/",
-        "tags": "",
-        "content_text": "2012-06-06 19:03:19\nMy personal summary on the topic, in plain text, after the meeting. Thanks again to @xbelanch for giving me the opportunity to share, discuss and continue learning.\nDefining the problem We keep using word processors from the past century, which were designed for paper and with the paper sheet as a logical unit of measure and unit of destiny, when most of the texts we write no longer have their end point in the printer: they are emailed, posted in blogs, in ezines, in the social networks, in virtual learning environments, etc. Traditional word processors’ file formats are the offspring of this received view. They are end formats that define what to print and aspire to the full control of the page. In this way, they hinder the insertion of the documents in other workflows: web publihing, ebooks, etc.1 Last, but not least, the user interface of traditional word processors have become unnecessarily complex and confusing. Proposed solutions The plain text (.txt) revival. When writing, in 90% of the cases we don’t need anything else. Plain text ensures: Maximum compatibility between applications and operating systems. Maximum portability between devices: computers, tablets, smartphones… Maximum lightness of documents and applications. And above all: document preservation! Semantics first: Markdown (and other lightweight markup languages). WYSIWYG: What You See Is What You Get. Today we don’t know where/how you will get the document: we use a multiplicity of media and devices to read and write. “Desktop publishing” only made sense for documents that I was to print by myself! WYSIWYM: What You See Is What You Mean. Italics and bold, lists, sections and headings, links, footnotes…: in 99% of the cases we don’t need anything else. It’s just text! Markdown Markdown keeps all the advantages of plain text. Create Once, Publish Everywhere: export to all formats 2 required to insert the document in different editing and publishing ecosystems. A time to write, a …"
-      },
-      {
-        "id": 1615,
-        "date_published": "0001-01-01T00:00:00+00:00",
-        "url": "/taller/stfsw-summary/es/",
-        "tags": "",
-        "content_text": "\nMi resumen personal de la cuestión, en texto simple, después del encuentro. Gracias nuevamente a @xbelanch por darme la ocasión de compartir, debatir y continuar aprendiendo.\nDefinición del problema Seguimos utilizando procesadores de textos del siglo pasado, pensados para el papel y con la hoja de papel com a unidad lógica de medida y de destino, cuando la mayoría de los textos que escribimos ya no tienen su punto final en la impresora: los enviamos por correo electrónico, los publicamos en blogs, en revistas electrónicas, en las redes sociales, en entornos virtuales de aprendizaje, etc. Los formatos de fichero de los procesadores de textos tradicionales son hijos de esta concepción heredada. Son formatos finalistas: definen lo que hay que imprimir y aspiran al control completo de la página. De este modo, dificultan la inserción de los documentos en otros ciclos de trabajo: publicación web, ebook, etc.1 Por último, pero no por ello menos importante, la interfaz de usuario de los procesadores de textos tradicionales se ha hecho innecesariamente compleja y confusa. Propuestas de solución El renacimiento del text simple (.txt). A la hora de escribir, en el 90% de los casos no necesitamos nada más. El texto simple garantiza: La máxima compatibilidad entre aplicaciones y entre sistemas operativos. La máxima portabilidad entre dispositivos: ordenadores, tabletas, teléfonos… La máxima ligereza de los documentos y de las aplicaciones. Y sobre todo: ¡la preservación de los documentos! Primero la semántica: Markdown (y otros lenguajes de marcas ligeros). WYSIWYG: What You See Is What You Get (lo que ves es lo que obtienes). Hoy no sabemos dónde ni cómo se obtendrá el documento: utilizamos una multiplicidad de medios y dispositivos para leer y escribir. ¡La autoedición sólo tenía sentido para los documentos que me imprimía yo mismo! WYSIWYM: What You See Is What You Mean (lo que ves es lo que quieres decir). Itálica y negrita, listas, secciones y encabezados, enlaces, notas …"
-      },
-      {
-        "id": 1616,
+        "id": 1617,
         "title": "100 % Charles Beauvoir",
         "date_published": "0001-01-01T00:00:00+00:00",
         "url": "/taller/100x100chb/",
@@ -12398,7 +12409,7 @@
         "content_text": "Charles Beauvoir és un personatge proteïforme que apareix recurrentment en els meus llibres. L’any 2009 ja vaig utilitzar Twitter per publicar un dels seus relats, narrat en primera persona i en temps real al llarg d’un llarg dia: 24 hores Ch. B.. Aquesta vegada, en canvi, l’experiència ha consistit a fer-li escriure històries autocontingudes, empaquetades cadascuna en els cent quaranta -o menys- caràcters d’un tuit. Van ser en total cent tuits, cent microcontes, més un extra de regal, difosos entre l’1 i el 21 de desembre de 2012. La inspiració em va venir de l’enigmàtic i fascinant @AuthenticWmGibs.\nEn aquest recull, alliberat de tan estrictes limitacions d’espai, he desfet algunes de les abreviatures més molestes, he arreglat la puntuació i he afegit uns quants enllaços, per qui vulgui saber més, o distreure’s una estona, però sense adulterar mai la concissió original.\nTambé disponible en format ebook:\nEPUB Kindle\nCarles Bellver Torlà\nCastelló de la Plana\nDesembre de 2012 - febrer de 2013\n%001 La meva mili: tres mesos de servei civil com a renovador d’adhesions. Tenir la cartilla en regla era ineludible. Nosaltres facilitàvem el tràmit.\nDissabte 1 de desembre de 2012 08:47:35\n%002 Divorcis en vacances. A l’aeroport, cridà al taxista. Allà, amb tantes maletes, no gosaven dir-li que mai no s’hi havia enlairat un avió.\nDissabte 1 de desembre de 2012 09:20:44\n%003 Fórmula Bensington \u0026amp;amp; Redwood filtrada mercat bordurià. Alteracions físiques i malestar. Agents secrets britànics. S’hi entremet francès inepte.\nDissabte 1 de desembre de 2012 17:42:18\n%004 Laboratori de robòtica. Una aranya mecànica. El mateix dia, diverses persones, en les seves cases, s’han sentit observades.\nDissabte 1 de desembre de 2012 19:43:16\n%005 Una operació ritual, mil vegades més cruenta que la perforació del tercer ull. Però ningú no s’ha mort mai perquè li hagin arrencat el cor.\nDissabte 1 de desembre de 2012 21:50:45\n%006 Li explica les virtuts terapèutiques de l’arsènic, avui sovint …"
       },
       {
-        "id": 1617,
+        "id": 1618,
         "title": "Dos-cents anys d’Edgar Allan Poe",
         "date_published": "0001-01-01T00:00:00+00:00",
         "url": "/taller/slides/poe/",
@@ -12406,19 +12417,11 @@
         "content_text": "Imatges de la presentació i notes per a l’acte d’homenatge de la SCCFF a Edgar Allan Poe. Castelló de la Plana, Llotja del Cànem, 19 de gener de 2009.\n(1) No sé si cal justificar l’homenatge a Poe… Potser ell pensaria que sí, perquè dos-cents anys els té qualsevol. Però només Edgar Allan Poe és Edgar Allan Poe. Sigui com vulgui, el fet que ens recordem avui d’ell i que siguem ací aquest grup de gent, dos-cents anys després, crec que és prou justificació. (2) Per a començar, atès que ens convoca la SCCFF, recordem Poe com un dels precursors de la ciència-ficció. Viatges en globus per l’espai i en el temps: “The Unparalleled Adventure of One Hans Pfaall” o “Mellonta Tauta”. Inspiració per a Verne: Cinc setmanes en globus. La imatge: una litografia d’Odilon Redon, d’una sèrie que va dedicar a Poe (1882). També: “The Balloon-Hoax”. Habilitat per a les mistificacions, per a conferir credibilitat als seus escrits. Ficcions presentades com a cròniques o reportatges. (3) flickr.com/photos/the-o/2338737377\nPoe, doncs, no és sols terror. No és sols aquell conjunt de relats macabres pels quals és sovint conegut: “Berenice”, “El gat negre”, “La caiguda de la casa Usher”, “El cas del senyor Valdemar”, etc., etc. (Que no són, d’altra banda, els meus preferits.) Poe té moltes cares. Relats de terror molt més subtils, més psicològics, com “El pou i el pèndol”, o “El cor delator”. (4) El primer relat detectivesc modern: “Els crims de la Rue Morgue” (1841). El primer detectiu literari: C. Auguste Dupin. Dupin també actua en “El misteri de Marie Rogêt” o en “La carta robada”. Un model imitat: capacitat de deducció brillant, imaginació creativa, resolució sorprenent que s’explica pas a pas a continuació, narrador amic del protagonista… (5) Statue of Sherlock Holmes at Meiringen, Switzerland\nDupin és el pare de Sherlock Holmes. (6/7) Un altre conte cèlebre: “L’escarabat d’or”. Un altre element característic, brillant: la criptografia. La cerca del tresor i el missatge per desxifrar. (8) …"
       },
       {
-        "id": 1618,
+        "id": 1619,
         "title": "Escriure —breument— en temps d'Internet",
         "date_published": "0001-01-01T00:00:00+00:00",
         "url": "/taller/slides/escriure-internet/",
         "tags": "",
         "content_text": "Conferència en el Taller d’escriptura creativa de l’UJI. Castelló de la Plana, Llotja del Cànem, 17 de gener de 2017.\n(1) Bona vesprada. Salutacions a totes i a tots i gràcies, en primer lloc, a Pasqual Mas i a Rosario Raro per convidar-me a estar ací amb vosaltres, participant en aquest taller d’escriptura creativa de l’UJI que dirigeixen. Amb una xerrada, una conferència, que hem titulat “Escriure —breument— en temps d’Internet”.\n(2) Pasqual ja m’ha presentat com a autor d’una sèrie de llibres. Per això se suposa que sóc ací. Parlaré una mica dels meus llibres, però també parlaré d’altres coses. Són tots llibres de contes, reculls de relats entre breus i molt breus. N’hi ha alguns d’una pàgina, de dues, tres, o quatre pàgines, alguns de quinze o vint pàgines. El més llarg té quaranta i tantes pàgines i és una excepció. És el que dóna títol al meu últim llibre, “Un cel nou i una terra nova”, premi Pascual Tirado de 2015, que és probablement el que coneixeu. També són tots, o la gran majoria, contes fantàstics. Molt rarament algun conte meu no inclou elements fantàstics i aleshores jo mateix em sorprenc. Però ni una cosa ni l’altra, ni la brevetat ni els elements fantàstics, són decisions prèvies. És com ha resultat, a posteriori, que m’agrada escriure.\n(3) D’altra banda, per a completar la presentació, també s’ha mencionat que sóc analista de tecnologia educativa en la Universitat Jaume I. Tots els escriptors ens hem de guanyar la vida d’alguna manera i molts ens la guanyem amb oficis que no tenen res a veure, en principi, amb la literatura. Vaig començar a treballar en l’UJI l’any 1992, durant el primer curs acadèmic de la Universitat de Castelló, i la meua feina en aquell moment era com a programador d’aplicacions. Feia coses tan prosaiques com programar les pantalles d’introducció de dades de matrícula o de les dades econòmiques del personal, etc. Però també van ser aquells els anys en què va començar a difondre’s la Internet i vaig tenir la sort d’estar allí, …"
-      },
-      {
-        "id": 1619,
-        "title": "Taller",
-        "date_published": "0001-01-01T00:00:00+00:00",
-        "url": "/taller/",
-        "tags": "",
-        "content_text": "Experiments i divagacions entre la tecnologia i la literatura.\nLo-fi writer (2023) Inspiració (2022) Sant Jordi digital (2022) (no)nft (2022) unicorns.png (un llibre dins d\u0026#39;una imatge en format PNG) (2021) ab-oblique (Oblique Strategies Arduboy app) (2020) Unicorns (improvisacions en 1.024 caràcters) (2018) Escriure —breument— en temps d\u0026#39;Internet (2017) After Word(s) (més enllà del processador de textos) (2013) Smart tools for smart writers (2012) 100% Charles Beauvoir (2012) 24 hores Ch. B. (2009) Petit Wilbur Contes per a extraterrestres (1993-2000) "
       }
 ]
