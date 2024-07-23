@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1721716009" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1721717087" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,12 +55,12 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1721716009" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1721717087" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1721716009" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1721717087" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1721716009" />
-<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1721716009"></script>
+<link rel="stylesheet" href="https://carlesbellver.net/css/lightbox.css?rnd=1721717087" />
+<script type="text/javascript" src="https://carlesbellver.net/js/lightbox.js?rnd=1721717087"></script>
 
 
 
@@ -291,13 +291,19 @@
 
 <script src="https://carlesbellver.net/js/purify.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
-  var host = 'mastodon.social';
-  var user = 'carlesbellver';
+  
+  
   
   
   var postUrl = 'https:\/\/mastodon.social\/@carlesbellver\/109940952665465216'
   console.log(postUrl)
-  var id = postUrl.match(/(\d+)$/)[1];
+  var match = postUrl.match(/^https:\/\/([\w\-\.]+)\/\@(\w+)\/(\d+)/);
+  var host = match[1];
+  var user = match[2];
+  var id = match[3];
+  
+  console.log(host);
+  console.log(user);
   console.log(id);
 
   function escapeHtml(unsafe) {
