@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/08/05/ancestry-tests/",
+				"title": "White Nationalists Are Flocking to Genetic Ancestry Tests--with Surprising Results",
+				"content_html": "<p>Sociòlegs de la Universitat de Califòrnia han analitzat les reaccions dels membres d’un fòrum neonazi als resultats de proves d’ADN.</p>\n<blockquote>\n<p>Alguns van rebutjar les proves completament, dient que el coneixement que té cadascú de la seua pròpia genealogia és millor que el que puga revelar cap prova genètica […] Altres van intentar desacreditar les proves com una conspiració jueva &quot;que està intentant confondre els autèntics americans blancs sobre la seua ascendència&quot;.</p>\n</blockquote>\n",
+				"date_published": "2024-08-05T16:11:12+02:00",
+				"url": "https://carlesbellver.net/2024/08/05/ancestry-tests/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/07/06/robot-skin/",
 				"title": "Researchers craft smiling robot face from living human skin cells",
 				"content_html": "<p>Robots amb pell humana cultivada al laboratori.</p>\n<blockquote>\n<p>Com a prova de concepte, l’equip va dissenyar una petita cara robòtica capaç de somriure, coberta completament amb una capa de teixit viu rosat. Els investigadors assenyalen que l'ús de teixit de pell viva com a recobriment d’un robot té avantatges, ja que és prou flexible per a transmetre emocions i potencialment es pot reparar a si mateix.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>…no estem ni de bon tros a punt que una IA puga fer la teua feina, però ja estem molt més enllà del punt en què el teu cap pot ser enganyat i acomiadar-te per reemplaçar-te amb un robot que farà malament la teua feina.</p>\n</blockquote>\n<p>—Cory Doctorow</p>\n",
 				"date_published": "2024-02-02T14:22:32+01:00",
 				"url": "https://carlesbellver.net/2024/02/02/botshit/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/01/31/arora-goyal/",
-				"title": "New Theory Suggests Chatbots Can Understand Text",
-				"content_html": "<p>Explicació entenedora de l’<a href=\"https://arxiv.org/abs/2307.15936\">article</a> d’Arora i Goyal. A mesura que s’incrementa la complexitat dels models es perfecciona l’emulació del llenguatge natural, de manera que les proferències (frases) artificials es fan més i més indistingibles d’aquelles que en les persones impliquen la comprensió dels significats.</p>\n<blockquote>\n<p>“El que l’equip ha demostrat teòricament, i ha confirmat empíricament, és que hi ha generalització compositiva, és a dir, que els LLM són capaços de combinar blocs de construcció com mai s’havien combinat abans. Això, per a mi, és l’essència de la creativitat.”</p>\n</blockquote>\n",
-				"date_published": "2024-01-31T15:18:11+01:00",
-				"url": "https://carlesbellver.net/2024/01/31/arora-goyal/"
 			}
 	]
 }
