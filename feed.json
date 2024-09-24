@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/09/24/04759/",
+				"title": "“A por ellos, que son de regadío”",
+				"content_html": "<blockquote>\n<p>Más del 80% del agua que se utiliza en España la consume el sector agrario (80,2% según los últimos datos publicados por el Ministerio de Transición Ecológica en 2022), un 16% se destina a los abastecimientos urbanos y apenas un 4% en usos industriales.</p>\n</blockquote>\n",
+				"date_published": "2024-09-24T21:06:35+02:00",
+				"url": "https://carlesbellver.net/2024/09/24/04759/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/08/05/ancestry-tests/",
 				"title": "White Nationalists Are Flocking to Genetic Ancestry Tests--with Surprising Results",
 				"content_html": "<p>Sociòlegs de la Universitat de Califòrnia han analitzat les reaccions dels membres d’un fòrum neonazi als resultats de proves d’ADN.</p>\n<blockquote>\n<p>Alguns van rebutjar les proves completament, dient que el coneixement que té cadascú de la seua pròpia genealogia és millor que el que puga revelar cap prova genètica […] Altres van intentar desacreditar les proves com una conspiració jueva &quot;que està intentant confondre els autèntics americans blancs sobre la seua ascendència&quot;.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Nova edició del <em>Barómetro de Hábitos de Lectura y Compra de Libros en España</em>. Els percentatges de població lectora varien depenent de l’edat, el nivell educatiu i el gènere.</p>\n",
 				"date_published": "2024-02-04T17:52:20+01:00",
 				"url": "https://carlesbellver.net/2024/02/04/65511/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/02/02/botshit/",
-				"title": "I assure you, an AI didn’t write a terrible “George Carlin” routine",
-				"content_html": "<blockquote>\n<p>…no estem ni de bon tros a punt que una IA puga fer la teua feina, però ja estem molt més enllà del punt en què el teu cap pot ser enganyat i acomiadar-te per reemplaçar-te amb un robot que farà malament la teua feina.</p>\n</blockquote>\n<p>—Cory Doctorow</p>\n",
-				"date_published": "2024-02-02T14:22:32+01:00",
-				"url": "https://carlesbellver.net/2024/02/02/botshit/"
 			}
 	]
 }
