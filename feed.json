@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/09/27/49436/",
+				"title": "Dark Matter Black Holes Could Fly through the Solar System Once a Decade",
+				"content_html": "<p>Forats negres primordials de la mida d’un àtom i amb la massa d’un asteroide, formats just després del Big Bang, explicarien la matèria fosca de l’univers. Potser passen pel sistema solar més o menys cada deu anys i podrien fer tremolar un planeta o una lluna.</p>\n",
+				"date_published": "2024-09-27T17:04:21+02:00",
+				"url": "https://carlesbellver.net/2024/09/27/49436/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/09/24/04759/",
 				"title": "“A por ellos, que son de regadío”",
 				"content_html": "<blockquote>\n<p>Más del 80% del agua que se utiliza en España la consume el sector agrario (80,2% según los últimos datos publicados por el Ministerio de Transición Ecológica en 2022), un 16% se destina a los abastecimientos urbanos y apenas un 4% en usos industriales.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>L’editorial comptava amb el seu nou llibre, però a Douglas Adams li costava posar-s’hi. Així que l’editor es va tancar amb ell en una suite d’hotel fins que el va enllestir.</p>\n<blockquote>\n<p>Douglas gaudia de ser un escriptor famós, però n’odiava el procediment. Implicava escriure. Ell detestava fer-ho. Era una feina dura i solitària.</p>\n</blockquote>\n",
 				"date_published": "2024-02-14T20:39:37+01:00",
 				"url": "https://carlesbellver.net/2024/02/14/39544/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/02/04/65511/",
-				"title": "Los índices de lectura de los españoles se mantienen estables tras la pandemia y crecen cinco puntos respecto a 2012",
-				"content_html": "<p>Nova edició del <em>Barómetro de Hábitos de Lectura y Compra de Libros en España</em>. Els percentatges de població lectora varien depenent de l’edat, el nivell educatiu i el gènere.</p>\n",
-				"date_published": "2024-02-04T17:52:20+01:00",
-				"url": "https://carlesbellver.net/2024/02/04/65511/"
 			}
 	]
 }
