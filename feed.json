@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/10/13/memoria-pintor-porcar/",
+				"title": "Memòria del pintor Joan Baptista Porcar i Ripollés",
+				"content_html": "<blockquote>\n<p>En conjunt, el país, com és habitual, no n’ha dit res, d’aquest gran pintor del país. I va així, a cada bugada perdem un llençol.<br>\n[…]<br>\nNo és casual, però, que J. B. Porcar, un dels signataris de les Normes de Castelló, fos també un dels referents del poeta Vicent Andrés Estellés a l’hora d’idear el <em>Mural del País Valencià</em>.</p>\n</blockquote>\n",
+				"date_published": "2024-10-13T17:17:50+02:00",
+				"url": "https://carlesbellver.net/2024/10/13/memoria-pintor-porcar/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/09/27/49436/",
 				"title": "Dark Matter Black Holes Could Fly through the Solar System Once a Decade",
 				"content_html": "<p>Forats negres primordials de la mida d’un àtom i amb la massa d’un asteroide, formats just després del Big Bang, explicarien la matèria fosca de l’univers. Potser passen pel sistema solar més o menys cada deu anys i podrien fer tremolar un planeta o una lluna.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>L’any 2017, Lakoff va categoritzar l’ús que feia de Twitter Donald Trump en el seu intent de controlar els fluxos d’informació “i controlar així els nostres cervells”. Ara, Elon Musk replica i amplia l’abast d’aquestes mateixes tàctiques des de la seua posició privilegiada d’amo de la plataforma i l’algoritme.</p>\n<ol>\n<li>Enquadrar el marc de discussió a la seua conveniència abans que puguen fer-ho altres.</li>\n<li>Distraure l’atenció amb informació falsa i enganyosa.</li>\n<li>Reorientar les discussions cap a on li interessa.</li>\n<li>Enviar globus sonda per avaluar les reaccions de l’opinió pública.</li>\n</ol>\n<p><a href=\"https://www.theframelab.org/p/algorithm-warfare-how-elon-musk-uses\" title=\"How Elon Musk uses Twitter to control brains\"><img src=\"https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2756d8bc-6566-4b67-a209-6da94062743f_936x1200.jpeg\" alt=\"Infographic: a taxonomy of Trump Tweets by George Lakoff\"></a></p>\n",
 				"date_published": "2024-02-19T19:19:53+01:00",
 				"url": "https://carlesbellver.net/2024/02/19/algorithm-warfare/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/02/14/39544/",
-				"title": "The Berkeley Hotel hostage",
-				"content_html": "<p>L’editorial comptava amb el seu nou llibre, però a Douglas Adams li costava posar-s’hi. Així que l’editor es va tancar amb ell en una suite d’hotel fins que el va enllestir.</p>\n<blockquote>\n<p>Douglas gaudia de ser un escriptor famós, però n’odiava el procediment. Implicava escriure. Ell detestava fer-ho. Era una feina dura i solitària.</p>\n</blockquote>\n",
-				"date_published": "2024-02-14T20:39:37+01:00",
-				"url": "https://carlesbellver.net/2024/02/14/39544/"
 			}
 	]
 }
