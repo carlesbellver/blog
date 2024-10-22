@@ -6,10 +6,26 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 13 Oct 2024 17:17:50 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 10:02:30 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The 3 AI Use Cases: Gods, Interns, and Cogs</title>
+      <link>https://carlesbellver.net/2024/10/22/gods-interns-cogs/</link>
+      <pubDate>Tue, 22 Oct 2024 10:02:30 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/10/22/gods-interns-cogs/</guid>
+      <description>&lt;p&gt;Un bon intent de classificació, conceptualment útil, dels casos d’ús típics de la Intel·ligència Artificial actual:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Déus&lt;/strong&gt;&lt;/em&gt;: instàncies artificials superintel·ligents que treballarien de forma autònoma i, per tant, podrien reemplaçar els éssers humans. Probablement ciència-ficció i, sobretot, exageració interessada d’empreses en cerca de finançament.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Becaris&lt;/strong&gt;&lt;/em&gt;: eines enfocades a tasques rutinàries que funcionen sempre sota la supervisió d’un expert i l’ajuden a fer la seua feina. Per exemple: els copilots de programació.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Subalterns&lt;/strong&gt;&lt;/em&gt;: eines optimitzades per a executar de manera prou satisfactòria una tasca especialitzada, generalment com a part d’un flux de treball més ampli. Per exemple, la transcripció de vídeos o l’extracció de dades estructurades.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Però l’autor ja ha hagut d’afegir una quarta categoria, o una subcategoria dels &lt;em&gt;becaris&lt;/em&gt;: els &lt;strong&gt;joguets&lt;/strong&gt; com ara els generadors d’imatges, amb els quals poden divertir-se els no experts sense preocupar-se massa pels errors.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Memòria del pintor Joan Baptista Porcar i Ripollés</title>
