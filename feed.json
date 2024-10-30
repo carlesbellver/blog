@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/10/30/23716/",
+				"title": "The Thought Experiments That Fray the Fabric of Space-Time",
+				"content_html": "<p>Tres experiments mentals que suggereixen que el continu espai-temps en què creiem viure és una explicació que falla en circumstàncies extremes. I si és així, potser necessitaríem una descripció més pregona de la realitat, formada per uns altres blocs de construcció més bàsics.</p>\n",
+				"date_published": "2024-10-30T22:28:55+01:00",
+				"url": "https://carlesbellver.net/2024/10/30/23716/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/10/22/gods-interns-cogs/",
 				"title": "The 3 AI Use Cases: Gods, Interns, and Cogs",
 				"content_html": "<p>Un bon intent de classificació, conceptualment útil, dels casos d’ús típics de la Intel·ligència Artificial actual:</p>\n<ol>\n<li><em><strong>Déus</strong></em>: instàncies artificials superintel·ligents que treballarien de forma autònoma i, per tant, podrien reemplaçar els éssers humans. Probablement ciència-ficció i, sobretot, exageració interessada d’empreses en cerca de finançament.</li>\n<li><em><strong>Becaris</strong></em>: eines enfocades a tasques rutinàries que funcionen sempre sota la supervisió d’un expert i l’ajuden a fer la seua feina. Per exemple: els copilots de programació.</li>\n<li><em><strong>Subalterns</strong></em>: eines optimitzades per a executar de manera prou satisfactòria una tasca especialitzada, generalment com a part d’un flux de treball més ampli. Per exemple, la transcripció de vídeos o l’extracció de dades estructurades.</li>\n</ol>\n<p>Però l’autor ja ha hagut d’afegir una quarta categoria, o una subcategoria dels <em>becaris</em>: els <strong>joguets</strong> com ara els generadors d’imatges, amb els quals poden divertir-se els no experts sense preocupar-se massa pels errors.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>El terme “feromona” es va utilitzar per primera vegada el 1959, però fins al segle XXI no es va poder identificar aquestes substàncies en mamífers. En els humans, s’han buscat en les glàndules sudorípares axil·lars i en l’arèola mamària.</p>\n<blockquote>\n<p>Si identificáramos la feromona de las glándulas areolares, tal vez podríamos usarla para conseguir más fácilmente el milagro de la lactancia materna. Un interesante reto para la ciencia futura.</p>\n</blockquote>\n",
 				"date_published": "2024-03-13T19:15:05+01:00",
 				"url": "https://carlesbellver.net/2024/03/13/feromones/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/02/27/flextv/",
-				"title": "China’s next cultural export could be TikTok-style short soap operas",
-				"content_html": "<p>Telesèries en episodis de dos minuts? Però fa un parell d’anys ens deien que venia una allau de novel·les web per entregues: <a href=\"https://www.protocol.com/china/chinese-web-novels-china\">“China is reinventing the way the world reads”</a>.</p>\n",
-				"date_published": "2024-02-27T22:07:46+01:00",
-				"url": "https://carlesbellver.net/2024/02/27/flextv/"
 			}
 	]
 }
