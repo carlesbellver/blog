@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/11/16/43121/",
+				
+				"content_html": "<p>Va fallar el sistema però la culpa és dels altres. Perquè la Generalitat Valenciana és un club privat i Carlos Zampón només la presideix a estones: quan no té dinarot.</p>\n",
+				"date_published": "2024-11-16T08:45:31+01:00",
+				"url": "https://carlesbellver.net/2024/11/16/43121/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/11/10/riuada/",
 				"title": "Fins on arribarà la riuada?",
 				"content_html": "<p><a href=\"https://es.wikipedia.org/wiki/Archivo:Cornelis_van_Haarlem_Before_the_Deluge.jpg\"><img src=\"/uploads/2024/2024-11-10-riuada.jpg\" alt=\"Quadre de Cornelis van Haarlem\"></a></p>\n<ul>\n<li>Un partit <em>polític</em> denuncia que les 130.000 persones que es manifestaven ahir a València estaven polititzades.</li>\n<li>Alguns periodistes insisteixen, una vegada i una altra, que <em>la gent</em> no té per què entendre la distribució de competències de l’estat autonòmic. Potser perquè ells tampoc no l’entenen? O perquè subestimen les capactitats intel·lectives del poble. O els convé embolicar, promoure la ignorància.</li>\n<li>Quaranta anys després, potser hi ha <em>gent</em> que s’ha adonat que l’administració local i autonòmica són la interfície, la primera línia de l’estat, les responsables d’allò que passa en primera instància. De la mateixa manera que hi ha qui sap distingir entre els ministeris, o conselleries, de cultura i agricultura. O potser no. Jo què sè. Però aquesta, i no altra, de moment, és l’arquitectura constitucional de l’estat.</li>\n<li>Quin mal servei que fa a la societat el 90 % del periodisme. Però no m’hauria de sorprendre. <a href=\"https://en.wikipedia.org/wiki/Sturgeon%E2%80%99s_law\">El 90 % de qualsevol cosa no sol valdre res</a>.</li>\n<li>“Sols el poble salva el poble” em pareix un lema potent, ambigu, políticament perillós, antipolític.</li>\n<li>De fet, el <em>poble</em> ha rebut ajuda de l’estat, molt necessària, encara que haja sigut tard i insuficient. L’estat ha contribuït, poc i malamement, a salvar-lo.</li>\n<li>El que hauríem volgut, crec, és que l’estat fora més ràpid i sobretot eficient. Més diligent. Que fora <em>poble</em> organitzat políticament i institucionalment. No una plataforma de corrupció, <a href=\"https://www.newtral.es/sentencias-pp-gurtel/20220408/\">dita altrament PP</a>.</li>\n<li>En la imatge, <a href=\"https://es.wikipedia.org/wiki/Archivo:Cornelis_van_Haarlem_Before_the_Deluge.jpg\">un dinar de treball abans del diluvi</a>, segons Cornelis van Haarlem (1615).</li>\n</ul>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>El Reglament General de Protecció de Dades (RGPD) europeu no obliga a col·locar un avís de cookies davant de cada web, blocant l’accés a la pàgina. En realitat, ni tan sols menciona les famoses galetes.</p>\n<p>Però sí que fa obligatori demanar autorització a l’usuari per a qualsevol tractament de dades que comporte identificar-lo, o que puga permetre identificar-lo. Per això seria més prudent desconfiar de totes les pàgines que ens presenten l’avís, ja que estan implicant que volen utilitzar les nostres dades, i ens hauríem de preguntar per a què. La majoria de les vegades, no per a prestar-nos cap servei, sinó per al negoci de la publicitat.</p>\n<p>De fet, la manera més habitual de presentar l’avís pot ser il·legal, moltes vegades, en virtut del mateix RGPD. Com a poc, sempre que se’ns convida a acceptar totes les galetes, no se’ns facilita rebutjar-les o no se’ns informa clarament de l’ús que se’n farà. Perquè el consentiment ha de ser lliure i informat, i això no són, o no haurien de ser, només paraules buides.</p>\n",
 				"date_published": "2024-04-01T16:44:27+02:00",
 				"url": "https://carlesbellver.net/2024/04/01/cookie-banner-law/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/03/21/quine/",
-				
-				"content_html": "<blockquote>\n<p>Deixeu-me dir que jo, com a llec en física, crec en els objectes físics i no en els déus d’Homer; i considere un error científic creure el contrari. Però pel que fa a la base epistemològica, els objectes físics i els déus només difereixen en grau i no en espècie. Ambdós tipus d’entitats entren en la nostra concepció només com a postulats culturals. El mite dels objectes físics és epistemològicament superior a la majoria, ja que ha demostrat ser més eficaç que altres mites com a recurs per a bastir una estructura manejable en el flux de l’experiència.</p>\n</blockquote>\n<p>—Willard V. O. Quine, “Dos dogmes de l’empirisme”.</p>\n<figure>\n  <img src=\"/uploads/2024/2024-03-21-autor.jpg\" alt=\"Foto d’un home de mitjana edat amb ulleres, assegut en una butaca, llegint un llibre amb cara d’interès.\">\n  <figcaption>L’autor d’aquest blog, rellegint “Two Dogmas of Empiricism” de Willard V. O. Quine en la traducció al castellà de Manuel Sacristán (“Dos dogmas del empirismo“, dins de “Desde un punto de vista lógico”).</figcaption>\n</figure>\n",
-				"date_published": "2024-03-21T17:42:29+01:00",
-				"url": "https://carlesbellver.net/2024/03/21/quine/"
 			}
 	]
 }
