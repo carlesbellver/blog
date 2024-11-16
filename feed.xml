@@ -6,8 +6,21 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sat, 16 Nov 2024 08:45:31 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 13:33:54 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>Maybe Bluesky has “won”</title>
+      <link>https://anderegg.ca/2024/11/15/maybe-bluesky-has-won</link>
+      <pubDate>Sat, 16 Nov 2024 13:33:54 +0100</pubDate>
+      <guid>https://carlesbellver.net/2024/11/16/bluesky/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;https://anderegg.ca/2024/11/15/maybe-bluesky-has-won&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2024/11/16/bluesky/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Bluesky té una arquitectura oberta i tècnicament interessant, però complicada i costosa.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Afegiré que la raó per la qual sóc un gran fan d’una solució ActivityPub com Mastodon és que és bastant barat córrer la teua pròpia pila completa, tret que sigues extremadament famós. L’allotjament d’una instància de Mastodon és un procés d’un sol pas i després ho tens tot sota el teu control. Per a obtenir la mateixa experiència amb atproto [protocol de Bluesky], has de gastar centenars o milers d’euros al mes i, encara així, de moment no ho controles tot tu.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -310,18 +323,6 @@ No és casual, però, que J. B. Porcar, un dels signataris de les Normes de Cast
 &lt;blockquote&gt;
 &lt;p&gt;L’informe diu que Amazon no va reeixir mai a reduir les revisions humanes i que “la dependència d’humans de suport explica en part per què els clients podien trigar hores a rebre els rebuts”.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>There is no EU cookie banner law</title>
-      <link>https://www.bitecode.dev/p/there-is-no-eu-cookie-banner-law</link>
-      <pubDate>Mon, 01 Apr 2024 16:44:27 +0200</pubDate>
-      <guid>https://carlesbellver.net/2024/04/01/cookie-banner-law/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.bitecode.dev/p/there-is-no-eu-cookie-banner-law&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2024/04/01/cookie-banner-law/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;El Reglament General de Protecció de Dades (RGPD) europeu no obliga a col·locar un avís de cookies davant de cada web, blocant l’accés a la pàgina. En realitat, ni tan sols menciona les famoses galetes.&lt;/p&gt;
-&lt;p&gt;Però sí que fa obligatori demanar autorització a l’usuari per a qualsevol tractament de dades que comporte identificar-lo, o que puga permetre identificar-lo. Per això seria més prudent desconfiar de totes les pàgines que ens presenten l’avís, ja que estan implicant que volen utilitzar les nostres dades, i ens hauríem de preguntar per a què. La majoria de les vegades, no per a prestar-nos cap servei, sinó per al negoci de la publicitat.&lt;/p&gt;
-&lt;p&gt;De fet, la manera més habitual de presentar l’avís pot ser il·legal, moltes vegades, en virtut del mateix RGPD. Com a poc, sempre que se’ns convida a acceptar totes les galetes, no se’ns facilita rebutjar-les o no se’ns informa clarament de l’ús que se’n farà. Perquè el consentiment ha de ser lliure i informat, i això no són, o no haurien de ser, només paraules buides.&lt;/p&gt;
 </description>
     </item>
     
