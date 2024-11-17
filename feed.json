@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/11/17/55884/",
+				
+				"content_html": "<p>No veig motius per a tornar a caure en la trampa d’una xarxa social privada, com ara Bluesky. Però sí per a començar a enviar-hi còpia d’alguns dels meus missatges, així que estic actualitzant els meus <em>scripts</em> amb l’ajuda d’<a href=\"https://github.com/MarshalX/atproto\">atproto</a> (AT Protocol SDK for Python).</p>\n",
+				"date_published": "2024-11-17T16:06:22+01:00",
+				"url": "https://carlesbellver.net/2024/11/17/55884/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/11/16/bluesky/",
 				"title": "Maybe Bluesky has “won”",
 				"content_html": "<p>Bluesky té una arquitectura oberta i tècnicament interessant, però complicada i costosa.</p>\n<blockquote>\n<p>Afegiré que la raó per la qual sóc un gran fan d’una solució ActivityPub com Mastodon és que és bastant barat córrer la teua pròpia pila completa, tret que sigues extremadament famós. L’allotjament d’una instància de Mastodon és un procés d’un sol pas i després ho tens tot sota el teu control. Per a obtenir la mateixa experiència amb atproto [protocol de Bluesky], has de gastar centenars o milers d’euros al mes i, encara així, de moment no ho controles tot tu.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Quan Ausiàs Marc va complir tot just sis anyets (en el seu sisè aniversari, tal com diu la placa commemorativa), a Castelló ja sabíem que seria un gran poeta i quan es moriria, pobret.</p>\n<img alt=\"Placa en una paret d’un carrer. El text diu: “A Ausiàs March (1397-1459), poeta nacional, en el sisè aniversari del seu naixement a Castelló, 3 d’octubre de 19… (els últims dígits de l’any no es llegeixen, però s’entén que és 1997).”\" src=\"/uploads/2024/2024-04-11-48903.jpg\">\n",
 				"date_published": "2024-04-11T17:24:18+02:00",
 				"url": "https://carlesbellver.net/2024/04/11/48903/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/04/07/amazon-fresh/",
-				"title": "Amazon Fresh kills “Just Walk Out” shopping tech —it never really worked",
-				"content_html": "<p>Els supermercats d’Amazon sense caixes ni caixers “Just Walk Out” no funcionaven precisament gràcies a la Intel·ligència Artificial. Mil treballadors revisaven i etiquetaven des de l’Índia les imatges dels productes captades per les càmeres.</p>\n<p>Ja <a href=\"/2018/02/21/philip-k-dick.html\">comentàvem fa uns anys</a> que no vivim en el futur d’Orwell, sinó en el de Philip K. Dick. Un mon ple d’engany, caos i confusió on juga un paper clau una tecnologia que és alhora sofisticada i tramposa.</p>\n<blockquote>\n<p>L’informe diu que Amazon no va reeixir mai a reduir les revisions humanes i que “la dependència d’humans de suport explica en part per què els clients podien trigar hores a rebre els rebuts”.</p>\n</blockquote>\n",
-				"date_published": "2024-04-07T13:13:36+02:00",
-				"url": "https://carlesbellver.net/2024/04/07/amazon-fresh/"
 			}
 	]
 }
