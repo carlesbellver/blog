@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Intensitat narrativa</title>
+<meta name="author" content="Francesc Pérez i Moragón">
+<meta name="description" content="Ressenya de “La nit mil dos” per Francesc Pérez i Moragón. Publicada originalment en la revista Caràcters, número 68, estiu de 2014.">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1732186990" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color:#6699ff;
+--link-state-color:#cc99ff;
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1732186990" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1732186990" />
+
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="Intensitat narrativa"/>
+<meta property="og:description" content="Ressenya de “La nit mil dos” per Francesc Pérez i Moragón. Publicada originalment en la revista Caràcters, número 68, estiu de 2014." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/llibres/lanitmildos/perez-moragon-caracters/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2014-09-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2014-09-01T00:00:00+00:00" />
+
+<meta property="article:section" content="llibres" />
+
+<meta name="twitter:title" content="Intensitat narrativa"/>
+<meta name="twitter:description" content="Ressenya de “La nit mil dos” per Francesc Pérez i Moragón. Publicada originalment en la revista Caràcters, número 68, estiu de 2014."/>
+
+
+
+
+<meta name="page-source-path" content="llibres/lanitmildos/perez-moragon-caracters.md">
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li>
+          
+            <a href="https://carlesbellver.net/llibres/lanitmildos/" title="La nit mil dos">La nit mil dos</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header"><h1 class="post-title">Intensitat narrativa</h1>
+
+      
+      
+      <div class="author">
+          Francesc Pérez i Moragón
+        </div>
+      
+      
+        <div class="note">
+          Ressenya de <a href="https://carlesbellver.net/llibres/lanitmildos/"><i>La nit mil dos</i></a> publicada originalment en la revista <a href="https://revistacaracters-uv.es"><i>Caràcters</i></a>, <a href="http://hdl.handle.net/10550/67363">número 68</a>, estiu de 2014.
+        </div>
+
+      </header>
+            
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Començaré amb dues confessions una mica càndides. La primera: fa uns
+quants anys que no llegesc habitualment narrativa. La segona: és la primera vegada que recorde haver-me enfrontat amb un recull d’allò que se’n diu «microrelats», una fórmula que, no sé per què, em repel·lia. L’atzar m’ha fet llegir ara, quasi de manera pa ral·lela, <em>Radetzkymarsch</em>, que coneixia però havia oblidat del tot, i aquest llibre que comente i modifica la meua experiència de lector.</p>
+<p>Per això mateix m’agrada traslladar la novetat que representa per a mi, amb les conclusions que n’he tret: eren absurdes les meues prevencions enfront de les narracions massa breus; la capacitat de suggeriment o de comunicació completa que poden tenir unes descripcions, la reconstrucció d’un fet o d’un moment, pot ser tan intensa com la que puga assolir una construcció més allargassada de frases, capítols i seqüències. Alhora he percebut que no m’interessaven tant les peripècies del jove i inexpert oficial Trotta, del seu pare o dels personatges que els envolten en el llibre de Roth. En un altre temps havien atret amb força l’atenció el lector que jo era i que no tornaré a ser, de la mateixa manera que han caducat les necessitats o les circumstàncies que m’acaraven amb relats desplegats en centenars de pàgines, sense que l’exercici fatigués la meua curiositat.</p>
+<p>Aquesta intensitat narrativa que buscava es troba d’una altra manera en aquest darrer llibre de Carles Bellver, que té una trajectòria extensa com a autor de contes, apareguts en format imprès —<em>Allò que és meu</em> (1993); <em>El llibre de tòpics</em> (2002); <em>La vida canina</em> (2005) i <em>L’home del calendari</em> (2011)— o autoeditats en Internet —<em>Encara he escrit massa</em> (2008) i <em>El cíclope y otros cuentos fantásticos</em> (2009). En la mateixa plataforma, publicà el 2008 un recull d’articles sobre literatura fantàstica: <em>Lovecraft y cía</em>.</p>
+<p>La nit mil dos és una mostra excel·lent de les possibilitats, en aquest cas ben aprofitades, que ofereix un mecanisme literari construït a base de textos curts, que adés comencen i conclouen una història —no la resumeixen, sinó que n’adapten el desenvolupament al temps, a l’espai que el narrador s’ha assignat—, i adés —formulats de manera independent, compositivament marcada en paginació del llibre: una frase, una citació, un comentari, una acotació— són paranarratius i tenen la funció d’establir un itinerari, de bastir la carcanada del llibre, vinculant els relats individualitzats amb un propòsit de compleció.</p>
+<p>Sense dispersió, doncs. Entre altres causes, perquè hi ha un personatge central. És Charles Beauvoir, que ja ho era en <em>La vida canina</em> i <em>L’home del calendari</em> i havia aparegut en provatures literàries que no conec, en Twitter —Bellver és un veterà d’Internet i un assidu de les xarxes socials. Beauvoir és i no és —les relacions entre ells no sempre són plàcides— una contrafigura de l’autor que també ací allà trau el cap en una pàgina. Però no sols l’existència d’aquest protagonista, nominalment indicada o no, unifica el conjunt. També cal tenir en compte el fet que en l’argument d’una bona part de les baules que componen el llibre tenen una intervenció decisiva elements potser autobiogràfics de l’autor, trets d’èpoques distintes i que tenen com a referència espais geogràfics —Castelló, Vilafamés i les comarques castellonenques—, uns estudis de Filosofia, records familiars transmesos com una herència sobre la tràgica postguerra espanyola…</p>
+<p>Amb, com a rerefons, un pòsit de lectures més o menys declarades —el detectiu de «Lapsus», no està relacionat amb un personatge de la <em>Trilogia de Nova York</em>, de Paul Auster?— i, en el centre, un motor de nostàlgia que desencadena el relat de relats, present arreu i particularment explícit en un dels textos: «Quan era menut, la gent, els espais, totes les coses, tenien per a mi unes proporcions majors i uns contorns més definits. Ho recorde ben bé. Jo m’ho mirava tot, el món sencer, amb els ulls oberts. I ara, en canvi, és quan els tanque que em sembla que hi torne a veure clar.»</p>
+
+
+        
+      </div>
+      
+          
+
+      
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/llibres/lanitmildos/perez-moragon-caracters/"><span class="post-date dt-published">2014-09-01</span></a></li>
+      
+      <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 4 minuts</span></li>
+      <li><a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2fllibres%2flanitmildos%2fperez-moragon-caracters%2f&text=Intensitat%20narrativa" title="Compartir aquesta pàgina"><img class="icon" src="https://carlesbellver.net//svg.icons/share_openly.svg" alt="icona de compartir" />️</a> <a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2fllibres%2flanitmildos%2fperez-moragon-caracters%2f&text=Intensitat%20narrativa" title="Compartir aquesta pàgina">Compartir</a></li>
+      <li><a href="mailto:carles@carlesbellver.net?subject=Re:%20Intensitat%20narrativa&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2fllibres%2flanitmildos%2fperez-moragon-caracters%2f" title="Contestar a l’autor per correu"><img class="icon" src="https://carlesbellver.net//svg.icons/email.svg" alt="icona de correu" />️</a> <a href="mailto:carles@carlesbellver.net?subject=Re:%20Intensitat%20narrativa&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2fllibres%2flanitmildos%2fperez-moragon-caracters%2f" title="Contestar a l’autor per correu">Contestar</a></li>
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+    
+    
+
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2024
+        </p>  
+        </div>
+
+    </div>
+</footer>
+
+        
+                
+    </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
