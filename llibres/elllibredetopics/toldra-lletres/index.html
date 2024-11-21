@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Lovecraft a la Plana</title>
+<meta name="author" content="Albert Toldrà">
+<meta name="description" content="Ressenya d’“El llibre de tòpics” per Albert Toldrà. Publicada originalment en la revista &lt;i&gt;Lletres Valencianes&lt;/i&gt;, número 7, primavera de 2002.">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1732191548" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color:#6699ff;
+--link-state-color:#cc99ff;
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1732191548" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1732191548" />
+
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="Lovecraft a la Plana"/>
+<meta property="og:description" content="Ressenya d’“El llibre de tòpics” per Albert Toldrà. Publicada originalment en la revista &lt;i&gt;Lletres Valencianes&lt;/i&gt;, número 7, primavera de 2002." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/llibres/elllibredetopics/toldra-lletres/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2002-04-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2002-04-01T00:00:00+00:00" />
+
+<meta property="article:section" content="llibres" />
+
+<meta name="twitter:title" content="Lovecraft a la Plana"/>
+<meta name="twitter:description" content="Ressenya d’“El llibre de tòpics” per Albert Toldrà. Publicada originalment en la revista &lt;i&gt;Lletres Valencianes&lt;/i&gt;, número 7, primavera de 2002."/>
+
+
+
+
+<meta name="page-source-path" content="llibres/elllibredetopics/toldra-lletres.md">
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li>
+          
+            <a href="https://carlesbellver.net/llibres/elllibredetopics/" title="El llibre de tòpics">El llibre de tòpics</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header"><h1 class="post-title">Lovecraft a la Plana</h1>
+
+      
+      
+      <div class="author">
+          Albert Toldrà
+        </div>
+      
+      
+        <div class="note">
+          Ressenya d’<a href="https://carlesbellver.net/llibres/elllibredetopics/"><i>El llibre de tòpics</i></a> publicada originalment en la revista <a href="https://cultura.gva.es/va/web/libro/revista-lletres-valencianes-"><i>Lletres Valencianes</i></a>, número 7, primavera de 2002.
+        </div>
+
+      </header>
+            
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p><em>Carles Bellver adopta entusiasta l’univers imaginari de Lovecraft —geografia, llibres, monstres— com a context narratiu de les pròpies fantasies i misteris. Sota format de relat curt, substitueix sàviament el terror lovecraftià per l’humor kafkià.</em></p>
+<p>Als anys trenta, als Estats Units, un pèssim escriptor anomenat H. P. Lovecraft i la seua colla de congèneres —Derleth, Bloch, etc.— crearen un univers literari fascinant, conegut ací com els «Mites de Cthulhu» arran de l’edició «canònica» de Llopis. Lovecraft i companyia són, en última instància, els culpables del llibre que acaba de perpetrar —febrer de 2002— Carles Bellver Torlà, publicat a València com a número 9 de la col·lecció <em>Lletra Llarga</em>, de Brosquil Edicions. El títol és <em>El llibre de tòpics. Contes de Miskatonic i altres</em>. Com se suggereix, es tracta d’un recull de relats breus, alguns brevíssims: l’autor conjuga el misteri de la brevetat, molt a l’estil de mestres com Quim Monzó. «Com va guanyar Danvers una plaça a Miskatonic» és un exemple d’aquest tret: en a penes una pàgina l’autor, emmarcat en els mites de Cthulhu, sintetitza una esplèndida narració. Alguns dels contes —els <em>altres</em>— no pertanyen al cicle lovecraftià: cal destacar-ne «Sarcophilus». Hi ha també relats de misteri amb format narratiu més clàssic; en alguns, un inquietant insecte kafkià esdevé el protagonista.</p>
+<p>El conte més desenvolupat és «El llibre de tòpics»: un bidell de la imaginària Universitat de Miskatonic assisteix al tancament de la institució per «activitats antiamericanes»; hi desapareix un dels professors, veí del bidell narrador, que llegeix els seus misteriosos papers; després, en un poble aïllat (Dunwich), troba l’amor i finalment el coneixement: el secret del llibre maleït, el Necronomicon, i la revelació del misteri de l’inventor de la bomba atòmica. Bellver estableix, amb aquella barreja d’erudició i humor tan borgiana, la relació entre el Tombatossals castellonenc i els éssers mostruosos lovecraftians. «Pandemònium» és una versió humorística del davallament clàssic a l’infern de Randolph Carter, però ubicat ací a Castelló. «Ailleurs» proposa una
+visita onírica, en el més enllà, al propi Lovecraft en persona…</p>
+<p>Sens dubte el nucli del llibre el conforma aquest conjunt de relats lovecraf-
+tians, en què l’autor adapta a la nostra llengua alguns aspectes dels mites de
+Cthulhu: la cartografia (la Universitat de Miskatonic, Arkham, la tètrica Dunwich i, naturalment, Innsmouth); els tentacles («Dismòrfia») i la recreació de l’ambient tètric: fins i tot sentim els xiscles omnipresents dels enganyapas-
+tors, que als relats de Lovecraft assenyalen el <em>crescendo</em> del terror.</p>
+<p>Els tòpics a què fa referència el títol són aquells llocs comuns necessaris per a identificar la narració com a lovecraftiana: referències llibràries, geogràfiques, mitològiques, etc. Es tracta d’un joc metaliterari: adaptar en el temps i l’espai el Macondo de Providence, jugar amb combinacions amb el propi context de l’escriptor. No se’n va molt dels joc de rol actuals. Bellver colla una volta de caragol del relat fantàstic, per a substituir l’horror de Cthulhu per l’humor absurd, segurament la manera més sana d’enfrontar-se amb el llegat de les perilloses criatures d’Abdul Alhazred.</p>
+
+
+        
+      </div>
+      
+          
+
+      
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/llibres/elllibredetopics/toldra-lletres/"><span class="post-date dt-published">2002-04-01</span></a></li>
+      
+      <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 3 minuts</span></li>
+      <li><a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2fllibres%2felllibredetopics%2ftoldra-lletres%2f&text=Lovecraft%20a%20la%20Plana" title="Compartir aquesta pàgina"><img class="icon" src="https://carlesbellver.net//svg.icons/share_openly.svg" alt="icona de compartir" />️</a> <a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2fllibres%2felllibredetopics%2ftoldra-lletres%2f&text=Lovecraft%20a%20la%20Plana" title="Compartir aquesta pàgina">Compartir</a></li>
+      <li><a href="mailto:carles@carlesbellver.net?subject=Re:%20Lovecraft%20a%20la%20Plana&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2fllibres%2felllibredetopics%2ftoldra-lletres%2f" title="Contestar a l’autor per correu"><img class="icon" src="https://carlesbellver.net//svg.icons/email.svg" alt="icona de correu" />️</a> <a href="mailto:carles@carlesbellver.net?subject=Re:%20Lovecraft%20a%20la%20Plana&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2fllibres%2felllibredetopics%2ftoldra-lletres%2f" title="Contestar a l’autor per correu">Contestar</a></li>
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+    
+    
+
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2024
+        </p>  
+        </div>
+
+    </div>
+</footer>
+
+        
+                
+    </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

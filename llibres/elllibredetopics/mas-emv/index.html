@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: L’inquietant i la llengua</title>
+<meta name="author" content="Josep A. Mas">
+<meta name="description" content="Ressenya d’“El llibre de tòpics” per Josep A. Mas. Publicada originalment en el suplement &lt;i&gt;Posdata&lt;/i&gt; de Levante-EMV, número 68, estiu de 2014.">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1732191548" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color:#6699ff;
+--link-state-color:#cc99ff;
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1732191548" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1732191548" />
+
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="L’inquietant i la llengua"/>
+<meta property="og:description" content="Ressenya d’“El llibre de tòpics” per Josep A. Mas. Publicada originalment en el suplement &lt;i&gt;Posdata&lt;/i&gt; de Levante-EMV, número 68, estiu de 2014." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/llibres/elllibredetopics/mas-emv/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2002-09-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2002-09-01T00:00:00+00:00" />
+
+<meta property="article:section" content="llibres" />
+
+<meta name="twitter:title" content="L’inquietant i la llengua"/>
+<meta name="twitter:description" content="Ressenya d’“El llibre de tòpics” per Josep A. Mas. Publicada originalment en el suplement &lt;i&gt;Posdata&lt;/i&gt; de Levante-EMV, número 68, estiu de 2014."/>
+
+
+
+
+<meta name="page-source-path" content="llibres/elllibredetopics/mas-emv.md">
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li>
+          
+            <a href="https://carlesbellver.net/llibres/elllibredetopics/" title="El llibre de tòpics">El llibre de tòpics</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header"><h1 class="post-title">L’inquietant i la llengua</h1>
+
+      
+      
+      <div class="author">
+          Josep A. Mas
+        </div>
+      
+      
+        <div class="note">
+          Ressenya d’<a href="https://carlesbellver.net/llibres/elllibredetopics/"><i>El llibre de tòpics</i></a> publicada originalment en el suplement <i>Posdata</i> de <i>Levante-EMV</i>.
+        </div>
+
+      </header>
+            
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Ja que ens trobem davant d’un recull de relats en els quals ensopeguem amb les coses més inesperades, estalviaré al lector el tràngol avorridissim d’haver de llegir els noms dels grans mestres del gènere fantastic, internacionals i de l’ambit lingüistic, que solen aparéixer en els comentaris de les narracions d’aquest tipus com a fonts inexorables de l’autor. Posem damunt la taula un altre nom, ni que siga per a variar i amb el valor afegit de la interdisciplinarietat: alguns episodis d’<em>Expediente X</em>, aquells menys espectaculars i més desficiosos. Per això i per l’ambientació nord-americana, el relat que dóna nom i potser també sentit al recull és el que més recorda les aventures del Mulder i l’Scully. És, probablement, el més reeixit del llibre i també resulta destacable perqué incorpora a tall d’annex una explicació <em>paranormal</em> del mite del Tombatossals, enginyosa i totalment coherent amb la versemblança interna. La resta van des de relats on s’exemplifica el paper de l’ésser humà en la decisió del seu desti (<em>Dos angels de Swedenborg</em>, <em>Pandemonium</em>) a mostres de la convivència amb l’inquietant i els resultats d’aquesta (<em>Sarcophilus</em>, <em>Un esperit minúscul</em>), sense oblidar l’homenatge a algun d’aquells mestres que no anomenarem i a algun altre menys del gènere però igualment preocupat per l’altra realitat (<em>Museu d’objectes de Charles Beauvoir</em>, <em>Ailleurs</em>). Tots units pel fil genèric i per un estil polit, senzill, que fa plaïble la lectura d’aquestes histories sobre el que se’ns escapa inexorablement de les mans.</p>
+<p>En conclusió, es tracta d’una proposta recomanable per a aquells que busquen alguna cosa més que efectes especials en aquest gènere. Hi ha «missatge», encara que de vegades siga senzillament el de recordar-nos, no sense ironia, que ens haurem d’enfrontar amb monstres (<em>La teranyina</em>) i haurem de conviure amb l’ocult més d’una vegada al larg de les nostres vides, per molt ensopides i quadriculades que ens semblen sovint. Davant d’això, com els ocorre als personatges d’<em>El libre de tòpics</em>, hi ha qui ho accepta i qui s’acoquina.</p>
+<p>Costa més estar d’acord amb el model lingüístic que se segueix en el llibre. M’apresse a aclarir que no es tracta ara de blasmar errors ortogràfics o gramaticals, ja que el recull és ben pulcre en aquest sentit. La qüestió és el subestàndard <em>alternatiu</em> que crea la tria entre les diverses variants dialectals, normatives totes. Així, hi trobem «açò», «o siga», «eixir» i fins i tot «agarrar» al costat de «meva», «estigui», «penséssim» o «sortir». Xoca, aquesta barreja d’estàndards dialectals, pel que té d’infreqüent, no sols en la nostra sinó també en les llengües normalitzades, on els llibres d’estil de les editorials i els mitjans de comunicació s’encarreguen d’evitar-la. O hi ha cap escriptor madrileny que faça novel·les amb la morfologia o la sintaxi pròpies de l’argentí? Com que l’altre llibre que he llegit d’aquesta editorial l’havia escrit un català i, òbviament, totes les variants eren monolíticament orientals, no sé si correspon a l’autor —i en aquest cas algunes coses s’explicarien pel caràcter fronterer de la parla de la Plana— o a l’editorial l’opció dels <em>irreductibles</em>, els qui només reconeixen la variació lèxica en la normativa i adopten les variants orientals en morfologia, malgrat les propostes de l’IEC o del mateix Fabra i, no cal dir, de l’AVL, ens inquietant per antonomàsia. En fi, allò ben cert és que mai no trobarem un llibre escrit d’aquesta manera en Bromera, per exemple. Vista així, la cosa té el seu encant i tot.</p>
+
+
+        
+      </div>
+      
+          
+
+      
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/llibres/elllibredetopics/mas-emv/"><span class="post-date dt-published">2002-09-01</span></a></li>
+      
+      <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 3 minuts</span></li>
+      <li><a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2fllibres%2felllibredetopics%2fmas-emv%2f&text=L%e2%80%99inquietant%20i%20la%20llengua" title="Compartir aquesta pàgina"><img class="icon" src="https://carlesbellver.net//svg.icons/share_openly.svg" alt="icona de compartir" />️</a> <a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2fllibres%2felllibredetopics%2fmas-emv%2f&text=L%e2%80%99inquietant%20i%20la%20llengua" title="Compartir aquesta pàgina">Compartir</a></li>
+      <li><a href="mailto:carles@carlesbellver.net?subject=Re:%20L%e2%80%99inquietant%20i%20la%20llengua&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2fllibres%2felllibredetopics%2fmas-emv%2f" title="Contestar a l’autor per correu"><img class="icon" src="https://carlesbellver.net//svg.icons/email.svg" alt="icona de correu" />️</a> <a href="mailto:carles@carlesbellver.net?subject=Re:%20L%e2%80%99inquietant%20i%20la%20llengua&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2fllibres%2felllibredetopics%2fmas-emv%2f" title="Contestar a l’autor per correu">Contestar</a></li>
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+    
+    
+
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2024
+        </p>  
+        </div>
+
+    </div>
+</footer>
+
+        
+                
+    </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
