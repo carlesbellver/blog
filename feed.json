@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/11/23/78200/",
+				"title": "Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and Brothels in Germany",
+				"content_html": "<p>Vivim o no vivim en una <a href=\"https://carlesbellver.net/2018/02/21/philip-k-dick.html\">novel·la de Philip K. Dick</a>?</p>\n<blockquote>\n<p>Més de 3.000 milions de coordenades telefòniques recollides per un tractant de dades nord-americà exposen en detall els moviments del personal de l’exèrcit i les agències d’intel·ligència dels EUA a Alemanya, i el Pentàgon no pot aturar-ho.</p>\n</blockquote>\n",
+				"date_published": "2024-11-23T17:15:56+01:00",
+				"url": "https://carlesbellver.net/2024/11/23/78200/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/11/17/55884/",
 				
 				"content_html": "<p>No veig motius per a tornar a caure en la trampa d’una xarxa social privada, com ara Bluesky. Però sí per a començar a enviar-hi còpia d’alguns dels meus missatges, així que estic actualitzant els meus <em>scripts</em> amb l’ajuda d’<a href=\"https://github.com/MarshalX/atproto\">atproto</a> (AT Protocol SDK for Python).</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>La meua oficina bancària té dos caixers. Avui un no funciona. L’altre sí. El que no funciona em recomana que busque el caixer més pròxim, que segons ell no seria el del costat, a dos pams, sinó un en un altre municipi, a una distància de trenta-quatre quilòmetres. Sent flaquejar per moments la meua fe cibernètica.</p>\n<img alt=\"Pantalla d’un caixer amb el text següent: “El cajero se encuentra fuera de servicio. Para su comodidad, le rogamos acuda a uno de nuestros cajeros más próximos: PZ ESPANA,2. 12591 LA LLOSA”\" src=\"/uploads/2024/2024-05-03-46602.jpg\">\n",
 				"date_published": "2024-05-03T16:30:44+02:00",
 				"url": "https://carlesbellver.net/2024/05/03/46602/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/04/11/48903/",
-				
-				"content_html": "<p>Quan Ausiàs Marc va complir tot just sis anyets (en el seu sisè aniversari, tal com diu la placa commemorativa), a Castelló ja sabíem que seria un gran poeta i quan es moriria, pobret.</p>\n<img alt=\"Placa en una paret d’un carrer. El text diu: “A Ausiàs March (1397-1459), poeta nacional, en el sisè aniversari del seu naixement a Castelló, 3 d’octubre de 19… (els últims dígits de l’any no es llegeixen, però s’entén que és 1997).”\" src=\"/uploads/2024/2024-04-11-48903.jpg\">\n",
-				"date_published": "2024-04-11T17:24:18+02:00",
-				"url": "https://carlesbellver.net/2024/04/11/48903/"
 			}
 	]
 }
