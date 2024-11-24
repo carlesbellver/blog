@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/11/24/67419/",
+				"title": "AI PCs make users less productive due to learning curve",
+				"content_html": "<p>Intel vol vendre els seus PC preparats per a IA, però l’<a href=\"https://download.intel.com/newsroom/2024/client-computing/ai-pc-productivity-112024-report.pdf\">estudi</a> que va encarregar indica que als usuaris els costa entendre’s amb les eines i la seua productivitat empitjora.</p>\n",
+				"date_published": "2024-11-24T17:57:23+01:00",
+				"url": "https://carlesbellver.net/2024/11/24/67419/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/11/23/78200/",
 				"title": "Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and Brothels in Germany",
 				"content_html": "<p>Vivim o no vivim en una <a href=\"https://carlesbellver.net/2018/02/21/philip-k-dick.html\">novel·la de Philip K. Dick</a>?</p>\n<blockquote>\n<p>Més de 3.000 milions de coordenades telefòniques recollides per un tractant de dades nord-americà exposen en detall els moviments del personal de l’exèrcit i les agències d’intel·ligència dels EUA a Alemanya, i el Pentàgon no pot aturar-ho.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>El dol —i el culte als ancestres— en l’era de la IA. A la Xina, mitja dotzena d’empreses ofereixen el servei a milers de clients.</p>\n<blockquote>\n<p>Una vegada per setmana, Sun Kai té una videotrucada amb sa mare. Comença parlant de la feina, de les pressions a què s'enfronta com a home de mitjana edat i li fa confidències que no comparteix ni amb la seua dona. De tant en tant sa mare fa un comentari, com ara dir-li que es cuide: és el seu únic fill. Però sobretot escolta. Perquè la mare de Sun va morir fa cinc anys. I la persona amb qui parla no és en realitat una persona, sinó una rèplica digital…</p>\n</blockquote>\n",
 				"date_published": "2024-05-10T13:37:46+02:00",
 				"url": "https://carlesbellver.net/2024/05/10/dead-deepfakes/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/05/03/46602/",
-				
-				"content_html": "<p>La meua oficina bancària té dos caixers. Avui un no funciona. L’altre sí. El que no funciona em recomana que busque el caixer més pròxim, que segons ell no seria el del costat, a dos pams, sinó un en un altre municipi, a una distància de trenta-quatre quilòmetres. Sent flaquejar per moments la meua fe cibernètica.</p>\n<img alt=\"Pantalla d’un caixer amb el text següent: “El cajero se encuentra fuera de servicio. Para su comodidad, le rogamos acuda a uno de nuestros cajeros más próximos: PZ ESPANA,2. 12591 LA LLOSA”\" src=\"/uploads/2024/2024-05-03-46602.jpg\">\n",
-				"date_published": "2024-05-03T16:30:44+02:00",
-				"url": "https://carlesbellver.net/2024/05/03/46602/"
 			}
 	]
 }

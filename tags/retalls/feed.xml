@@ -6,10 +6,20 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sat, 23 Nov 2024 17:15:56 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 17:57:23 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI PCs make users less productive due to learning curve</title>
+      <link>https://carlesbellver.net/2024/11/24/67419/</link>
+      <pubDate>Sun, 24 Nov 2024 17:57:23 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2024/11/24/67419/</guid>
+      <description>&lt;p&gt;Intel vol vendre els seus PC preparats per a IA, però l’&lt;a href=&#34;https://download.intel.com/newsroom/2024/client-computing/ai-pc-productivity-112024-report.pdf&#34;&gt;estudi&lt;/a&gt; que va encarregar indica que als usuaris els costa entendre’s amb les eines i la seua productivitat empitjora.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and Brothels in Germany</title>
