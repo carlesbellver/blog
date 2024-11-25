@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Castelló literari</title>
+<meta name="author" content="Lluís Meseguer">
+<meta name="description" content="Fragment de “Castelló literari. Estudi d’història cultural de la ciutat”, de Lluís Meseguer (Publicacions de la Universitat Jaume I, 2003).">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1732551014" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color:#6699ff;
+--link-state-color:#cc99ff;
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1732551014" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1732551014" />
+
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="Castelló literari"/>
+<meta property="og:description" content="Fragment de “Castelló literari. Estudi d’història cultural de la ciutat”, de Lluís Meseguer (Publicacions de la Universitat Jaume I, 2003)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/llibres/meseguer-castello-literari/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2003-11-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2003-11-01T00:00:00+00:00" />
+
+<meta property="article:section" content="llibres" />
+
+<meta name="twitter:title" content="Castelló literari"/>
+<meta name="twitter:description" content="Fragment de “Castelló literari. Estudi d’història cultural de la ciutat”, de Lluís Meseguer (Publicacions de la Universitat Jaume I, 2003)."/>
+
+
+
+
+<meta name="page-source-path" content="llibres/meseguer-castello-literari.md">
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li>
+          
+            <a href="https://carlesbellver.net/llibres/" title="Llibres">Llibres</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header"><h1 class="post-title">Castelló literari</h1>
+
+      
+      
+      <div class="author">
+          Lluís Meseguer
+        </div>
+      
+      
+        <div class="note">
+          Fragment de <i>Castelló literari. Estudi d’història cultural de la ciutat</i>, de Lluís Meseguer (Publicacions de la Universitat Jaume I, 2003).
+        </div>
+
+      </header>
+            
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>…</p>
+<p>Carles Bellver (1967), professionalment vinculat a la difusió creativa de la nova tecnologia electrónica, és autor de dos reculls de contes: el titulat <em>Allò que és meu</em> (1993); i un parell apareguts solts en reculls generals, <em>Ailleurs</em> (2000) i <em>Sarcophilus</em> (2000), incorporats al recent segon recull: <em>El libre de tòpics</em> (2002).</p>
+<p>Els mecanismes creatius de l’originalitat formal són buscats i trobats per Bellver d’una manera paradoxal: en el seguiment i la cita de motius i personages de lectures de profunditat: en <em>Allò que és meu</em> ventila la informació amb un «Epileg» (pp. 115-118), i en <em>El libre de tòpics</em> aposta més per vincular els relats entre si amb creacions transversals, com Miskatonic. Presenta una prosa que no defuig mai la cautela davant el verbalisme vacu, i adopta apostes sempre explícitament vinculades a lectures filosòfiques i de gèneres narratius contemporanis i populars: l’esdeveniment o el final sorprenent, les paradoxes de la realitat, la diversitat de nivells de consciència, un variat catàleg de distanciaments irònics…</p>
+<p>Sobre una apassionada devoció per la literatura i el cinema com a documentació —excessiva, quan es vol fer literatura original i pròpia, però sincera, quan no es vol fer literatura mediocre—, suma Bellver un cosmopolitisme passat per Lovecraft, per Stevenson i Conrad, pel pensament i la filosofia del lenguatge (el Wittgenstein jove, més que res), i la iconografia de certes avantguardes dels anys vint i trenta del segle XX. Els espais dels relats són corresponents a tals afeccions: el continent australià i les mars del Sud, Viena i Centreuropa, París, Escòcia i els Estats Units, fins i tot amb la creació d'espais estables, com Miskatonic. En un escorç antilocalista, la mateixa vara de medir prova d’aplicar-la a situacions locals: <em>La mort és per a vosaltres</em> a València, <em>El mossén feréstec</em> i <em>Museu d’objectes de Charles Beauvoir</em> a Vilafamés, i <em>Història del Tombatossals</em> (encara que les fonts de l’obra són ben clares (Meseguer, 1988 i aquest mateix libre)) i <em>Pandemonium</em> al mateix Castelló. Certament, tot i precedents en la literatura en català d’aquestes actituds —Calders, Sarsanedas, Perucho, i sobretot, Jaume Cabré—, aquesta important aposta intel·lectualista mereix una lectura que, de tota manera, també presenta el risc de perdre’s en subtileses i pressuposicions.</p>
+<p>Tots aquests relats són els millors escrits mai a Castelló. El teixit narratiu és només aparentment de relats separats; de fet, s’hi podrien traçar tres o quatre itineraris tematics presentables en format llarg: l’intent d’<em>El llibre de tópics</em> pot anar en tal línia. I alhora, l’estil mateix vol ser la garantia d’unitat. Si bé els temes —narrativa i assaig— farceixen l’amenitat sinuosa amb la minuciositat de tota llei d’elements i personatges misteriosos o visionaris —de la ciència ficció, la ciència universitaria, de la novel·la policíaca o la novel·la filosofica— solen coronar-se amb un final reflexiu o irònic, previst per a les situacions humanes reals. Així, en el «final» d’<em>Allò que és meu</em> (p. 114):</p>
+<blockquote>
+<p>Un home-llop és una criatura del diable; és una tragèdia veritable tenir-ne un cas a la família. Una nit d’octubre, en la llar gal·lesa dels pares de Claire, davall els raigs de la lluna plena, es va declarar la incurable malaltia del cosí Greg. Sortosament, jo duia damunt munició d’argent. Abans de la fi, vaig haver de recloure tota la parentela a les seves cambres.</p>
+<p>Passatges de ma vida com aquests, els evoco sovint als matins, quan Claire i jo ens hem llevat i prenem el cafe tots dos plegats, i el sol de llevant, que acaba de sortir, toca els seus rissos castanys. Aquestes coses són ara allò que és meu.</p>
+</blockquote>
+<p>Cal alertar-se contra suposicions d’autobiografisme —el propi Bellver confessa irònicament que, de totes les coses contades, només l’experiència amb una bella italiana a Viena li ha passat a ell—, però també de tota confusió entre els nivells de la realitat. Així, el final <em>Viatge ajornat</em> (pp. 101-102) del darrer recull fins ara, conclou amb un impossible camí d'Ítaca:</p>
+<blockquote>
+<p>Confortat així per la seva bonhomia [la de Kavafis], he anat a comprar el bitllet a la naviliera Rei Neptú. El funcionari que m’ha atès era un tipus gran, pràcticament gegantí. Quan li pagava, m’ha engrapat l’anca per sorpresa i, mirant-me de dalt a baix, m'ha etzibat: «Sí que faríeu unes bones unces de carn». Després, en anar a pujar al barco, he vist que el capità s’esperava a coberta per rebre els passatgers. Era també un home gran, i amb un sol ull.</p>
+<p>M'ha semblat doncs obvi que ara mateix no puc pas confiar en la meva ànima. He tornat a ajornar el viatge i he trucat per demanar hora al psicoanalista.</p>
+</blockquote>
+<p>…</p>
+
+
+        
+      </div>
+      
+          
+
+      
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/llibres/meseguer-castello-literari/"><span class="post-date dt-published">2003-11-01</span></a></li>
+      
+      <li><span class="readingtime"><img class="icon" src="https://carlesbellver.net//svg.icons/clock.svg" alt="clock" /> 4 minuts</span></li>
+      <li><a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2fllibres%2fmeseguer-castello-literari%2f&text=Castell%c3%b3%20literari" title="Compartir aquesta pàgina"><img class="icon" src="https://carlesbellver.net//svg.icons/share_openly.svg" alt="icona de compartir" />️</a> <a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2fllibres%2fmeseguer-castello-literari%2f&text=Castell%c3%b3%20literari" title="Compartir aquesta pàgina">Compartir</a></li>
+      <li><a href="mailto:carles@carlesbellver.net?subject=Re:%20Castell%c3%b3%20literari&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2fllibres%2fmeseguer-castello-literari%2f" title="Contestar a l’autor per correu"><img class="icon" src="https://carlesbellver.net//svg.icons/email.svg" alt="icona de correu" />️</a> <a href="mailto:carles@carlesbellver.net?subject=Re:%20Castell%c3%b3%20literari&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2fllibres%2fmeseguer-castello-literari%2f" title="Contestar a l’autor per correu">Contestar</a></li>
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+    
+    
+
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2024
+        </p>  
+        </div>
+
+    </div>
+</footer>
+
+        
+                
+    </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
