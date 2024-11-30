@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/11/30/heroes/",
+				
+				"content_html": "<p><em>Heroes</em> (1977) de David Bowie ja era un clàssic quan vaig comprar l’LP per correu en octubre de 1985. Jo encara no havia fet divuit anys. 449 pessetes + 110 per despeses d’enviament = 559 pessetes (3,36 €).</p>\n<img alt=\"\" src=\"/uploads/2024/2024-11-30-heroes.jpg\" alt=\"Imatge escanejada de l’albarà de Discoplay amb el número de comanda, la data 17.10.1985, el número de referència i el preu de l’LP Heroes de David Bowie.\">\n",
+				"date_published": "2024-11-30T06:35:26+01:00",
+				"url": "https://carlesbellver.net/2024/11/30/heroes/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/11/24/67419/",
 				"title": "AI PCs make users less productive due to learning curve",
 				"content_html": "<p>Intel vol vendre els seus PC preparats per a IA, però l’<a href=\"https://download.intel.com/newsroom/2024/client-computing/ai-pc-productivity-112024-report.pdf\">estudi</a> que va encarregar indica que als usuaris els costa entendre’s amb les eines i la seua productivitat empitjora.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> <a href=\"https://en.wikipedia.org/wiki/The_Virgin_Suicides\"><em>The Virgin Suicides</em></a>. Un conte de fades sinistre sota l’aparença del realisme (supose que l’ambientació dels contes de fades clàssics també degué ser realista en el seu moment). Tant l’heroi com l’heroïna són subjectes col·lectius, però ací ningú pot salvar ningú, ni tan sols a si mateix. L’ombra de <a href=\"https://ca.wikipedia.org/wiki/John_Cheever\">John Cheever</a> s’estenia damunt de <a href=\"https://en.wikipedia.org/wiki/Grosse_Pointe%2C_Michigan\">Grosse Pointe</a> a mesura que <a href=\"https://ca.wikipedia.org/wiki/Jeffrey_Eugenides\">Jeffrey Eugenides</a> anava escrivint la seua primera novel·la.</p>\n<blockquote>\n<p>S’havien matat pels nostres boscos moribunds, pels manatís que  les hèlices mutilaven quan emergien a beure de les mànegues dels jardins; s’havien matat en veure les muntanyes de pneumàtics usats, més altes que les piràmides; s’havien matat per la impossibilitat de trobar un amor que no podia ser cap de nosaltres. Al capdavall, la tortura que havia esquinçat les germanes Lisbon assenyalava una renúncia simple i raonada a acceptar el món tal com se’ls havia donat, tan ple de defectes.</p>\n</blockquote>\n",
 				"date_published": "2024-05-12T16:55:55+02:00",
 				"url": "https://carlesbellver.net/2024/05/12/virgin-suicides/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/05/10/dead-deepfakes/",
-				"title": "Deepfakes of your dead loved ones are a booming Chinese business",
-				"content_html": "<p>El dol —i el culte als ancestres— en l’era de la IA. A la Xina, mitja dotzena d’empreses ofereixen el servei a milers de clients.</p>\n<blockquote>\n<p>Una vegada per setmana, Sun Kai té una videotrucada amb sa mare. Comença parlant de la feina, de les pressions a què s'enfronta com a home de mitjana edat i li fa confidències que no comparteix ni amb la seua dona. De tant en tant sa mare fa un comentari, com ara dir-li que es cuide: és el seu únic fill. Però sobretot escolta. Perquè la mare de Sun va morir fa cinc anys. I la persona amb qui parla no és en realitat una persona, sinó una rèplica digital…</p>\n</blockquote>\n",
-				"date_published": "2024-05-10T13:37:46+02:00",
-				"url": "https://carlesbellver.net/2024/05/10/dead-deepfakes/"
 			}
 	]
 }
