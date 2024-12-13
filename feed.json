@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2024/12/13/centre-etic/",
+				
+				"content_html": "<p>S’ha parlat molt de la superioritat moral de l’esquerra, però la del centre què?</p>\n<img alt=\"Fotografia en color del rètol d’un negoci d’estètica en el qual ha caigut una lletra. Diu en castellà: “Centro es ético”.\" src=\"/uploads/2024/2024-12-13-centre-etic.jpg\">\n",
+				"date_published": "2024-12-13T11:00:45+01:00",
+				"url": "https://carlesbellver.net/2024/12/13/centre-etic/"
+			},
+			{
 				"id": "https://carlesbellver.net/2024/12/11/40984/",
 				"title": "How WhatsApp became an unstoppable global cultural force",
 				"content_html": "<blockquote>\n<p>En moltes parts del món, Whatsapp és sinònim d’Internet. Per a creadors de contingut nigerians, botiguers brasilers i ties índies, sovint és l'única aplicació que necessiten. Hi pots xatejar amb amics i família, assistir a classes, dirigir un negoci, estar al corrent de les notícies, comprar i fins i tot gestionar el compte bancari. Cada vegada més, és on la gent mira la televisió, reserva cites mèdiques i concerta cites.</p>\n</blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Els models de llenguatge no aprenen de les converses amb els usuaris. Cada vegada que interactuem amb ChatGPT, Copilot, Gemini, etc., la conversa s’inicia de nou des de zero.</p>\n<p>L’entrenament d’aquests models s’ha esdevingut abans i consisteix a processar matemàticament (estadísticament) milions i milions de textos: la Wikipedia, llibres, una bona part del web… Aquest procés pot durar mesos i consumeix molta potència computacional, així que no és una cosa que es puga continuar fent en temps real tal com xarrem amb una IA.</p>\n<p>Però això, evidentment, no vol dir que puguem estar tranquils respecte a l’ús de les nostres converses que puguen estar fent aquestes empreses. Haurien de complir la llei, per descomptat, i les lleis europees ens protegeixen raonablement, però l’historial d’incompliments és llarg i no sempre és fàcil posar-hi remei.</p>\n<p>Poden estar guardant les dades, encara que siga només durant un temps, encara que siga només per la seua pròpia seguretat. I això pot conduir en algun moment a filtracions, entre altres conseqüències dolentes. Millor, per tant, pensar bé el que escrivim.</p>\n",
 				"date_published": "2024-05-29T14:30:57+02:00",
 				"url": "https://carlesbellver.net/2024/05/29/85839/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/05/24/ai-hype-cycle/",
-				"title": "A Grand Unified Theory of the AI Hype Cycle",
-				"content_html": "<p>Un patró que s’ha repetit periòdicament des de 1950. Avanços científico-tècnics prometedors que requereixen potència informàtica extra i condueixen a inflar la bombolla de la IA, fins que aquesta inevitablement es desinfla. Com a resultat, una gran frustració i al mateix temps aplicacions reals, útils, més restringides del que es deia. La IA general continua tan lluny com sempre.</p>\n<blockquote>\n<p>No us puc dir quan s’acabarà la mania actual i esclatarà aquesta bombolla. Si poguera, ho estaríeu llegint en el meu butlletí d'estratègia comercial per 100.000 dòlars mensuals només per a subscriptors i no en un blog públic. El que us puc dir és que els ordinadors no poden pensar, i que els problemes de la instància actual del camp nebulosament definit de la “IA” no es resoldran tots en un període de “cinc a vint anys”.</p>\n</blockquote>\n",
-				"date_published": "2024-05-24T13:26:11+02:00",
-				"url": "https://carlesbellver.net/2024/05/24/ai-hype-cycle/"
 			}
 	]
 }

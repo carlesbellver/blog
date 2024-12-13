@@ -6,6 +6,13 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2024/12/13/centre-etic/",
+        "date_published": "2024-12-13T11:00:45+01:00",
+        "url": "/2024/12/13/centre-etic/",
+        "image": "https://carlesbellver.net/uploads/2024/2024-12-13-centre-etic.jpg",
+        "content_text": "S’ha parlat molt de la superioritat moral de l’esquerra, però la del centre què?\n"
+    },
+    {
         "id": "/2024/11/30/heroes/",
         "date_published": "2024-11-30T06:35:26+01:00",
         "url": "/2024/11/30/heroes/",
