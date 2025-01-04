@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Fri, 13 Dec 2024 11:00:45 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 08:38:14 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>‘Masterful’ novelist David Lodge dies aged 89</title>
+      <link>https://www.bbc.com/news/articles/cx2nzgp5yp0o</link>
+      <pubDate>Sat, 04 Jan 2025 08:38:14 +0100</pubDate>
+      <guid>https://carlesbellver.net/2025/01/04/76198/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.bbc.com/news/articles/cx2nzgp5yp0o&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/01/04/76198/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Les seues novel·les —&lt;em&gt;The British Museum Is Falling Down&lt;/em&gt;, la trilogia del campus i tantes altres— em van alegrar moltes estones quan més ho necessitava. Ara vindrà el moment de rellegir-les. Descanse en pau David Lodge.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -305,19 +315,6 @@ No és casual, però, que J. B. Porcar, un dels signataris de les Normes de Cast
 &lt;blockquote&gt;
 &lt;p&gt;A pesar de la actuación de una minoría, continuaron los avances. En la actualidad, 112 países son totalmente abolicionistas y 144 han abolido la pena de muerte en la ley o en la práctica.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say</title>
-      <link>https://simonwillison.net/2024/May/29/training-not-chatting/#atom-everything</link>
-      <pubDate>Wed, 29 May 2024 14:30:57 +0200</pubDate>
-      <guid>https://carlesbellver.net/2024/05/29/85839/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://simonwillison.net/2024/May/29/training-not-chatting/#atom-everything&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2024/05/29/85839/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Els models de llenguatge no aprenen de les converses amb els usuaris. Cada vegada que interactuem amb ChatGPT, Copilot, Gemini, etc., la conversa s’inicia de nou des de zero.&lt;/p&gt;
-&lt;p&gt;L’entrenament d’aquests models s’ha esdevingut abans i consisteix a processar matemàticament (estadísticament) milions i milions de textos: la Wikipedia, llibres, una bona part del web… Aquest procés pot durar mesos i consumeix molta potència computacional, així que no és una cosa que es puga continuar fent en temps real tal com xarrem amb una IA.&lt;/p&gt;
-&lt;p&gt;Però això, evidentment, no vol dir que puguem estar tranquils respecte a l’ús de les nostres converses que puguen estar fent aquestes empreses. Haurien de complir la llei, per descomptat, i les lleis europees ens protegeixen raonablement, però l’historial d’incompliments és llarg i no sempre és fàcil posar-hi remei.&lt;/p&gt;
-&lt;p&gt;Poden estar guardant les dades, encara que siga només durant un temps, encara que siga només per la seua pròpia seguretat. I això pot conduir en algun moment a filtracions, entre altres conseqüències dolentes. Millor, per tant, pensar bé el que escrivim.&lt;/p&gt;
 </description>
     </item>
     
