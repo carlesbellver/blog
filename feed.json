@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/01/25/33636/",
+				
+				"content_html": "<p>A la matinada no podia dormir i mirava per la finestra una <a href=\"https://www.n2yo.com/satellite/?s=28059\">secció d’un coet xinès</a> llançat a l’espai el 2003. Parpellejant com un estel, però amb més intensitat i desplaçant-se cel amunt.</p>\n",
+				"date_published": "2025-01-25T20:34:51+01:00",
+				"url": "https://carlesbellver.net/2025/01/25/33636/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/01/24/no-publicar/",
 				
 				"content_html": "<p>Em queden moltes ganes d’escriure i molt poques de continuar intentant que alguna editorial em publique un nou llibre.</p>\n<blockquote>\n<p>Hi ha una pau meravellosa en no publicar.</p>\n</blockquote>\n<p>—<a href=\"https://carlesbellver.net/2018/04/17/the-new-york.html\">J. D. Salinger</a></p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Carrer de la Trinitat de #Castelló. Caixer Bitcoin, pensió La Corte i matalassos Pikolin.</p>\n<img alt=\"Foto apaïsada, en color, d’un carrer estret, amb cases d’aspecte antic i altres més modernes alternant-se als dos costats. A l’esquerra, pròxim al primer pla, un rètol lluminós amb el logotip de Bitcoin. A continuació, en segon pla, entre altres rètols no il·luminats, un de “Pensión La Corte” i un de “Colchones Pikolin”.\" src=\"/uploads/2024/2024-06-22-67286.jpg\">\n",
 				"date_published": "2024-06-22T16:41:52+02:00",
 				"url": "https://carlesbellver.net/2024/06/22/67286/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/06/13/13274/",
-				"title": "Business owners are buying into a bogus myth about driving",
-				"content_html": "<blockquote>\n<p>Estudi rere estudi, ciutat rere ciutat arreu del món, els investigadors han descobert que els comerciants exageren la proporció de clients que arriben en cotxe i subestimen els que van a peu, en bicicleta o en transport públic. Aquesta percepció errònia els porta a oposar-se a reformes que limitarien la presència de cotxes i farien els barris més nets, més agradables i menys contaminats.</p>\n</blockquote>\n",
-				"date_published": "2024-06-13T23:14:41+02:00",
-				"url": "https://carlesbellver.net/2024/06/13/13274/"
 			}
 	]
 }
