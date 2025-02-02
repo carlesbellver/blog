@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/02/02/musk-junta/",
+				"title": "Musk's Junta Establishes Him as Head of Government",
+				"content_html": "<p>Com explicarien els mitjans nord-americans el que està passant als EUA si passara en un altre país?</p>\n<blockquote>\n<p>El nou president d’aquest país del G-7, un oligarca de nivell mitjà anomenat Donald Trump, pareix cada vegada més una figura decorativa enmig de les maniobres de Musk.</p></blockquote>\n",
+				"date_published": "2025-02-02T09:33:35+00:00",
+				"url": "https://carlesbellver.net/2025/02/02/musk-junta/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/02/01/39831/",
 				
 				"content_html": "<blockquote>\n<p>But February made me shiver<br>\nwith every paper I delivered.</p></blockquote>\n<p>—<a href=\"https://en.wikipedia.org/wiki/American_Pie_%28song%29\">American Pie</a></p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Robots amb pell humana cultivada al laboratori.</p>\n<blockquote>\n<p>Com a prova de concepte, l’equip va dissenyar una petita cara robòtica capaç de somriure, coberta completament amb una capa de teixit viu rosat. Els investigadors assenyalen que l'ús de teixit de pell viva com a recobriment d’un robot té avantatges, ja que és prou flexible per a transmetre emocions i potencialment es pot reparar a si mateix.</p></blockquote>\n",
 				"date_published": "2024-07-06T20:24:33+02:00",
 				"url": "https://carlesbellver.net/2024/07/06/robot-skin/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/06/23/life-is-dormant/",
-				"title": "Most Life on Earth Is Dormant, After Pulling an ‘Emergency Brake’",
-				"content_html": "<p>Segons estimacions, un 60 % de microbis estarien en hibernació, esperant les condicions per a reactivar-se. Passaria el mateix amb parts d’organismes pluricel·lulars com els mamífers.</p>\n<blockquote>\n<p>“Vivim en un planeta dorment”, diu Sergey Melnikov, biòleg molecular evolutiu de la Universitat de Newcastle. “La vida consisteix principalment a dormir”.</p></blockquote>\n<img src=\"/uploads/2024/2024-06-23-calderon.jpg\" alt=\"Portada d’una edició antiga de “La vida es sueño”, de Calderón de la Barca.\">",
-				"date_published": "2024-06-23T10:05:02+02:00",
-				"url": "https://carlesbellver.net/2024/06/23/life-is-dormant/"
 			}
 	]
 }
