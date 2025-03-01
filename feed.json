@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/03/01/95552/",
+				
+				"content_html": "<blockquote>\n<p>—Les circumstàncies estranyes del món són moltes —digué en Mithràndir—, i l’ajut ve tot sovint de les mans dels febles quan els savis fallen.</p></blockquote>\n<p>—J. R. R. Tolkien (“Dels anells de poder i de la Tercera Edat”, dins “El Silmaríl·lion”)</p>\n",
+				"date_published": "2025-03-01T11:24:47+00:00",
+				"url": "https://carlesbellver.net/2025/03/01/95552/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/02/27/04406/",
 				"title": "What's driving electricity demand? It isn't just AI and data centers.",
 				"content_html": "<p>La demanda global d’energia elèctrica va augmentar un 4,3 % l’any passat, però el 85 % de l’increment ve de les fàbriques i l’aire condicionat de Xina, Índia i el sud-est asiàtic, no dels excessos de la IA a occident. El centre del món és allà, no ací.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Forats negres primordials de la mida d’un àtom i amb la massa d’un asteroide, formats just després del Big Bang, explicarien la matèria fosca de l’univers. Potser passen pel sistema solar més o menys cada deu anys i podrien fer tremolar un planeta o una lluna.</p>\n",
 				"date_published": "2024-09-27T17:04:21+02:00",
 				"url": "https://carlesbellver.net/2024/09/27/49436/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/09/24/04759/",
-				"title": "“A por ellos, que son de regadío”",
-				"content_html": "<blockquote>\n<p>Más del 80% del agua que se utiliza en España la consume el sector agrario (80,2% según los últimos datos publicados por el Ministerio de Transición Ecológica en 2022), un 16% se destina a los abastecimientos urbanos y apenas un 4% en usos industriales.</p></blockquote>\n",
-				"date_published": "2024-09-24T21:06:35+02:00",
-				"url": "https://carlesbellver.net/2024/09/24/04759/"
 			}
 	]
 }
