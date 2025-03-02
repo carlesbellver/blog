@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/03/02/86263/",
+				"title": "Illegal imported sweets ‘flooding UK high streets’, councils say",
+				"content_html": "<blockquote>\n<p>Les xarxes socials impulsen [al Regne Unit] la demanda de productes nord-americans amb additius prohibits, relacionats amb el càncer i trastorns de la personalitat.</p></blockquote>\n",
+				"date_published": "2025-03-02T09:35:43+00:00",
+				"url": "https://carlesbellver.net/2025/03/02/86263/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/03/01/95552/",
 				
 				"content_html": "<blockquote>\n<p>—Les circumstàncies estranyes del món són moltes —digué en Mithràndir—, i l’ajut ve tot sovint de les mans dels febles quan els savis fallen.</p></blockquote>\n<p>—J. R. R. Tolkien (“Dels anells de poder i de la Tercera Edat”, dins <em>El Silmaríl·lion</em>)</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>En conjunt, el país, com és habitual, no n’ha dit res, d’aquest gran pintor del país. I va així, a cada bugada perdem un llençol.<br>\n[…]<br>\nNo és casual, però, que J. B. Porcar, un dels signataris de les Normes de Castelló, fos també un dels referents del poeta Vicent Andrés Estellés a l’hora d’idear el <em>Mural del País Valencià</em>.</p></blockquote>\n",
 				"date_published": "2024-10-13T17:17:50+02:00",
 				"url": "https://carlesbellver.net/2024/10/13/memoria-pintor-porcar/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/09/27/49436/",
-				"title": "Dark Matter Black Holes Could Fly through the Solar System Once a Decade",
-				"content_html": "<p>Forats negres primordials de la mida d’un àtom i amb la massa d’un asteroide, formats just després del Big Bang, explicarien la matèria fosca de l’univers. Potser passen pel sistema solar més o menys cada deu anys i podrien fer tremolar un planeta o una lluna.</p>\n",
-				"date_published": "2024-09-27T17:04:21+02:00",
-				"url": "https://carlesbellver.net/2024/09/27/49436/"
 			}
 	]
 }
