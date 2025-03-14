@@ -6,10 +6,22 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 02 Mar 2025 09:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 10:17:31 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI search engines cite incorrect sources at an alarming 60% rate, study says</title>
+      <link>https://carlesbellver.net/2025/03/14/43811/</link>
+      <pubDate>Fri, 14 Mar 2025 10:17:31 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2025/03/14/43811/</guid>
+      <description>&lt;p&gt;Un &lt;a href=&#34;https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php&#34;&gt;estudi&lt;/a&gt; de la Universitat de Colúmbia adverteix que les IA generatives proporcionen una majoria de fonts inventades quan se’ls demanen notícies actuals, encara que estiguen fent cerques web en temps real. S’inventen fins i tot els URL.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sorprenentment, les versions de pagament funcionen encara pitjor en certs aspectes. Perplexity Pro (20 $/mes) i el servei prèmium de Grok 3 (40 $/mes) van oferir respostes incorrectes més sovint que les versions gratuïtes.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Illegal imported sweets ‘flooding UK high streets’, councils say</title>
