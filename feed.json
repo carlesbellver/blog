@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/03/23/llibres-correu/",
+				"title": "Llibres per correu",
+				"content_html": "<p>L’experiment d’enguany: subscripció a llibres per correu o RSS. En fase beta. Si tot va bé, un capítol cada dia a la vostra bústia. De moment, dos títols disponibles: <a href=\"/contes/unicorns\"><em>Unicorns</em></a> (2020) i <a href=\"/llibres/uncelnouiunaterranova\"><em>Un cel nou i una terra nova</em></a> (2015).</p>\n",
+				"date_published": "2025-03-23T19:37:30+01:00",
+				"url": "https://carlesbellver.net/2025/03/23/llibres-correu/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/03/14/43811/",
 				"title": "AI search engines cite incorrect sources at an alarming 60% rate, study says",
 				"content_html": "<p>Un <a href=\"https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php\">estudi</a> de la Universitat de Colúmbia adverteix que les IA generatives proporcionen una majoria de fonts inventades quan se’ls demanen notícies actuals, encara que estiguen fent cerques web en temps real. S’inventen fins i tot els URL.</p>\n<blockquote>\n<p>Sorprenentment, les versions de pagament funcionen encara pitjor en certs aspectes. Perplexity Pro (20 $/mes) i el servei prèmium de Grok 3 (40 $/mes) van oferir respostes incorrectes més sovint que les versions gratuïtes.</p></blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Un bon intent de classificació, conceptualment útil, dels casos d’ús típics de la Intel·ligència Artificial actual:</p>\n<ol>\n<li><em><strong>Déus</strong></em>: instàncies artificials superintel·ligents que treballarien de forma autònoma i, per tant, podrien reemplaçar els éssers humans. Probablement ciència-ficció i, sobretot, exageració interessada d’empreses en cerca de finançament.</li>\n<li><em><strong>Becaris</strong></em>: eines enfocades a tasques rutinàries que funcionen sempre sota la supervisió d’un expert i l’ajuden a fer la seua feina. Per exemple: els copilots de programació.</li>\n<li><em><strong>Subalterns</strong></em>: eines optimitzades per a executar de manera prou satisfactòria una tasca especialitzada, generalment com a part d’un flux de treball més ampli. Per exemple, la transcripció de vídeos o l’extracció de dades estructurades.</li>\n</ol>\n<p>Però l’autor ja ha hagut d’afegir una quarta categoria, o una subcategoria dels <em>becaris</em>: els <strong>joguets</strong> com ara els generadors d’imatges, amb els quals poden divertir-se els no experts sense preocupar-se massa pels errors.</p>\n",
 				"date_published": "2024-10-22T10:02:30+02:00",
 				"url": "https://carlesbellver.net/2024/10/22/gods-interns-cogs/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/10/16/57289/",
-				
-				"content_html": "<p>Cada dia de matí…</p>\n<blockquote>\n<p>Ah, Bartleby! Ah, humanitat!</p></blockquote>\n<img alt=\"Foto d’una pantalla petita de paper electrònic, semblant a una targeta d’identificació, amb el meu nom i primer cognom (Carles Bellver), la meua adreça de correu electrònic laboral (bellverc@uji.es) i en lletra més petita, a dalt, la famosa frase de Bartleby: “I would prefer not to”, preferiria no fer-ho.\" src=\"/uploads/2024/2024-10-16-57289.jpg\">\n",
-				"date_published": "2024-10-16T07:41:42+02:00",
-				"url": "https://carlesbellver.net/2024/10/16/57289/"
 			}
 	]
 }

@@ -6,10 +6,20 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Fri, 14 Mar 2025 10:17:31 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 19:37:30 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Llibres per correu</title>
+      <link>https://carlesbellver.net/2025/03/23/llibres-correu/</link>
+      <pubDate>Sun, 23 Mar 2025 19:37:30 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2025/03/23/llibres-correu/</guid>
+      <description>&lt;p&gt;L’experiment d’enguany: subscripció a llibres per correu o RSS. En fase beta. Si tot va bé, un capítol cada dia a la vostra bústia. De moment, dos títols disponibles: &lt;a href=&#34;https://carlesbellver.net/contes/unicorns&#34;&gt;&lt;em&gt;Unicorns&lt;/em&gt;&lt;/a&gt; (2020) i &lt;a href=&#34;https://carlesbellver.net/llibres/uncelnouiunaterranova&#34;&gt;&lt;em&gt;Un cel nou i una terra nova&lt;/em&gt;&lt;/a&gt; (2015).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AI search engines cite incorrect sources at an alarming 60% rate, study says</title>
