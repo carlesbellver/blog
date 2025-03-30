@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/03/30/34787/",
+				
+				"content_html": "<p>Avui s’acaba la tretzena setmana de l’any. Des que va començar 2025, estic escrivint cada setmana un (micro)conte d’unes tres-centes a sis-centes paraules. Com a inspiració, o excusa per a engegar la imaginació, em serveixen aquelles <a href=\"https://inspira.l0fi.net/\">frases d’exemple del DIEC</a>, tretes de context, que he anat recollint mitjançant un script. En tinc més de vint mil en una base de dades.</p>\n",
+				"date_published": "2025-03-30T13:40:16+02:00",
+				"url": "https://carlesbellver.net/2025/03/30/34787/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/03/23/llibres-correu/",
 				"title": "Llibres per correu",
 				"content_html": "<p>L’experiment d’enguany: subscripció a llibres per correu o RSS. En fase beta. Si tot va bé, un capítol cada dia a la vostra bústia. De moment, dos títols disponibles: <a href=\"/contes/unicorns\"><em>Unicorns</em></a> (2020) i <a href=\"/llibres/uncelnouiunaterranova\"><em>Un cel nou i una terra nova</em></a> (2015).</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Tres experiments mentals que suggereixen que el continu espai-temps en què creiem viure és una explicació que falla en circumstàncies extremes. I si és així, potser necessitaríem una descripció més pregona de la realitat, formada per uns altres blocs de construcció més bàsics.</p>\n",
 				"date_published": "2024-10-30T22:28:55+01:00",
 				"url": "https://carlesbellver.net/2024/10/30/23716/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/10/22/gods-interns-cogs/",
-				"title": "The 3 AI Use Cases: Gods, Interns, and Cogs",
-				"content_html": "<p>Un bon intent de classificació, conceptualment útil, dels casos d’ús típics de la Intel·ligència Artificial actual:</p>\n<ol>\n<li><em><strong>Déus</strong></em>: instàncies artificials superintel·ligents que treballarien de forma autònoma i, per tant, podrien reemplaçar els éssers humans. Probablement ciència-ficció i, sobretot, exageració interessada d’empreses en cerca de finançament.</li>\n<li><em><strong>Becaris</strong></em>: eines enfocades a tasques rutinàries que funcionen sempre sota la supervisió d’un expert i l’ajuden a fer la seua feina. Per exemple: els copilots de programació.</li>\n<li><em><strong>Subalterns</strong></em>: eines optimitzades per a executar de manera prou satisfactòria una tasca especialitzada, generalment com a part d’un flux de treball més ampli. Per exemple, la transcripció de vídeos o l’extracció de dades estructurades.</li>\n</ol>\n<p>Però l’autor ja ha hagut d’afegir una quarta categoria, o una subcategoria dels <em>becaris</em>: els <strong>joguets</strong> com ara els generadors d’imatges, amb els quals poden divertir-se els no experts sense preocupar-se massa pels errors.</p>\n",
-				"date_published": "2024-10-22T10:02:30+02:00",
-				"url": "https://carlesbellver.net/2024/10/22/gods-interns-cogs/"
 			}
 	]
 }

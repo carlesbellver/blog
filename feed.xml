@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 23 Mar 2025 19:37:30 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 13:40:16 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/03/30/34787/</link>
+      <pubDate>Sun, 30 Mar 2025 13:40:16 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/03/30/34787/</guid>
+      <description>
+      &lt;p&gt;Avui s’acaba la tretzena setmana de l’any. Des que va començar 2025, estic escrivint cada setmana un (micro)conte d’unes tres-centes a sis-centes paraules. Com a inspiració, o excusa per a engegar la imaginació, em serveixen aquelles &lt;a href=&#34;https://inspira.l0fi.net/&#34;&gt;frases d’exemple del DIEC&lt;/a&gt;, tretes de context, que he anat recollint mitjançant un script. En tinc més de vint mil en una base de dades.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Llibres per correu</title>
@@ -282,22 +292,6 @@ with every paper I delivered.&lt;/p&gt;&lt;/blockquote&gt;
       <guid>https://carlesbellver.net/2024/10/30/23716/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2024/10/30/23716/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;Tres experiments mentals que suggereixen que el continu espai-temps en què creiem viure és una explicació que falla en circumstàncies extremes. I si és així, potser necessitaríem una descripció més pregona de la realitat, formada per uns altres blocs de construcció més bàsics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The 3 AI Use Cases: Gods, Interns, and Cogs</title>
-      <link>https://www.dbreunig.com/2024/10/18/the-3-ai-use-cases-gods-interns-and-cogs.html</link>
-      <pubDate>Tue, 22 Oct 2024 10:02:30 +0200</pubDate>
-      <guid>https://carlesbellver.net/2024/10/22/gods-interns-cogs/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.dbreunig.com/2024/10/18/the-3-ai-use-cases-gods-interns-and-cogs.html&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2024/10/22/gods-interns-cogs/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Un bon intent de classificació, conceptualment útil, dels casos d’ús típics de la Intel·ligència Artificial actual:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;Déus&lt;/strong&gt;&lt;/em&gt;: instàncies artificials superintel·ligents que treballarien de forma autònoma i, per tant, podrien reemplaçar els éssers humans. Probablement ciència-ficció i, sobretot, exageració interessada d’empreses en cerca de finançament.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;Becaris&lt;/strong&gt;&lt;/em&gt;: eines enfocades a tasques rutinàries que funcionen sempre sota la supervisió d’un expert i l’ajuden a fer la seua feina. Per exemple: els copilots de programació.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;Subalterns&lt;/strong&gt;&lt;/em&gt;: eines optimitzades per a executar de manera prou satisfactòria una tasca especialitzada, generalment com a part d’un flux de treball més ampli. Per exemple, la transcripció de vídeos o l’extracció de dades estructurades.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Però l’autor ja ha hagut d’afegir una quarta categoria, o una subcategoria dels &lt;em&gt;becaris&lt;/em&gt;: els &lt;strong&gt;joguets&lt;/strong&gt; com ara els generadors d’imatges, amb els quals poden divertir-se els no experts sense preocupar-se massa pels errors.&lt;/p&gt;
 </description>
     </item>
     
