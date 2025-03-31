@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/03/31/46813/",
+				
+				"content_html": "<p>El control de plagues com a dret humà fonamental. Drogueria catalana, Castelló de la Plana.</p>\n<img alt=\"Foto d’un aparador amb insecticides i altres productes de control de plagues rodejant una figureta que representa una persona gran amb un llibret a la mà, en la coberta del qual es llegeixen el títol “Derechos humanos”.\" src=\"/uploads/2025/2025-03-31-46813.jpg\">\n",
+				"date_published": "2025-03-31T20:47:13+02:00",
+				"url": "https://carlesbellver.net/2025/03/31/46813/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/03/30/34787/",
 				
 				"content_html": "<p>Avui s’acaba la tretzena setmana de l’any. Des que va començar 2025, estic escrivint cada setmana un conte o microconte d’unes tres-centes a sis-centes paraules. Com a inspiració, o excusa per a engegar la imaginació, em serveixen aquelles <a href=\"https://inspira.l0fi.net/\">frases d’exemple del DIEC</a>, tretes de context, que he anat recollint mitjançant un script. En tinc més de vint mil en una base de dades.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>La famosa histèria col·lectiva per l’emissió d’una adaptació radiofònica de <em>La guerra dels mons</em> d’H. G. Wells no va existir mai. Era una notícia falsa, propaganda manipuladora dels diaris contra un mitja nou: la ràdio.</p>\n<blockquote>\n<p>Certament, es va contagiar el pànic per una estranya invasió que venia del cel i suposava una amenaça existencial, però no als carrers o a les cases dels Estats Units d’Amèrica, sinó a les redaccions dels diaris, i no eren extraterrestres sinó la ràdio.</p></blockquote>\n",
 				"date_published": "2024-11-03T19:03:48+01:00",
 				"url": "https://carlesbellver.net/2024/11/03/57014/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/10/30/23716/",
-				"title": "The Thought Experiments That Fray the Fabric of Space-Time",
-				"content_html": "<p>Tres experiments mentals que suggereixen que el continu espai-temps en què creiem viure és una explicació que falla en circumstàncies extremes. I si és així, potser necessitaríem una descripció més pregona de la realitat, formada per uns altres blocs de construcció més bàsics.</p>\n",
-				"date_published": "2024-10-30T22:28:55+01:00",
-				"url": "https://carlesbellver.net/2024/10/30/23716/"
 			}
 	]
 }
