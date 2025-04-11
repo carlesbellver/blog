@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/04/11/96219/",
+				"title": "Fake job seekers use AI to interview for remote jobs, tech CEOs say",
+				"content_html": "<blockquote>\n<p>Les empreses s’enfronten a una nova amenaça: sol·licitants de feina que no són qui diuen ser, utilitzen IA per generar documents d’identitat falsos, inventar currículums i respondre durant les entrevistes. Si són contractats, poden instal·lar programari maliciós per demanar rescat o robar fons, dades de clients o secrets comercials.</p></blockquote>\n",
+				"date_published": "2025-04-11T20:30:33+02:00",
+				"url": "https://carlesbellver.net/2025/04/11/96219/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/04/10/63794/",
 				"title": "UK creating ‘murder prediction’ tool to identify people most likely to kill",
 				"content_html": "<blockquote>\n<p>El govern del Regne Unit està desenvolupant un programa de “predicció d'assassinats” que espera que puga identificar els subjectes amb més probabilitats de convertir-se en assassins, basant-se en dades de víctimes i delinqüents reals […] El Ministeri de Justícia vol que el projecte ajude a millorar la seguretat ciutadana, però els activistes l’han qualificat d’“esgarrifós i distòpic”.</p></blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Bluesky té una arquitectura oberta i tècnicament interessant, però complicada i costosa.</p>\n<blockquote>\n<p>Afegiré que la raó per la qual sóc un gran fan d’una solució ActivityPub com Mastodon és que és bastant barat córrer la teua pròpia pila completa, tret que sigues extremadament famós. L’allotjament d’una instància de Mastodon és un procés d’un sol pas i després ho tens tot sota el teu control. Per a obtenir la mateixa experiència amb atproto [protocol de Bluesky], has de gastar centenars o milers d’euros al mes i, encara així, de moment no ho controles tot tu.</p></blockquote>\n",
 				"date_published": "2024-11-16T13:33:54+01:00",
 				"url": "https://carlesbellver.net/2024/11/16/bluesky/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/11/16/43121/",
-				
-				"content_html": "<p>Va fallar el sistema però la culpa és dels altres. Perquè la Generalitat Valenciana és un club privat i Carlos Zampón només la presideix a estones: quan no té dinarot.</p>\n",
-				"date_published": "2024-11-16T08:45:31+01:00",
-				"url": "https://carlesbellver.net/2024/11/16/43121/"
 			}
 	]
 }
