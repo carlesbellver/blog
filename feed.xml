@@ -6,8 +6,19 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Fri, 11 Apr 2025 20:30:33 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 20:36:16 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title>La vida a l’ombra</title>
+      <link>https://lab.cccb.org/ca/la-vida-a-lombra/</link>
+      <pubDate>Sun, 13 Apr 2025 20:36:16 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/04/13/69365/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;https://lab.cccb.org/ca/la-vida-a-lombra/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/04/13/69365/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;L’urbanisme de la modernitat va posar el Sol al centre. Però els perills d’exposar-s&#39;hi excessivament, agreujats per la crisi climàtica, imposen repensar l’arquitectura i l’espai públic des de l’ombra.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Fake job seekers use AI to interview for remote jobs, tech CEOs say</title>
@@ -271,18 +282,6 @@ with every paper I delivered.&lt;/p&gt;&lt;/blockquote&gt;
       <guid>https://carlesbellver.net/2024/11/17/55884/</guid>
       <description>
       &lt;p&gt;No veig motius per a tornar a caure en la trampa d’una xarxa social privada, com ara Bluesky. Però sí per a començar a enviar-hi còpia d’alguns dels meus missatges, així que estic actualitzant els meus &lt;em&gt;scripts&lt;/em&gt; amb l’ajuda d’&lt;a href=&#34;https://github.com/MarshalX/atproto&#34;&gt;atproto&lt;/a&gt; (AT Protocol SDK for Python).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Maybe Bluesky has “won”</title>
-      <link>https://anderegg.ca/2024/11/15/maybe-bluesky-has-won</link>
-      <pubDate>Sat, 16 Nov 2024 13:33:54 +0100</pubDate>
-      <guid>https://carlesbellver.net/2024/11/16/bluesky/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://anderegg.ca/2024/11/15/maybe-bluesky-has-won&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2024/11/16/bluesky/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Bluesky té una arquitectura oberta i tècnicament interessant, però complicada i costosa.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Afegiré que la raó per la qual sóc un gran fan d’una solució ActivityPub com Mastodon és que és bastant barat córrer la teua pròpia pila completa, tret que sigues extremadament famós. L’allotjament d’una instància de Mastodon és un procés d’un sol pas i després ho tens tot sota el teu control. Per a obtenir la mateixa experiència amb atproto [protocol de Bluesky], has de gastar centenars o milers d’euros al mes i, encara així, de moment no ho controles tot tu.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
