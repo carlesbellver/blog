@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/04/23/sant-jordi/",
+				
+				"content_html": "<p>Avui, casualment, totes aquestes <a href=\"https://inspira.l0fi.net/\">frases inspiradores</a> tracten de llibres, escriure, escriptores i escriptors, Sant Jordi o el drac.</p>\n",
+				"date_published": "2025-04-23T08:00:25+02:00",
+				"url": "https://carlesbellver.net/2025/04/23/sant-jordi/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/04/13/69365/",
 				"title": "La vida a l’ombra",
 				"content_html": "<blockquote>\n<p>L’urbanisme de la modernitat va posar el Sol al centre. Però els perills d’exposar-s'hi excessivament, agreujats per la crisi climàtica, imposen repensar l’arquitectura i l’espai públic des de l’ombra.</p></blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Vivim o no vivim en una <a href=\"https://carlesbellver.net/2018/02/21/philip-k-dick.html\">novel·la de Philip K. Dick</a>?</p>\n<blockquote>\n<p>Més de 3.000 milions de coordenades telefòniques recollides per un tractant de dades nord-americà exposen en detall els moviments del personal de l’exèrcit i les agències d’intel·ligència dels EUA a Alemanya, i el Pentàgon no pot aturar-ho.</p></blockquote>\n",
 				"date_published": "2024-11-23T17:15:56+01:00",
 				"url": "https://carlesbellver.net/2024/11/23/78200/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/11/17/55884/",
-				
-				"content_html": "<p>No veig motius per a tornar a caure en la trampa d’una xarxa social privada, com ara Bluesky. Però sí per a començar a enviar-hi còpia d’alguns dels meus missatges, així que estic actualitzant els meus <em>scripts</em> amb l’ajuda d’<a href=\"https://github.com/MarshalX/atproto\">atproto</a> (AT Protocol SDK for Python).</p>\n",
-				"date_published": "2024-11-17T16:06:22+01:00",
-				"url": "https://carlesbellver.net/2024/11/17/55884/"
 			}
 	]
 }

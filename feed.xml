@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 13 Apr 2025 20:36:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 08:00:25 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/04/23/sant-jordi/</link>
+      <pubDate>Wed, 23 Apr 2025 08:00:25 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/04/23/sant-jordi/</guid>
+      <description>
+      &lt;p&gt;Avui, casualment, totes aquestes &lt;a href=&#34;https://inspira.l0fi.net/&#34;&gt;frases inspiradores&lt;/a&gt; tracten de llibres, escriure, escriptores i escriptors, Sant Jordi o el drac.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>La vida a l’ombra</title>
@@ -272,16 +282,6 @@ with every paper I delivered.&lt;/p&gt;&lt;/blockquote&gt;
       &lt;p&gt;Vivim o no vivim en una &lt;a href=&#34;https://carlesbellver.net/2018/02/21/philip-k-dick.html&#34;&gt;novel·la de Philip K. Dick&lt;/a&gt;?&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Més de 3.000 milions de coordenades telefòniques recollides per un tractant de dades nord-americà exposen en detall els moviments del personal de l’exèrcit i les agències d’intel·ligència dels EUA a Alemanya, i el Pentàgon no pot aturar-ho.&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2024/11/17/55884/</link>
-      <pubDate>Sun, 17 Nov 2024 16:06:22 +0100</pubDate>
-      <guid>https://carlesbellver.net/2024/11/17/55884/</guid>
-      <description>
-      &lt;p&gt;No veig motius per a tornar a caure en la trampa d’una xarxa social privada, com ara Bluesky. Però sí per a començar a enviar-hi còpia d’alguns dels meus missatges, així que estic actualitzant els meus &lt;em&gt;scripts&lt;/em&gt; amb l’ajuda d’&lt;a href=&#34;https://github.com/MarshalX/atproto&#34;&gt;atproto&lt;/a&gt; (AT Protocol SDK for Python).&lt;/p&gt;
 </description>
     </item>
     
