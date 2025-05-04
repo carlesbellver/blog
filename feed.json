@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/05/04/42302/",
+				
+				"content_html": "<p>Garsa i esperança (plaça del cometa Halley, Castelló de la Plana, amb el campanar de l’església de l’Esperança al fons).</p>\n<img alt=\"Foto amb la silueta d’una garsa parada damunt d’un senyal de trànsit, amb arbres i un campanar al fons\" src=\"/uploads/2025/2025-05-04-42302.jpg\">\n",
+				"date_published": "2025-05-04T09:05:24+02:00",
+				"url": "https://carlesbellver.net/2025/05/04/42302/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/04/30/96276/",
 				"title": "The Hallucinating ChatGPT Presidency",
 				"content_html": "<p>El test de Turing invers: hi ha persones (però el dubte és inevitable) que resulten indistingibles d’un model de llenguatge primitiu.</p>\n<blockquote>\n<p>[Donald Trump] contesta les preguntes d’una manera força similar a les primeres versions de ChatGPT. Els fets no importen, les opcions lingüístiques són un desastre, però estan dissenyades per presentar una resposta plausible a la pregunta…</p></blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p><em>Heroes</em> (1977) de David Bowie ja era un clàssic quan vaig comprar l’LP per correu en octubre de 1985. Jo encara no havia fet divuit anys. 449 pessetes + 110 per despeses d’enviament = 559 pessetes (3,36 €).</p>\n<img alt=\"\" src=\"/uploads/2024/2024-11-30-heroes.jpg\" alt=\"Imatge escanejada de l’albarà de Discoplay amb el número de comanda, la data 17.10.1985, el número de referència i el preu de l’LP Heroes de David Bowie.\">\n",
 				"date_published": "2024-11-30T06:35:26+01:00",
 				"url": "https://carlesbellver.net/2024/11/30/heroes/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/11/24/67419/",
-				"title": "AI PCs make users less productive due to learning curve",
-				"content_html": "<p>Intel vol vendre els seus PC preparats per a IA, però l’<a href=\"https://download.intel.com/newsroom/2024/client-computing/ai-pc-productivity-112024-report.pdf\">estudi</a> que va encarregar indica que als usuaris els costa entendre’s amb les eines i la seua productivitat empitjora.</p>\n",
-				"date_published": "2024-11-24T17:57:23+01:00",
-				"url": "https://carlesbellver.net/2024/11/24/67419/"
 			}
 	]
 }
