@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/05/22/21075/",
+				"title": "L’esmorzar o almorzar valencià, una tradició més que centenària",
+				"content_html": "<p>Esmorzar es deia originalment almorzar i continua sent correcte dir-ho així (no és cap castellanisme). També el sentit del mot ha anat canviant: tradicionalment era la primera menjada del dia, de bon matí, fins que es va popularitzar dir-ne desdejuni. Però no és que llavors fora tan comú poder almorzar o desdejunar gran cosa…</p>\n<blockquote>\n<p>En tot cas, qui podia sí que menjava més voltes, de la qual cosa s’escandalitzava cap al 1415 un altre gran moralista de l’època, Sant Vicent Ferrer, qui criticava el pas de dos a quatre àpats […]</p></blockquote>\n",
+				"date_published": "2025-05-22T15:43:52+00:00",
+				"url": "https://carlesbellver.net/2025/05/22/21075/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/05/15/25188/",
 				"title": "4chan Is Dead. Its Toxic Legacy Is Everywhere",
 				"content_html": "<blockquote>\n<p>Twitter va esdevenir 4chan i aleshores el Twitter <em>4chanitzat</em> va esdevenir el govern dels EUA. La seua utilitat com a munició en la guerra cultural es va reduir quan les coses que s’hi deien van començar a escoltar-se cada dia a Twitter i al cap de sis mesos eixien de la boca d’un representant de l’administració.</p></blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>En moltes parts del món, Whatsapp és sinònim d’Internet. Per a creadors de contingut nigerians, botiguers brasilers i ties índies, sovint és l'única aplicació que necessiten. Hi pots xatejar amb amics i família, assistir a classes, dirigir un negoci, estar al corrent de les notícies, comprar i fins i tot gestionar el compte bancari. Cada vegada més, és on la gent mira la televisió, reserva cites mèdiques i concerta cites.</p></blockquote>\n",
 				"date_published": "2024-12-11T19:16:50+01:00",
 				"url": "https://carlesbellver.net/2024/12/11/40984/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/12/05/no-fish/",
-				"title": "Quote Origin: I Regret To Report That There Is Surely No Such Thing as a Fish",
-				"content_html": "<p>Un <a href=\"https://en.wikipedia.org/wiki/Clade\">clade</a> és un grup d’organismes que comparteixen un avantpassat comú.</p>\n<blockquote>\n<p>Unes vint mil espècies de vertebrats tenen escates i aletes i viuen a l’aigua, però no formen un grup cladístic coherent. Alguns, els peixos pulmonats i el celacant en particular, són genealògicament propers a les criatures que es van arrossegar a terra ferma per esdevenir amfibis, rèptils, ocells i mamífers.</p></blockquote>\n",
-				"date_published": "2024-12-05T11:16:25+01:00",
-				"url": "https://carlesbellver.net/2024/12/05/no-fish/"
 			}
 	]
 }
