@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/05/27/72518/",
+				"title": "The Obama Sweden Toilet",
+				"content_html": "<blockquote>\n<p>Per motius de seguretat, quan el president dels Estats Units viatja, té un horari d'ús dels lavabos estrictament regulat. Se suposa que només ha d’utilitzar un lavabo portàtil especialment dissenyat que es transporta amb ell, i que els residus es guarden i es retornen a territori nord-americà abans de ser eliminats.</p></blockquote>\n<p>Però de vegades pot tenir una urgència. “El president Barack Obama va seure ací el 4 de setembre de 2013”.</p>\n",
+				"date_published": "2025-05-27T21:02:19+02:00",
+				"url": "https://carlesbellver.net/2025/05/27/72518/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/05/22/21075/",
 				"title": "L’esmorzar o almorzar valencià, una tradició més que centenària",
 				"content_html": "<p>Esmorzar es deia originalment almorzar i continua sent correcte dir-ho així (no és cap castellanisme). També el sentit del mot ha anat canviant: tradicionalment era la primera menjada del dia, de bon matí, fins que es va popularitzar dir-ne desdejuni. Però no és que llavors fora tan comú poder almorzar o desdejunar gran cosa…</p>\n<blockquote>\n<p>En tot cas, qui podia sí que menjava més voltes, de la qual cosa s’escandalitzava cap al 1415 un altre gran moralista de l’època, Sant Vicent Ferrer, qui criticava el pas de dos a quatre àpats […]</p></blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>S’ha parlat molt de la superioritat moral de l’esquerra, però la del centre què?</p>\n<img alt=\"Fotografia en color del rètol d’un negoci d’estètica en el qual ha caigut una lletra. Diu en castellà: “Centro es ético”.\" src=\"/uploads/2024/2024-12-13-centre-etic.jpg\">\n",
 				"date_published": "2024-12-13T11:00:45+01:00",
 				"url": "https://carlesbellver.net/2024/12/13/centre-etic/"
-			},
-			{
-				"id": "https://carlesbellver.net/2024/12/11/40984/",
-				"title": "How WhatsApp became an unstoppable global cultural force",
-				"content_html": "<blockquote>\n<p>En moltes parts del món, Whatsapp és sinònim d’Internet. Per a creadors de contingut nigerians, botiguers brasilers i ties índies, sovint és l'única aplicació que necessiten. Hi pots xatejar amb amics i família, assistir a classes, dirigir un negoci, estar al corrent de les notícies, comprar i fins i tot gestionar el compte bancari. Cada vegada més, és on la gent mira la televisió, reserva cites mèdiques i concerta cites.</p></blockquote>\n",
-				"date_published": "2024-12-11T19:16:50+01:00",
-				"url": "https://carlesbellver.net/2024/12/11/40984/"
 			}
 	]
 }
