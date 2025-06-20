@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/06/20/ia-pareidolia/",
+				"title": "L’IA e la pareidolia semantica: quando vediamo coscienza dove non c’è",
+				"content_html": "<p>De la mateixa manera que veiem cares on no n’hi ha (<a href=\"https://ca.wikipedia.org/wiki/Pareidolia\">pareidolia</a>), diu Luciano Floridi parlant d’Intel·ligència Artificial que tendim a percebre “intencionalitat on només hi ha estadística, significat on només hi ha correlació, comprensió on només hi ha coincidència de patrons a escala gegantina”.</p>\n<blockquote>\n<p>…com a societat, tenim el deure de desenvolupar els anticossos culturals necessaris per navegar un món on la pareidolia semàntica esdevindrà cada vegada més comuna i seductora.</p></blockquote>\n",
+				"date_published": "2025-06-20T10:35:39+02:00",
+				"url": "https://carlesbellver.net/2025/06/20/ia-pareidolia/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/05/30/09932/",
 				"title": "CIA 2010 covert communication websites (Iran, China)",
 				"content_html": "<p>Cap a l’any 2010, la CIA utilitzava una xarxa de webs falses per a comunicar-se amb els seus informants en alguns països. Tenien l’aparença de pàgines de fans de <em>Star Wars</em> o altres temàtiques permissibles, però introduint una contrasenya en el camp de cerques s’accedia a la part privada. A més a més d’Iran i Xina com a objectius principals, la llengua i el contingut d’alguns dels llocs apuntaria també a Espanya, França, Alemanya i Brasil.</p>\n<p>Webs (difuntes) vinculades a Espanya:</p>\n<ul>\n<li><a href=\"https://web.archive.org/web/20110210112553/http://armashoy.com/\">armashoy(punto)com</a></li>\n<li><a href=\"https://web.archive.org/web/20120429042725/http://montanismoaventura.com/\">montanismoaventura(punto)com</a></li>\n<li><a href=\"http://cqcounter.com/whois/www/ordenpolicial.com.html\">ordenpolicial(punto)com</a></li>\n</ul>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Fa més de dos mil milions d’anys, Mart va perdre atmosfera i aigua, si fa no fa al mateix temps que a la terra començava la <a href=\"https://ca.wikipedia.org/wiki/Cat%C3%A0strofe_de_l%27oxigen\">Gran Oxidació</a>. Potser un asteroide va devastar el planeta roig i va fer caure al nostre tot d’enderrocs carregats de restes bioquímiques. O potser, només com a hipòtesi imaginativa i improbable, una civilització marciana afrontava el seu final i va decidir <a href=\"https://ca.wikipedia.org/wiki/Terraformaci%C3%B3\"><em>terraformar</em></a> la Terra per traslladar-s’hi.</p>\n<blockquote>\n<p>Si al Mart primordial haguera existit una civilització tecnològica avançada, segurament hi hauria hagut una versió marciana d’Elon Musk que hauria fundat una empresa marciana, diguem-ne SpaceY, amb l’objectiu de portar els marcians a la Terra.</p></blockquote>\n",
 				"date_published": "2025-01-12T10:40:56+01:00",
 				"url": "https://carlesbellver.net/2025/01/12/earth-terraformed-by-martians/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/01/04/76198/",
-				"title": "‘Masterful’ novelist David Lodge dies aged 89",
-				"content_html": "<p>Les seues novel·les —<em>The British Museum Is Falling Down</em>, la trilogia del campus i tantes altres— em van alegrar moltes estones quan més ho necessitava. Ara vindrà el moment de rellegir-les. Descanse en pau David Lodge.</p>\n",
-				"date_published": "2025-01-04T08:38:14+01:00",
-				"url": "https://carlesbellver.net/2025/01/04/76198/"
 			}
 	]
 }
