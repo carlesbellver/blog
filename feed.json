@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/06/22/16370/",
+				
+				"content_html": "<p>Com a escriptor, col·leccione negatives editorials. En tinc ja un fum, però no us penseu que m’ha resultat tan i tan fàcil, perquè la majoria de les editorials solen ser poc comunicatives i tendeixen a no contestar els correus, ni positivament ni negativament (dret al silenci que cal respectar i no confondre amb la mala educació).</p>\n<p>Així que si coneixeu algun segell (crec que en diuen així) que puga estar disposat a rebutjar el meu nou llibre de contes, us agrairé que me’n passeu el contacte.</p>\n",
+				"date_published": "2025-06-22T20:20:07+02:00",
+				"url": "https://carlesbellver.net/2025/06/22/16370/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/06/20/ia-pareidolia/",
 				"title": "L’IA e la pareidolia semantica: quando vediamo coscienza dove non c’è",
 				"content_html": "<p>De la mateixa manera que veiem cares on no n’hi ha (<a href=\"https://ca.wikipedia.org/wiki/Pareidolia\">pareidolia</a>), diu Luciano Floridi parlant d’Intel·ligència Artificial que tendim a percebre “intencionalitat on només hi ha estadística, significat on només hi ha correlació, comprensió on només hi ha coincidència de patrons a escala gegantina”.</p>\n<blockquote>\n<p>…com a societat, tenim el deure de desenvolupar els anticossos culturals necessaris per navegar un món on la pareidolia semàntica esdevindrà cada vegada més comuna i seductora.</p></blockquote>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Em queden moltes ganes d’escriure i molt poques de continuar intentant que alguna editorial em publique un nou llibre.</p>\n<blockquote>\n<p>Hi ha una pau meravellosa en no publicar.</p></blockquote>\n<p>—<a href=\"https://carlesbellver.net/2018/04/17/the-new-york.html\">J. D. Salinger</a></p>\n",
 				"date_published": "2025-01-24T23:55:55+01:00",
 				"url": "https://carlesbellver.net/2025/01/24/no-publicar/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/01/12/earth-terraformed-by-martians/",
-				"title": "Was Earth Terraformed by Martians?",
-				"content_html": "<p>Fa més de dos mil milions d’anys, Mart va perdre atmosfera i aigua, si fa no fa al mateix temps que a la terra començava la <a href=\"https://ca.wikipedia.org/wiki/Cat%C3%A0strofe_de_l%27oxigen\">Gran Oxidació</a>. Potser un asteroide va devastar el planeta roig i va fer caure al nostre tot d’enderrocs carregats de restes bioquímiques. O potser, només com a hipòtesi imaginativa i improbable, una civilització marciana afrontava el seu final i va decidir <a href=\"https://ca.wikipedia.org/wiki/Terraformaci%C3%B3\"><em>terraformar</em></a> la Terra per traslladar-s’hi.</p>\n<blockquote>\n<p>Si al Mart primordial haguera existit una civilització tecnològica avançada, segurament hi hauria hagut una versió marciana d’Elon Musk que hauria fundat una empresa marciana, diguem-ne SpaceY, amb l’objectiu de portar els marcians a la Terra.</p></blockquote>\n",
-				"date_published": "2025-01-12T10:40:56+01:00",
-				"url": "https://carlesbellver.net/2025/01/12/earth-terraformed-by-martians/"
 			}
 	]
 }
