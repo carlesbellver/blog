@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: Llibres per correu (i RSS)</title>
+<meta name="author" content="Carles Bellver Torlà">
+<meta name="description" content="">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1751130056" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color:#6699ff;
+--link-state-color:#cc99ff;
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1751130056" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1751130056" />
+
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="Llibres per correu (i RSS)"/>
+<meta property="og:description" content="Des de 1992, m’he interessat pel potencial de les eines d’Internet en la creació literària i la creativitat en general. Aquest prototip de plataforma de distribució de llibres per correu i RSS és el meu experiment més recent en aquest àmbit. Es podria considerar, potser, un intent de traslladar a les tecnologies digitals del segle XXI els clàssics fulletons seriats del XIX. Cadascú es pot subscriure a un llibre en el moment que vulga i començar a rebre un capítol al dia." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/2025/06/28/llibres-per-correu/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2025-06-28T18:54:11+02:00" />
+<meta property="article:modified_time" content="2025-06-28T18:54:11+02:00" />
+
+<meta property="article:section" content="posts" />
+<meta property="article:tag" content="retalls" />
+
+<meta name="twitter:title" content="Llibres per correu (i RSS)"/>
+<meta name="twitter:description" content="Des de 1992, m’he interessat pel potencial de les eines d’Internet en la creació literària i la creativitat en general. Aquest prototip de plataforma de distribució de llibres per correu i RSS és el meu experiment més recent en aquest àmbit. Es podria considerar, potser, un intent de traslladar a les tecnologies digitals del segle XXI els clàssics fulletons seriats del XIX. Cadascú es pot subscriure a un llibre en el moment que vulga i començar a rebre un capítol al dia."/>
+
+
+
+
+<meta name="page-source-path" content="posts/2025-06-28-llibres-per-correu.md">
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    
+    <article class="post retalls h-entry">
+
+          
+      <ul class="post-navigation">
+        
+          <li>
+          
+            <a href="https://carlesbellver.net/" title="Inici">Inici</a>
+          
+          </li>
+        
+        
+      </ul>
+    
+
+
+      <header class="post-header"><h1 class="post-title external"><img src="https://carlesbellver.net/svg.icons/link.svg"> <a href="https://po.l0fi.net">Llibres per correu (i RSS)</a></h1>
+
+      
+      
+      
+      
+      
+
+      </header>
+            
+      <div class="content e-content">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Des de 1992, m’he interessat pel potencial de les eines d’Internet en la creació literària i la creativitat en general. Aquest <a href="https://po.l0fi.net">prototip</a> de plataforma de distribució de llibres per correu i RSS és el meu <a href="https://carlesbellver.net/taller/">experiment</a> més recent en aquest àmbit. Es podria considerar, potser, un intent de traslladar a les tecnologies digitals del segle XXI els clàssics <a href="https://ca.wikipedia.org/wiki/Fullet%C3%B3_(novel%C2%B7la)">fulletons seriats</a> del XIX. Cadascú es pot subscriure a un llibre en el moment que vulga i començar a rebre un capítol al dia.</p>
+<p>(La idea, òbviament, no ha estat meua. La vaig descobrir fa anys esbossada en algun blog o fòrum anglosaxó i em va encuriosir de seguida, però no havia trobat fins ara el moment d’implementar-la.)</p>
+<p>Després d’un parell de mesos en proves, la meua impressió és que l’invent funciona millor amb llibres que consten de capítols molt breus, tant si són completament independents uns d’altres com si estan connectats. Almenys per a mi és així. La selecció actual de continguts és un reflex d’aquesta preferència:</p>
+<ul>
+<li><a href="https://po.l0fi.net/books/eljoc"><em>El joc més fascinant</em></a>. Part del darrer llibre que he escrit, per al qual no he trobat (encara) cap editorial interessada a publicar-lo. Un relat bastant llarg dividit en trenta-un capítols breus.</li>
+<li><a href="https://po.l0fi.net/books/unicorns"><em>Unicorns</em></a>. Seixanta-quatre proses minúscules, de 1.024 caràcters exactes cada una, pretesament escrites fa més de trenta anys amb un Sinclair ZX81 d’una memòria RAM d’1 KB. Un experiment dins d’un experiment, doncs. Inèdit en paper.</li>
+<li><a href="https://po.l0fi.net/books/uncelnouiunaterranova"><em>Un cel nou i una terra nova</em></a>. La primera part del llibre amb què vaig guanyar el Premi de Narrativa Breu Josep Pascual Tirado el 2015. Una comèdia metafísica, delicadament apocalíptica, en vint-i-un capítols.</li>
+<li><a href="https://po.l0fi.net/books/vuitsomnis"><em>Set somnis d’escriptors i un d’una escriptora</em></a>. La segona part del mateix llibre. Vuit proses breus evocadores d’alguns dels meus autors —i una autora— predilectes.</li>
+</ul>
+
+
+        
+      </div>
+      
+          
+
+      
+      
+
+
+<ul class="post-info">
+    
+      <li><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendar" /> <a class="u-url" href="https://carlesbellver.net/2025/06/28/llibres-per-correu/"><span class="post-date dt-published">2025-06-28</span></a></li>
+      
+      <li><ul class="post-tags"><li><img class="icon" src="https://carlesbellver.net//svg.icons/tag.svg" alt="tag" /> <a href="https://carlesbellver.net/tags/retalls">retalls</a></li> </ul></li>
+      
+      
+      <li><a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2f2025%2f06%2f28%2fllibres-per-correu%2f&text=Llibres%20per%20correu%20%28i%20RSS%29" title="Compartir aquesta pàgina"><img class="icon" src="https://carlesbellver.net//svg.icons/share_openly.svg" alt="icona de compartir" />️</a> <a href="https://shareopenly.org/share/?url=https%3a%2f%2fcarlesbellver.net%2f2025%2f06%2f28%2fllibres-per-correu%2f&text=Llibres%20per%20correu%20%28i%20RSS%29" title="Compartir aquesta pàgina">Compartir</a></li>
+      <li><a href="mailto:carles@carlesbellver.net?subject=Re:%20Llibres%20per%20correu%20%28i%20RSS%29&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2f2025%2f06%2f28%2fllibres-per-correu%2f" title="Contestar a l’autor per correu"><img class="icon" src="https://carlesbellver.net//svg.icons/email.svg" alt="icona de correu" />️</a> <a href="mailto:carles@carlesbellver.net?subject=Re:%20Llibres%20per%20correu%20%28i%20RSS%29&body=%0A%0Ahttps%3a%2f%2fcarlesbellver.net%2f2025%2f06%2f28%2fllibres-per-correu%2f" title="Contestar a l’autor per correu">Contestar</a></li>
+    
+</ul>
+
+    
+
+
+
+
+
+    </article>
+    
+    
+
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2025
+        </p>  
+        </div>
+
+    </div>
+</footer>
+
+        
+                
+    </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

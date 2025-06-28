@@ -6,10 +6,28 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Fri, 20 Jun 2025 10:35:39 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 18:54:11 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Llibres per correu (i RSS)</title>
+      <link>https://carlesbellver.net/2025/06/28/llibres-per-correu/</link>
+      <pubDate>Sat, 28 Jun 2025 18:54:11 +0200</pubDate>
+      
+      <guid>https://carlesbellver.net/2025/06/28/llibres-per-correu/</guid>
+      <description>&lt;p&gt;Des de 1992, m’he interessat pel potencial de les eines d’Internet en la creació literària i la creativitat en general. Aquest &lt;a href=&#34;https://po.l0fi.net&#34;&gt;prototip&lt;/a&gt; de plataforma de distribució de llibres per correu i RSS és el meu &lt;a href=&#34;https://carlesbellver.net/taller/&#34;&gt;experiment&lt;/a&gt; més recent en aquest àmbit. Es podria considerar, potser, un intent de traslladar a les tecnologies digitals del segle XXI els clàssics &lt;a href=&#34;https://ca.wikipedia.org/wiki/Fullet%C3%B3_(novel%C2%B7la)&#34;&gt;fulletons seriats&lt;/a&gt; del XIX. Cadascú es pot subscriure a un llibre en el moment que vulga i començar a rebre un capítol al dia.&lt;/p&gt;
+&lt;p&gt;(La idea, òbviament, no ha estat meua. La vaig descobrir fa anys esbossada en algun blog o fòrum anglosaxó i em va encuriosir de seguida, però no havia trobat fins ara el moment d’implementar-la.)&lt;/p&gt;
+&lt;p&gt;Després d’un parell de mesos en proves, la meua impressió és que l’invent funciona millor amb llibres que consten de capítols molt breus, tant si són completament independents uns d’altres com si estan connectats. Almenys per a mi és així. La selecció actual de continguts és un reflex d’aquesta preferència:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://po.l0fi.net/books/eljoc&#34;&gt;&lt;em&gt;El joc més fascinant&lt;/em&gt;&lt;/a&gt;. Part del darrer llibre que he escrit, per al qual no he trobat (encara) cap editorial interessada a publicar-lo. Un relat bastant llarg dividit en trenta-un capítols breus.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://po.l0fi.net/books/unicorns&#34;&gt;&lt;em&gt;Unicorns&lt;/em&gt;&lt;/a&gt;. Seixanta-quatre proses minúscules, de 1.024 caràcters exactes cada una, pretesament escrites fa més de trenta anys amb un Sinclair ZX81 d’una memòria RAM d’1 KB. Un experiment dins d’un experiment, doncs. Inèdit en paper.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://po.l0fi.net/books/uncelnouiunaterranova&#34;&gt;&lt;em&gt;Un cel nou i una terra nova&lt;/em&gt;&lt;/a&gt;. La primera part del llibre amb què vaig guanyar el Premi de Narrativa Breu Josep Pascual Tirado el 2015. Una comèdia metafísica, delicadament apocalíptica, en vint-i-un capítols.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://po.l0fi.net/books/vuitsomnis&#34;&gt;&lt;em&gt;Set somnis d’escriptors i un d’una escriptora&lt;/em&gt;&lt;/a&gt;. La segona part del mateix llibre. Vuit proses breus evocadores d’alguns dels meus autors —i una autora— predilectes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>L’IA e la pareidolia semantica: quando vediamo coscienza dove non c’è</title>
