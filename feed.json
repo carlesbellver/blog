@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/07/04/flesh-computer/",
+				"title": "You Can Now Rent a Flesh Computer Grown in a British Lab",
+				"content_html": "<blockquote>\n<p>Cada CL1 es compon de 800.000 neurones que creixen en un xip de silici, més el seu sistema de suport vital. Tot i que encara no pot igualar les capacitats dels ordinadors més potents d’avui dia, té un avantatge molt significatiu… un rack de CL1 només utilitza 1.000 watts i és capaç d’adaptar-se naturalment i aprendre en temps real.</p></blockquote>\n<blockquote>\n<p>Aquestes neurones informàtiques es cultiven a partir de mostres de pell i sang aportades per donants humans adults.</p></blockquote>\n",
+				"date_published": "2025-07-04T17:20:05+02:00",
+				"url": "https://carlesbellver.net/2025/07/04/flesh-computer/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/06/28/llibres-per-correu/",
 				"title": "Llibres per correu (i RSS)",
 				"content_html": "<p>Des de 1992, m’he interessat pel potencial de les eines d’Internet en la creació literària i la creativitat en general. Aquest <a href=\"https://po.l0fi.net\">prototip</a> de plataforma de distribució de llibres per correu i RSS és el meu <a href=\"/taller/\">experiment</a> més recent en aquest àmbit. Es podria considerar, potser, un intent de traslladar a les tecnologies digitals del segle XXI els clàssics <a href=\"https://ca.wikipedia.org/wiki/Fullet%C3%B3_(novel%C2%B7la)\">fulletons seriats</a> del XIX. Cadascú es pot subscriure a un llibre en el moment que vulga i començar a rebre un capítol al dia.</p>\n<p>(La idea, òbviament, no ha estat meua. La vaig descobrir fa anys esbossada en algun blog o fòrum anglosaxó i em va encuriosir de seguida, però no havia trobat fins ara el moment d’implementar-la.)</p>\n<p>Després d’un parell de mesos en proves, la meua impressió és que l’invent funciona millor amb llibres que consten de capítols molt breus, tant si són completament independents uns d’altres com si estan connectats. Almenys per a mi és així. La selecció actual de continguts és un reflex d’aquesta preferència:</p>\n<ul>\n<li><a href=\"https://po.l0fi.net/books/eljoc\"><em>El joc més fascinant</em></a>. Part del darrer llibre que he escrit, per al qual no he trobat (encara) cap editorial interessada a publicar-lo. Un relat bastant llarg dividit en trenta-un capítols breus.</li>\n<li><a href=\"https://po.l0fi.net/books/unicorns\"><em>Unicorns</em></a>. Seixanta-quatre proses minúscules, de 1.024 caràcters exactes cada una, pretesament escrites fa més de trenta anys amb un Sinclair ZX81 d’una memòria RAM d’1 KB. Un experiment dins d’un experiment, doncs. Inèdit en paper.</li>\n<li><a href=\"https://po.l0fi.net/books/uncelnouiunaterranova\"><em>Un cel nou i una terra nova</em></a>. La primera part del llibre amb què vaig guanyar el Premi de Narrativa Breu Josep Pascual Tirado el 2015. Una comèdia metafísica, delicadament apocalíptica, en vint-i-un capítols.</li>\n<li><a href=\"https://po.l0fi.net/books/vuitsomnis\"><em>Set somnis d’escriptors i un d’una escriptora</em></a>. La segona part del mateix llibre. Vuit proses breus evocadores d’alguns dels meus autors —i una autora— predilectes.</li>\n</ul>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>But February made me shiver<br>\nwith every paper I delivered.</p></blockquote>\n<p>—<a href=\"https://en.wikipedia.org/wiki/American_Pie_%28song%29\"><em>American Pie</em></a></p>\n",
 				"date_published": "2025-02-01T20:57:41+01:00",
 				"url": "https://carlesbellver.net/2025/02/01/39831/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/01/25/33636/",
-				
-				"content_html": "<p>A la matinada no podia dormir i mirava per la finestra una <a href=\"https://www.n2yo.com/satellite/?s=28059\">secció d’un coet xinès</a> llançat a l’espai el 2003. Parpellejant com un estel, però amb més intensitat i desplaçant-se cel amunt.</p>\n",
-				"date_published": "2025-01-25T20:34:51+01:00",
-				"url": "https://carlesbellver.net/2025/01/25/33636/"
 			}
 	]
 }
