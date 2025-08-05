@@ -17,7 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1753617612" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1754416094" />
 <style>
 
     [data-theme="dark"] {   
@@ -55,9 +55,9 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1753617612" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1754416094" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1753617612" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1754416094" />
 
 <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
 <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
@@ -346,7 +346,7 @@ Alguns van rebutjar les proves completament, dient que el coneixement que té ca
           </div>
           <div class="details">
             <a class="name" href="${toot.account.url}" rel="nofollow">${toot.account.display_name}</a>
-            <a class="date" href="${toot.url}" rel="nofollow">${toot.created_at.substr(0, 10)} ${toot.created_at.substr(11, 8)}</a>
+            <a class="date" href="${toot.account.url}" rel="nofollow" target="_blank">${new Date(toot.created_at).toLocaleDateString()} ${new Date(toot.created_at).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</a>
           </div>
           
         </div>
