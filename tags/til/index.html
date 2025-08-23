@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+    
+        
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: TIL</title>
+<meta name="author" content="Carles Bellver Torlà">
+<meta name="description" content="">
+
+<link rel="alternate" type="application/rss+xml" href="https://carlesbellver.net/tags/til/feed.xml" title="La vista cansada" />
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1755982070" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #212121;
+
+--link-color:#6699ff;
+--link-state-color:#cc99ff;
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1755982070" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1755982070" />
+
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="TIL"/>
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://carlesbellver.net/tags/til/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="og:updated_time" content="2025-08-23T22:47:25+02:00" />
+
+<meta name="twitter:title" content="TIL"/>
+<meta name="twitter:description" content=""/>
+
+
+
+
+
+
+
+
+<script src="https://carlesbellver.net//js/menu.js"></script>
+
+
+    
+</head>
+<body>
+    <a class="skip-main" href="#main">Principal</a>
+    <header class="common-header"> 
+      
+        <nav>
+  <div id="quickctrl">
+    <a id="openquicklinks" onclick="menuOpen()"><svg viewBox="0 0 24 24" width="24" height="24"><rect y="10" width="24" height="1"></rect><rect y="16" width="24" height="1"></rect><rect y="22" width="24" height="1"></rect></svg></a>
+    <a id="closequicklinks" style="display:none" onclick="menuClose()"><svg viewBox="0 0 24 24" width="24" height="24"><line x1="6" y1="12" x2="17" y2="23" stroke-width="2" /><line x1="6" y1="23" x2="17" y2="12" stroke-width="2" /></svg></a>
+  </div>
+  <div id="quicklinks">
+    <a class="h-card" rel="me" href="https://carlesbellver.net/">Carles Bellver Torlà</a>
+    
+      
+      
+        <a href="https://carlesbellver.net/onthisday/" title="">Tal dia com avui</a>
+      
+        <a href="https://carlesbellver.net/llibres/" title="">Llibres</a>
+      
+        <a href="https://carlesbellver.net/taller/" title="">Experiments</a>
+      
+        <a href="https://carlesbellver.net/photos/" title="">Fotos</a>
+      
+        <a href="https://carlesbellver.net/archive/" title="">Cercar</a>
+      
+    
+    
+
+    
+
+
+
+    <a class="theme-switcher">Fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+
+  </div>
+</nav>
+
+      
+    </header>
+    <div class="container">
+        <main id="main" tabindex="-1"> 
+            
+    <article class="post special post-list h-entry">
+        <header class="post-header">
+            <h1 class="post-title p-name"><img class="icon" src="https://carlesbellver.net/svg.icons/tag.svg" /> TIL</h1>
+            
+        </header>
+    	
+          	
+    <div class="h-entry">
+      <div class="post-list-item-date">
+        <a href="https://carlesbellver.net/2025/08/23/82045/" class="dt-published" title="Enllaç permanent"><span class="dt-published" datetime="2025-08-23T22:47:25&#43;0200">2025-08-23</span></a>
+      </div>
+      <div class="post-list-item-type">
+        <a href="https://carlesbellver.net/2025/08/23/82045/"><img class="inline" src="https://carlesbellver.net/svg.icons/edit.svg" /></a>
+        </div>
+      <div class="post-list-item-title">
+        
+          <span class="p-summary">Avui m’he assabentat que Evelyn Waugh va escriure un final alternatiu de la seua novel·la A Handful of Dust quan es va publicar en forma seriada en una revista dels EUA. El capítol sisè original ja havia estat publicat anteriorment com a relat breu independent amb el títol “The Man Who Liked Dickens” i va caldre —o l’autor va preferir- substituir-lo. El nou final era relativament feliç, en comparació amb el del llibre, i sobretot més convencional.
+</span> <a href="https://carlesbellver.net/2025/08/23/82045/" class="more">[+]</a>
+        
+      </div>
+    </div>
+
+        
+    </article>
+
+        </main>
+        
+        
+        
+            <footer class="common-footer">
+
+    <div class="common-footer-bottom">
+        
+        <div class="copyright">
+          <p>
+            
+              <a href="https://carlesbellver.net/about/">Carles Bellver Torlà</a> 
+              2002 - 2025
+        </p>  
+        </div>
+
+    </div>
+</footer>
+
+        
+                
+    </div>
+    <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

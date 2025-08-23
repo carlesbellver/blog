@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/08/23/82045/",
+				
+				"content_html": "<p>Avui m’he assabentat que Evelyn Waugh va escriure un final alternatiu de la seua novel·la <a href=\"https://en.wikipedia.org/wiki/A_Handful_of_Dust\"><em>A Handful of Dust</em></a> quan es va publicar en forma seriada en una revista dels EUA. El capítol sisè original ja havia estat publicat anteriorment com a relat breu independent amb el títol “The Man Who Liked Dickens” i va caldre —o l’autor va preferir- substituir-lo. El nou final era relativament feliç, en comparació amb el del llibre, i sobretot més convencional.</p>\n",
+				"date_published": "2025-08-23T22:47:25+02:00",
+				"url": "https://carlesbellver.net/2025/08/23/82045/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/08/22/perucho-porter-dimoni/",
 				
 				"content_html": "<blockquote>\n<ol start=\"13\">\n<li>Jo no faig literatura sobre la vida sinó literatura sobre la literatura. La vida normal m’interessa per viure-la i gaudir-ne, m’agrada menjar, nedar… Però el que realment m’agrada és la poesia, el misteri, tot allò que s’escapa de la realitat immediata. Que el Pedrolo em parlés d’un senyor que era porter i s’enamorava m’és igual, això passa cada dia. El que no passa cada dia és que obris una porta i t’aparegui el dimoni.</li>\n</ol></blockquote>\n<p>—<a href=\"https://www.catorze.cat/lectura/perucho-i-la-malediccio-poetica_141673_102.html\">Perucho i la maledicció poètica</a></p>\n<p>Jo no faig literatura sobre la literatura —encara que, superficialment, ho puga parèixer—, sinó literatura sobre la vida. Qui no haja topat mai el dimoni en obrir-se una porta, ja pot donar gràcies de la sort que ha tingut. O fer-ser mirar la seua candidesa: bé que ho sabia, Perucho, això. En canvi, no crec que siga tan comú que un porter s’enamore. Hi ha pocs porters, avui en dia. Un porter seria a hores d’ara quasi tan fantàstic com el dimoni, si més no.</p>\n<img src=\"/uploads/2025/2025-08-22-nosferatu.jpg\" alt=\"Fotograma de la pel·lícula Nosferatu, de 1922, amb el vampir al llindar d’una porta.\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>Les xarxes socials impulsen [al Regne Unit] la demanda de productes nord-americans amb additius prohibits, relacionats amb el càncer i trastorns de la personalitat.</p></blockquote>\n",
 				"date_published": "2025-03-02T09:35:43+00:00",
 				"url": "https://carlesbellver.net/2025/03/02/86263/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/03/01/95552/",
-				
-				"content_html": "<blockquote>\n<p>—Les circumstàncies estranyes del món són moltes —digué en Mithràndir—, i l’ajut ve tot sovint de les mans dels febles quan els savis fallen.</p></blockquote>\n<p>—J. R. R. Tolkien (“Dels anells de poder i de la Tercera Edat”, dins <em>El Silmaríl·lion</em>)</p>\n",
-				"date_published": "2025-03-01T11:24:47+00:00",
-				"url": "https://carlesbellver.net/2025/03/01/95552/"
 			}
 	]
 }
