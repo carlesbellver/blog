@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/08/24/67273/",
+				
+				"content_html": "<p>Avui he après a configurar un <a href=\"https://linuxize.com/post/how-to-setup-ssh-tunneling/\">túnel SSH</a> en el shell de macOS, <a href=\"https://cyberduck.io\">Cyberduck</a> i <a href=\"https://secureshellfish.app/\">ShellFish</a>.</p>\n",
+				"date_published": "2025-08-24T22:27:53+02:00",
+				"url": "https://carlesbellver.net/2025/08/24/67273/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/08/23/82045/",
 				
 				"content_html": "<p>Avui m’he assabentat que Evelyn Waugh va escriure un final alternatiu de la seua novel·la <a href=\"https://en.wikipedia.org/wiki/A_Handful_of_Dust\"><em>A Handful of Dust</em></a> quan es va publicar en forma seriada en una revista dels EUA. El capítol sisè original ja havia estat publicat anteriorment com a relat breu independent amb el títol <em>“The Man Who Liked Dickens”</em> i va caldre —o l’autor va preferir- substituir-lo. El nou final era relativament feliç, en comparació amb el del llibre, i sobretot més convencional.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Un <a href=\"https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php\">estudi</a> de la Universitat de Colúmbia adverteix que les IA generatives proporcionen una majoria de fonts inventades quan se’ls demanen notícies actuals, encara que estiguen fent cerques web en temps real. S’inventen fins i tot els URL.</p>\n<blockquote>\n<p>Sorprenentment, les versions de pagament funcionen encara pitjor en certs aspectes. Perplexity Pro (20 $/mes) i el servei prèmium de Grok 3 (40 $/mes) van oferir respostes incorrectes més sovint que les versions gratuïtes.</p></blockquote>\n",
 				"date_published": "2025-03-14T10:17:31+01:00",
 				"url": "https://carlesbellver.net/2025/03/14/43811/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/03/02/86263/",
-				"title": "Illegal imported sweets ‘flooding UK high streets’, councils say",
-				"content_html": "<blockquote>\n<p>Les xarxes socials impulsen [al Regne Unit] la demanda de productes nord-americans amb additius prohibits, relacionats amb el càncer i trastorns de la personalitat.</p></blockquote>\n",
-				"date_published": "2025-03-02T09:35:43+00:00",
-				"url": "https://carlesbellver.net/2025/03/02/86263/"
 			}
 	]
 }
