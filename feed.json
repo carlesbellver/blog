@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/08/26/40208/",
+				
+				"content_html": "<p>Avui he après els diversos noms d’<a href=\"https://ca.wikipedia.org/wiki/Pyrrhocoris_apterus\">aquest insecte</a> que últimament sol visitar el pis dels meus pares.</p>\n<blockquote>\n<p>Els pirrocòrids reben diversos noms comuns, entre d'altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.</p></blockquote>\n",
+				"date_published": "2025-08-26T22:30:08+02:00",
+				"url": "https://carlesbellver.net/2025/08/26/40208/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/08/25/53806/",
 				
 				"content_html": "<p>Avui he llegit, en un text del Nobel de literatura Eugenio Montale, que el rei Leopold II de Bèlgica va rebre el malnom de <em>Cléopold</em> per la seua afecció a la ballerina francesa <a href=\"https://en.wikipedia.org/wiki/Cl%C3%A9o_de_M%C3%A9rode\">Cléo de Mérode</a>, primera <em>celebrity</em> de la història segons la Wikipedia.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Avui s’acaba la tretzena setmana de l’any. Des que va començar 2025, estic escrivint cada setmana un conte o microconte d’unes tres-centes a sis-centes paraules. Com a inspiració, o excusa per a engegar la imaginació, em serveixen aquelles <a href=\"https://inspira.l0fi.net/\">frases d’exemple del DIEC</a>, tretes de context, que he anat recollint mitjançant un script. En tinc més de vint mil en una base de dades.</p>\n",
 				"date_published": "2025-03-30T13:40:16+02:00",
 				"url": "https://carlesbellver.net/2025/03/30/34787/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/03/23/llibres-correu/",
-				"title": "Llibres per correu",
-				"content_html": "<p>L’experiment d’enguany: subscripció a llibres per correu o RSS. En fase beta. Si tot va bé, un capítol cada dia a la vostra bústia. De moment, dos títols disponibles: <a href=\"/contes/unicorns\"><em>Unicorns</em></a> (2020) i <a href=\"/llibres/uncelnouiunaterranova\"><em>Un cel nou i una terra nova</em></a> (2015).</p>\n",
-				"date_published": "2025-03-23T19:37:30+01:00",
-				"url": "https://carlesbellver.net/2025/03/23/llibres-correu/"
 			}
 	]
 }
