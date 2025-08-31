@@ -6,6 +6,13 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2025/08/31/adeu-agost/",
+        "date_published": "2025-08-31T08:32:09+02:00",
+        "url": "/2025/08/31/adeu-agost/",
+        "image": "https://carlesbellver.net/uploads/2025/2025-08-31-adeu-agost.jpg",
+        "content_text": "Adeu a l’agost.\n"
+    },
+    {
         "id": "/2025/07/21/oftalmologia/",
         "date_published": "2025-07-21T12:15:12+02:00",
         "url": "/2025/07/21/oftalmologia/",
