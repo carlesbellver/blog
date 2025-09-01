@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/09/01/50490/",
+				"title": "Emilio Santiago, antropólogo: “Podemos reducir nuestro impacto en el planeta y llevar una vida de lujo”",
+				"content_html": "<p>Per un ecologisme hedonista.</p>\n<blockquote>\n<p>No podemos realizar la transformación que el ecologismo busca ni desde la culpa ni desde el sacrificio. Tenemos que hacerlo disputando la idea de deseo y ofreciendo horizontes de transformación que sean estimulantes, que sean ilusionantes, que sean excitantes.</p></blockquote>\n",
+				"date_published": "2025-09-01T20:15:24+02:00",
+				"url": "https://carlesbellver.net/2025/09/01/50490/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/08/31/adeu-agost/",
 				
 				"content_html": "<p>Adeu a l’agost.</p>\n<img alt=\"Fotografia en color de la muralla de Morella des de l’exterior del nucli urbà (extramurs), amb un campanar al fons rere la muralla, gespa seca en primer pla i un arbre solitari sota un cel blau amb alguns núvols.\" src=\"/uploads/2025/2025-08-31-adeu-agost.jpg\">\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>L’urbanisme de la modernitat va posar el Sol al centre. Però els perills d’exposar-s'hi excessivament, agreujats per la crisi climàtica, imposen repensar l’arquitectura i l’espai públic des de l’ombra.</p></blockquote>\n",
 				"date_published": "2025-04-13T20:36:16+02:00",
 				"url": "https://carlesbellver.net/2025/04/13/69365/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/04/11/96219/",
-				"title": "Fake job seekers use AI to interview for remote jobs, tech CEOs say",
-				"content_html": "<blockquote>\n<p>Les empreses s’enfronten a una nova amenaça: sol·licitants de feina que no són qui diuen ser, utilitzen IA per generar documents d’identitat falsos, inventar currículums i respondre durant les entrevistes. Si són contractats, poden instal·lar programari maliciós per demanar rescat o robar fons, dades de clients o secrets comercials.</p></blockquote>\n",
-				"date_published": "2025-04-11T20:30:33+02:00",
-				"url": "https://carlesbellver.net/2025/04/11/96219/"
 			}
 	]
 }
