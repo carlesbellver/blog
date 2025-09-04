@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/09/04/17807/",
+				
+				"content_html": "<p>Avui m’he assabentat que si tens dos o més doctorats pots combinar els diferents colors en el birret (cada color correspon a una titulació o branca de coneixement). Com en aquest <a href=\"https://tiendadetogas.com/tienda/birrete-academico/birrete-dos-doctorados-humanidades-y-periodismo/\">birret blau i gris d’humanitats i periodisme</a>.</p>\n",
+				"date_published": "2025-09-04T22:30:07+02:00",
+				"url": "https://carlesbellver.net/2025/09/04/17807/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/09/02/45007/",
 				
 				"content_html": "<p>Vaig deixar d’escriure aquelles <a href=\"https://carlesbellver.net/tags/ressenyes/\">microressenyes</a> i ara no recorde quasi res de molts dels llibres que he anat llegint.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>El test de Turing invers: hi ha persones (però el dubte és inevitable) que resulten indistingibles d’un model de llenguatge primitiu.</p>\n<blockquote>\n<p>[Donald Trump] contesta les preguntes d’una manera força similar a les primeres versions de ChatGPT. Els fets no importen, les opcions lingüístiques són un desastre, però estan dissenyades per presentar una resposta plausible a la pregunta…</p></blockquote>\n",
 				"date_published": "2025-04-30T08:58:14+02:00",
 				"url": "https://carlesbellver.net/2025/04/30/96276/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/04/23/sant-jordi/",
-				
-				"content_html": "<p>Avui, casualment, totes aquestes <a href=\"https://inspira.l0fi.net/\">frases inspiradores</a> tracten de llibres, escriure, escriptores i escriptors, Sant Jordi o el drac.</p>\n",
-				"date_published": "2025-04-23T08:00:25+02:00",
-				"url": "https://carlesbellver.net/2025/04/23/sant-jordi/"
 			}
 	]
 }
