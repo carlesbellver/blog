@@ -6,8 +6,21 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Thu, 04 Sep 2025 22:30:07 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 22:30:05 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/09/06/90605/</link>
+      <pubDate>Sat, 06 Sep 2025 22:30:05 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/09/06/90605/</guid>
+      <description>
+      &lt;p&gt;Avui he après que el &lt;a href=&#34;https://flyingmeat.com/acorn/docs/technotes/ACTN002.html&#34;&gt;format de fitxer natiu d’Acorn&lt;/a&gt; (editor d’imatges per a macOS) és en realitat SQLite. Cada imatge és una base de dades!&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;CREATE TABLE image_attributes (name text, value blob);
+CREATE TABLE layers (id text, parent_id text, sequence integer, uti text, name text, data blob);
+CREATE TABLE layer_attributes (id text, name text, value blob);
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
     
     <item>
       <title></title>
@@ -288,18 +301,6 @@
       <description>
       &lt;p&gt;Garsa i esperança (plaça del cometa Halley, Castelló de la Plana, amb el campanar de l’església de l’Esperança al fons).&lt;/p&gt;
 &lt;img alt=&#34;Foto amb la silueta d’una garsa parada damunt d’un senyal de trànsit, amb arbres i un campanar al fons&#34; src=&#34;https://carlesbellver.net/uploads/2025/2025-05-04-42302.jpg&#34;&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Hallucinating ChatGPT Presidency</title>
-      <link>https://www.techdirt.com/2025/04/29/the-hallucinating-chatgpt-presidency/</link>
-      <pubDate>Wed, 30 Apr 2025 08:58:14 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/04/30/96276/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.techdirt.com/2025/04/29/the-hallucinating-chatgpt-presidency/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/04/30/96276/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;El test de Turing invers: hi ha persones (però el dubte és inevitable) que resulten indistingibles d’un model de llenguatge primitiu.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[Donald Trump] contesta les preguntes d’una manera força similar a les primeres versions de ChatGPT. Els fets no importen, les opcions lingüístiques són un desastre, però estan dissenyades per presentar una resposta plausible a la pregunta…&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     

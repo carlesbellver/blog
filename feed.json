@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/09/06/90605/",
+				
+				"content_html": "<p>Avui he après que el <a href=\"https://flyingmeat.com/acorn/docs/technotes/ACTN002.html\">format de fitxer natiu d’Acorn</a> (editor d’imatges per a macOS) és en realitat SQLite. Cada imatge és una base de dades!</p>\n<pre tabindex=\"0\"><code>CREATE TABLE image_attributes (name text, value blob);\nCREATE TABLE layers (id text, parent_id text, sequence integer, uti text, name text, data blob);\nCREATE TABLE layer_attributes (id text, name text, value blob);\n</code></pre>",
+				"date_published": "2025-09-06T22:30:05+02:00",
+				"url": "https://carlesbellver.net/2025/09/06/90605/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/09/04/17807/",
 				
 				"content_html": "<p>Avui m’he assabentat que si tens dos o més doctorats pots combinar els diferents colors en el birret (cada color correspon a una titulació o branca de coneixement). Com en aquest <a href=\"https://tiendadetogas.com/tienda/birrete-academico/birrete-dos-doctorados-humanidades-y-periodismo/\">birret blau i gris d’humanitats i periodisme</a>.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Garsa i esperança (plaça del cometa Halley, Castelló de la Plana, amb el campanar de l’església de l’Esperança al fons).</p>\n<img alt=\"Foto amb la silueta d’una garsa parada damunt d’un senyal de trànsit, amb arbres i un campanar al fons\" src=\"/uploads/2025/2025-05-04-42302.jpg\">\n",
 				"date_published": "2025-05-04T09:05:24+02:00",
 				"url": "https://carlesbellver.net/2025/05/04/42302/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/04/30/96276/",
-				"title": "The Hallucinating ChatGPT Presidency",
-				"content_html": "<p>El test de Turing invers: hi ha persones (però el dubte és inevitable) que resulten indistingibles d’un model de llenguatge primitiu.</p>\n<blockquote>\n<p>[Donald Trump] contesta les preguntes d’una manera força similar a les primeres versions de ChatGPT. Els fets no importen, les opcions lingüístiques són un desastre, però estan dissenyades per presentar una resposta plausible a la pregunta…</p></blockquote>\n",
-				"date_published": "2025-04-30T08:58:14+02:00",
-				"url": "https://carlesbellver.net/2025/04/30/96276/"
 			}
 	]
 }
