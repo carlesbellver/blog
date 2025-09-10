@@ -6,8 +6,19 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sat, 06 Sep 2025 22:30:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 18:27:29 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title>All IT work to involve AI by 2030, says Gartner</title>
+      <link>https://www.theregister.com/2025/09/08/ai_impact_it_departments/</link>
+      <pubDate>Wed, 10 Sep 2025 18:27:29 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/09/10/21636/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/2025/09/08/ai_impact_it_departments/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/09/10/21636/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;Gartner creu que d’ací a cinc anys el 75 % del treball informàtic serà activitat humana complementada per la IA i els bots realitzaran la resta […] Plummer va dir que Gartner no preveu una massacre de llocs de treball per la IA en TI o altres sectors durant almenys cinc anys i va afegir que només un 1 % de les pèrdues de llocs de treball actuals són atribuïbles a la IA.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -290,17 +301,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <description>&lt;p&gt;&lt;a href=&quot;https://www.wired.com/story/4chan-is-dead-its-toxic-legacy-is-everywhere/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/05/15/25188/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;blockquote&gt;
 &lt;p&gt;Twitter va esdevenir 4chan i aleshores el Twitter &lt;em&gt;4chanitzat&lt;/em&gt; va esdevenir el govern dels EUA. La seua utilitat com a munició en la guerra cultural es va reduir quan les coses que s’hi deien van començar a escoltar-se cada dia a Twitter i al cap de sis mesos eixien de la boca d’un representant de l’administració.&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2025/05/04/42302/</link>
-      <pubDate>Sun, 04 May 2025 09:05:24 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/05/04/42302/</guid>
-      <description>
-      &lt;p&gt;Garsa i esperança (plaça del cometa Halley, Castelló de la Plana, amb el campanar de l’església de l’Esperança al fons).&lt;/p&gt;
-&lt;img alt=&#34;Foto amb la silueta d’una garsa parada damunt d’un senyal de trànsit, amb arbres i un campanar al fons&#34; src=&#34;https://carlesbellver.net/uploads/2025/2025-05-04-42302.jpg&#34;&gt;
 </description>
     </item>
     
