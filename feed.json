@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/10/02/37007/",
+				
+				"content_html": "<p>Avui m’he assabentat que la portada d’aquella famosa edició de Penguin de <em>Cien años de soledad</em> era un fragment d’un quadre de Tamás Galambos titulat <a href=\"https://www.mutualart.com/Artwork/SUMMER/772A01C634B4C215\"><em>Estiu</em></a>. I que els turons verds damunt dels quals s’alçaven les casetes de Macondo eren alhora les cames d’una dona.</p>\n",
+				"date_published": "2025-10-02T22:30:07+02:00",
+				"url": "https://carlesbellver.net/2025/10/02/37007/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/09/28/mon-mari/",
 				"title": "Mon mari",
 				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> Maud Ventura, <em>Mi marido</em> (<em>Mon mari</em>). Una dona enamorada del seu marit com el primer dia després de quinze anys de casada. La seua neurosi es va revelant gradualment, pausadament. La narració, en primera persona, transcorre al llarg d’una setmana, de dilluns a diumenge. Al remat, un epíleg que pretén capgirar-ho tot. M’ha fet pensar en aquella frase atribuïda a Henry Kissinger sobre paranoies i tenir o no enemics. És una novel·la curta, però a mi se m’ha fet una mica llarga.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<p>Per motius de seguretat, quan el president dels Estats Units viatja, té un horari d'ús dels lavabos estrictament regulat. Se suposa que només ha d’utilitzar un lavabo portàtil especialment dissenyat que es transporta amb ell, i que els residus es guarden i es retornen a territori nord-americà abans de ser eliminats.</p></blockquote>\n<p>Però de vegades pot tenir una urgència. “El president Barack Obama va seure ací el 4 de setembre de 2013”.</p>\n",
 				"date_published": "2025-05-27T21:02:19+02:00",
 				"url": "https://carlesbellver.net/2025/05/27/72518/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/05/22/21075/",
-				"title": "L’esmorzar o almorzar valencià, una tradició més que centenària",
-				"content_html": "<p>Esmorzar es deia originalment almorzar i continua sent correcte dir-ho així (no és cap castellanisme). També el sentit del mot ha anat canviant: tradicionalment era la primera menjada del dia, de bon matí, fins que es va popularitzar dir-ne desdejuni. Però no és que llavors fora tan comú poder almorzar o desdejunar gran cosa…</p>\n<blockquote>\n<p>En tot cas, qui podia sí que menjava més voltes, de la qual cosa s’escandalitzava cap al 1415 un altre gran moralista de l’època, Sant Vicent Ferrer, qui criticava el pas de dos a quatre àpats […]</p></blockquote>\n",
-				"date_published": "2025-05-22T15:43:52+00:00",
-				"url": "https://carlesbellver.net/2025/05/22/21075/"
 			}
 	]
 }

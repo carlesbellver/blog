@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 28 Sep 2025 18:08:48 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 22:30:07 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/10/02/37007/</link>
+      <pubDate>Thu, 02 Oct 2025 22:30:07 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/10/02/37007/</guid>
+      <description>
+      &lt;p&gt;Avui m’he assabentat que la portada d’aquella famosa edició de Penguin de &lt;em&gt;Cien años de soledad&lt;/em&gt; era un fragment d’un quadre de Tamás Galambos titulat &lt;a href=&#34;https://www.mutualart.com/Artwork/SUMMER/772A01C634B4C215&#34;&gt;&lt;em&gt;Estiu&lt;/em&gt;&lt;/a&gt;. I que els turons verds damunt dels quals s’alçaven les casetes de Macondo eren alhora les cames d’una dona.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mon mari</title>
@@ -288,18 +298,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       &lt;blockquote&gt;
 &lt;p&gt;Per motius de seguretat, quan el president dels Estats Units viatja, té un horari d&#39;ús dels lavabos estrictament regulat. Se suposa que només ha d’utilitzar un lavabo portàtil especialment dissenyat que es transporta amb ell, i que els residus es guarden i es retornen a territori nord-americà abans de ser eliminats.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Però de vegades pot tenir una urgència. “El president Barack Obama va seure ací el 4 de setembre de 2013”.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>L’esmorzar o almorzar valencià, una tradició més que centenària</title>
-      <link>https://lletraferit.com/als-fets-em-remet/lesmorzar-o-almorzar-valencia-una-tradicio-mes-que-centenaria/</link>
-      <pubDate>Thu, 22 May 2025 15:43:52 +0000</pubDate>
-      <guid>https://carlesbellver.net/2025/05/22/21075/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://lletraferit.com/als-fets-em-remet/lesmorzar-o-almorzar-valencia-una-tradicio-mes-que-centenaria/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/05/22/21075/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Esmorzar es deia originalment almorzar i continua sent correcte dir-ho així (no és cap castellanisme). També el sentit del mot ha anat canviant: tradicionalment era la primera menjada del dia, de bon matí, fins que es va popularitzar dir-ne desdejuni. Però no és que llavors fora tan comú poder almorzar o desdejunar gran cosa…&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;En tot cas, qui podia sí que menjava més voltes, de la qual cosa s’escandalitzava cap al 1415 un altre gran moralista de l’època, Sant Vicent Ferrer, qui criticava el pas de dos a quatre àpats […]&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     
