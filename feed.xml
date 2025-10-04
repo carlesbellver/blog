@@ -6,8 +6,23 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Fri, 03 Oct 2025 22:30:06 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 22:30:06 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/10/04/09806/</link>
+      <pubDate>Sat, 04 Oct 2025 22:30:06 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/10/04/09806/</guid>
+      <description>
+      &lt;p&gt;Avui he llegit sobre &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Jew_of_Linz&#34;&gt;&lt;em&gt;The Jew of Linz&lt;/em&gt;&lt;/a&gt;, llibre en el qual Kimberley Cornish argüeix que Wittgenstein seria:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;“El jueu de Linz” mencionat en &lt;em&gt;Mein Kampf&lt;/em&gt; i, per tant, l’origen de l’antisemitisme de Hitler, amb qui va coincidir breument a l’institut.&lt;/li&gt;
+&lt;li&gt;L’agent de la Komintern responsable de reclutar els cèlebres cinc de Cambridge, que van espiar durant anys per a l’URSS.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Poc convincent, però fascinant com a mera especulació.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -280,22 +295,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       &lt;p&gt;De la mateixa manera que veiem cares on no n’hi ha (&lt;a href=&#34;https://ca.wikipedia.org/wiki/Pareidolia&#34;&gt;pareidolia&lt;/a&gt;), diu Luciano Floridi parlant d’Intel·ligència Artificial que tendim a percebre “intencionalitat on només hi ha estadística, significat on només hi ha correlació, comprensió on només hi ha coincidència de patrons a escala gegantina”.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;…com a societat, tenim el deure de desenvolupar els anticossos culturals necessaris per navegar un món on la pareidolia semàntica esdevindrà cada vegada més comuna i seductora.&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CIA 2010 covert communication websites (Iran, China)</title>
-      <link>https://ourbigbook.com/cirosantilli/cia-2010-covert-communication-websites</link>
-      <pubDate>Fri, 30 May 2025 13:28:46 +0000</pubDate>
-      <guid>https://carlesbellver.net/2025/05/30/09932/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://ourbigbook.com/cirosantilli/cia-2010-covert-communication-websites&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/05/30/09932/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Cap a l’any 2010, la CIA utilitzava una xarxa de webs falses per a comunicar-se amb els seus informants en alguns països. Tenien l’aparença de pàgines de fans de &lt;em&gt;Star Wars&lt;/em&gt; o altres temàtiques permissibles, però introduint una contrasenya en el camp de cerques s’accedia a la part privada. A més a més d’Iran i Xina com a objectius principals, la llengua i el contingut d’alguns dels llocs apuntaria també a Espanya, França, Alemanya i Brasil.&lt;/p&gt;
-&lt;p&gt;Webs (difuntes) vinculades a Espanya:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20110210112553/http://armashoy.com/&#34;&gt;armashoy(punto)com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20120429042725/http://montanismoaventura.com/&#34;&gt;montanismoaventura(punto)com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cqcounter.com/whois/www/ordenpolicial.com.html&#34;&gt;ordenpolicial(punto)com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
