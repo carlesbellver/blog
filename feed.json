@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/10/05/quelques-mois/",
+				"title": "Unos meses de mi vida",
+				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> <em>Unos meses de mi vida</em>. <a href=\"/archive/?q=houellebecq\">Michel Houellebecq</a> pot resultar encara més desconcertant quan intenta explicar-se, com en aquest llibret on vol passar comptes amb dos episodis incòmodes: les denúncies per islamofòbia i la gravació i difusió d’uns vídeos pornogràfics en què participava. Alguna frase càustica, algun pensament intempestiu marca de la casa, però no suficients ni prou brillants per a justificar el centenar de pàgines. Prescindible, excepte, potser, per a l’autor.</p>\n",
+				"date_published": "2025-10-05T13:52:39+02:00",
+				"url": "https://carlesbellver.net/2025/10/05/quelques-mois/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/10/04/09806/",
 				
 				"content_html": "<p>Avui he llegit sobre <a href=\"https://en.wikipedia.org/wiki/The_Jew_of_Linz\"><em>The Jew of Linz</em></a>, llibre en el qual Kimberley Cornish argüeix que Wittgenstein seria:</p>\n<ol>\n<li>“El jueu de Linz” mencionat en <em>Mein Kampf</em> i, per tant, l’origen de l’antisemitisme de Hitler, amb qui va coincidir breument a l’institut.</li>\n<li>L’agent de la Komintern responsable de reclutar els cèlebres cinc de Cambridge, que van espiar durant anys per a l’URSS.</li>\n</ol>\n<p>Poc convincent, però fascinant com a mera especulació.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Com a escriptor, col·leccione negatives editorials. En tinc ja un fum, però no us penseu que m’ha resultat tan i tan fàcil, perquè la majoria de les editorials solen ser poc comunicatives i tendeixen a no contestar els correus, ni positivament ni negativament (dret al silenci que cal respectar i no confondre amb la mala educació).</p>\n<p>Així que si coneixeu algun segell (crec que en diuen així) que puga estar disposat a rebutjar el meu nou llibre de contes, us agrairé que me’n passeu el contacte.</p>\n",
 				"date_published": "2025-06-22T20:20:07+02:00",
 				"url": "https://carlesbellver.net/2025/06/22/16370/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/06/20/ia-pareidolia/",
-				"title": "L’IA e la pareidolia semantica: quando vediamo coscienza dove non c’è",
-				"content_html": "<p>De la mateixa manera que veiem cares on no n’hi ha (<a href=\"https://ca.wikipedia.org/wiki/Pareidolia\">pareidolia</a>), diu Luciano Floridi parlant d’Intel·ligència Artificial que tendim a percebre “intencionalitat on només hi ha estadística, significat on només hi ha correlació, comprensió on només hi ha coincidència de patrons a escala gegantina”.</p>\n<blockquote>\n<p>…com a societat, tenim el deure de desenvolupar els anticossos culturals necessaris per navegar un món on la pareidolia semàntica esdevindrà cada vegada més comuna i seductora.</p></blockquote>\n",
-				"date_published": "2025-06-20T10:35:39+02:00",
-				"url": "https://carlesbellver.net/2025/06/20/ia-pareidolia/"
 			}
 	]
 }
