@@ -6,6 +6,13 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2025/10/10/in-memory-of-borges/",
+        "date_published": "2025-10-10T19:42:43+02:00",
+        "url": "/2025/10/10/in-memory-of-borges/",
+        "image": "https://carlesbellver.net/uploads/2025/2025-10-10-in-memory-of-borges.jpg",
+        "content_text": "In memory of Borges. Recull de conferències de l’Anglo-Argentine Society, ajornades el 1982 per la guerra de les …"
+    },
+    {
         "id": "/2025/08/31/adeu-agost/",
         "date_published": "2025-08-31T08:32:09+02:00",
         "url": "/2025/08/31/adeu-agost/",
