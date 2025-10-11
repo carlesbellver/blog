@@ -6,8 +6,20 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 05 Oct 2025 13:52:39 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 22:30:05 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/10/11/14605/</link>
+      <pubDate>Sat, 11 Oct 2025 22:30:05 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/10/11/14605/</guid>
+      <description>
+      &lt;p&gt;Avui he llegit que Dante Gabriel Rossetti va fer exhumar el cadàver de la seua muller, &lt;a href=&#34;https://en.wikipedia.org/wiki/Elizabeth_Siddal&#34;&gt;Elizabeth Siddal&lt;/a&gt;, set anys després de morta, perquè no havia guardat cap còpia dels poemes que va soterrar amb ella. El manuscrit va ser desinfectat.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Van esdevenir part de la seqüència de sonets de Rossetti titulada &lt;em&gt;La casa de la vida&lt;/em&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Unos meses de mi vida</title>
@@ -283,17 +295,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
 &lt;li&gt;&lt;a href=&#34;https://po.l0fi.net/books/uncelnouiunaterranova&#34;&gt;&lt;em&gt;Un cel nou i una terra nova&lt;/em&gt;&lt;/a&gt;. La primera part del llibre amb què vaig guanyar el Premi de Narrativa Breu Josep Pascual Tirado el 2015. Una comèdia metafísica, delicadament apocalíptica, en vint-i-un capítols.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://po.l0fi.net/books/vuitsomnis&#34;&gt;&lt;em&gt;Set somnis d’escriptors i un d’una escriptora&lt;/em&gt;&lt;/a&gt;. La segona part del mateix llibre. Vuit proses breus evocadores d’alguns dels meus autors —i una autora— predilectes.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2025/06/22/16370/</link>
-      <pubDate>Sun, 22 Jun 2025 20:20:07 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/06/22/16370/</guid>
-      <description>
-      &lt;p&gt;Com a escriptor, col·leccione negatives editorials. En tinc ja un fum, però no us penseu que m’ha resultat tan i tan fàcil, perquè la majoria de les editorials solen ser poc comunicatives i tendeixen a no contestar els correus, ni positivament ni negativament (dret al silenci que cal respectar i no confondre amb la mala educació).&lt;/p&gt;
-&lt;p&gt;Així que si coneixeu algun segell (crec que en diuen així) que puga estar disposat a rebutjar el meu nou llibre de contes, us agrairé que me’n passeu el contacte.&lt;/p&gt;
 </description>
     </item>
     
