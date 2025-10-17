@@ -6,8 +6,20 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sat, 11 Oct 2025 22:30:05 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 22:35:42 +0200</lastBuildDate>
 	
+    
+    <item>
+      <title>Mikel Otero (EH Bildu): «Es muy peligroso el todo o nada del decrecimiento»</title>
+      <link>https://climatica.coop/entrevista-mikel-otero-eh-bildu/</link>
+      <pubDate>Fri, 17 Oct 2025 22:35:42 +0200</pubDate>
+      <guid>https://carlesbellver.net/2025/10/17/33320/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;https://climatica.coop/entrevista-mikel-otero-eh-bildu/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/10/17/33320/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;La disociación entre lo que soñamos y los pasos que tenemos que dar genera un abismo que nos lleva a no dar nada por bueno ni dar ningún paso. Tenemos la obligación de trasladar la idea de que esta transformación —el decrecimiento— es demasiado compleja como para aferrarnos a un fetiche que nos impida valorar los pasos efectivos, imperfectos tal vez, que sí podemos dar.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -17,7 +29,8 @@
       <description>
       &lt;p&gt;Avui he llegit que Dante Gabriel Rossetti va fer exhumar el cadàver de la seua muller, &lt;a href=&#34;https://en.wikipedia.org/wiki/Elizabeth_Siddal&#34;&gt;Elizabeth Siddal&lt;/a&gt;, set anys després de morta, perquè no havia guardat cap còpia dels poemes que va soterrar amb ella. El manuscrit va ser desinfectat per un metge.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Van esdevenir part de la seqüència de sonets de Rossetti titulada &lt;em&gt;La casa de la vida&lt;/em&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Van esdevenir part de la seqüència de sonets de Rossetti titulada &lt;em&gt;La casa de la vida&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -29,7 +42,8 @@
       <description>
       &lt;p&gt;&lt;em&gt;In memory of Borges&lt;/em&gt;. Recull de conferències de l’&lt;a href=&#34;https://angloargentinesociety.org.uk&#34;&gt;Anglo-Argentine Society&lt;/a&gt;, ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;img alt=&#34;Imatge de la coberta del llibre “In Memory of Borges”, amb un fotoretrat en blanc i negre de Borges i els noms dels autors que hi participen: Graham Greene, Jorge Luis Borges, H. S. Ferns, Mario Vargas Llosa i Alicia Jurado.&#34; src=&#34;https://carlesbellver.net/uploads/2025/2025-10-10-in-memory-of-borges.jpg&#34;&gt;
 </description>
     </item>
@@ -97,7 +111,8 @@
       <guid>https://carlesbellver.net/2025/09/10/21636/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/2025/09/08/ai_impact_it_departments/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/09/10/21636/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;blockquote&gt;
-&lt;p&gt;Gartner creu que d’ací a cinc anys el 75 % del treball informàtic serà activitat humana complementada per la IA i els bots realitzaran la resta […] Plummer va dir que Gartner no preveu una massacre de llocs de treball per la IA en TI o altres sectors durant almenys cinc anys i va afegir que només un 1 % de les pèrdues de llocs de treball actuals són atribuïbles a la IA.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Gartner creu que d’ací a cinc anys el 75 % del treball informàtic serà activitat humana complementada per la IA i els bots realitzaran la resta […] Plummer va dir que Gartner no preveu una massacre de llocs de treball per la IA en TI o altres sectors durant almenys cinc anys i va afegir que només un 1 % de les pèrdues de llocs de treball actuals són atribuïbles a la IA.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -142,7 +157,8 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <description>&lt;p&gt;&lt;a href=&quot;https://elpais.com/clima-y-medio-ambiente/2025-08-02/emilio-santiago-antropologo-podemos-reducir-nuestro-impacto-en-el-planeta-y-llevar-una-vida-de-lujo.html&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/09/01/50490/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;Per un ecologisme hedonista.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;No podemos realizar la transformación que el ecologismo busca ni desde la culpa ni desde el sacrificio. Tenemos que hacerlo disputando la idea de deseo y ofreciendo horizontes de transformación que sean estimulantes, que sean ilusionantes, que sean excitantes.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;No podemos realizar la transformación que el ecologismo busca ni desde la culpa ni desde el sacrificio. Tenemos que hacerlo disputando la idea de deseo y ofreciendo horizontes de transformación que sean estimulantes, que sean ilusionantes, que sean excitantes.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -165,7 +181,8 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <description>&lt;p&gt;&lt;a href=&quot;https://pauljun.substack.com/p/anti-slop-and-anti-brainrot&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/08/30/53433/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;Si has après els fonaments de la comprensió lectora, el pensament crític i la creativitat, la IA pot ampliar les teues possibilitats. Si no, només ampliarà la teua ignorància. Via &lt;a href=&#34;https://www.downes.ca/post/78170&#34;&gt;OLDaily&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;…m’he adonat que si saps pensar bé, la IA esdevé multiplicadora. Si no, la IA només amplifica els teus errors.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;…m’he adonat que si saps pensar bé, la IA esdevé multiplicadora. Si no, la IA només amplifica els teus errors.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -197,7 +214,8 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <description>
       &lt;p&gt;Avui he après els diversos noms d’&lt;a href=&#34;https://ca.wikipedia.org/wiki/Pyrrhocoris_apterus&#34;&gt;aquest insecte&lt;/a&gt; que últimament sol visitar el pis dels meus pares.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Els pirrocòrids reben diversos noms comuns, entre d&#39;altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Els pirrocòrids reben diversos noms comuns, entre d&#39;altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -240,7 +258,8 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       &lt;blockquote&gt;
 &lt;ol start=&#34;13&#34;&gt;
 &lt;li&gt;Jo no faig literatura sobre la vida sinó literatura sobre la literatura. La vida normal m’interessa per viure-la i gaudir-ne, m’agrada menjar, nedar… Però el que realment m’agrada és la poesia, el misteri, tot allò que s’escapa de la realitat immediata. Que el Pedrolo em parlés d’un senyor que era porter i s’enamorava m’és igual, això passa cada dia. El que no passa cada dia és que obris una porta i t’aparegui el dimoni.&lt;/li&gt;
-&lt;/ol&gt;&lt;/blockquote&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;—&lt;a href=&#34;https://www.catorze.cat/lectura/perucho-i-la-malediccio-poetica_141673_102.html&#34;&gt;Perucho i la maledicció poètica&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Jo no faig literatura sobre la literatura —encara que, superficialment, ho puga parèixer—, sinó literatura sobre la vida. Qui no haja topat mai el dimoni en obrir-se una porta, ja pot donar gràcies de la sort que ha tingut. O fer-ser mirar la seua candidesa: bé que ho sabia, Perucho, això. En canvi, no crec que siga tan comú que un porter s’enamore. Hi ha pocs porters, avui en dia. Un porter seria a hores d’ara quasi tan fantàstic com el dimoni, si més no.&lt;/p&gt;
 &lt;img src=&#34;https://carlesbellver.net/uploads/2025/2025-08-22-nosferatu.jpg&#34; alt=&#34;Fotograma de la pel·lícula Nosferatu, de 1922, amb el vampir al llindar d’una porta.&#34;&gt;
@@ -276,20 +295,8 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <description>&lt;p&gt;&lt;a href=&quot;https://slashdot.org/story/25/07/07/2232250/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/07/08/98039/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;ChatGPT i uns quants sistemes d’IA especialitzats a guiar viatges psicodèlics, p. ex. &lt;a href=&#34;https://www.alterd.com&#34;&gt;ALTERD&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Aleshores va descobrir ALTERD, una aplicació per a escriure un diari basada en IA que convida els usuaris a “explorar noves dimensions”, dirigida a persones que consumeixen cànnabis i drogues psicodèliques, practiquen la meditació o prenen alcohol.&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>You Can Now Rent a Flesh Computer Grown in a British Lab</title>
-      <link>https://www.sciencealert.com/you-can-now-rent-a-flesh-computer-grown-in-a-british-lab</link>
-      <pubDate>Fri, 04 Jul 2025 17:20:05 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/07/04/flesh-computer/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.sciencealert.com/you-can-now-rent-a-flesh-computer-grown-in-a-british-lab&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/07/04/flesh-computer/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;blockquote&gt;
-&lt;p&gt;Cada CL1 es compon de 800.000 neurones que creixen en un xip de silici, més el seu sistema de suport vital. Tot i que encara no pot igualar les capacitats dels ordinadors més potents d’avui dia, té un avantatge molt significatiu… un rack de CL1 només utilitza 1.000 watts i és capaç d’adaptar-se naturalment i aprendre en temps real.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Aquestes neurones informàtiques es cultiven a partir de mostres de pell i sang aportades per donants humans adults.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Aleshores va descobrir ALTERD, una aplicació per a escriure un diari basada en IA que convida els usuaris a “explorar noves dimensions”, dirigida a persones que consumeixen cànnabis i drogues psicodèliques, practiquen la meditació o prenen alcohol.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

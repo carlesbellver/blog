@@ -6,16 +6,23 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/10/17/33320/",
+				"title": "Mikel Otero (EH Bildu): «Es muy peligroso el todo o nada del decrecimiento»",
+				"content_html": "<blockquote>\n<p>La disociación entre lo que soñamos y los pasos que tenemos que dar genera un abismo que nos lleva a no dar nada por bueno ni dar ningún paso. Tenemos la obligación de trasladar la idea de que esta transformación —el decrecimiento— es demasiado compleja como para aferrarnos a un fetiche que nos impida valorar los pasos efectivos, imperfectos tal vez, que sí podemos dar.</p>\n</blockquote>\n",
+				"date_published": "2025-10-17T22:35:42+02:00",
+				"url": "https://carlesbellver.net/2025/10/17/33320/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/10/11/14605/",
 				
-				"content_html": "<p>Avui he llegit que Dante Gabriel Rossetti va fer exhumar el cadàver de la seua muller, <a href=\"https://en.wikipedia.org/wiki/Elizabeth_Siddal\">Elizabeth Siddal</a>, set anys després de morta, perquè no havia guardat cap còpia dels poemes que va soterrar amb ella. El manuscrit va ser desinfectat per un metge.</p>\n<blockquote>\n<p>Van esdevenir part de la seqüència de sonets de Rossetti titulada <em>La casa de la vida</em>.</p></blockquote>\n",
+				"content_html": "<p>Avui he llegit que Dante Gabriel Rossetti va fer exhumar el cadàver de la seua muller, <a href=\"https://en.wikipedia.org/wiki/Elizabeth_Siddal\">Elizabeth Siddal</a>, set anys després de morta, perquè no havia guardat cap còpia dels poemes que va soterrar amb ella. El manuscrit va ser desinfectat per un metge.</p>\n<blockquote>\n<p>Van esdevenir part de la seqüència de sonets de Rossetti titulada <em>La casa de la vida</em>.</p>\n</blockquote>\n",
 				"date_published": "2025-10-11T22:30:05+02:00",
 				"url": "https://carlesbellver.net/2025/10/11/14605/"
 			},
 			{
 				"id": "https://carlesbellver.net/2025/10/10/in-memory-of-borges/",
 				
-				"content_html": "<p><em>In memory of Borges</em>. Recull de conferències de l’<a href=\"https://angloargentinesociety.org.uk\">Anglo-Argentine Society</a>, ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.</p>\n<blockquote>\n<p>El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…</p></blockquote>\n<img alt=\"Imatge de la coberta del llibre “In Memory of Borges”, amb un fotoretrat en blanc i negre de Borges i els noms dels autors que hi participen: Graham Greene, Jorge Luis Borges, H. S. Ferns, Mario Vargas Llosa i Alicia Jurado.\" src=\"/uploads/2025/2025-10-10-in-memory-of-borges.jpg\">\n",
+				"content_html": "<p><em>In memory of Borges</em>. Recull de conferències de l’<a href=\"https://angloargentinesociety.org.uk\">Anglo-Argentine Society</a>, ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.</p>\n<blockquote>\n<p>El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…</p>\n</blockquote>\n<img alt=\"Imatge de la coberta del llibre “In Memory of Borges”, amb un fotoretrat en blanc i negre de Borges i els noms dels autors que hi participen: Graham Greene, Jorge Luis Borges, H. S. Ferns, Mario Vargas Llosa i Alicia Jurado.\" src=\"/uploads/2025/2025-10-10-in-memory-of-borges.jpg\">\n",
 				"date_published": "2025-10-10T19:42:43+02:00",
 				"url": "https://carlesbellver.net/2025/10/10/in-memory-of-borges/"
 			},
@@ -57,7 +64,7 @@
 			{
 				"id": "https://carlesbellver.net/2025/09/10/21636/",
 				"title": "All IT work to involve AI by 2030, says Gartner",
-				"content_html": "<blockquote>\n<p>Gartner creu que d’ací a cinc anys el 75 % del treball informàtic serà activitat humana complementada per la IA i els bots realitzaran la resta […] Plummer va dir que Gartner no preveu una massacre de llocs de treball per la IA en TI o altres sectors durant almenys cinc anys i va afegir que només un 1 % de les pèrdues de llocs de treball actuals són atribuïbles a la IA.</p></blockquote>\n",
+				"content_html": "<blockquote>\n<p>Gartner creu que d’ací a cinc anys el 75 % del treball informàtic serà activitat humana complementada per la IA i els bots realitzaran la resta […] Plummer va dir que Gartner no preveu una massacre de llocs de treball per la IA en TI o altres sectors durant almenys cinc anys i va afegir que només un 1 % de les pèrdues de llocs de treball actuals són atribuïbles a la IA.</p>\n</blockquote>\n",
 				"date_published": "2025-09-10T18:27:29+02:00",
 				"url": "https://carlesbellver.net/2025/09/10/21636/"
 			},
@@ -85,7 +92,7 @@
 			{
 				"id": "https://carlesbellver.net/2025/09/01/50490/",
 				"title": "Emilio Santiago, antropólogo: “Podemos reducir nuestro impacto en el planeta y llevar una vida de lujo”",
-				"content_html": "<p>Per un ecologisme hedonista.</p>\n<blockquote>\n<p>No podemos realizar la transformación que el ecologismo busca ni desde la culpa ni desde el sacrificio. Tenemos que hacerlo disputando la idea de deseo y ofreciendo horizontes de transformación que sean estimulantes, que sean ilusionantes, que sean excitantes.</p></blockquote>\n",
+				"content_html": "<p>Per un ecologisme hedonista.</p>\n<blockquote>\n<p>No podemos realizar la transformación que el ecologismo busca ni desde la culpa ni desde el sacrificio. Tenemos que hacerlo disputando la idea de deseo y ofreciendo horizontes de transformación que sean estimulantes, que sean ilusionantes, que sean excitantes.</p>\n</blockquote>\n",
 				"date_published": "2025-09-01T20:15:24+02:00",
 				"url": "https://carlesbellver.net/2025/09/01/50490/"
 			},
@@ -99,7 +106,7 @@
 			{
 				"id": "https://carlesbellver.net/2025/08/30/53433/",
 				"title": "The defense against slop and brainrot",
-				"content_html": "<p>Si has après els fonaments de la comprensió lectora, el pensament crític i la creativitat, la IA pot ampliar les teues possibilitats. Si no, només ampliarà la teua ignorància. Via <a href=\"https://www.downes.ca/post/78170\">OLDaily</a>.</p>\n<blockquote>\n<p>…m’he adonat que si saps pensar bé, la IA esdevé multiplicadora. Si no, la IA només amplifica els teus errors.</p></blockquote>\n",
+				"content_html": "<p>Si has après els fonaments de la comprensió lectora, el pensament crític i la creativitat, la IA pot ampliar les teues possibilitats. Si no, només ampliarà la teua ignorància. Via <a href=\"https://www.downes.ca/post/78170\">OLDaily</a>.</p>\n<blockquote>\n<p>…m’he adonat que si saps pensar bé, la IA esdevé multiplicadora. Si no, la IA només amplifica els teus errors.</p>\n</blockquote>\n",
 				"date_published": "2025-08-30T13:30:54+02:00",
 				"url": "https://carlesbellver.net/2025/08/30/53433/"
 			},
@@ -120,7 +127,7 @@
 			{
 				"id": "https://carlesbellver.net/2025/08/26/40208/",
 				
-				"content_html": "<p>Avui he après els diversos noms d’<a href=\"https://ca.wikipedia.org/wiki/Pyrrhocoris_apterus\">aquest insecte</a> que últimament sol visitar el pis dels meus pares.</p>\n<blockquote>\n<p>Els pirrocòrids reben diversos noms comuns, entre d'altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.</p></blockquote>\n",
+				"content_html": "<p>Avui he après els diversos noms d’<a href=\"https://ca.wikipedia.org/wiki/Pyrrhocoris_apterus\">aquest insecte</a> que últimament sol visitar el pis dels meus pares.</p>\n<blockquote>\n<p>Els pirrocòrids reben diversos noms comuns, entre d'altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.</p>\n</blockquote>\n",
 				"date_published": "2025-08-26T22:30:08+02:00",
 				"url": "https://carlesbellver.net/2025/08/26/40208/"
 			},
@@ -148,7 +155,7 @@
 			{
 				"id": "https://carlesbellver.net/2025/08/22/perucho-porter-dimoni/",
 				
-				"content_html": "<blockquote>\n<ol start=\"13\">\n<li>Jo no faig literatura sobre la vida sinó literatura sobre la literatura. La vida normal m’interessa per viure-la i gaudir-ne, m’agrada menjar, nedar… Però el que realment m’agrada és la poesia, el misteri, tot allò que s’escapa de la realitat immediata. Que el Pedrolo em parlés d’un senyor que era porter i s’enamorava m’és igual, això passa cada dia. El que no passa cada dia és que obris una porta i t’aparegui el dimoni.</li>\n</ol></blockquote>\n<p>—<a href=\"https://www.catorze.cat/lectura/perucho-i-la-malediccio-poetica_141673_102.html\">Perucho i la maledicció poètica</a></p>\n<p>Jo no faig literatura sobre la literatura —encara que, superficialment, ho puga parèixer—, sinó literatura sobre la vida. Qui no haja topat mai el dimoni en obrir-se una porta, ja pot donar gràcies de la sort que ha tingut. O fer-ser mirar la seua candidesa: bé que ho sabia, Perucho, això. En canvi, no crec que siga tan comú que un porter s’enamore. Hi ha pocs porters, avui en dia. Un porter seria a hores d’ara quasi tan fantàstic com el dimoni, si més no.</p>\n<img src=\"/uploads/2025/2025-08-22-nosferatu.jpg\" alt=\"Fotograma de la pel·lícula Nosferatu, de 1922, amb el vampir al llindar d’una porta.\">\n",
+				"content_html": "<blockquote>\n<ol start=\"13\">\n<li>Jo no faig literatura sobre la vida sinó literatura sobre la literatura. La vida normal m’interessa per viure-la i gaudir-ne, m’agrada menjar, nedar… Però el que realment m’agrada és la poesia, el misteri, tot allò que s’escapa de la realitat immediata. Que el Pedrolo em parlés d’un senyor que era porter i s’enamorava m’és igual, això passa cada dia. El que no passa cada dia és que obris una porta i t’aparegui el dimoni.</li>\n</ol>\n</blockquote>\n<p>—<a href=\"https://www.catorze.cat/lectura/perucho-i-la-malediccio-poetica_141673_102.html\">Perucho i la maledicció poètica</a></p>\n<p>Jo no faig literatura sobre la literatura —encara que, superficialment, ho puga parèixer—, sinó literatura sobre la vida. Qui no haja topat mai el dimoni en obrir-se una porta, ja pot donar gràcies de la sort que ha tingut. O fer-ser mirar la seua candidesa: bé que ho sabia, Perucho, això. En canvi, no crec que siga tan comú que un porter s’enamore. Hi ha pocs porters, avui en dia. Un porter seria a hores d’ara quasi tan fantàstic com el dimoni, si més no.</p>\n<img src=\"/uploads/2025/2025-08-22-nosferatu.jpg\" alt=\"Fotograma de la pel·lícula Nosferatu, de 1922, amb el vampir al llindar d’una porta.\">\n",
 				"date_published": "2025-08-22T23:12:45+02:00",
 				"url": "https://carlesbellver.net/2025/08/22/perucho-porter-dimoni/"
 			},
@@ -169,16 +176,9 @@
 			{
 				"id": "https://carlesbellver.net/2025/07/08/98039/",
 				"title": "People Are Using AI Chatbots To Guide Their Psychedelic Trips",
-				"content_html": "<p>ChatGPT i uns quants sistemes d’IA especialitzats a guiar viatges psicodèlics, p. ex. <a href=\"https://www.alterd.com\">ALTERD</a>.</p>\n<blockquote>\n<p>Aleshores va descobrir ALTERD, una aplicació per a escriure un diari basada en IA que convida els usuaris a “explorar noves dimensions”, dirigida a persones que consumeixen cànnabis i drogues psicodèliques, practiquen la meditació o prenen alcohol.</p></blockquote>\n",
+				"content_html": "<p>ChatGPT i uns quants sistemes d’IA especialitzats a guiar viatges psicodèlics, p. ex. <a href=\"https://www.alterd.com\">ALTERD</a>.</p>\n<blockquote>\n<p>Aleshores va descobrir ALTERD, una aplicació per a escriure un diari basada en IA que convida els usuaris a “explorar noves dimensions”, dirigida a persones que consumeixen cànnabis i drogues psicodèliques, practiquen la meditació o prenen alcohol.</p>\n</blockquote>\n",
 				"date_published": "2025-07-08T20:07:29+02:00",
 				"url": "https://carlesbellver.net/2025/07/08/98039/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/07/04/flesh-computer/",
-				"title": "You Can Now Rent a Flesh Computer Grown in a British Lab",
-				"content_html": "<blockquote>\n<p>Cada CL1 es compon de 800.000 neurones que creixen en un xip de silici, més el seu sistema de suport vital. Tot i que encara no pot igualar les capacitats dels ordinadors més potents d’avui dia, té un avantatge molt significatiu… un rack de CL1 només utilitza 1.000 watts i és capaç d’adaptar-se naturalment i aprendre en temps real.</p></blockquote>\n<blockquote>\n<p>Aquestes neurones informàtiques es cultiven a partir de mostres de pell i sang aportades per donants humans adults.</p></blockquote>\n",
-				"date_published": "2025-07-04T17:20:05+02:00",
-				"url": "https://carlesbellver.net/2025/07/04/flesh-computer/"
 			}
 	]
 }

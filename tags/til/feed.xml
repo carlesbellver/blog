@@ -19,7 +19,8 @@
       <guid>https://carlesbellver.net/2025/10/11/14605/</guid>
       <description>&lt;p&gt;Avui he llegit que Dante Gabriel Rossetti va fer exhumar el cadàver de la seua muller, &lt;a href=&#34;https://en.wikipedia.org/wiki/Elizabeth_Siddal&#34;&gt;Elizabeth Siddal&lt;/a&gt;, set anys després de morta, perquè no havia guardat cap còpia dels poemes que va soterrar amb ella. El manuscrit va ser desinfectat per un metge.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Van esdevenir part de la seqüència de sonets de Rossetti titulada &lt;em&gt;La casa de la vida&lt;/em&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Van esdevenir part de la seqüència de sonets de Rossetti titulada &lt;em&gt;La casa de la vida&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -110,7 +111,8 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <guid>https://carlesbellver.net/2025/08/26/40208/</guid>
       <description>&lt;p&gt;Avui he après els diversos noms d’&lt;a href=&#34;https://ca.wikipedia.org/wiki/Pyrrhocoris_apterus&#34;&gt;aquest insecte&lt;/a&gt; que últimament sol visitar el pis dels meus pares.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Els pirrocòrids reben diversos noms comuns, entre d&#39;altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Els pirrocòrids reben diversos noms comuns, entre d&#39;altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
