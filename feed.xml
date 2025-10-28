@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 26 Oct 2025 21:03:17 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 22:30:04 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/10/28/87004/</link>
+      <pubDate>Tue, 28 Oct 2025 22:30:04 +0100</pubDate>
+      <guid>https://carlesbellver.net/2025/10/28/87004/</guid>
+      <description>
+      &lt;p&gt;Avui m’he assabentat que el tipus de teoria de la veritat pel qual jo m’inclinava el 1991 —cinquè de Filosofia, beca d’iniciació a la investigació de la Generalitat Valenciana— s’anomena ara &lt;a href=&#34;https://plato.stanford.edu/entries/truth-primitivist/&#34;&gt;primitivista&lt;/a&gt;: perquè la veritat seria un concepte &lt;em&gt;primitiu&lt;/em&gt;, no analitzable ni dilucidable en termes de cap altre concepte o conceptes més bàsics. Pel que he pogut esbrinar, aquesta denominació circula almenys des de 2013 (Jamin Asay, &lt;a href=&#34;https://www.cambridge.org/hk/universitypress/subjects/philosophy/epistemology-and-metaphysics/primitivist-theory-truth&#34;&gt;&lt;em&gt;The Primitivist Theory of Truth&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What’s with Baum</title>
@@ -283,17 +293,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <guid>https://carlesbellver.net/2025/07/27/rutina/</guid>
       <description>
       &lt;p&gt;Un dels aspectes més interessants de la meua &lt;a href=&#34;https://carlesbellver.net/2025/03/30/34787/&#34;&gt;rutina setmanal d’escriptura&lt;/a&gt; és que dilluns passe pàgina i m’oblide del conte anterior. Quan acabarà l’any i revisaré la llibreta electrònica, em sorprendrà haver escrit certes coses. (Sé que serà així perquè ja hi he donat alguna ullada i no em recordava gens del que he vist.)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2025/07/21/oftalmologia/</link>
-      <pubDate>Mon, 21 Jul 2025 12:15:12 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/07/21/oftalmologia/</guid>
-      <description>
-      &lt;p&gt;Oftalmologia. Hospital General Universitari.&lt;/p&gt;
-&lt;img alt=&#34;Fotografia d’una taula optomètrica per a infants, emmarcada, penjada en una paret. En lloc de lletres, mostra dibuixos en files de mida decreixent: un sol, un automòbil, un ocell, un arbre, una flor.&#34; src=&#34;https://carlesbellver.net/uploads/2025/2025-07-21-oftalmologia.jpg&#34;&gt;
 </description>
     </item>
     
