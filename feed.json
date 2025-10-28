@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/10/26/baum/",
+				"title": "What’s with Baum",
+				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> Woody Allen, <em>What’s with Baum?</em> Diuen que és la seua primera novel·la, però et sona perquè repeteix acudits i situacions de les seues pel·lícules. La trama és distreta i es fa interessant, va afegint analepsis i complicacions i al final es resol amb una certa precipitació.</p>\n",
+				"date_published": "2025-10-26T21:03:17+01:00",
+				"url": "https://carlesbellver.net/2025/10/26/baum/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/10/17/33320/",
 				"title": "Mikel Otero (EH Bildu): «Es muy peligroso el todo o nada del decrecimiento»",
 				"content_html": "<blockquote>\n<p>La disociación entre lo que soñamos y los pasos que tenemos que dar genera un abismo que nos lleva a no dar nada por bueno ni dar ningún paso. Tenemos la obligación de trasladar la idea de que esta transformación —el decrecimiento— es demasiado compleja como para aferrarnos a un fetiche que nos impida valorar los pasos efectivos, imperfectos tal vez, que sí podemos dar.</p>\n</blockquote>\n",
@@ -21,8 +28,8 @@
 			},
 			{
 				"id": "https://carlesbellver.net/2025/10/10/in-memory-of-borges/",
-				
-				"content_html": "<p><em>In memory of Borges</em>. Recull de conferències de l’<a href=\"https://angloargentinesociety.org.uk\">Anglo-Argentine Society</a>, ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.</p>\n<blockquote>\n<p>El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…</p>\n</blockquote>\n<img alt=\"Imatge de la coberta del llibre “In Memory of Borges”, amb un fotoretrat en blanc i negre de Borges i els noms dels autors que hi participen: Graham Greene, Jorge Luis Borges, H. S. Ferns, Mario Vargas Llosa i Alicia Jurado.\" src=\"/uploads/2025/2025-10-10-in-memory-of-borges.jpg\">\n",
+				"title": "In memory of Borges",
+				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> <em>In memory of Borges</em>. Recull de conferències de l’<a href=\"https://angloargentinesociety.org.uk\">Anglo-Argentine Society</a>, ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.</p>\n<blockquote>\n<p>El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…</p>\n</blockquote>\n<img alt=\"Imatge de la coberta del llibre “In Memory of Borges”, amb un fotoretrat en blanc i negre de Borges i els noms dels autors que hi participen: Graham Greene, Jorge Luis Borges, H. S. Ferns, Mario Vargas Llosa i Alicia Jurado.\" src=\"/uploads/2025/2025-10-10-in-memory-of-borges.jpg\">\n",
 				"date_published": "2025-10-10T19:42:43+02:00",
 				"url": "https://carlesbellver.net/2025/10/10/in-memory-of-borges/"
 			},
@@ -172,13 +179,6 @@
 				"content_html": "<p>Oftalmologia. Hospital General Universitari.</p>\n<img alt=\"Fotografia d’una taula optomètrica per a infants, emmarcada, penjada en una paret. En lloc de lletres, mostra dibuixos en files de mida decreixent: un sol, un automòbil, un ocell, un arbre, una flor.\" src=\"/uploads/2025/2025-07-21-oftalmologia.jpg\">\n",
 				"date_published": "2025-07-21T12:15:12+02:00",
 				"url": "https://carlesbellver.net/2025/07/21/oftalmologia/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/07/08/98039/",
-				"title": "People Are Using AI Chatbots To Guide Their Psychedelic Trips",
-				"content_html": "<p>ChatGPT i uns quants sistemes d’IA especialitzats a guiar viatges psicodèlics, p. ex. <a href=\"https://www.alterd.com\">ALTERD</a>.</p>\n<blockquote>\n<p>Aleshores va descobrir ALTERD, una aplicació per a escriure un diari basada en IA que convida els usuaris a “explorar noves dimensions”, dirigida a persones que consumeixen cànnabis i drogues psicodèliques, practiquen la meditació o prenen alcohol.</p>\n</blockquote>\n",
-				"date_published": "2025-07-08T20:07:29+02:00",
-				"url": "https://carlesbellver.net/2025/07/08/98039/"
 			}
 	]
 }

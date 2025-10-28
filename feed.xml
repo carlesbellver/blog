@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Fri, 17 Oct 2025 22:35:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 21:03:17 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>What’s with Baum</title>
+      <link>https://carlesbellver.net/2025/10/26/baum/</link>
+      <pubDate>Sun, 26 Oct 2025 21:03:17 +0100</pubDate>
+      <guid>https://carlesbellver.net/2025/10/26/baum/</guid>
+      <description>
+      &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Woody Allen, &lt;em&gt;What’s with Baum?&lt;/em&gt; Diuen que és la seua primera novel·la, però et sona perquè repeteix acudits i situacions de les seues pel·lícules. La trama és distreta i es fa interessant, va afegint analepsis i complicacions i al final es resol amb una certa precipitació.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mikel Otero (EH Bildu): «Es muy peligroso el todo o nada del decrecimiento»</title>
@@ -35,12 +45,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>In memory of Borges</title>
       <link>https://carlesbellver.net/2025/10/10/in-memory-of-borges/</link>
       <pubDate>Fri, 10 Oct 2025 19:42:43 +0200</pubDate>
       <guid>https://carlesbellver.net/2025/10/10/in-memory-of-borges/</guid>
       <description>
-      &lt;p&gt;&lt;em&gt;In memory of Borges&lt;/em&gt;. Recull de conferències de l’&lt;a href=&#34;https://angloargentinesociety.org.uk&#34;&gt;Anglo-Argentine Society&lt;/a&gt;, ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.&lt;/p&gt;
+      &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; &lt;em&gt;In memory of Borges&lt;/em&gt;. Recull de conferències de l’&lt;a href=&#34;https://angloargentinesociety.org.uk&#34;&gt;Anglo-Argentine Society&lt;/a&gt;, ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -284,19 +294,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <description>
       &lt;p&gt;Oftalmologia. Hospital General Universitari.&lt;/p&gt;
 &lt;img alt=&#34;Fotografia d’una taula optomètrica per a infants, emmarcada, penjada en una paret. En lloc de lletres, mostra dibuixos en files de mida decreixent: un sol, un automòbil, un ocell, un arbre, una flor.&#34; src=&#34;https://carlesbellver.net/uploads/2025/2025-07-21-oftalmologia.jpg&#34;&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>People Are Using AI Chatbots To Guide Their Psychedelic Trips</title>
-      <link>https://slashdot.org/story/25/07/07/2232250/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips</link>
-      <pubDate>Tue, 08 Jul 2025 20:07:29 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/07/08/98039/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://slashdot.org/story/25/07/07/2232250/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/07/08/98039/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;ChatGPT i uns quants sistemes d’IA especialitzats a guiar viatges psicodèlics, p. ex. &lt;a href=&#34;https://www.alterd.com&#34;&gt;ALTERD&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Aleshores va descobrir ALTERD, una aplicació per a escriure un diari basada en IA que convida els usuaris a “explorar noves dimensions”, dirigida a persones que consumeixen cànnabis i drogues psicodèliques, practiquen la meditació o prenen alcohol.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
