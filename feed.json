@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/11/01/27747/",
+				
+				"content_html": "<p>Movembre</p>\n<img alt=\"Autofoto. Carles Bellver Torlà amb bigot.\" src=\"/uploads/2025/2025-11-01-27747.jpg\">\n",
+				"date_published": "2025-11-01T21:09:25+01:00",
+				"url": "https://carlesbellver.net/2025/11/01/27747/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/10/28/87004/",
 				
 				"content_html": "<p>Avui m’he assabentat que el tipus de teoria de la veritat pel qual jo m’inclinava el 1991 —cinquè de Filosofia, beca d’iniciació a la investigació de la Generalitat Valenciana— s’anomena ara <a href=\"https://plato.stanford.edu/entries/truth-primitivist/\">primitivista</a>: perquè la veritat seria un concepte <em>primitiu</em>, no analitzable ni dilucidable en termes de cap altre concepte o conceptes més bàsics. Pel que he pogut esbrinar, aquesta denominació circula almenys des de 2013 (Jamin Asay, <a href=\"https://www.cambridge.org/hk/universitypress/subjects/philosophy/epistemology-and-metaphysics/primitivist-theory-truth\"><em>The Primitivist Theory of Truth</em></a>).</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<blockquote>\n<ol start=\"13\">\n<li>Jo no faig literatura sobre la vida sinó literatura sobre la literatura. La vida normal m’interessa per viure-la i gaudir-ne, m’agrada menjar, nedar… Però el que realment m’agrada és la poesia, el misteri, tot allò que s’escapa de la realitat immediata. Que el Pedrolo em parlés d’un senyor que era porter i s’enamorava m’és igual, això passa cada dia. El que no passa cada dia és que obris una porta i t’aparegui el dimoni.</li>\n</ol>\n</blockquote>\n<p>—<a href=\"https://www.catorze.cat/lectura/perucho-i-la-malediccio-poetica_141673_102.html\">Perucho i la maledicció poètica</a></p>\n<p>Jo no faig literatura sobre la literatura —encara que, superficialment, ho puga parèixer—, sinó literatura sobre la vida. Qui no haja topat mai el dimoni en obrir-se una porta, ja pot donar gràcies de la sort que ha tingut. O fer-ser mirar la seua candidesa: bé que ho sabia, Perucho, això. En canvi, no crec que siga tan comú que un porter s’enamore. Hi ha pocs porters, avui en dia. Un porter seria a hores d’ara quasi tan fantàstic com el dimoni, si més no.</p>\n<img src=\"/uploads/2025/2025-08-22-nosferatu.jpg\" alt=\"Fotograma de la pel·lícula Nosferatu, de 1922, amb el vampir al llindar d’una porta.\">\n",
 				"date_published": "2025-08-22T23:12:45+02:00",
 				"url": "https://carlesbellver.net/2025/08/22/perucho-porter-dimoni/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/07/27/rutina/",
-				
-				"content_html": "<p>Un dels aspectes més interessants de la meua <a href=\"/2025/03/30/34787/\">rutina setmanal d’escriptura</a> és que dilluns passe pàgina i m’oblide del conte anterior. Quan acabarà l’any i revisaré la llibreta electrònica, em sorprendrà haver escrit certes coses. (Sé que serà així perquè ja hi he donat alguna ullada i no em recordava gens del que he vist.)</p>\n",
-				"date_published": "2025-07-27T13:58:08+02:00",
-				"url": "https://carlesbellver.net/2025/07/27/rutina/"
 			}
 	]
 }

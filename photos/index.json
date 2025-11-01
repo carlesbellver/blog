@@ -6,6 +6,13 @@
   "feed_url": "https://carlesbellver.net/photos/index.json",
   "items": [
     {
+        "id": "/2025/11/01/27747/",
+        "date_published": "2025-11-01T21:09:25+01:00",
+        "url": "/2025/11/01/27747/",
+        "image": "https://carlesbellver.net/uploads/2025/2025-11-01-27747.jpg",
+        "content_text": "Movembre\n"
+    },
+    {
         "id": "/2025/10/10/in-memory-of-borges/",
         "title": "In memory of Borges",
         "date_published": "2025-10-10T19:42:43+02:00",
