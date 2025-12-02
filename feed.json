@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/12/02/60219/",
+				"title": "On Saussure and Heidegger about language",
+				"content_html": "<p>Comentari molt clarificador de Luciano Floridi sobre la famosa entrevista de <em>Der Spiegel</em> amb Heidegger en 1966. Un dels filòsofs més influents del segle XX, no havia llegit mai <a href=\"https://en.wikipedia.org/wiki/Ferdinand_de_Saussure\">Saussure</a> ni feia compte de llegir-lo. Millor tirar avant amb els seus —ridículs— prejudicis xovinistes.</p>\n<blockquote>\n<p>Pense en l’especial afinitat interna entre la llengua alemanya i la llengua i el pensament grecs. És una cosa que els francesos em continuen confirmant una vegada i una altra. Quan es posen a pensar, ho fan en alemany. M’asseguren que no hi reeixirien en la seua llengua.</p>\n</blockquote>\n",
+				"date_published": "2025-12-02T15:59:45+00:00",
+				"url": "https://carlesbellver.net/2025/12/02/60219/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/11/05/94146/",
 				"title": "Limónov",
 				"content_html": "<p><img class=\"icon\" src=\"https://carlesbellver.net/svg.icons/book.svg\" /> Emmanuel Carrère, <em>Limónov</em>. Vida i miracles —pocs— de l’etern aspirant frustrat a heroi revolucionari rus, fundador del <a href=\"https://ca.wikipedia.org/wiki/Partit_Nacional_Bolxevic\">Partit Nacional Bolxevic</a> que tenia la seu en un soterrani insalubre, decorat amb imatges de Stalin, Fantomas, Bruce Lee, The Velvet Underground &amp; Nico i el mateix Limónov en uniforme de l’Exèrcit Roig. Es guanyava la vida —malament— com a escriptor i voldries valorar més l’obra que l’autor, però tant s’hi val perquè la majoria dels seus llibres van ser autobiogràfics.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Avui he llegit, en un text del Nobel de literatura Eugenio Montale, que el rei Leopold II de Bèlgica va rebre el malnom de <em>Cléopold</em> per la seua afecció a la ballerina francesa <a href=\"https://en.wikipedia.org/wiki/Cl%C3%A9o_de_M%C3%A9rode\">Cléo de Mérode</a>, primera <em>celebrity</em> de la història segons la Wikipedia.</p>\n",
 				"date_published": "2025-08-25T22:30:06+02:00",
 				"url": "https://carlesbellver.net/2025/08/25/53806/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/08/24/67273/",
-				
-				"content_html": "<p>Avui he après a configurar un <a href=\"https://linuxize.com/post/how-to-setup-ssh-tunneling/\">túnel SSH</a> en el shell de macOS, <a href=\"https://cyberduck.io\">Cyberduck</a> i <a href=\"https://secureshellfish.app/\">ShellFish</a>.</p>\n",
-				"date_published": "2025-08-24T22:27:53+02:00",
-				"url": "https://carlesbellver.net/2025/08/24/67273/"
 			}
 	]
 }
