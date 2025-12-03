@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/12/03/wreck-of-the-unbelievable/",
+				"title": "Treasures from the Wreck of the Unbelievable",
+				"content_html": "<p>El fals <em>making-of</em> d’una exposició de falsos tresors d’un fals naufragi romà a les costes d’Àfrica Oriental. Per a mi, el cèlebre <a href=\"https://en.wikipedia.org/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living\">tauró</a> de <a href=\"https://en.wikipedia.org/wiki/Damien_Hirst\">Damien Hirst</a> resta com una petita broma de mal gust al costat d’aquest formidable muntatge.</p>\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n      <iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen\" loading=\"eager\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/13ShK2UAeP0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" title=\"YouTube video\"></iframe>\n    </div>\n\n",
+				"date_published": "2025-12-03T15:20:05+01:00",
+				"url": "https://carlesbellver.net/2025/12/03/wreck-of-the-unbelievable/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/12/02/60219/",
 				"title": "On Saussure and Heidegger about language",
 				"content_html": "<p>Comentari molt clarificador de Luciano Floridi sobre la famosa entrevista de <em>Der Spiegel</em> amb Heidegger en 1966. Un dels filòsofs més influents del segle XX, no havia llegit mai <a href=\"https://en.wikipedia.org/wiki/Ferdinand_de_Saussure\">Saussure</a> ni feia compte de llegir-lo. Millor tirar avant amb els seus —ridículs— prejudicis xovinistes.</p>\n<blockquote>\n<p>Pense en l’especial afinitat interna entre la llengua alemanya i la llengua i el pensament grecs. És una cosa que els francesos em continuen confirmant una vegada i una altra. Quan es posen a pensar, ho fan en alemany. M’asseguren que no hi reeixirien en la seua llengua.</p>\n</blockquote>\n<img src=\"/uploads/2025/2025-12-02-60219.jpg\" alt=\"Retall d'un exemplar de Der Spiegel amb una fotografia en blanc i negre de Heidegger i dues persones més, els tres amb roba formal, i el titular de l'entrevista en alemany: “Nur noch ein Gott kann uns retten” (només un déu pot salvar-nos).\">",
@@ -29,7 +36,7 @@
 			{
 				"id": "https://carlesbellver.net/2025/11/01/27747/",
 				
-				"content_html": "<p>Movembre</p>\n<img alt=\"Autofoto. Carles Bellver Torlà amb bigot.\" src=\"/uploads/2025/2025-11-01-27747.jpg\">\n",
+				"content_html": "<p>Movembre.</p>\n<img alt=\"Autofoto. Carles Bellver Torlà amb bigot.\" src=\"/uploads/2025/2025-11-01-27747.jpg\">\n",
 				"date_published": "2025-11-01T21:09:25+01:00",
 				"url": "https://carlesbellver.net/2025/11/01/27747/"
 			},
@@ -172,13 +179,6 @@
 				"content_html": "<p>Avui he après els diversos noms d’<a href=\"https://ca.wikipedia.org/wiki/Pyrrhocoris_apterus\">aquest insecte</a> que últimament sol visitar el pis dels meus pares.</p>\n<blockquote>\n<p>Els pirrocòrids reben diversos noms comuns, entre d'altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.</p>\n</blockquote>\n",
 				"date_published": "2025-08-26T22:30:08+02:00",
 				"url": "https://carlesbellver.net/2025/08/26/40208/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/08/25/53806/",
-				
-				"content_html": "<p>Avui he llegit, en un text del Nobel de literatura Eugenio Montale, que el rei Leopold II de Bèlgica va rebre el malnom de <em>Cléopold</em> per la seua afecció a la ballerina francesa <a href=\"https://en.wikipedia.org/wiki/Cl%C3%A9o_de_M%C3%A9rode\">Cléo de Mérode</a>, primera <em>celebrity</em> de la història segons la Wikipedia.</p>\n",
-				"date_published": "2025-08-25T22:30:06+02:00",
-				"url": "https://carlesbellver.net/2025/08/25/53806/"
 			}
 	]
 }
