@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Wed, 03 Dec 2025 15:20:05 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 22:30:05 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/12/07/43005/</link>
+      <pubDate>Sun, 07 Dec 2025 22:30:05 +0100</pubDate>
+      <guid>https://carlesbellver.net/2025/12/07/43005/</guid>
+      <description>
+      &lt;p&gt;Avui he après que les Canàries formen part de la &lt;a href=&#34;https://ca.wikipedia.org/wiki/Macaron%C3%A8sia&#34;&gt;Macaronèsia&lt;/a&gt;, juntament amb les Açores, l’arxipèlag de Madeira, Cap Verd i les illes Salvatges (entre les quals, la Selvagem Grande, que és bastant petita, i la Selvagem Pequena, que es diminuta).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Treasures from the Wreck of the Unbelievable</title>
@@ -282,19 +292,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <guid>https://carlesbellver.net/2025/08/27/26607/</guid>
       <description>
       &lt;p&gt;Avui he llegit que el nom &lt;a href=&#34;https://en.wikipedia.org/wiki/Thomas_(name)&#34;&gt;Tomàs&lt;/a&gt; és d’origen arameu i volia dir bessó. Per això a &lt;a href=&#34;https://ca.wikipedia.org/wiki/Tom%C3%A0s_ap%C3%B2stol&#34;&gt;l’apòstol&lt;/a&gt; incrèdul hom l’anomenava també &lt;em&gt;Didymos&lt;/em&gt;, bessó en grec.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2025/08/26/40208/</link>
-      <pubDate>Tue, 26 Aug 2025 22:30:08 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/08/26/40208/</guid>
-      <description>
-      &lt;p&gt;Avui he après els diversos noms d’&lt;a href=&#34;https://ca.wikipedia.org/wiki/Pyrrhocoris_apterus&#34;&gt;aquest insecte&lt;/a&gt; que últimament sol visitar el pis dels meus pares.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Els pirrocòrids reben diversos noms comuns, entre d&#39;altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/12/07/43005/",
+				
+				"content_html": "<p>Avui he après que les Canàries formen part de la <a href=\"https://ca.wikipedia.org/wiki/Macaron%C3%A8sia\">Macaronèsia</a>, juntament amb les Açores, l’arxipèlag de Madeira, Cap Verd i les illes Salvatges (entre les quals, la Selvagem Grande, que és bastant petita, i la Selvagem Pequena, que es diminuta).</p>\n",
+				"date_published": "2025-12-07T22:30:05+01:00",
+				"url": "https://carlesbellver.net/2025/12/07/43005/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/12/03/wreck-of-the-unbelievable/",
 				"title": "Treasures from the Wreck of the Unbelievable",
 				"content_html": "<p>El fals <em>making-of</em> d’una exposició de falsos tresors d’un fals naufragi romà a les costes d’Àfrica Oriental. Per a mi, el cèlebre <a href=\"https://en.wikipedia.org/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living\">tauró</a> de <a href=\"https://en.wikipedia.org/wiki/Damien_Hirst\">Damien Hirst</a> resta com una petita broma de mal gust al costat d’aquest formidable muntatge.</p>\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n      <iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen\" loading=\"eager\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/13ShK2UAeP0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" title=\"YouTube video\"></iframe>\n    </div>\n\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Avui he llegit que el nom <a href=\"https://en.wikipedia.org/wiki/Thomas_(name)\">Tomàs</a> és d’origen arameu i volia dir bessó. Per això a <a href=\"https://ca.wikipedia.org/wiki/Tom%C3%A0s_ap%C3%B2stol\">l’apòstol</a> incrèdul hom l’anomenava també <em>Didymos</em>, bessó en grec.</p>\n",
 				"date_published": "2025-08-27T22:30:07+02:00",
 				"url": "https://carlesbellver.net/2025/08/27/26607/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/08/26/40208/",
-				
-				"content_html": "<p>Avui he après els diversos noms d’<a href=\"https://ca.wikipedia.org/wiki/Pyrrhocoris_apterus\">aquest insecte</a> que últimament sol visitar el pis dels meus pares.</p>\n<blockquote>\n<p>Els pirrocòrids reben diversos noms comuns, entre d'altres, coralets, sabateres, xinxes roges, falses marietes, xinxes de les malves, morets, retorets, dimoniets o màscara del dimoni.</p>\n</blockquote>\n",
-				"date_published": "2025-08-26T22:30:08+02:00",
-				"url": "https://carlesbellver.net/2025/08/26/40208/"
 			}
 	]
 }
