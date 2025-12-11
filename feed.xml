@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 07 Dec 2025 22:30:05 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 22:30:05 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2025/12/11/88605/</link>
+      <pubDate>Thu, 11 Dec 2025 22:30:05 +0100</pubDate>
+      <guid>https://carlesbellver.net/2025/12/11/88605/</guid>
+      <description>
+      &lt;p&gt;Avui he après que les Canàries formen part de la &lt;a href=&#34;https://ca.wikipedia.org/wiki/Macaron%C3%A8sia&#34;&gt;Macaronèsia&lt;/a&gt;, juntament amb les Açores, l’arxipèlag de Madeira, Cap Verd i les illes Salvatges (entre les quals, la Selvagem Grande, que és bastant petita, i la Selvagem Pequena, que es diminuta).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -282,16 +292,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <guid>https://carlesbellver.net/2025/08/29/99407/</guid>
       <description>
       &lt;p&gt;Avui m’he assabentat que &lt;a href=&#34;https://ca.wikipedia.org/wiki/Francesc_de_Sales&#34;&gt;Sant Francesc de Sales&lt;/a&gt; és el patró dels escriptors catòlics, declarat així per Pius XI en l’encíclica &lt;a href=&#34;https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html&#34;&gt;Rerum Omnium Perturbationem&lt;/a&gt; (“De la pertorbació de totes les coses”). També és patró de les persones sordes: no sé si un patronatge té relació amb l’altre o no. Festivitat: 24 de gener.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2025/08/27/26607/</link>
-      <pubDate>Wed, 27 Aug 2025 22:30:07 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/08/27/26607/</guid>
-      <description>
-      &lt;p&gt;Avui he llegit que el nom &lt;a href=&#34;https://en.wikipedia.org/wiki/Thomas_(name)&#34;&gt;Tomàs&lt;/a&gt; és d’origen arameu i volia dir bessó. Per això a &lt;a href=&#34;https://ca.wikipedia.org/wiki/Tom%C3%A0s_ap%C3%B2stol&#34;&gt;l’apòstol&lt;/a&gt; incrèdul hom l’anomenava també &lt;em&gt;Didymos&lt;/em&gt;, bessó en grec.&lt;/p&gt;
 </description>
     </item>
     
