@@ -6,6 +6,13 @@
 	"feed_url": "https://carlesbellver.net/feed.json",
 	"items": [
 			{
+				"id": "https://carlesbellver.net/2025/12/17/99038/",
+				"title": "The Most Scathing Book Reviews of 2025",
+				"content_html": "<p>Pagaria (una quantitat a convenir) per ser víctima d’una crítica com aquestes.</p>\n",
+				"date_published": "2025-12-17T20:17:33+01:00",
+				"url": "https://carlesbellver.net/2025/12/17/99038/"
+			},
+			{
 				"id": "https://carlesbellver.net/2025/12/12/alain-bombard/",
 				"title": "Alain Bombard: The Biologist Who Shipwrecked Himself to Prove a Point",
 				"content_html": "<p>Aquest senyor va provar empíricament en 1952 que un nàufrag pot sobreviure bevent quantitats limitades d’aigua de mar, si la complementa amb peix cru —que també aporta fluids— i les vitamines del plàncton. De Tenerife a Barbados en seixanta-cinc dies, fent una breu escala en un vaixell de càrrega britànic, on el menjar sòlid que li van oferir li va donar mal d’estómac. Més avant va ser secretari d’estat amb Miterrand —no va durar ni un mes en el càrrec per la seua oposició a l’alimentació forçada de les oques del <em>foie gras</em>— i diputat europeu de 1981 a 1994.</p>\n",
@@ -172,13 +179,6 @@
 				"content_html": "<p>Adeu a l’agost.</p>\n<img alt=\"Fotografia en color de la muralla de Morella des de l’exterior del nucli urbà (extramurs), amb un campanar al fons rere la muralla, gespa seca en primer pla i un arbre solitari sota un cel blau amb alguns núvols.\" src=\"/uploads/2025/2025-08-31-adeu-agost.jpg\">\n",
 				"date_published": "2025-08-31T08:32:09+02:00",
 				"url": "https://carlesbellver.net/2025/08/31/adeu-agost/"
-			},
-			{
-				"id": "https://carlesbellver.net/2025/08/30/53433/",
-				"title": "The defense against slop and brainrot",
-				"content_html": "<p>Si has après els fonaments de la comprensió lectora, el pensament crític i la creativitat, la IA pot ampliar les teues possibilitats. Si no, només ampliarà la teua ignorància. Via <a href=\"https://www.downes.ca/post/78170\">OLDaily</a>.</p>\n<blockquote>\n<p>…m’he adonat que si saps pensar bé, la IA esdevé multiplicadora. Si no, la IA només amplifica els teus errors.</p>\n</blockquote>\n",
-				"date_published": "2025-08-30T13:30:54+02:00",
-				"url": "https://carlesbellver.net/2025/08/30/53433/"
 			}
 	]
 }

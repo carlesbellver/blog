@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Fri, 12 Dec 2025 21:24:13 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 20:17:33 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>The Most Scathing Book Reviews of 2025</title>
+      <link>https://lithub.com/the-most-scathing-book-reviews-of-2025/</link>
+      <pubDate>Wed, 17 Dec 2025 20:17:33 +0100</pubDate>
+      <guid>https://carlesbellver.net/2025/12/17/99038/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;https://lithub.com/the-most-scathing-book-reviews-of-2025/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/12/17/99038/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Pagaria (una quantitat a convenir) per ser víctima d’una crítica com aquestes.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Alain Bombard: The Biologist Who Shipwrecked Himself to Prove a Point</title>
@@ -279,19 +289,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <description>
       &lt;p&gt;Adeu a l’agost.&lt;/p&gt;
 &lt;img alt=&#34;Fotografia en color de la muralla de Morella des de l’exterior del nucli urbà (extramurs), amb un campanar al fons rere la muralla, gespa seca en primer pla i un arbre solitari sota un cel blau amb alguns núvols.&#34; src=&#34;https://carlesbellver.net/uploads/2025/2025-08-31-adeu-agost.jpg&#34;&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The defense against slop and brainrot</title>
-      <link>https://pauljun.substack.com/p/anti-slop-and-anti-brainrot</link>
-      <pubDate>Sat, 30 Aug 2025 13:30:54 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/08/30/53433/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://pauljun.substack.com/p/anti-slop-and-anti-brainrot&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/08/30/53433/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Si has après els fonaments de la comprensió lectora, el pensament crític i la creativitat, la IA pot ampliar les teues possibilitats. Si no, només ampliarà la teua ignorància. Via &lt;a href=&#34;https://www.downes.ca/post/78170&#34;&gt;OLDaily&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;…m’he adonat que si saps pensar bé, la IA esdevé multiplicadora. Si no, la IA només amplifica els teus errors.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
