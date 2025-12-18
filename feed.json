@@ -20,13 +20,6 @@
 				"url": "https://carlesbellver.net/2025/12/12/alain-bombard/"
 			},
 			{
-				"id": "https://carlesbellver.net/2025/12/11/88605/",
-				
-				"content_html": "<p>Avui he après que les Canàries formen part de la <a href=\"https://ca.wikipedia.org/wiki/Macaron%C3%A8sia\">Macaronèsia</a>, juntament amb les Açores, l’arxipèlag de Madeira, Cap Verd i les illes Salvatges (entre les quals, la Selvagem Grande, que és bastant petita, i la Selvagem Pequena, que es diminuta).</p>\n",
-				"date_published": "2025-12-11T22:30:05+01:00",
-				"url": "https://carlesbellver.net/2025/12/11/88605/"
-			},
-			{
 				"id": "https://carlesbellver.net/2025/12/07/43005/",
 				
 				"content_html": "<p>Avui he après que les Canàries formen part de la <a href=\"https://ca.wikipedia.org/wiki/Macaron%C3%A8sia\">Macaronèsia</a>, juntament amb les Açores, l’arxipèlag de Madeira, Cap Verd i les illes Salvatges (entre les quals, la Selvagem Grande, que és bastant petita, i la Selvagem Pequena, que es diminuta).</p>\n",
@@ -179,6 +172,13 @@
 				"content_html": "<p>Adeu a l’agost.</p>\n<img alt=\"Fotografia en color de la muralla de Morella des de l’exterior del nucli urbà (extramurs), amb un campanar al fons rere la muralla, gespa seca en primer pla i un arbre solitari sota un cel blau amb alguns núvols.\" src=\"/uploads/2025/2025-08-31-adeu-agost.jpg\">\n",
 				"date_published": "2025-08-31T08:32:09+02:00",
 				"url": "https://carlesbellver.net/2025/08/31/adeu-agost/"
+			},
+			{
+				"id": "https://carlesbellver.net/2025/08/30/53433/",
+				"title": "The defense against slop and brainrot",
+				"content_html": "<p>Si has après els fonaments de la comprensió lectora, el pensament crític i la creativitat, la IA pot ampliar les teues possibilitats. Si no, només ampliarà la teua ignorància. Via <a href=\"https://www.downes.ca/post/78170\">OLDaily</a>.</p>\n<blockquote>\n<p>…m’he adonat que si saps pensar bé, la IA esdevé multiplicadora. Si no, la IA només amplifica els teus errors.</p>\n</blockquote>\n",
+				"date_published": "2025-08-30T13:30:54+02:00",
+				"url": "https://carlesbellver.net/2025/08/30/53433/"
 			}
 	]
 }
