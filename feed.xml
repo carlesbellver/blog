@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Mon, 05 Jan 2026 23:30:45 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 21:30:00 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>El misteri perdura</title>
+      <link>https://carlesbellver.net/2026/01/08/el-misteri-perdura/</link>
+      <pubDate>Thu, 08 Jan 2026 21:30:00 +0100</pubDate>
+      <guid>https://carlesbellver.net/2026/01/08/el-misteri-perdura/</guid>
+      <description>
+      &lt;p&gt;Finalment van acabar l’obra en &lt;a href=&#34;https://carlesbellver.net/2018/01/08/190219.html&#34;&gt;aquell edifici&lt;/a&gt; tot negre de dalt a baix, a la cantonada de la plaça de la Pau amb Escultor Viciano (el carrer de la Vieta, per on passava &lt;a href=&#34;https://ca.wikipedia.org/wiki/La_Panderola&#34;&gt;la Panderola&lt;/a&gt;). A la &lt;a href=&#34;https://carlesbellver.net/2017/01/08/202112.html&#34;&gt;planta baixa&lt;/a&gt;, ara hi ha un &lt;em&gt;diner&lt;/em&gt; d’estil molt americà, una falsa franquícia on a penes veus mai clients i que podria ser una &lt;em&gt;tapadora&lt;/em&gt; en el sentit més literal del terme: un artefacte destinat a velar el carreró de darrere, on pastura i s’abeura &lt;a href=&#34;https://carlesbellver.net/llibres/uncelnouiunaterranova/mariafolch-uncelnouiunaterranova/#:~:text=el%20prado%20donde%20relincha%20el%20unicornio&#34;&gt;l’unicorn&lt;/a&gt;. El misteri perdura.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>La zona d’interès</title>
@@ -277,19 +287,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <guid>https://carlesbellver.net/2025/09/02/45007/</guid>
       <description>
       &lt;p&gt;Vaig deixar d’escriure aquelles &lt;a href=&#34;https://carlesbellver.net/tags/ressenyes/&#34;&gt;microressenyes&lt;/a&gt; i ara no recorde quasi res de molts dels llibres que he anat llegint.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Emilio Santiago, antropólogo: “Podemos reducir nuestro impacto en el planeta y llevar una vida de lujo”</title>
-      <link>https://elpais.com/clima-y-medio-ambiente/2025-08-02/emilio-santiago-antropologo-podemos-reducir-nuestro-impacto-en-el-planeta-y-llevar-una-vida-de-lujo.html</link>
-      <pubDate>Mon, 01 Sep 2025 20:15:24 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/09/01/50490/</guid>
-      <description>&lt;p&gt;&lt;a href=&quot;https://elpais.com/clima-y-medio-ambiente/2025-08-02/emilio-santiago-antropologo-podemos-reducir-nuestro-impacto-en-el-planeta-y-llevar-una-vida-de-lujo.html&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/09/01/50490/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Per un ecologisme hedonista.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;No podemos realizar la transformación que el ecologismo busca ni desde la culpa ni desde el sacrificio. Tenemos que hacerlo disputando la idea de deseo y ofreciendo horizontes de transformación que sean estimulantes, que sean ilusionantes, que sean excitantes.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
