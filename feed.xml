@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Thu, 08 Jan 2026 21:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 13:33:46 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title>Madres y perros</title>
+      <link>https://carlesbellver.net/2026/01/11/madres-y-perros/</link>
+      <pubDate>Sun, 11 Jan 2026 13:33:46 +0100</pubDate>
+      <guid>https://carlesbellver.net/2026/01/11/madres-y-perros/</guid>
+      <description>
+      &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; &lt;a href=&#34;https://es.wikipedia.org/wiki/Fabio_Mor%C3%A1bito&#34;&gt;Fabio Morábito&lt;/a&gt;, &lt;em&gt;Madres y perros&lt;/em&gt;. Un recull de contes, vagament inquietants, executats amb gran precisió. Com un mecanisme de rellotgeria que al final marca una hora estranya. Alguns m’han paregut d’una qualitat excepcional. Al començament, em recordava una mica Adolfo Bioy Casares. Un descobriment, per a mi, perquè no coneixia aquest autor mexicà d’origen italià.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>El misteri perdura</title>
@@ -277,16 +287,6 @@ CREATE TABLE layer_attributes (id text, name text, value blob);
       <guid>https://carlesbellver.net/2025/09/04/17807/</guid>
       <description>
       &lt;p&gt;Avui m’he assabentat que si tens dos o més doctorats pots combinar els diferents colors en el birret (cada color correspon a una titulació o branca de coneixement). Com en aquest &lt;a href=&#34;https://tiendadetogas.com/tienda/birrete-academico/birrete-dos-doctorados-humanidades-y-periodismo/&#34;&gt;birret blau i gris d’humanitats i periodisme&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2025/09/02/45007/</link>
-      <pubDate>Tue, 02 Sep 2025 22:30:07 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/09/02/45007/</guid>
-      <description>
-      &lt;p&gt;Vaig deixar d’escriure aquelles &lt;a href=&#34;https://carlesbellver.net/tags/ressenyes/&#34;&gt;microressenyes&lt;/a&gt; i ara no recorde quasi res de molts dels llibres que he anat llegint.&lt;/p&gt;
 </description>
     </item>
     

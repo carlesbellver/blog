@@ -6,10 +6,20 @@
     <description>La vista cansada (Ressenyes)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Mon, 05 Jan 2026 23:30:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 13:33:46 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/ressenyes/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Madres y perros</title>
+      <link>https://carlesbellver.net/2026/01/11/madres-y-perros/</link>
+      <pubDate>Sun, 11 Jan 2026 13:33:46 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2026/01/11/madres-y-perros/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; &lt;a href=&#34;https://es.wikipedia.org/wiki/Fabio_Mor%C3%A1bito&#34;&gt;Fabio Morábito&lt;/a&gt;, &lt;em&gt;Madres y perros&lt;/em&gt;. Un recull de contes, vagament inquietants, executats amb gran precisió. Com un mecanisme de rellotgeria que al final marca una hora estranya. Alguns m’han paregut d’una qualitat excepcional. Al començament, em recordava una mica Adolfo Bioy Casares. Un descobriment, per a mi, perquè no coneixia aquest autor mexicà d’origen italià.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>La zona d’interès</title>
