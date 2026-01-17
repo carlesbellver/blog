@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sun, 11 Jan 2026 13:33:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 10:35:29 +0100</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2026/01/17/42496/</link>
+      <pubDate>Sat, 17 Jan 2026 10:35:29 +0100</pubDate>
+      <guid>https://carlesbellver.net/2026/01/17/42496/</guid>
+      <description>
+      &lt;p&gt;Vaig enviar el meu últim llibre a dinou editorials i la majoria ni m’han contestat. M’estic plantejant traduir-lo al castellà i provar sort per aquella banda. De pas, m’entretindria aprenent a utilitzar l’API de traducció de Google Cloud.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Madres y perros</title>
@@ -278,16 +288,6 @@
 CREATE TABLE layers (id text, parent_id text, sequence integer, uti text, name text, data blob);
 CREATE TABLE layer_attributes (id text, name text, value blob);
 &lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2025/09/04/17807/</link>
-      <pubDate>Thu, 04 Sep 2025 22:30:07 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/09/04/17807/</guid>
-      <description>
-      &lt;p&gt;Avui m’he assabentat que si tens dos o més doctorats pots combinar els diferents colors en el birret (cada color correspon a una titulació o branca de coneixement). Com en aquest &lt;a href=&#34;https://tiendadetogas.com/tienda/birrete-academico/birrete-dos-doctorados-humanidades-y-periodismo/&#34;&gt;birret blau i gris d’humanitats i periodisme&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

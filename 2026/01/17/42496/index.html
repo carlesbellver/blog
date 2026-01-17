@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+
+
+<html lang="ca-es" data-theme="">
+<head>
+  
+    
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<title>Carles Bellver Torlà :: 2026-01-17 10:35</title>
+<meta name="author" content="Carles Bellver Torlà">
+<meta name="description" content="">
+
+<meta name="fediverse:creator" content="@carlesbellver@mastodon.social">
+
+<link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
+<link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1768642550" />
+<style>
+
+    [data-theme="dark"] {   
+        --font-color: #eee;
+--bg-color: #111;
+--content-bg-color: #111; /* #191919; */
+
+--note-bg-color: #333;
+
+--menu-color: #eee;
+--menu-bg-color: #111;
+
+--link-color: #ff3333;
+--link-state-color: #ff3333;
+
+--thead-bg-color: #343a40;
+--table-border-color: lightgrey;
+
+--pre-color: #333;
+--pre-bg-color: #f1f1f1;
+
+--bq-bar-color: #ccc;
+--bq-color: #ccc;
+--hr-color: #333;
+
+--pagination-bg-color: #191919;
+--pagination-link-color: #b6b6b6;
+
+--post-info-color: grey;
+
+--switcher-color: #333;
+--switcher-bg-color: #fff;
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1768642550" />
+
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1768642550" />
+
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+
+
+
+
+
+
+
+<link href="https://mastodon.social/@carlesbellver" rel="me">
+<link href="https://twitter.com/carlesbellver" rel="me">
+<link href="https://github.com/carlesbellver" rel="me">
+
+
+
+<meta name="og:title" content="Vaig enviar el meu últim llibre a dinou editorials i la majoria ni m’han contestat. M’estic …"/>
+<meta property="og:description" content="Vaig enviar el meu últim llibre a dinou editorials i la majoria ni m’han contestat. M’estic plantejant traduir-lo al castellà i provar sort per aquella banda. De pas, m’entretindria aprenent a utilitzar l’API de traducció de Google Cloud." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carlesbellver.net/2026/01/17/42496/" />
+<meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2026-01-17T10:35:29+01:00" />
+<meta property="article:modified_time" content="2026-01-17T10:35:29+01:00" />
+
+<meta property="article:section" content="posts" />
+
+<meta name="twitter:title" content="Vaig enviar el meu últim llibre a dinou editorials i la majoria ni m’han contestat. M’estic …"/>
+<meta name="twitter:description" content="Vaig enviar el meu últim llibre a dinou editorials i la majoria ni m’han contestat. M’estic plantejant traduir-lo al castellà i provar sort per aquella banda. De pas, m’entretindria aprenent a utilitzar l’API de traducció de Google Cloud."/>
+
+
+
+
+<meta name="page-source-path" content="posts/2026-01-17-42496.md">
+
+
+
+
+
+
+  
+</head>
+<body>
+  <a class="skip-main" href="#main">Principal</a>
+  <div class="container">
+		<aside class="sidebar"> 
+			
+			<nav>
+  <div id="quickctrl">
+    <ul id="quicklinks">
+      <li><a class="h-card" rel="me" href="https://carlesbellver.net/">Inici</a>
+      
+        
+      <li><a href="https://carlesbellver.net/about/" title="Informació">Informació</a></li>
+        
+      <li><a href="https://carlesbellver.net/onthisday/" title="Tal dia com avui">Tal dia com avui</a></li>
+        
+      <li><a href="https://carlesbellver.net/llibres/" title="Llibres">Llibres</a></li>
+        
+      <li><a href="https://carlesbellver.net/taller/" title="Experiments">Experiments</a></li>
+        
+      <li><a href="https://carlesbellver.net/photos/" title="Fotos">Fotos</a></li>
+        
+      <li><a href="https://carlesbellver.net/archive/" title="Cercar">Cercar</a></li>
+        
+      <li><a href="https://carlesbellver.net/feed.xml" title="RSS">RSS</a></li>
+        
+      
+      <li>
+
+    
+
+
+
+    <a class="theme-switcher">Fosc</a>
+
+    <script>
+    const STORAGE_KEY = 'user-color-scheme'
+    const defaultTheme = "light"
+
+    let currentTheme
+    let switchButton
+    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
+
+    const autoChangeScheme = e => {
+        currentTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', currentTheme)
+        changeButtonText()
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        switchButton = document.querySelector('.theme-switcher')
+        currentTheme = detectCurrentScheme()
+        if (currentTheme == 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+        }
+        if (currentTheme == 'auto') {
+            autoChangeScheme(autoDefinedScheme);
+            autoDefinedScheme.addListener(autoChangeScheme);
+        }
+        changeButtonText()
+        switchButton.addEventListener('click', switchTheme, false)
+    })
+
+    function detectCurrentScheme() {
+        if (localStorage.getItem(STORAGE_KEY)) {
+            return localStorage.getItem(STORAGE_KEY)
+        } 
+        if (defaultTheme) {
+            return defaultTheme
+        } 
+        if (!window.matchMedia) {
+            return 'light'
+        } 
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            return 'dark'
+        }
+        return 'light'
+    }
+
+    function changeButtonText()
+    {   
+        switchButton.textContent = currentTheme == 'dark' ?  "Clar" : "Fosc"
+    }
+
+    function switchTheme(e) {
+        if (currentTheme == 'dark') {
+            localStorage.setItem(STORAGE_KEY, 'light')
+            document.documentElement.setAttribute('data-theme', 'light')
+            currentTheme = 'light'
+        } else {
+            localStorage.setItem(STORAGE_KEY, 'dark')
+            document.documentElement.setAttribute('data-theme', 'dark')
+            currentTheme = 'dark'
+        }
+        changeButtonText()
+    }
+    </script>
+</li>
+    </ul>
+  </div>
+</nav>
+
+			
+		</aside>
+    <main id="main" class="main" tabindex="-1">
+      <div class="content">
+        
+
+
+
+
+<ul class="post-info">
+    <li><span class="nobr"><img class="icon" src="https://carlesbellver.net//svg.icons/at.svg" alt="autor" /> <a href="https://carlesbellver.net/">carlesbellver</a></span></li>
+    
+      <li><span class="nobr"><img class="icon" src="https://carlesbellver.net//svg.icons/calendar.svg" alt="calendari" /> <a class="u-url" href="https://carlesbellver.net/2026/01/17/42496/"><span class="post-date dt-published">2026-01-17</span></a></span></li>
+    
+    
+		  </span></li>
+    
+</ul>
+    
+
+    <article class="post regular h-entry">
+
+
+      
+
+      
+      
+      
+
+      
+
+      </header>
+            
+      <div class="content e-content size_2">
+                  
+          
+          
+            
+          
+            
+          
+            
+          
+          <p>Vaig enviar el meu últim llibre a dinou editorials i la majoria ni m’han contestat. M’estic plantejant traduir-lo al castellà i provar sort per aquella banda. De pas, m’entretindria aprenent a utilitzar l’API de traducció de Google Cloud.</p>
+
+
+        
+      </div>
+            
+          
+
+      
+      
+
+
+
+
+    </article>
+    
+    
+
+
+      </div>
+			
+			
+			</main>
+  </div>
+  <script data-goatcounter="https://carlesbellver.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
