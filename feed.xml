@@ -6,8 +6,18 @@
     
     <language>ca-es</language>
     
-    <lastBuildDate>Sat, 17 Jan 2026 10:35:29 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 21:06:35 +0000</lastBuildDate>
 	
+    
+    <item>
+      <title></title>
+      <link>https://carlesbellver.net/2026/01/19/05521/</link>
+      <pubDate>Mon, 19 Jan 2026 21:06:35 +0000</pubDate>
+      <guid>https://carlesbellver.net/2026/01/19/05521/</guid>
+      <description>
+      &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Martin Amis, &lt;a href=&#34;https://en.wikipedia.org/wiki/Night_Train_%28novel%29&#34;&gt;&lt;em&gt;Tren nocturno&lt;/em&gt;&lt;/a&gt;. Més que una paròdia, com diu la Wikipedia, jo diria que comença com una imitació de les novel·les de detectius nordamericanes. Després, gradualment, va guanyant profunditat i fa crèixer l’interès per descobrir, si hom pot, el que va passar. Per què es va suïcidar, si és que ho va fer, aquesta jove astrofísica, brillant i afortunada en tants aspectes. I quin sentit tenen les pistes que va deixar.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -275,19 +285,6 @@
 &lt;p&gt;Gartner creu que d’ací a cinc anys el 75 % del treball informàtic serà activitat humana complementada per la IA i els bots realitzaran la resta […] Plummer va dir que Gartner no preveu una massacre de llocs de treball per la IA en TI o altres sectors durant almenys cinc anys i va afegir que només un 1 % de les pèrdues de llocs de treball actuals són atribuïbles a la IA.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://carlesbellver.net/2025/09/06/90605/</link>
-      <pubDate>Sat, 06 Sep 2025 22:30:05 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/09/06/90605/</guid>
-      <description>
-      &lt;p&gt;Avui he après que el &lt;a href=&#34;https://flyingmeat.com/acorn/docs/technotes/ACTN002.html&#34;&gt;format de fitxer natiu d’Acorn&lt;/a&gt; (editor d’imatges per a macOS) és en realitat SQLite. Cada imatge és una base de dades!&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;CREATE TABLE image_attributes (name text, value blob);
-CREATE TABLE layers (id text, parent_id text, sequence integer, uti text, name text, data blob);
-CREATE TABLE layer_attributes (id text, name text, value blob);
-&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>
