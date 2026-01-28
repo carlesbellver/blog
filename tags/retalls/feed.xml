@@ -6,10 +6,20 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Thu, 25 Dec 2025 14:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 14:24:10 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Yann LeCun&#39;s new venture is a contrarian bet against large language models</title>
+      <link>https://carlesbellver.net/2026/01/28/06636/</link>
+      <pubDate>Wed, 28 Jan 2026 14:24:10 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2026/01/28/06636/</guid>
+      <description>&lt;p&gt;Els models de llenguatge extensos (LLM) són eficients manipulant text, però no poden anar més enllà del text. El futur de la IA, segons Yann LeCun, són els models del món, que poden aprendre com funcionen realment les coses, p. ex. a partir de vídeos, i fer prediccions viables. És el camp on caldria centrar la recerca científica i deixar el desenvolupament tecnològic dels LLM a les empreses.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hypoalgesic effect of swearing</title>
