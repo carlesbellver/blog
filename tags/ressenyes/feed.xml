@@ -6,10 +6,20 @@
     <description>La vista cansada (Ressenyes)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sat, 24 Jan 2026 10:36:51 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 20:12:52 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/ressenyes/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>El bosque del cisne negro</title>
+      <link>https://carlesbellver.net/2026/01/30/black-swan-green/</link>
+      <pubDate>Fri, 30 Jan 2026 20:12:52 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2026/01/30/black-swan-green/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; David Mitchell, &lt;a href=&#34;https://en.wikipedia.org/wiki/Black_Swan_Green&#34;&gt;&lt;em&gt;El bosque del cisne negro&lt;/em&gt;&lt;/a&gt;. Fa anys que tinc pendent de llegir &lt;a href=&#34;https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)&#34;&gt;&lt;em&gt;Cloud Atlas&lt;/em&gt;&lt;/a&gt; i no sé per què vaig decidir emprendre abans aquesta &lt;em&gt;bildungsroman&lt;/em&gt; del mateix autor, classificada com a &lt;em&gt;young adult&lt;/em&gt; i parcialment autobiogràfica. Però m’ha encantat. Tretze mesos, tretze històries encadenades. El protagonista, i l’autor, pareixen persones intel·ligents i sensates, virtuts d’allò més pràctiques per a travessar el boscatge espès de l’adolescència.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>El lector a domicilio</title>
