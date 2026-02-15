@@ -6,10 +6,23 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Wed, 28 Jan 2026 14:24:10 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 20:36:20 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SETI Editorial: Toilets of the Gods</title>
+      <link>https://carlesbellver.net/2026/02/15/toilets-gods/</link>
+      <pubDate>Sun, 15 Feb 2026 20:36:20 +0100</pubDate>
+      
+      <guid>https://carlesbellver.net/2026/02/15/toilets-gods/</guid>
+      <description>&lt;p&gt;Arthur C. Clarke sobre la possibilitat que fems extraterrestres originaren la vida al nostre planeta.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;S’ha completat recentment un examen de deixalles orbitals, recuperades després de donar voltes a la Terra durant anys. Una gran part estaven recobertes d&#39;una pel·lícula del que es va descriure delicadament com a &amp;quot;matèria fecal&amp;quot;, atribuïda al sanejament descurat dels astronautes […] Fa sentir humilitat pensar que potser hem sorgit d’aigües residuals abocades; el primer capítol del Gènesi, sens dubte, requeriria una revisió dràstica.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Yann LeCun&#39;s new venture is a contrarian bet against large language models</title>
