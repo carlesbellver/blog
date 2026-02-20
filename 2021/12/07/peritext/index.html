@@ -19,7 +19,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1771419455" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1771572974" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,6 +30,8 @@
 --note-bg-color: #333;
 
 --comments-bg-color: #333;
+
+--foot-color: #ccc;
 
 --menu-color: #eee;
 --menu-bg-color: #111;
@@ -45,6 +47,8 @@
 
 --bq-bar-color: #ccc;
 --bq-color: #ccc;
+--bq-bg-color: #333;
+
 --hr-color: #333;
 
 --pagination-bg-color: #191919;
@@ -59,9 +63,9 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1771419455" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1771572974" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1771419455" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1771572974" />
 
 <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
 <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
@@ -81,7 +85,8 @@
 <meta name="og:title" content="Peritext: A CRDT for Rich-Text Collaboration"/>
 <meta property="og:description" content="Un algorisme per a l’edició col·laborativa asíncrona de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l’edició síncrona). CRDT = Conflict-free Replicated Data Type.
 
-Els editors col·laboratius com Google Docs permeten que la gent treballe en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d’un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d’ús." />
+	
+		Els editors col·laboratius com Google Docs permeten que la gent treballe en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d’un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d’ús." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2021/12/07/peritext/" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2021-12-07T19:00:44+01:00" />
@@ -93,7 +98,8 @@ Els editors col·laboratius com Google Docs permeten que la gent treballe en un 
 <meta name="twitter:title" content="Peritext: A CRDT for Rich-Text Collaboration"/>
 <meta name="twitter:description" content="Un algorisme per a l’edició col·laborativa asíncrona de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l’edició síncrona). CRDT = Conflict-free Replicated Data Type.
 
-Els editors col·laboratius com Google Docs permeten que la gent treballe en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d’un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d’ús."/>
+	
+		Els editors col·laboratius com Google Docs permeten que la gent treballe en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d’un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d’ús."/>
 
 
 
@@ -237,9 +243,12 @@ Els editors col·laboratius com Google Docs permeten que la gent treballe en un 
             
           
           <p>Un algorisme per a l’edició col·laborativa <em>asíncrona</em> de documents de text enriquit. Més enllà de Git (optimitzat per a codi) i de Google Docs (enfocat a l’edició síncrona). <a href="https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type">CRDT</a> = Conflict-free Replicated Data Type.</p>
-<blockquote>
-<p>Els editors col·laboratius com Google Docs permeten que la gent treballe en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d’un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d’ús.</p>
-</blockquote>
+<figure>
+	<blockquote>
+		<p>Els editors col·laboratius com Google Docs permeten que la gent treballe en un document de text enriquit en temps real, cosa que resulta pràctica quan es volen veure immediatament els canvis que fan els altres. Tanmateix, de vegades la gent prefereix un estil de col·laboració més asíncron, és a dir, treballar en una còpia privada d’un document durant un temps i compartir els canvis més endavant. Els algorismes que sustenten serveis com Google Docs no estan dissenyats per donar suport a aquest tipus d’ús.</p>
+
+	</blockquote>
+</figure>
 
 
 			

@@ -1,3 +1,4 @@
+
 <rss version="2.0">
   <channel>
     <title>La vista cansada</title>
@@ -12,21 +13,22 @@
     <item>
       <title>SETI Editorial: Toilets of the Gods</title>
       <link>https://www.setileague.org/editor/clarke2.htm</link>
-      <pubDate>Sun, 15 Feb 2026 20:36:20 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/02/15/toilets-gods/</guid>
+      <pubDate>Sun, 15 Feb 2026 20:36:20 +0100</pubDate><guid>https://carlesbellver.net/2026/02/15/toilets-gods/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.setileague.org/editor/clarke2.htm&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2026/02/15/toilets-gods/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;Arthur C. Clarke sobre la possibilitat que fems extraterrestres originaren la vida al nostre planeta.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;S’ha completat recentment un examen de deixalles orbitals, recuperades després de donar voltes a la Terra durant anys. Una gran part estaven recobertes d&#39;una pel·lícula del que es va descriure delicadament com a &amp;quot;matèria fecal&amp;quot;, atribuïda al sanejament descurat dels astronautes […] Fa sentir humilitat pensar que potser hem sorgit d’aigües residuals abocades; el primer capítol del Gènesi, sens dubte, requeriria una revisió dràstica.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;S’ha completat recentment un examen de deixalles orbitals, recuperades després de donar voltes a la Terra durant anys. Una gran part estaven recobertes d&#39;una pel·lícula del que es va descriure delicadament com a &amp;quot;matèria fecal&amp;quot;, atribuïda al sanejament descurat dels astronautes […] Fa sentir humilitat pensar que potser hem sorgit d’aigües residuals abocades; el primer capítol del Gènesi, sens dubte, requeriria una revisió dràstica.&lt;/p&gt;
+
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>Cloud Atlas</title>
       <link>https://carlesbellver.net/2026/02/14/cloud-atlas/</link>
-      <pubDate>Sat, 14 Feb 2026 12:10:49 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/02/14/cloud-atlas/</guid>
+      <pubDate>Sat, 14 Feb 2026 12:10:49 +0100</pubDate><guid>https://carlesbellver.net/2026/02/14/cloud-atlas/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; David Mitchell, &lt;a href=&#34;https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)&#34;&gt;&lt;em&gt;Cloud Atlas&lt;/em&gt;&lt;/a&gt;. Sis relats encadenats, ambientats en llocs i temps distants, des del Pacífic Sud a mitjan segle XIX fins a Hawaii en un futur postapocalíptic. Els cinc primers relats s’interrompen abruptament i, després del sisè, es reprenen un a un en ordre invers. No sé com va convèncer ningú que això era una novel·la, però siga com siga hi va tenir un gran èxit. Interessant, com a poc. L’&lt;a href=&#34;https://en.wikipedia.org/wiki/Cloud_Atlas_(film)&#34;&gt;adaptació al cinema&lt;/a&gt; feia molt més explícites les insinuacions de reencarnació d&#39;alguns personatges.&lt;/p&gt;
 </description>
@@ -35,8 +37,7 @@
     <item>
       <title>El bosque del cisne negro</title>
       <link>https://carlesbellver.net/2026/01/30/black-swan-green/</link>
-      <pubDate>Fri, 30 Jan 2026 20:12:52 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/01/30/black-swan-green/</guid>
+      <pubDate>Fri, 30 Jan 2026 20:12:52 +0100</pubDate><guid>https://carlesbellver.net/2026/01/30/black-swan-green/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; David Mitchell, &lt;a href=&#34;https://en.wikipedia.org/wiki/Black_Swan_Green&#34;&gt;&lt;em&gt;El bosque del cisne negro&lt;/em&gt;&lt;/a&gt;. Fa anys que tinc pendent de llegir &lt;a href=&#34;https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)&#34;&gt;&lt;em&gt;Cloud Atlas&lt;/em&gt;&lt;/a&gt; i no sé per què vaig decidir emprendre abans aquesta &lt;em&gt;bildungsroman&lt;/em&gt; del mateix autor, classificada com a &lt;em&gt;young adult&lt;/em&gt; i parcialment autobiogràfica. Però m’ha encantat. Tretze mesos, tretze històries encadenades. El protagonista, i l’autor, pareixen persones intel·ligents i sensates, virtuts d’allò més pràctiques per a travessar el boscatge espès de l’adolescència.&lt;/p&gt;
 </description>
@@ -45,8 +46,7 @@
     <item>
       <title>Yann LeCun&#39;s new venture is a contrarian bet against large language models</title>
       <link>https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/</link>
-      <pubDate>Wed, 28 Jan 2026 14:24:10 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/01/28/06636/</guid>
+      <pubDate>Wed, 28 Jan 2026 14:24:10 +0100</pubDate><guid>https://carlesbellver.net/2026/01/28/06636/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2026/01/28/06636/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;Els models de llenguatge extensos (LLM) són eficients manipulant text, però no poden anar més enllà del text. El futur de la IA, segons Yann LeCun, són els models del món, que poden aprendre com funcionen realment les coses, p. ex. a partir de vídeos, i fer prediccions viables. És el camp on caldria centrar la recerca científica i deixar el desenvolupament tecnològic dels LLM a les empreses.&lt;/p&gt;
 </description>
@@ -55,8 +55,7 @@
     <item>
       <title>El lector a domicilio</title>
       <link>https://carlesbellver.net/2026/01/24/el-lector-a-domicilio/</link>
-      <pubDate>Sat, 24 Jan 2026 10:36:51 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/01/24/el-lector-a-domicilio/</guid>
+      <pubDate>Sat, 24 Jan 2026 10:36:51 +0100</pubDate><guid>https://carlesbellver.net/2026/01/24/el-lector-a-domicilio/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Fabio Morábito, &lt;em&gt;El lector a domicilio&lt;/em&gt;. Un home jove, condemnat a un any de treball comunitari per un misteriós accident, llegeix novel·les a domicili. Ha evitat haver de netejar lavabos per intercessió d’un capellà amic de la família. L’acció transcorre a la Ciudad de la Eterna Primavera, aparentment &lt;a href=&#34;https://ca.wikipedia.org/wiki/Cuernavaca&#34;&gt;Cuernavaca&lt;/a&gt;, Mèxic, on funciona un molest negoci de protecció. Personatges i situacions interessants. Estil impecable: en la línia dels contes del mateix autor, igual que el desenllaç.&lt;/p&gt;
 </description>
@@ -65,8 +64,7 @@
     <item>
       <title>Tren nocturno</title>
       <link>https://carlesbellver.net/2026/01/19/05521/</link>
-      <pubDate>Mon, 19 Jan 2026 21:06:35 +0000</pubDate>
-      <guid>https://carlesbellver.net/2026/01/19/05521/</guid>
+      <pubDate>Mon, 19 Jan 2026 21:06:35 +0000</pubDate><guid>https://carlesbellver.net/2026/01/19/05521/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Martin Amis, &lt;a href=&#34;https://en.wikipedia.org/wiki/Night_Train_%28novel%29&#34;&gt;&lt;em&gt;Tren nocturno&lt;/em&gt;&lt;/a&gt;. Més que una paròdia, com diu la Wikipedia, jo diria que comença com una imitació de les novel·les de detectius nordamericanes. Després, gradualment, va guanyant profunditat i fa crèixer l’interès per descobrir, si hom pot, el que va passar. Per què es va suïcidar, si és que ho va fer, aquesta jove astrofísica, brillant i afortunada en tants aspectes. I quin sentit tenen les pistes que va deixar.&lt;/p&gt;
 </description>
@@ -75,8 +73,7 @@
     <item>
       <title></title>
       <link>https://carlesbellver.net/2026/01/17/42496/</link>
-      <pubDate>Sat, 17 Jan 2026 10:35:29 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/01/17/42496/</guid>
+      <pubDate>Sat, 17 Jan 2026 10:35:29 +0100</pubDate><guid>https://carlesbellver.net/2026/01/17/42496/</guid>
       <description>
       &lt;p&gt;Vaig enviar el meu últim llibre a dinou editorials i la majoria ni m’han contestat. M’estic plantejant traduir-lo al castellà i provar sort per aquella banda. De pas, m’entretindria aprenent a utilitzar l’API de traducció de Google Cloud.&lt;/p&gt;
 </description>
@@ -85,8 +82,7 @@
     <item>
       <title>Madres y perros</title>
       <link>https://carlesbellver.net/2026/01/11/madres-y-perros/</link>
-      <pubDate>Sun, 11 Jan 2026 13:33:46 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/01/11/madres-y-perros/</guid>
+      <pubDate>Sun, 11 Jan 2026 13:33:46 +0100</pubDate><guid>https://carlesbellver.net/2026/01/11/madres-y-perros/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; &lt;a href=&#34;https://es.wikipedia.org/wiki/Fabio_Mor%C3%A1bito&#34;&gt;Fabio Morábito&lt;/a&gt;, &lt;em&gt;Madres y perros&lt;/em&gt;. Un recull de contes, vagament inquietants, executats amb gran precisió. Com un mecanisme de rellotgeria que al final marca una hora estranya. Alguns m’han paregut d’una qualitat excepcional. Al començament, em recordava una mica Adolfo Bioy Casares. Un descobriment, per a mi, perquè no coneixia aquest autor mexicà d’origen italià.&lt;/p&gt;
 </description>
@@ -95,8 +91,7 @@
     <item>
       <title>El misteri perdura</title>
       <link>https://carlesbellver.net/2026/01/08/el-misteri-perdura/</link>
-      <pubDate>Thu, 08 Jan 2026 21:30:00 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/01/08/el-misteri-perdura/</guid>
+      <pubDate>Thu, 08 Jan 2026 21:30:00 +0100</pubDate><guid>https://carlesbellver.net/2026/01/08/el-misteri-perdura/</guid>
       <description>
       &lt;p&gt;Finalment van acabar l’obra en &lt;a href=&#34;https://carlesbellver.net/2018/01/08/190219.html&#34;&gt;aquell edifici&lt;/a&gt; tot negre de dalt a baix, a la cantonada de la plaça de la Pau amb Escultor Viciano (el carrer de la Vieta, per on passava &lt;a href=&#34;https://ca.wikipedia.org/wiki/La_Panderola&#34;&gt;la Panderola&lt;/a&gt;). A la &lt;a href=&#34;https://carlesbellver.net/2017/01/08/202112.html&#34;&gt;planta baixa&lt;/a&gt;, ara hi ha un &lt;em&gt;diner&lt;/em&gt; d’estil molt americà, una falsa franquícia on a penes veus mai clients i que podria ser una &lt;em&gt;tapadora&lt;/em&gt; en el sentit més literal del terme: un artefacte destinat a velar el carreró de darrere, on pastura i s’abeura &lt;a href=&#34;https://carlesbellver.net/llibres/uncelnouiunaterranova/mariafolch-uncelnouiunaterranova/#:~:text=el%20prado%20donde%20relincha%20el%20unicornio&#34;&gt;l’unicorn&lt;/a&gt;. El misteri perdura.&lt;/p&gt;
 </description>
@@ -105,8 +100,7 @@
     <item>
       <title>La zona d’interès</title>
       <link>https://carlesbellver.net/2026/01/05/zona-interes/</link>
-      <pubDate>Mon, 05 Jan 2026 23:30:45 +0100</pubDate>
-      <guid>https://carlesbellver.net/2026/01/05/zona-interes/</guid>
+      <pubDate>Mon, 05 Jan 2026 23:30:45 +0100</pubDate><guid>https://carlesbellver.net/2026/01/05/zona-interes/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Martin Amis, &lt;a href=&#34;https://ca.wikipedia.org/wiki/La_zona_d%27inter%C3%A8s_(llibre)&#34;&gt;&lt;em&gt;La zona d’interès&lt;/em&gt;&lt;/a&gt;. Novel·la d’intriga política i sentimental en l’escenari de la fi de la civilització. Tres veus en primera persona: el comandant d’Auschwitz, un oficial díscol nebot de Martin Bormann i un &lt;em&gt;Sonderkommando&lt;/em&gt; jueu. Retrat tragicòmic de la insolvència del nazisme, no sols moral, sinó també intel·lectual i fins i tot tècnica. M’ha fet venir ganes de llegir més novel·les de l’autor.&lt;/p&gt;
 </description>
@@ -115,20 +109,21 @@
     <item>
       <title>Hypoalgesic effect of swearing</title>
       <link>https://en.wikipedia.org/wiki/Hypoalgesic_effect_of_swearing</link>
-      <pubDate>Thu, 25 Dec 2025 14:00:15 +0000</pubDate>
-      <guid>https://carlesbellver.net/2025/12/25/69298/</guid>
+      <pubDate>Thu, 25 Dec 2025 14:00:15 +0000</pubDate><guid>https://carlesbellver.net/2025/12/25/69298/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hypoalgesic_effect_of_swearing&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/12/25/69298/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;blockquote&gt;
-&lt;p&gt;La recerca sobre l’efecte hipoalgèsic de dir paraules grosses ha demostrat que pot ajudar a reduir la sensació de dolor. Aquest fenomen és particularment fort en persones que no utilitzen aquest llenguatge de manera habitual.&lt;/p&gt;
-&lt;/blockquote&gt;
+      &lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;La recerca sobre l’efecte hipoalgèsic de dir paraules grosses ha demostrat que pot ajudar a reduir la sensació de dolor. Aquest fenomen és particularment fort en persones que no utilitzen aquest llenguatge de manera habitual.&lt;/p&gt;
+
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>The Most Scathing Book Reviews of 2025</title>
       <link>https://lithub.com/the-most-scathing-book-reviews-of-2025/</link>
-      <pubDate>Wed, 17 Dec 2025 20:17:33 +0100</pubDate>
-      <guid>https://carlesbellver.net/2025/12/17/99038/</guid>
+      <pubDate>Wed, 17 Dec 2025 20:17:33 +0100</pubDate><guid>https://carlesbellver.net/2025/12/17/99038/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://lithub.com/the-most-scathing-book-reviews-of-2025/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/12/17/99038/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;Pagaria (una quantitat a convenir) per ser víctima d’una crítica com aquestes.&lt;/p&gt;
 </description>
@@ -137,8 +132,7 @@
     <item>
       <title>Alain Bombard: The Biologist Who Shipwrecked Himself to Prove a Point</title>
       <link>http://www.amusingplanet.com/2025/12/alain-bombard-biologist-who-shipwrecked.html</link>
-      <pubDate>Fri, 12 Dec 2025 21:24:13 +0100</pubDate>
-      <guid>https://carlesbellver.net/2025/12/12/alain-bombard/</guid>
+      <pubDate>Fri, 12 Dec 2025 21:24:13 +0100</pubDate><guid>https://carlesbellver.net/2025/12/12/alain-bombard/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://www.amusingplanet.com/2025/12/alain-bombard-biologist-who-shipwrecked.html&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/12/12/alain-bombard/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;Aquest senyor va provar empíricament en 1952 que un nàufrag pot sobreviure bevent quantitats limitades d’aigua de mar, si la complementa amb peix cru —que també aporta fluids— i les vitamines del plàncton. De Tenerife a Barbados en seixanta-cinc dies, fent una breu escala en un vaixell de càrrega britànic, on el menjar sòlid que li van oferir li va donar mal d’estómac. Més avant va ser secretari d’estat amb Miterrand —no va durar ni un mes en el càrrec per la seua oposició a l’alimentació forçada de les oques del &lt;em&gt;foie gras&lt;/em&gt;— i diputat europeu de 1981 a 1994.&lt;/p&gt;
 </description>
@@ -147,8 +141,7 @@
     <item>
       <title></title>
       <link>https://carlesbellver.net/2025/12/07/43005/</link>
-      <pubDate>Sun, 07 Dec 2025 22:30:05 +0100</pubDate>
-      <guid>https://carlesbellver.net/2025/12/07/43005/</guid>
+      <pubDate>Sun, 07 Dec 2025 22:30:05 +0100</pubDate><guid>https://carlesbellver.net/2025/12/07/43005/</guid>
       <description>
       &lt;p&gt;Avui he après que les Canàries formen part de la &lt;a href=&#34;https://ca.wikipedia.org/wiki/Macaron%C3%A8sia&#34;&gt;Macaronèsia&lt;/a&gt;, juntament amb les Açores, l’arxipèlag de Madeira, Cap Verd i les illes Salvatges (entre les quals, la Selvagem Grande, que és bastant petita, i la Selvagem Pequena, que es diminuta).&lt;/p&gt;
 </description>
@@ -157,8 +150,7 @@
     <item>
       <title>Treasures from the Wreck of the Unbelievable</title>
       <link>https://youtu.be/13ShK2UAeP0</link>
-      <pubDate>Wed, 03 Dec 2025 15:20:05 +0100</pubDate>
-      <guid>https://carlesbellver.net/2025/12/03/wreck-of-the-unbelievable/</guid>
+      <pubDate>Wed, 03 Dec 2025 15:20:05 +0100</pubDate><guid>https://carlesbellver.net/2025/12/03/wreck-of-the-unbelievable/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/13ShK2UAeP0&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/12/03/wreck-of-the-unbelievable/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;El fals &lt;em&gt;making-of&lt;/em&gt; d’una exposició de falsos tresors d’un fals naufragi romà a les costes d’Àfrica Oriental. Per a mi, el cèlebre &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living&#34;&gt;tauró&lt;/a&gt; de &lt;a href=&#34;https://en.wikipedia.org/wiki/Damien_Hirst&#34;&gt;Damien Hirst&lt;/a&gt; resta com una petita broma de mal gust al costat d’aquest formidable muntatge.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -171,21 +163,22 @@
     <item>
       <title>On Saussure and Heidegger about language</title>
       <link>https://medium.com/@lfloridi/on-saussure-and-heidegger-about-language-series-notes-to-myself-b49cf9981781</link>
-      <pubDate>Tue, 02 Dec 2025 15:59:45 +0000</pubDate>
-      <guid>https://carlesbellver.net/2025/12/02/60219/</guid>
+      <pubDate>Tue, 02 Dec 2025 15:59:45 +0000</pubDate><guid>https://carlesbellver.net/2025/12/02/60219/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://medium.com/@lfloridi/on-saussure-and-heidegger-about-language-series-notes-to-myself-b49cf9981781&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/12/02/60219/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;Comentari molt clarificador de Luciano Floridi sobre la famosa entrevista de &lt;em&gt;Der Spiegel&lt;/em&gt; amb Heidegger el 1966. Un dels filòsofs més influents del segle XX, no havia llegit mai &lt;a href=&#34;https://en.wikipedia.org/wiki/Ferdinand_de_Saussure&#34;&gt;Saussure&lt;/a&gt; ni feia compte de llegir-lo. Millor tirar avant amb els seus —ridículs— prejudicis xovinistes, adornats d&#39;erudició filològica.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Pense en l’especial afinitat interna entre la llengua alemanya i la llengua i el pensament grecs. És una cosa que els francesos em continuen confirmant una vegada i una altra. Quan es posen a pensar, ho fan en alemany. M’asseguren que no hi reeixirien en la seua llengua.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;Pense en l’especial afinitat interna entre la llengua alemanya i la llengua i el pensament grecs. És una cosa que els francesos em continuen confirmant una vegada i una altra. Quan es posen a pensar, ho fan en alemany. M’asseguren que no hi reeixirien en la seua llengua.&lt;/p&gt;
+
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
 &lt;img src=&#34;https://carlesbellver.net/uploads/2025/2025-12-02-60219.jpg&#34; alt=&#34;Retall d&#39;un exemplar de Der Spiegel amb una fotografia en blanc i negre de Heidegger i dues persones més, els tres amb roba formal, i el titular de l&#39;entrevista en alemany: “Nur noch ein Gott kann uns retten” (només un déu pot salvar-nos).&#34;&gt;</description>
     </item>
     
     <item>
       <title>Limónov</title>
       <link>https://carlesbellver.net/2025/11/05/94146/</link>
-      <pubDate>Wed, 05 Nov 2025 19:04:07 +0000</pubDate>
-      <guid>https://carlesbellver.net/2025/11/05/94146/</guid>
+      <pubDate>Wed, 05 Nov 2025 19:04:07 +0000</pubDate><guid>https://carlesbellver.net/2025/11/05/94146/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Emmanuel Carrère, &lt;em&gt;Limónov&lt;/em&gt;. Vida i miracles —pocs— de l’etern aspirant frustrat a heroi revolucionari rus, fundador del &lt;a href=&#34;https://ca.wikipedia.org/wiki/Partit_Nacional_Bolxevic&#34;&gt;Partit Nacional Bolxevic&lt;/a&gt; que tenia la seu en un soterrani insalubre, decorat amb imatges de Stalin, Fantomas, Bruce Lee, The Velvet Underground &amp;amp; Nico i el mateix Limónov en uniforme de l’Exèrcit Roig. Es guanyava la vida —malament— com a escriptor i voldries valorar més l’obra que l’autor, però tant s’hi val perquè la majoria dels seus llibres van ser autobiogràfics.&lt;/p&gt;
 </description>
@@ -194,8 +187,7 @@
     <item>
       <title></title>
       <link>https://carlesbellver.net/2025/11/02/19005/</link>
-      <pubDate>Sun, 02 Nov 2025 22:30:05 +0100</pubDate>
-      <guid>https://carlesbellver.net/2025/11/02/19005/</guid>
+      <pubDate>Sun, 02 Nov 2025 22:30:05 +0100</pubDate><guid>https://carlesbellver.net/2025/11/02/19005/</guid>
       <description>
       &lt;p&gt;Avui he llegit sobre el &lt;a href=&#34;https://es.wikipedia.org/wiki/Jard%C3%ADn_del_Para%C3%ADso&#34;&gt;&lt;em&gt;Paradiesgärtlein&lt;/em&gt;&lt;/a&gt;, petita pintura sobre fusta de roure (26,3 × 33,4 cm), c. 1410, d’autor desconegut. La Mare de Déu, el Jesuset, santa Dorotea, santa Bàrbara, sant Miquel amb una moneta (el dimoni vençut), sant Jordi i un dragonet mort i moltes plantes i ocells a l’&lt;a href=&#34;https://ca.wikipedia.org/wiki/Hortus_conclusus&#34;&gt;&lt;em&gt;hortus conclusus&lt;/em&gt;&lt;/a&gt; o jardí clos, que representaria simbòlicament la virginitat de Maria o la protecció divina.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Hm_54-oberrheinischer_meister_um_141020-das_paradiesgartlein-1410.png&#34;&gt;&lt;img src=&#34;https://carlesbellver.net/uploads/2025/2025-11-02-19005.jpg&#34; alt=&#34;Paradiesgärtlein&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -205,8 +197,7 @@
     <item>
       <title></title>
       <link>https://carlesbellver.net/2025/11/01/27747/</link>
-      <pubDate>Sat, 01 Nov 2025 21:09:25 +0100</pubDate>
-      <guid>https://carlesbellver.net/2025/11/01/27747/</guid>
+      <pubDate>Sat, 01 Nov 2025 21:09:25 +0100</pubDate><guid>https://carlesbellver.net/2025/11/01/27747/</guid>
       <description>
       &lt;p&gt;Movembre.&lt;/p&gt;
 &lt;img alt=&#34;Autofoto. Carles Bellver Torlà amb bigot.&#34; src=&#34;https://carlesbellver.net/uploads/2025/2025-11-01-27747.jpg&#34;&gt;
@@ -216,8 +207,7 @@
     <item>
       <title></title>
       <link>https://carlesbellver.net/2025/10/28/87004/</link>
-      <pubDate>Tue, 28 Oct 2025 22:30:04 +0100</pubDate>
-      <guid>https://carlesbellver.net/2025/10/28/87004/</guid>
+      <pubDate>Tue, 28 Oct 2025 22:30:04 +0100</pubDate><guid>https://carlesbellver.net/2025/10/28/87004/</guid>
       <description>
       &lt;p&gt;Avui m’he assabentat que el tipus de teoria de la veritat pel qual jo m’inclinava el 1991 —cinquè de Filosofia, beca d’iniciació a la investigació de la Generalitat Valenciana— s’anomena ara &lt;a href=&#34;https://plato.stanford.edu/entries/truth-primitivist/&#34;&gt;primitivista&lt;/a&gt;: perquè la veritat seria un concepte &lt;em&gt;primitiu&lt;/em&gt;, no analitzable ni dilucidable en termes de cap altre concepte o conceptes més bàsics. Pel que he pogut esbrinar, aquesta denominació circula almenys des de 2013 (Jamin Asay, &lt;a href=&#34;https://www.cambridge.org/hk/universitypress/subjects/philosophy/epistemology-and-metaphysics/primitivist-theory-truth&#34;&gt;&lt;em&gt;The Primitivist Theory of Truth&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
 </description>
@@ -226,8 +216,7 @@
     <item>
       <title>What’s with Baum</title>
       <link>https://carlesbellver.net/2025/10/26/baum/</link>
-      <pubDate>Sun, 26 Oct 2025 21:03:17 +0100</pubDate>
-      <guid>https://carlesbellver.net/2025/10/26/baum/</guid>
+      <pubDate>Sun, 26 Oct 2025 21:03:17 +0100</pubDate><guid>https://carlesbellver.net/2025/10/26/baum/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Woody Allen, &lt;em&gt;What’s with Baum?&lt;/em&gt; Diuen que és la seua primera novel·la, però et sona perquè repeteix acudits i situacions de les seues pel·lícules. La trama és distreta i es fa interessant, va afegint analepsis i complicacions i al final es resol amb una certa precipitació.&lt;/p&gt;
 </description>
@@ -236,38 +225,44 @@
     <item>
       <title>Mikel Otero (EH Bildu): «Es muy peligroso el todo o nada del decrecimiento»</title>
       <link>https://climatica.coop/entrevista-mikel-otero-eh-bildu/</link>
-      <pubDate>Fri, 17 Oct 2025 22:35:42 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/10/17/33320/</guid>
+      <pubDate>Fri, 17 Oct 2025 22:35:42 +0200</pubDate><guid>https://carlesbellver.net/2025/10/17/33320/</guid>
       <description>&lt;p&gt;&lt;a href=&quot;https://climatica.coop/entrevista-mikel-otero-eh-bildu/&quot;&gt;enllaç directe&lt;/a&gt; | &lt;a href=&quot;https://carlesbellver.net/2025/10/17/33320/&quot;&gt;aquest apunt&lt;/a&gt;&lt;/p&gt;
-      &lt;blockquote&gt;
-&lt;p&gt;La disociación entre lo que soñamos y los pasos que tenemos que dar genera un abismo que nos lleva a no dar nada por bueno ni dar ningún paso. Tenemos la obligación de trasladar la idea de que esta transformación —el decrecimiento— es demasiado compleja como para aferrarnos a un fetiche que nos impida valorar los pasos efectivos, imperfectos tal vez, que sí podemos dar.&lt;/p&gt;
-&lt;/blockquote&gt;
+      &lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;La disociación entre lo que soñamos y los pasos que tenemos que dar genera un abismo que nos lleva a no dar nada por bueno ni dar ningún paso. Tenemos la obligación de trasladar la idea de que esta transformación —el decrecimiento— es demasiado compleja como para aferrarnos a un fetiche que nos impida valorar los pasos efectivos, imperfectos tal vez, que sí podemos dar.&lt;/p&gt;
+
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title></title>
       <link>https://carlesbellver.net/2025/10/11/14605/</link>
-      <pubDate>Sat, 11 Oct 2025 22:30:05 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/10/11/14605/</guid>
+      <pubDate>Sat, 11 Oct 2025 22:30:05 +0200</pubDate><guid>https://carlesbellver.net/2025/10/11/14605/</guid>
       <description>
       &lt;p&gt;Avui he llegit que Dante Gabriel Rossetti va fer exhumar el cadàver de la seua muller, &lt;a href=&#34;https://en.wikipedia.org/wiki/Elizabeth_Siddal&#34;&gt;Elizabeth Siddal&lt;/a&gt;, set anys després de morta, perquè no havia guardat cap còpia dels poemes que va soterrar amb ella. El manuscrit va ser desinfectat per un metge.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Van esdevenir part de la seqüència de sonets de Rossetti titulada &lt;em&gt;La casa de la vida&lt;/em&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;Van esdevenir part de la seqüència de sonets de Rossetti titulada &lt;em&gt;La casa de la vida&lt;/em&gt;.&lt;/p&gt;
+
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>In memory of Borges</title>
       <link>https://carlesbellver.net/2025/10/10/in-memory-of-borges/</link>
-      <pubDate>Fri, 10 Oct 2025 19:42:43 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/10/10/in-memory-of-borges/</guid>
+      <pubDate>Fri, 10 Oct 2025 19:42:43 +0200</pubDate><guid>https://carlesbellver.net/2025/10/10/in-memory-of-borges/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; &lt;em&gt;In memory of Borges&lt;/em&gt;. Recull de conferències de l’&lt;a href=&#34;https://angloargentinesociety.org.uk&#34;&gt;Anglo-Argentine Society&lt;/a&gt;, ajornades el 1982 per la guerra de les Malvines i inaugurades finalment el 1983. Intervencions de Borges, Graham Greene, Mario Vargas Llosa… Introducció de Norman Thomas di Giovanni i prefaci del vescomte Montgomery d’Alamein, president de la societat convocant. Una delícia.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;El tràgic conflicte esdevingut aquell any a l’Atlàntic Sud, tanmateix, va fer ajornar-les, però al mateix temps va afegir raons…&lt;/p&gt;
+
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
 &lt;img alt=&#34;Imatge de la coberta del llibre “In Memory of Borges”, amb un fotoretrat en blanc i negre de Borges i els noms dels autors que hi participen: Graham Greene, Jorge Luis Borges, H. S. Ferns, Mario Vargas Llosa i Alicia Jurado.&#34; src=&#34;https://carlesbellver.net/uploads/2025/2025-10-10-in-memory-of-borges.jpg&#34;&gt;
 </description>
     </item>
@@ -275,8 +270,7 @@
     <item>
       <title>Unos meses de mi vida</title>
       <link>https://carlesbellver.net/2025/10/05/quelques-mois/</link>
-      <pubDate>Sun, 05 Oct 2025 13:52:39 +0200</pubDate>
-      <guid>https://carlesbellver.net/2025/10/05/quelques-mois/</guid>
+      <pubDate>Sun, 05 Oct 2025 13:52:39 +0200</pubDate><guid>https://carlesbellver.net/2025/10/05/quelques-mois/</guid>
       <description>
       &lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; &lt;em&gt;Unos meses de mi vida&lt;/em&gt;. &lt;a href=&#34;https://carlesbellver.net/archive/?q=houellebecq&#34;&gt;Michel Houellebecq&lt;/a&gt; pot resultar encara més desconcertant quan intenta explicar-se, com en aquest llibret on vol passar comptes amb dos episodis incòmodes: les denúncies per islamofòbia i la gravació i difusió d’uns vídeos pornogràfics en què participava. Alguna frase càustica, algun pensament intempestiu marca de la casa, però no suficients ni prou brillants per a justificar el centenar de pàgines. Prescindible, excepte, potser, per a l’autor.&lt;/p&gt;
 </description>

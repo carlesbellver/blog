@@ -19,7 +19,7 @@
 <link rel="icon" type="image/x-icon" href="https://carlesbellver.net/favicon.ico">
 <link rel="apple-touch-icon" href="https://carlesbellver.net/favicon.png">
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1771419456" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/light.css?rnd=1771572974" />
 <style>
 
     [data-theme="dark"] {   
@@ -30,6 +30,8 @@
 --note-bg-color: #333;
 
 --comments-bg-color: #333;
+
+--foot-color: #ccc;
 
 --menu-color: #eee;
 --menu-bg-color: #111;
@@ -45,6 +47,8 @@
 
 --bq-bar-color: #ccc;
 --bq-color: #ccc;
+--bq-bg-color: #333;
+
 --hr-color: #333;
 
 --pagination-bg-color: #191919;
@@ -59,9 +63,9 @@
 
 </style>
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1771419456" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/style.css?rnd=1771572974" />
 
-<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1771419456" />
+<link rel="stylesheet" href="https://carlesbellver.net/css/poststats.css?rnd=1771572974" />
 
 <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
 <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
@@ -81,7 +85,8 @@
 <meta name="og:title" content="Don’t Fire Your Illustrator"/>
 <meta property="og:description" content="Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.
 
-Els usuaris juguen a un joc gacha, una màquina escurabutxaques de creació d’imatges. Escriuen els seus prompts amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat." />
+	
+		Els usuaris juguen a un joc gacha, una màquina escurabutxaques de creació d’imatges. Escriuen els seus prompts amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://carlesbellver.net/2023/08/28/stable-diffusion/" />
 <meta property="og:image" content="https://carlesbellver.net/uploads/ulleres_200.jpg"/><meta property="article:published_time" content="2023-08-28T12:37:28+02:00" />
@@ -93,7 +98,8 @@ Els usuaris juguen a un joc gacha, una màquina escurabutxaques de creació d’
 <meta name="twitter:title" content="Don’t Fire Your Illustrator"/>
 <meta name="twitter:description" content="Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.
 
-Els usuaris juguen a un joc gacha, una màquina escurabutxaques de creació d’imatges. Escriuen els seus prompts amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat."/>
+	
+		Els usuaris juguen a un joc gacha, una màquina escurabutxaques de creació d’imatges. Escriuen els seus prompts amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat."/>
 
 
 
@@ -237,9 +243,12 @@ Els usuaris juguen a un joc gacha, una màquina escurabutxaques de creació d’
             
           
           <p>Sam Bleckley explica el funcionament de les IA generadores d’imatges i opina sobre els seus possibles usos. M’ha cridat l’atenció el passatge següent sobre la dificultat d’aconseguir els resultats que voldries, cosa que no impedeix obtenir imatges d’una qualitat sorprenent.</p>
-<blockquote>
-<p>Els usuaris juguen a un joc <a href="https://es.wikipedia.org/wiki/Videojuego_gacha">gacha</a>, una màquina escurabutxaques de creació d’imatges. Escriuen els seus <em>prompts</em> amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.</p>
-</blockquote>
+<figure>
+	<blockquote>
+		<p>Els usuaris juguen a un joc <a href="https://es.wikipedia.org/wiki/Videojuego_gacha">gacha</a>, una màquina escurabutxaques de creació d’imatges. Escriuen els seus <em>prompts</em> amb moltes idees interessants i després estiren la palanca de la màquina i guanyen… una cosa o altra. Una imatge captivadora, però no exactament la que havien demanat.</p>
+
+	</blockquote>
+</figure>
 <p>Quadra amb la meua experiència creant il·lustracions amb DALL·E per als microcontes d’<a href="https://carlesbellver.net/contes/unicorns"><em>Unicorns</em></a>. Intents successius d’afinar el <em>prompt</em> cada vegada més, fins que al final aconseguia una imatge satisfactòria, encara que sovint no s’assemblara a la que hauria desitjat.</p>
 
 
@@ -252,7 +261,7 @@ Els usuaris juguen a un joc gacha, una màquina escurabutxaques de creació d’
       </div>
 			
 			<div class="comments">
-<h2 class="comments-heading">Comentaris? <a href="https://mastodon.social/@carlesbellver/110968094766157624"><img class="icon" src="https://carlesbellver.net//svg.icons/mastodon.svg" alt="Logo de Mastodon"></a></h2>
+<h2 class="comments-heading">Comentaris?</h2>
 
 <p>Podeu utilitzar Mastodon (o qualsevol altra aplicació compatible amb el Fedivers) per a respondre a <a href="https://mastodon.social/@carlesbellver/110968094766157624">aquest apunt</a>.</p>
 
