@@ -2002,12 +2002,16 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Mon, 28 Jun 2021 21:50:09 +0200</pubDate>
       <guid>https://carlesbellver.net/2021/06/28/primo-levi/</guid>
       <description>&lt;figure&gt;
-	&lt;blockquote&gt;
+	&lt;blockquote cite=&#34;http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments&#34;&gt;
 		&lt;p&gt;A hores d’ara, el veritable trencaclosques no és si es va suïcidar, sinó per què, malgrat les proves aclaparadores que no va ser així, els biògrafs de Levi, Angier però també Ian Thomson (&lt;em&gt;Primo Levi&lt;/em&gt;, 2002), persisteixen a creure que sí.&lt;/p&gt;
 
+			&lt;figcaption&gt;Diego Gambetta, 
+					&lt;cite&gt;
+							&lt;a href=&#34;http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments&#34;&gt;“Primo Levi’s Last Moments” (&lt;em&gt;postscriptum&lt;/em&gt; 21 d’abril de 2005)&lt;/a&gt;
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Diego Gambetta, &lt;a href=&#34;http://www.bostonreview.net/diego-gambetta-primo-levi-last-moments&#34;&gt;“Primo Levi’s Last Moments”&lt;/a&gt; (&lt;em&gt;postscriptum&lt;/em&gt;, 21 d’abril de 2005)&lt;/p&gt;
 &lt;p&gt;En aquest blog: &lt;a href=&#34;https://carlesbellver.net/2004/06/28/els-darrers-moments.html&#34;&gt;“Els darrers moments de Primo Levi”&lt;/a&gt; (28 de juny de 2004).&lt;/p&gt;
 </description>
     </item>
@@ -2357,9 +2361,13 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
 &lt;p&gt;Es publiquen articles, apareixen llibres —p. ex. el magnífic treball de Lise Gotfredsen— i cada vegada em sent menys inclinat a llegir-ho tot, saber-ho tot, analitzar-ho tot. Darrerament, m’he limitat a donar un colp d’ull.&lt;/p&gt;
 &lt;p&gt;Per tant, he decidit deixar d’actualitzar aquest lloc i mantenir-hi només el text de la meua tesi, a disposició de tothom qui vulga anar més enllà.&lt;/p&gt;
 
+			&lt;figcaption&gt;
+					&lt;cite&gt;
+							Bruno Faidutti, 17 de setembre de 2000
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Bruno Faidutti, 17 de setembre de 2000&lt;/p&gt;
 </description>
     </item>
     
@@ -2976,9 +2984,13 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
 	&lt;blockquote&gt;
 		&lt;p&gt;Sé que Jerry Garcia ho va dir una vegada, però sé que molta gent ho havia dit abans que ell, que “l’estil és allò que no pots deixar de fer”. L’estil, en diferents sentits, és allò que fas malament. Perquè la tècnica perfecta estaria completament mancada d’estil. Allò que fa que tothom sàpiga que ets tu qui toca és com t’allunyes d’una tècnica perfecta. Així que després d’haver escrit uns pocs milions de paraules, allò que fa que qualsevol agafe una pàgina, la llegisca i diga: “Això ho va escriure Neil”, és l’estil, és allò que no pots deixar de fer.&lt;/p&gt;
 
+			&lt;figcaption&gt;
+					&lt;cite&gt;
+							Neil Gaiman (via &lt;a href=&#34;https://quoteinvestigator.com/2019/12/09/style/&#34;&gt;Quote Investigator&lt;/a&gt;)
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Neil Gaiman (via &lt;a href=&#34;https://quoteinvestigator.com/2019/12/09/style/&#34;&gt;Quote Investigator&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
@@ -7279,9 +7291,13 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
 	&lt;blockquote&gt;
 		&lt;p&gt;“Si alguna cosa pot anar malament, arregleu-la! (A la merda Murphy!)”&lt;/p&gt;
 
+			&lt;figcaption&gt;
+					&lt;cite&gt;
+							Quote Investigator: &lt;a href=&#34;https://quoteinvestigator.com/2018/05/11/not-murphy/&#34;&gt;Peter Diamandis on Overcoming Murphy’s Law&lt;/a&gt;
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Quote Investigator: &lt;a href=&#34;https://quoteinvestigator.com/2018/05/11/not-murphy/&#34;&gt;Peter Diamandis on Overcoming Murphy’s Law&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -8192,12 +8208,16 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Wed, 14 Mar 2018 18:15:00 +0000</pubDate>
       <guid>https://carlesbellver.net/2018/03/14/ai-is-about.html</guid>
       <description>&lt;figure&gt;
-	&lt;blockquote&gt;
+	&lt;blockquote cite=&#34;https://doi.org/10.1007/s13347-017-0259-1&#34;&gt;
 		&lt;p&gt;Avui dia, molta gent es pensa que la intel·ligència artificial tracta d’acoblar agència artificial i comportament intel·ligent en nous artefactes. Això és un malentès. La veritat és exactament la contrària: la intel·ligència artificial consisteix a dissociar la resolució de problemes amb èxit de qualsevol necessitat de ser intel·ligent. I és només quan es pot aconseguir aquest desacoblament que la intel·ligència artificial reïx.&lt;/p&gt;
 
+			&lt;figcaption&gt;Luciano Floridi, 
+					&lt;cite&gt;
+							&lt;a href=&#34;https://doi.org/10.1007/s13347-017-0259-1&#34;&gt;“Digital’s Cleaving Power and Its Consequences”&lt;/a&gt;
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Luciano Floridi, &lt;a href=&#34;https://doi.org/10.1007/s13347-017-0259-1&#34;&gt;“Digital’s Cleaving Power and Its Consequences”&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -8731,9 +8751,13 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
 	&lt;blockquote&gt;
 		&lt;p&gt;Creo que es una forma de autoprotección. Son como Blancanieves.&lt;/p&gt;
 
+			&lt;figcaption&gt;Elisabeth Hultcrantz, 
+					&lt;cite&gt;
+							Médicos del Mundo
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Elisabeth Hultcrantz, Médicos del Mundo.&lt;/p&gt;
 </description>
     </item>
     
@@ -8771,12 +8795,13 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Sat, 20 Jan 2018 10:41:00 +0000</pubDate>
       <guid>https://carlesbellver.net/2018/01/20/114150.html</guid>
       <description>&lt;figure&gt;
-	&lt;blockquote&gt;
+	&lt;blockquote cite=&#34;http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/&#34;&gt;
 		&lt;p&gt;La realitat distòpica de la història, per una banda sobta per les coincidències en l’actual situació política…  i per l’altra recorda l’ambient fosc, perillós, de la magnífica pel·lícula &lt;em&gt;Brazil&lt;/em&gt;, de Terry Gilliam, de l’any 1985.&lt;/p&gt;
 
+			&lt;figcaption&gt;&lt;a href=&#34;http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/&#34;&gt;Carme Pinyana&lt;/a&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—&lt;a href=&#34;http://descriu.org/un-cel-nou-i-una-terra-nova-carles-bellver-torla-unaria-2015/&#34;&gt;&lt;em&gt;Un cel nou i una terra nova&lt;/em&gt;, Carles Bellver Torlà (Unaria, 2015)&lt;/a&gt; (ressenya de Carme Pinyana).&lt;/p&gt;
 </description>
     </item>
     
@@ -8796,12 +8821,16 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <pubDate>Fri, 19 Jan 2018 09:28:00 +0000</pubDate>
       <guid>https://carlesbellver.net/2018/01/19/everywhere-i-go.html</guid>
       <description>&lt;figure&gt;
-	&lt;blockquote&gt;
+	&lt;blockquote cite=&#34;https://quoteinvestigator.com/2018/01/18/stifle/&#34;&gt;
 		&lt;p&gt;A tot arreu on vaig, em pregunten si penso que les universitats asfixien els escriptors. Crec que no n’asfixien prou.&lt;/p&gt;
 
+			&lt;figcaption&gt;Flannery O’Connor, 
+					&lt;cite&gt;
+							&lt;a href=&#34;https://quoteinvestigator.com/2018/01/18/stifle/&#34;&gt;Quote Investigator&lt;/a&gt;
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Flannery O’Connor, 1960 (font: &lt;a href=&#34;https://quoteinvestigator.com/2018/01/18/stifle/&#34;&gt;Quote Investigator&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
@@ -9191,9 +9220,10 @@ primer falcó del ramal.&lt;/p&gt;
 	&lt;blockquote&gt;
 		&lt;p&gt;Les anècdotes no constitueixen ciència social. Han d’estar documentades per alguna noció de la freqüència de la seua ocurrència.&lt;/p&gt;
 
+			&lt;figcaption&gt;Paul A. Samuelson
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Paul A. Samuelson&lt;/p&gt;
 </description>
     </item>
     
@@ -9351,12 +9381,16 @@ primer falcó del ramal.&lt;/p&gt;
       <pubDate>Sun, 17 Dec 2017 09:40:00 +0000</pubDate>
       <guid>https://carlesbellver.net/2017/12/17/104010.html</guid>
       <description>&lt;figure&gt;
-	&lt;blockquote&gt;
+	&lt;blockquote cite=&#34;https://elpais.com/cultura/2017/12/03/actualidad/1512328224_696887.html&#34;&gt;
 		&lt;p&gt;A mí me interesa Vargas Llosa porque es un poco de risa. Es muy malo.&lt;/p&gt;
 
+			&lt;figcaption&gt;Rafael Sánchez Ferlosio, 
+					&lt;cite&gt;
+							&lt;a href=&#34;https://elpais.com/cultura/2017/12/03/actualidad/1512328224_696887.html&#34;&gt;“No estoy de acuerdo con todo lo que he escrito en mi vida”&lt;/a&gt;
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Rafael Sánchez Ferlosio: &lt;a href=&#34;https://elpais.com/cultura/2017/12/03/actualidad/1512328224_696887.html&#34;&gt;“No estoy de acuerdo con todo lo que he escrito en mi vida”&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -10619,29 +10653,41 @@ primer falcó del ramal.&lt;/p&gt;
       <guid>https://carlesbellver.net/2015/09/16/de-la-revelaci.html</guid>
       <description>&lt;p&gt;&lt;a title=&#34;See page for author [Public domain], via Wikimedia Commons&#34; href=&#34;http://commons.wikimedia.org/wiki/File%3AAdolphe_Bitard_-_T%C3%A9l%C3%A9phone.jpg&#34;&gt;&lt;img src=&#34;http://upload.wikimedia.org/wikipedia/commons/1/12/Adolphe_Bitard_-_T%C3%A9l%C3%A9phone.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
-	&lt;blockquote&gt;
+	&lt;blockquote cite=&#34;http://en.wikipedia.org/wiki/What_the_Dormouse_Said&#34;&gt;
 		&lt;p&gt;…&lt;a href=&#34;https://en.wikipedia.org/wiki/Stewart_Brand&#34;&gt;Stewart Brand&lt;/a&gt; va visitar el centre d’informàtica de Stanford amb Jim Fadiman i hi va veure uns quants investigadors jugant amb un programa estrany, un videojoc anomenat &lt;a href=&#34;https://en.wikipedia.org/wiki/Spacewar_%28video_game%29&#34;&gt;Spacewar&lt;/a&gt;. Va prendre nota mentalment del programa i del grup que hi estava jugant. Tardaria sis anys a tornar-hi.
 El que recordava de la visita és revelador. Se li va quedar gravada en la memòria la imatge d’uns joves obsessionats amb els ordinadors, enganxats al joc i atrapats en una experiència extracorporal. Va ser la segona de dues percepcions que va experimentar en poc temps. La primera havia estat mentre feia fotografies en la &lt;a href=&#34;https://en.wikipedia.org/wiki/Warm_Springs_Indian_Reservation&#34;&gt;reserva índia de Warm Springs&lt;/a&gt; amb un amic de la família, Dick Raymond. Ara, en el centre d’informàtica, es va apoderar d’ell la mateixa sensació: heus ací tot un altre món, un que era potser més atraient que el seu. Havia topat els primers indicis d’una cosa que anys a venir arribaria a ser coneguda com a &lt;a href=&#34;http://en.wikipedia.org/wiki/Cyberspace&#34;&gt;ciberespai&lt;/a&gt;.&lt;/p&gt;
 
+			&lt;figcaption&gt;John Markoff, 
+					&lt;cite&gt;
+							&lt;a href=&#34;http://en.wikipedia.org/wiki/What_the_Dormouse_Said&#34;&gt;&lt;em&gt;What the dormouse said: how the sixties counterculture shaped the personal computer industry&lt;/em&gt;&lt;/a&gt;
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—John Markoff, &lt;a href=&#34;http://en.wikipedia.org/wiki/What_the_Dormouse_Said&#34;&gt;What the dormouse said: how the sixties counterculture shaped the personal computer industry&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Aquella primera visió del &lt;em&gt;ciberespai&lt;/em&gt; es va esdevenir cap a 1962. El terme, però, l’encunyaria l’escriptor de ciència-ficció &lt;a href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;&gt;William Gibson&lt;/a&gt; en la dècada de 1980, i &lt;a href=&#34;https://en.wikipedia.org/wiki/John_Perry_Barlow&#34;&gt;John Perry Barlow&lt;/a&gt; el faria servir una mica més endavant per referir-se a les xarxes d’ordinadors i als xats:&lt;/p&gt;
+&lt;p&gt;Aquella primera visió del &lt;em&gt;ciberespai&lt;/em&gt; es va esdevenir cap a 1962. El terme, però, l’encunyaria l’escriptor de ciència-ficció &lt;a href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;&gt;William Gibson&lt;/a&gt; en la dècada de 1980, i &lt;a href=&#34;https://en.wikipedia.org/wiki/John_Perry_Barlow&#34;&gt;John Perry Barlow&lt;/a&gt; el faria servir una mica més endavant (1990) per referir-se a les xarxes d’ordinadors i als xats:&lt;/p&gt;
 &lt;figure&gt;
-	&lt;blockquote&gt;
+	&lt;blockquote cite=&#34;https://w2.eff.org/Misc/Publications/John_Perry_Barlow/HTML/crime_and_puzzlement_1.html&#34;&gt;
 		&lt;p&gt;En aquest món silenciós, totes les converses són teclejades. Per entrar-hi, un abandona el cos i el lloc i esdevé quelcom fet només de paraules. Pot veure el que els seus veïns diuen (o han dit), però no els pot veure a ells, ni el seu entorn físic.&lt;/p&gt;
 
+			&lt;figcaption&gt;John Perry Barlow, 
+					&lt;cite&gt;
+							&lt;a href=&#34;https://w2.eff.org/Misc/Publications/John_Perry_Barlow/HTML/crime_and_puzzlement_1.html&#34;&gt;&lt;em&gt;Crime and Puzzlement&lt;/em&gt;&lt;/a&gt;
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—John Perry Barlow, &lt;a href=&#34;https://w2.eff.org/Misc/Publications/John_Perry_Barlow/HTML/crime_and_puzzlement_1.html&#34;&gt;Crime and Puzzlement&lt;/a&gt;, 1990.&lt;/p&gt;
-&lt;p&gt;Un parell d’anys després, un altre escriptor de ciència-ficció, &lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Sterling&#34;&gt;Bruce Sterling&lt;/a&gt;, definiria el ciberespai com “el «lloc» on sembla ocórrer una conversa &lt;a href=&#34;https://carlesbellver.net/2013/04/25/internet-s-com.html&#34;&gt;telefònica&lt;/a&gt;”: ni dins d’un telèfon ni dins de l’altre, sinó en un espai electrònic entre ambdós.&lt;/p&gt;
+&lt;p&gt;Un parell d’anys després (1992), un altre escriptor de ciència-ficció, &lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Sterling&#34;&gt;Bruce Sterling&lt;/a&gt;, definiria el ciberespai com “el «lloc» on sembla ocórrer una conversa &lt;a href=&#34;https://carlesbellver.net/2013/04/25/internet-s-com.html&#34;&gt;telefònica&lt;/a&gt;”: ni dins d’un telèfon ni dins de l’altre, sinó en un espai electrònic entre ambdós.&lt;/p&gt;
 &lt;figure&gt;
-	&lt;blockquote&gt;
+	&lt;blockquote cite=&#34;https://en.wikipedia.org/wiki/The_Hacker_Crackdown&#34;&gt;
 		&lt;p&gt;Des de la dècada de 1960, el món del telèfon s’ha encreuat amb els ordinadors i la televisió, i tot i que el ciberespai encara no tingui substància pròpia, res que puguem tocar, comença a tenir a hores d’ara una rara qualitat física. Avui ja té sentit parlar del ciberespai com un lloc autònom.&lt;/p&gt;
 
+			&lt;figcaption&gt;Bruce Sterling, 
+					&lt;cite&gt;
+							&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Hacker_Crackdown&#34;&gt;&lt;em&gt;Introduction to The Hacker Crackdown&lt;/em&gt;&lt;/a&gt;
+					&lt;/cite&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Bruce Sterling, &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Hacker_Crackdown&#34;&gt;Introduction to The Hacker Crackdown&lt;/a&gt;, 1992.&lt;/p&gt;
 &lt;p&gt;Finalment, el 8 de febrer de 1996, Barlow va publicar al web &lt;a href=&#34;https://en.wikipedia.org/wiki/A_Declaration_of_the_Independence_of_Cyberspace&#34;&gt;«A Declaration of the Independence of Cyberspace»&lt;/a&gt;. En català: &lt;a href=&#34;https://ca.wikipedia.org/wiki/Una_declaraci%C3%B3_d%E2%80%99independ%C3%A8ncia_del_ciberespai&#34;&gt;«Una declaració d’independència del ciberespai»&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -11011,17 +11057,18 @@ El que recordava de la visita és revelador. Se li va quedar gravada en la memò
     </item>
     
     <item>
-      <title>Michel de Montaigne: escriure sobre un/a mateix/a</title>
+      <title>Michel de Montaigne: escriure sobre tu mateix</title>
       <link>https://carlesbellver.net/2014/01/09/michel-de-montaigne.html</link>
       <pubDate>Thu, 09 Jan 2014 23:00:00 +0000</pubDate>
       <guid>https://carlesbellver.net/2014/01/09/michel-de-montaigne.html</guid>
       <description>&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Aquesta idea —escriure sobre un/a mateix/a per crear un mirall en què altres persones reconeguen la seua pròpia humanitat— no ha existit sempre. S’havia d’inventar. I, a diferència de moltes invencions culturals, es pot rastrejar fins a una sola persona: Michel Eyquem de Montaigne […]&lt;/p&gt;
+	&lt;blockquote cite=&#34;http://www.brainpickings.org/index.php/2014/01/07/how-to-live-montaigne/&#34;&gt;
+		&lt;p&gt;Aquesta idea —escriure sobre tu mateix per crear un mirall en què altres persones reconeguen la seua pròpia humanitat— no ha existit sempre. S’havia d’inventar. I, a diferència de moltes invencions culturals, es pot rastrejar fins a una sola persona: Michel Eyquem de Montaigne […]&lt;/p&gt;
 
+			&lt;figcaption&gt;&lt;a href=&#34;http://www.brainpickings.org/index.php/2014/01/07/how-to-live-montaigne/&#34;&gt;Sarah Bakewell&lt;/a&gt;
+			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
-&lt;p&gt;—Sarah Bakewell (font: &lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/link.svg&#34; /&gt; &lt;a href=&#34;http://www.brainpickings.org/index.php/2014/01/07/how-to-live-montaigne/&#34;&gt;Brain Pickings&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
