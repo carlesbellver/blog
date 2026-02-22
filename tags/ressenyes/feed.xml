@@ -6,10 +6,19 @@
     <description>La vista cansada (Ressenyes)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sat, 14 Feb 2026 12:10:49 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 19:18:24 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/ressenyes/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Las viudas de los jueves</title>
+      <link>https://carlesbellver.net/2026/02/22/viudas-jueves/</link>
+      <pubDate>Sun, 22 Feb 2026 19:18:24 +0100</pubDate>
+      <guid>https://carlesbellver.net/2026/02/22/viudas-jueves/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Claudia Piñeiro, &lt;a href=&#34;https://es.wikipedia.org/wiki/Las_viudas_de_los_jueves_(novela)&#34;&gt;&lt;em&gt;Las viudas de los jueves&lt;/em&gt;&lt;/a&gt;. Els cadàvers del primer capítol podrien fer pensar en una novel·la policíaca, però el llarg collage de famílies que habiten aquesta urbanització de classe mitjana alta, als afores de Buenos Aires, m’ha recordat més prompte els contes de John Cheever. La resolució final del cas, però, no és pas intranscedent.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cloud Atlas</title>
