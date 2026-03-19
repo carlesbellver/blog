@@ -6,10 +6,27 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:16:25 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:18:10 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solarpunk a gran escala</title>
+      <link>https://carlesbellver.net/2026/03/19/solarpunk/</link>
+      <pubDate>Thu, 19 Mar 2026 18:18:10 +0100</pubDate>
+      <guid>https://carlesbellver.net/2026/03/19/solarpunk/</guid>
+      <description>&lt;p&gt;Tecnoecologia, una nova abundància, esperança, bricolatge i processos —no punts d’arribada— utòpics.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;blockquote cite=&#34;https://enfantsperdidos.com/2026/03/15/solarpunk-a-gran-escala/&#34;&gt;
+		&lt;p&gt;La pinza geopolítica que atenaza Europa entre los dos principales petroestados del mundo, la Rusia de Putin y los EEUU de Trump, están redefiniendo la frontera de lo político. La existencia futura de la UE se juega en que sepamos interiorizar un lema: los aerogeneradores, las placas solares, las baterías y los tendidos eléctricos son máquinas que, como la guitarra de Woody Guthrie en los años cuarenta, matan fascistas fósiles.&lt;/p&gt;
+
+			&lt;figcaption&gt;&lt;a href=&#34;https://enfantsperdidos.com/2026/03/15/solarpunk-a-gran-escala/&#34;&gt;Emilio Santiago Muíño&lt;/a&gt;
+			&lt;/figcaption&gt;
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>Contra el realismo</title>
@@ -20,10 +37,7 @@
 	&lt;blockquote cite=&#34;https://www.eldiario.es/opinion/tribuna-abierta/realismo_129_13072972.html&#34;&gt;
 		&lt;p&gt;Como les ocurre a los budistas y a los místicos respecto de la vida, tanto el realismo de derechas como el realismo de izquierdas consideran la democracia y el derecho una simple sombra sin sustancia o, por lo menos, un velo hipócrita que encubre el monstruo que, sin saberlo nosotros, gobierna siempre nuestra existencia colectiva.&lt;/p&gt;
 
-			&lt;figcaption&gt;
-					&lt;cite&gt;
-							&lt;a href=&#34;https://www.eldiario.es/opinion/tribuna-abierta/realismo_129_13072972.html&#34;&gt;Santiago Alba Rico&lt;/a&gt;
-					&lt;/cite&gt;
+			&lt;figcaption&gt;&lt;a href=&#34;https://www.eldiario.es/opinion/tribuna-abierta/realismo_129_13072972.html&#34;&gt;Santiago Alba Rico&lt;/a&gt;
 			&lt;/figcaption&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
