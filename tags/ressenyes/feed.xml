@@ -6,10 +6,19 @@
     <description>La vista cansada (Ressenyes)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 22 Feb 2026 19:18:24 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 17:53:31 +0100</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/ressenyes/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hocus Pocus</title>
+      <link>https://carlesbellver.net/2026/03/22/hocus-pocus/</link>
+      <pubDate>Sun, 22 Mar 2026 17:53:31 +0100</pubDate>
+      <guid>https://carlesbellver.net/2026/03/22/hocus-pocus/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Kurt Vonnegut, &lt;a href=&#34;https://en.wikipedia.org/wiki/Hocus_Pocus_(novel)&#34;&gt;&lt;em&gt;Hocus Pocus&lt;/em&gt;&lt;/a&gt;. Publicada el 1990, l’acció transcorre el 2001 en uns EUA decadents. Després de passar per West Point i la guerra de Vietnam, el narrador farà de professor en un &lt;em&gt;college&lt;/em&gt; per a fills de classe alta amb dificultats d’aprenentatge i després en una presó privatitzada, fins que hi haurà una fuga massiva. Pocs elements de ciència-ficció, però notables: alimentada amb dades biogràfiques, la computadora GRIOT™ pot predir que et passarà a continuació.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Las viudas de los jueves</title>
