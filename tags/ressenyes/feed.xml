@@ -6,10 +6,19 @@
     <description>La vista cansada (Ressenyes)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Sun, 22 Mar 2026 17:53:31 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:10:15 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/ressenyes/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tomorrow, and Tomorrow, and Tomorrow</title>
+      <link>https://carlesbellver.net/2026/03/29/tomorrow-tomorrow-tomorrow/</link>
+      <pubDate>Sun, 29 Mar 2026 11:10:15 +0200</pubDate>
+      <guid>https://carlesbellver.net/2026/03/29/tomorrow-tomorrow-tomorrow/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;icon&#34; src=&#34;https://carlesbellver.net/svg.icons/book.svg&#34; /&gt; Gabrielle Zevin, &lt;a href=&#34;https://en.wikipedia.org/wiki/Tomorrow%2C_and_Tomorrow%2C_and_Tomorrow_(novel)&#34;&gt;&lt;em&gt;Tomorrow, and Tomorrow, and Tomorrow&lt;/em&gt;&lt;/a&gt;. Dos joves intel·lectualment brillants. Una relació amb alts i baixos al llarg d’anys. Programar videojocs és complicat, però entendre’s en la resta de les coses podria arribar a parèixer impossible.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hocus Pocus</title>
