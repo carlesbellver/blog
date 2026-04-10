@@ -6,10 +6,20 @@
     <description>La vista cansada (Fotos)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:29:48 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 19:40:06 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/fotos/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2026/04/10/dimoni/</link>
+      <pubDate>Fri, 10 Apr 2026 19:40:06 +0200</pubDate>
+      <guid>https://carlesbellver.net/2026/04/10/dimoni/</guid>
+      <description>&lt;p&gt;Pròximament.&lt;/p&gt;
+&lt;img alt=&#34;Possible portada d’un llibre, amb el títol “Un dimoni en pràctiques” i el nom de l’autor Carles Bellver Torlà sobreimpresos damunt d’una pintura renaixentista que mostra una escena a l&#39;aire lliure amb un home assegut escrivint i un dimoni volador que l’aguaita per darrere.&#34; src=&#34;https://carlesbellver.net/uploads/2026/2026-04-10-dimoni.jpg&#34;&gt;
+</description>
+    </item>
     
     <item>
       
@@ -724,7 +734,7 @@ inflating: unicorns.txt
       <link>https://carlesbellver.net/2021/08/02/atzucac-unicorn/</link>
       <pubDate>Mon, 02 Aug 2021 20:06:05 +0200</pubDate>
       <guid>https://carlesbellver.net/2021/08/02/atzucac-unicorn/</guid>
-      <description>&lt;p&gt;L’entrada —enreixada— del &lt;a href=&#34;https://earth.google.com/web/@39.98398425,-0.03642388,26.15542116a,75.43170571d,35y,111.23963128h,11.50659906t,360r&#34;&gt;misteriós atzucac&lt;/a&gt; on &lt;a href=&#34;https://carlesbellver.net/2017/01/08/202112.html&#34;&gt;renillava l’unicorn&lt;/a&gt;, en un racó de la plaça de la Pau.&lt;/p&gt;
+      <description>&lt;p&gt;L’entrada —enreixada— del misteriós atzucac (&lt;a href=&#34;https://earth.google.com/web/@39.98398425,-0.03642388,26.15542116a,75.43170571d,35y,111.23963128h,11.50659906t,360r&#34;&gt;Google Earth&lt;/a&gt;) on &lt;a href=&#34;https://carlesbellver.net/2017/01/08/202112.html&#34;&gt;renillava l’unicorn&lt;/a&gt;, en un racó de la plaça de la Pau.&lt;/p&gt;
 &lt;img alt=&#34;&#34; src=&#34;https://carlesbellver.net/uploads/2021/2021-08-02-atzucac-unicorn.jpg&#34;&gt;
 </description>
     </item>
