@@ -6,10 +6,26 @@
     <description>La vista cansada (Retalls)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-es</language>
-    <lastBuildDate>Thu, 19 Mar 2026 18:18:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 15:55:22 +0200</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/retalls/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Desconnectar per a llegir</title>
+      <link>https://carlesbellver.net/2026/04/21/lectura/</link>
+      <pubDate>Tue, 21 Apr 2026 15:55:22 +0200</pubDate>
+      <guid>https://carlesbellver.net/2026/04/21/lectura/</guid>
+      <description>&lt;p&gt;Les enquestes són tossudes. El pessimisme i la malenconia també. Es llegeix més que mai. I la gent jove llegeix més que la gent gran.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;En general, tenim la impressió que es llig menys que abans; no obstant això, al nostre país les dades mostren el contrari, encara que podrien ser millors. El &lt;a href=&#34;https://www.cultura.gob.es/en/actualidad/2026/01/260122-barometro-lectura-2025.html&#34;&gt;Baròmetre d&#39;hàbits de lectura de l&#39;any 2025&lt;/a&gt;, del Ministeri de Cultura, indica que el nombre de lectors va en augment des de 2017. Un 65,5 % de la població llig en el seu temps lliure i, entre els joves, el percentatge arriba al 78 %. Més de la meitat de la població es considera lectora habitual, és a dir, llig almenys setmanalment. També augmenta la venda de llibres. Amb tot, el 34 % de la població declara que no llig mai o quasi mai.&lt;/p&gt;
+
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;https://federacioneditores.org/wp-content/uploads/2026/01/260122PRS-FGEE-Habitos-lectura-2025-Avance.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Solarpunk a gran escala</title>
@@ -6397,7 +6413,7 @@ Res elimina les distraccions com un programa senzill sense accés a Internet. Ro
       <guid>https://carlesbellver.net/2018/09/10/automation-has-totally.html</guid>
       <description>&lt;figure&gt;
 	&lt;blockquote&gt;
-		&lt;p&gt;L’automatització substitueix sovint el treball humà, però molt rarament en els darrers seixanta anys ha eliminat una professió completa. Només una de les dues-centes setanta professions detallades que s’enumeren al cens nord-americà de 1950 ha estat eliminada per l’automatització […]: operador d’ascensors.&lt;/p&gt;
+		&lt;p&gt;L’automatització substitueix sovint el treball humà, però molt rarament en els darrers seixanta anys ha eliminat una professió completa. Només una de les dues-centes setanta professions detallades que s’enumeren al cens nord-americà de 1950 ha estat eliminada per l’automatització […]: ascensorista.&lt;/p&gt;
 
 	&lt;/blockquote&gt;
 &lt;/figure&gt;
