@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TIL on La vista cansada</title>
+    <title>Til on La vista cansada</title>
     <link>https://carlesbellver.net/tags/til/</link>
-    <description>La vista cansada (TIL)</description>
+    <description>La vista cansada (Til)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 22:30:06 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 16:50:35 +0000</lastBuildDate>
     
     <atom:link href="https://carlesbellver.net/tags/til/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      
+      <link>https://carlesbellver.net/2026/08/06/73931/</link>
+      <pubDate>Thu, 06 Aug 2026 16:50:35 +0000</pubDate>
+      <guid>https://carlesbellver.net/2026/08/06/73931/</guid>
+      <description>&lt;p&gt;Del cas dels sis joves &lt;a href=&#34;https://en.wikipedia.org/wiki/Tongan_castaways&#34;&gt;nàufrags de Tonga&lt;/a&gt; que se sol adduir com a contraexemple —o refutació— &lt;a href=&#34;https://en.wikipedia.org/wiki/Lord_of_the_Flies&#34;&gt;d’&lt;em&gt;El senyor de les mosques&lt;/em&gt;&lt;/a&gt; de William Golding, el que més m’interessa és l’epíleg: després de passar quinze mesos en una illa deserta, els van arrestar per haver robat el vaixell en què van salpar a l’aventura, però el mariner que els havia rescatat va aconseguir diners per compensar el propietari i alliberar-los.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       
